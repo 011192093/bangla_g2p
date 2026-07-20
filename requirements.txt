@@ -1,0 +1,5 @@
+# Phase A (rule-based G2P) needs nothing beyond the standard library.
+# These are for Phase B (neural exception model) and testing — install when you get there.
+
+pytest>=8.0.0
+torch>=2.2.0
