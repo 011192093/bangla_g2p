@@ -643,6 +643,57 @@ def test_ho_silent_before_ri_kar():
     assert result == ["ri", "d", "o", "y"]
 
 
+# --- জ্ঞ geminates without a glide mid-word/word-final ---
+# বিজ্ঞান "biggan", not "biggyan" -- the geminated non-initial form of জ্ঞ
+# has no "y" (unlike শ্র/tsama-pattern conjuncts elsewhere that do carry
+# one). Word-initial জ্ঞ is unaffected (জ্ঞান "gyan", still has the glide).
+
+def test_gganno_geminates_without_glide_non_initial():
+    result = text_to_phonemes("বিজ্ঞান")
+    assert result == ["b", "i", "g", "g", "a", "n"]
+
+def test_gganno_keeps_glide_word_initial():
+    result = text_to_phonemes("জ্ঞান")
+    assert result == ["g", "y", "a", "n"]
+
+
+# --- দ্ব: ব is silent by default, but real (no glide) after উদ্ prefix ---
+# দ্বার "dar", not "dwar" -- দ্ব has no "w" glide in this notation; ব is
+# simply silent. The উদ্ prefix is the one context where ব is pronounced,
+# still without a glide (উদ্বেগ "udbeg").
+
+def test_dbo_ba_silent_by_default():
+    result = text_to_phonemes("দ্বার")
+    assert result == ["d", "a", "r"]
+
+def test_udbo_prefix_keeps_ba_no_glide():
+    result = text_to_phonemes("উদ্বেগ")
+    assert result == ["u", "d", "b", "e", "g"]
+
+
+# --- অনুস্বার (ং) closes the preceding inherent vowel ---
+# ং isn't its own cluster (it's a trailing diacritic on the consonant
+# before it), so a bare consonant right before it can look word-final
+# (এবং) or pre-vowel (অহংকার) to the normal schwa rules and get dropped
+# entirely -- but there's always a real nasalized vowel there, closed to
+# "O". Exception: a word-initial monosyllable (রং, ঢং) -- word-final
+# retained schwa is only ever closed for a genuine conjunct; a single
+# consonant only reaches word-final-and-kept via the word-initial rule,
+# and stays open ("rong", not "rOng").
+
+def test_anusvara_closes_word_final_inherent_vowel():
+    result = text_to_phonemes("এবং")
+    assert result == ["e", "b", "O", "ng"]
+
+def test_anusvara_closes_mid_word_inherent_vowel():
+    result = text_to_phonemes("অহংকার")
+    assert result == ["o", "h", "O", "ng", "k", "a", "r"]
+
+def test_anusvara_stays_open_word_initial_monosyllable():
+    result = text_to_phonemes("রং")
+    assert result == ["r", "o", "ng"]
+
+
 # --- গ্য stays single word-initial, geminates elsewhere ---
 # Same ক্য-style exception (override IS the geminated form) -- গ্য was
 # missing the word-initial carve-out, so গ্যাস "gas" came out "ggas".

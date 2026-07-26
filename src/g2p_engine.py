@@ -7,7 +7,7 @@ from typing import List
 from phoneme_inventory import (
     VOWELS, VOWEL_SIGNS, CONSONANTS, CONJUNCT_OVERRIDES,
     HASANTA, CHANDRABINDU, DIACRITIC_PHONEMES, classify_char,
-    YA_PHALA_INHERENT_A, SONORANT_CONSONANTS,
+    YA_PHALA_INHERENT_A, SONORANT_CONSONANTS, ANUSVARA,
 )
 
 KHANDA_TA = "\u09CE"
@@ -360,7 +360,7 @@ def cluster_to_phonemes(cluster: Cluster, clusters: List[Cluster], idx: int) -> 
         # "oikko", যোগ্যতা "joggota"), so word-initial is the exception,
         # staying single (ক্যাপ "kap", not "kkap"; গ্যাস "gas", not "ggas").
         if consonant_str == "জ্ঞ" and not _is_word_initial(clusters, idx):
-            phonemes.extend(["g", "g", "y"])
+            phonemes.extend(["g", "g"])
         elif consonant_str == "শ্ব" and not _is_word_initial(clusters, idx):
             phonemes.extend(["sh", "sh"])
         elif consonant_str == "জ্য" and not _is_word_initial(clusters, idx):
@@ -371,10 +371,29 @@ def cluster_to_phonemes(cluster: Cluster, clusters: List[Cluster], idx: int) -> 
             phonemes.extend(["b", "b"])
         elif consonant_str == "শ্য" and not _is_word_initial(clusters, idx):
             phonemes.extend(["sh", "sh"])
+        elif consonant_str == "ম্য" and not _is_word_initial(clusters, idx):
+            phonemes.extend(["m", "m"])
+        elif consonant_str == "ভ্য" and not _is_word_initial(clusters, idx):
+            phonemes.extend(["b", "bh"])
         elif consonant_str == "ক্য" and _is_word_initial(clusters, idx):
             phonemes.append("k")
         elif consonant_str == "গ্য" and _is_word_initial(clusters, idx):
             phonemes.append("g")
+        elif consonant_str == "ন্য" and _is_word_initial(clusters, idx):
+            phonemes.append("n")
+        elif consonant_str == "স্য" and _is_word_initial(clusters, idx):
+            phonemes.append("s")
+        elif consonant_str == "ট্য" and _is_word_initial(clusters, idx):
+            phonemes.append("T")
+        elif (consonant_str == "দ্ব" and prev_c is not None
+                and prev_c.standalone_vowel == "উ"):
+            # উদ্ prefix + ব: unlike দ্ব elsewhere, where ব is silent
+            # (দ্বিতীয় "ditiyo", not "dwitiyo" -- the plain "d" override
+            # above), the উদ্ prefix keeps ব as a real consonant, just
+            # without a glide (উদ্বেগ "udbeg", not "udwég" or "udeg").
+            # Matches the already-correct দ্ভ->"d bh" and দ্গ->"d g" pattern
+            # for this same prefix.
+            phonemes.extend(["d", "b"])
         else:
             phonemes.extend(override)
     elif consonant_str == "হ" and cluster.vowel_sign == "ৃ":
@@ -421,13 +440,26 @@ def cluster_to_phonemes(cluster: Cluster, clusters: List[Cluster], idx: int) -> 
         # so it falls through to the normal word-final-conjunct rule (closed
         # O) below instead of a forced "a".
         phonemes.append("A")
+    elif (cluster.vowel_sign is None and cluster.trailing_diacritic == ANUSVARA
+            and not _schwa_should_keep(clusters, idx)):
+        # Anusvara nasalizes and closes the preceding inherent vowel, even
+        # in positions that would otherwise drop it entirely. ং isn't its
+        # own cluster (it's a trailing diacritic on this one), so a bare
+        # consonant right before it can look word-final or pre-vowel to
+        # the normal rules above and get dropped -- but there's a real
+        # nasalized vowel here regardless of position (এবং "æbOng", not
+        # "æbng"; অহংকার "ohOngkar", not "ohngkar").
+        phonemes.append("O")
     elif _schwa_should_keep(clusters, idx):
-        if is_word_final(clusters, idx):
-            # Word-final retained schwa only happens for a conjunct (Rule 2
-            # always drops a lone word-final consonant's schwa) and is
-            # always the closed sound: রক্ত "rokto", বিশ্ব "bishsho", not
-            # the open "aw". There's no following syllable to check for
-            # harmony here, so this is checked ahead of that logic.
+        if is_word_final(clusters, idx) and len(cluster.consonants) > 1:
+            # Word-final retained schwa is always the closed sound for a
+            # conjunct: রক্ত "rokto", বিশ্ব "bishsho", not the open "aw".
+            # There's no following syllable to check for harmony here, so
+            # this is checked ahead of that logic. A single consonant only
+            # reaches this branch (schwa kept AND word-final) via the
+            # word-initial rule on a monosyllable -- রং, ঢং -- which stays
+            # open ("rong", not "rOng"), so it falls through to the
+            # harmony check below like any other bare consonant instead.
             phonemes.append("O")
         elif (len(cluster.consonants) == 1
                 and (_next_syllable_triggers_harmony(clusters, idx)
@@ -470,7 +502,7 @@ if __name__ == "__main__":
         ("কম",        ["k","o","m"]),
         ("বাংলা",     ["b","a","ng","l","a"]),
         ("জ্ঞান",     ["g","y","a","n"]),
-        ("বিজ্ঞান",   ["b","i","g","g","y","a","n"]),
+        ("বিজ্ঞান",   ["b","i","g","g","a","n"]),
         ("সময়",      ["sh","o","m","o","y"]),
         ("বিষয়",     ["b","i","sh","o","y"]),
         ("হয়",       ["h","o","y"]),

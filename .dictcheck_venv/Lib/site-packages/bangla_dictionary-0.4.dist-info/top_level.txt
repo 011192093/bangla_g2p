@@ -1,0 +1,5 @@
+bangla_dictionary
+data
+scripts
+tests
+word_details

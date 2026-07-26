@@ -37,8 +37,8 @@ CONJUNCT_OVERRIDES = {
     "ম্প": ["mp"],
     "ম্ব": ["mb"],
     "ঙ্গ": ["ngg"],
-    "ত্ব": ["tw"],
-    "দ্ব": ["dw"],
+    "ত্ব": ["tt"],
+    "দ্ব": ["d"],  # ব silent, no glide (দ্বিতীয় "ditiyo", not "dwitiyo")
     "ন্ধ": ["ndh"],
     "স্ব": ["sh"],
     "শ্ব": ["sh"],
@@ -191,6 +191,31 @@ CONJUNCT_OVERRIDES = {
     "ণ্য": ["n", "n"],  # পণ্য -- ণ merges with ন, same geminate as ন্য
     "ন্ন্য": ["n", "n"],  # সন্ন্যাসী -- glide silent, same as ন্য/ণ্য
     "স্ট্য": ["s", "T"],  # স্ট্যাম্প -- glide silent, matches স্ট্যান্ড
+    "খ্র": ["kh", "r"],     # খ্রিস্টধর্মের -- loanword (Christ)
+    "র্দ": ["r", "d"],      # দুর্দান্তভাবে -- native/tatsama
+    "র্গ": ["r", "g"],      # বিসর্গ -- tatsama
+    "র্চ": ["r", "ch"],     # সার্চের -- loanword ("search")
+    "থ্র": ["th", "r"],
+    "স্ট্র": ["s", "T", "r"], # ইলাস্ট্রেশনের, স্ট্রেঞ্জার (loanwords, matches existing স্ত্র pattern)
+    "ন্ধ্র": ["n", "dh", "r"], # অন্ধ্রপ্রদেশ -- proper noun (Andhra Pradesh)
+    "ল্ল": ["l", "l"],      # আবদুল্লাহপুর, খলিলুল্লাহ, আনসারুল্লাহ -- Arabic names/proper nouns
+    "ষ্ট্র": ["sh", "T", "r"],
+    "ড্র": ["D", "r"],      # ড্রেসিংরুম (loanword "dress")
+    "ন্স": ["n", "s"],     # রোমান্সের, ফ্রিল্যান্সাররা, কনফারেন্সের (loanwords, -nce)
+    "প্ল": ["p", "l"],      # মাল্টিপ্লেক্স, প্লান্টস, প্লাটফরমে (loanwords, "pl")
+    "ক্স": ["k", "s"],      # মাল্টিপ্লেক্স, ফনিক্স, মিনোক্সিডিল (loanwords, "x")
+    "ন্থ": ["n", "th"],     # ইসলামপন্থীরা -- verify: native/tatsama, not loanword
+    "দ্ঘ": ["d", "gh"],
+
+    "জ্জ্ব": ["j", "j"],    # উজ্জ্বল -- trailing ব silent, matches জ্ব
+    "র্দ্র": ["d", "r"],    # আর্দ্রতা, আর্দ্রতামাপক -- redundant reph র silent
+    "র্ব্য": ["r", "b"],    # পুনর্ব্যবহার -- trailing য silent
+    "র্জ্য": ["r", "j"],    # বর্জ্য -- trailing য silent, no gemination
+    "শ্ম": ["sh"],          # শ্মশান -- ম silent, matches স্ম-family (বিস্ময়, স্মরণ)
+    "ত্র্য": ["t", "r"],    # জীববৈচিত্র্য -- trailing য silent
+    "র্ম্ম": ["r", "m"],    # কর্ম্ম -- archaic spelling of কর্ম, same pronunciation
+    "ম্য": ["m"],           # সম্যক-family -- single word-initial, geminates mid-word (see g2p_engine.py)
+    "ভ্য": ["bh"],          # ভ্যান-family -- single word-initial, geminates mid-word (see g2p_engine.py)
 }
 
 # ব্য/শ্য-family clusters (ya-phala): the "য" is never pronounced as "j",

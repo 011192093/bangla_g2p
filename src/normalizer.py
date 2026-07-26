@@ -134,7 +134,7 @@ def number_to_bangla_words(n: int) -> str:
             return h_word
         return h_word + " " + number_to_bangla_words(remainder)
 
-    if n < 10000:
+    if n < 100000:
         thousands = n // 1000
         remainder = n % 1000
         t_word = ONES.get(str(thousands), str(thousands)) + " হাজার"
@@ -142,8 +142,25 @@ def number_to_bangla_words(n: int) -> str:
             return t_word
         return t_word + " " + number_to_bangla_words(remainder)
 
-    # Fallback for very large numbers: return as-is (improve later)
-    return str(n)
+    # Above 9999, Bangla groups digits in pairs (X,XX,XXX -- হাজার, then
+    # লক্ষ, কোটি, আরব each two digits wider), not the Western thousands/
+    # millions/billions grouping -- ১০০,০০০ is "এক লক্ষ" (1 lakh), not
+    # "hundred thousand". Each tier's leading multiplier recurses back into
+    # this function (not a flat ONES lookup) so multi-word multipliers work
+    # too, e.g. ১২৫,০০,০০০ -> "একশো পঁচিশ লক্ষ" (125 lakh).
+    for value, label in ((10**9, "আরব"), (10**7, "কোটি"), (10**5, "লক্ষ")):
+        if n >= value:
+            count = n // value
+            remainder = n % value
+            word = number_to_bangla_words(count) + " " + label
+            if remainder == 0:
+                return word
+            return word + " " + number_to_bangla_words(remainder)
+
+    # Fallback for numbers large enough that even আরব-grouping isn't
+    # attempted (>= 1 kharab, 10^11) -- vanishingly rare in real text, read
+    # digit by digit rather than left unconverted.
+    return " ".join(ONES[d] for d in str(n))
 
 
 def normalize_numbers(text: str) -> str:

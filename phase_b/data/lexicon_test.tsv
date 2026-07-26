@@ -1,0 +1,112 @@
+# Synthetic test lexicon — mimics your real format
+# word<TAB>phonemes<TAB>register
+আমি	a m i	native
+তুমি	t u m i	native
+সে	sh e	native
+আমরা	a m r a	native
+তোমরা	t o m r a	native
+তারা	t a r a	native
+ভালো	bh a l O	native
+খারাপ	kh a r a p	native
+বাংলাদেশ	b a ng l a d e sh	native
+ঢাকা	Dh a k a	native
+মানুষ	m a n u sh	native
+পানি	p a n i	native
+সময়	sh o m o y	tatsama
+সুন্দর	sh u nd O r	tatsama
+সকাল	sh o k a l	tatsama
+সন্তান	sh o nt a n	tatsama
+সমাজ	sh o m a j	tatsama
+সবাই	sh o b a i	native
+সাইকেল	s a i k e l	loanword
+সিনেমা	s i n e m a	loanword
+সালাম	s a l a m	loanword
+সাহেব	sh a h e b	loanword_nativized
+সিলেট	s i l e T	loanword
+সেলিম	s e l i m	loanword
+বিজ্ঞান	b i g g y a n	tatsama
+ক্ষমা	kkh o m a	tatsama
+জ্ঞান	g y a n	tatsama
+রক্ত	r o kt O	tatsama
+তথ্য	t o t th O	tatsama
+শক্তি	sh o kt i	tatsama
+করছি	k o r chh i	native
+বাংলা	b a ng l a	native
+আমার	a m a r	native
+নাম	n a m	native
+কম	k o m	native
+ভাত	bh a t	native
+মাথা	m a th a	native
+চোখ	ch o kh	native
+কান	k a n	native
+নাক	n a k	native
+মুখ	m u kh	native
+হাত	h a t	native
+পা	p a	native
+বুক	b u k	native
+পেট	p e T	native
+গলা	g o l a	native
+মা	m a	native
+বাবা	b a b a	native
+ভাই	bh a i	native
+বোন	b o n	native
+ছেলে	chh e l e	native
+মেয়ে	m e y e	native
+মন্দির	m O nd i r	tatsama
+পরিবহন	p O r i b o h O n	tatsama
+অভিনয়	O bh i n o y	tatsama
+মণি	m O n i	tatsama
+রক্তিম	r O kt i m	tatsama
+হলুদ	h O l u d	native
+কঠিন	k O Th i n	tatsama
+কেন	k ae n O	native
+তেল	t e l	native
+কেমন	k ae m o n	native
+মেলা	m ae l a	native
+খেলা	kh ae l a	native
+দেখা	d ae kh a	native
+গরম	g o r O m	native
+নরম	n o r O m	native
+কলম	k o l O m	loanword
+ছাগল	chh a g O l	native
+লবণ	l o b O n	tatsama
+জীবন	j i b o n	tatsama
+বিকেল	b i k e l	native
+কলেজ	k o l e j	loanword
+পরে	p o r e	native
+ফলে	ph o l e	native
+রংপুর	r o ng p u r	compound
+সংবিধান	sh o ng b i dh a n	tatsama
+বিমানবন্দর	b i m a n b o nd O r	compound
+পদত্যাগ	p O d O tt a g	tatsama
+প্রকল্প	pr O k O lp O	tatsama
+স্মৃতি	s ri t i	tatsama
+স্মরণ	sh o r O n	tatsama
+বিস্ময়	b i sh sh o y	tatsama
+স্পষ্ট	s p o shT o	tatsama
+স্বাধীন	sh a dh i n	tatsama
+স্তর	s t o r	tatsama
+স্রোত	sh r O t	tatsama
+স্নান	s n a n	tatsama
+চট্টগ্রাম	ch o T T o g r a m	compound
+নববর্ষ	n o b o b o r sh O	compound
+বড়দিন	b o r o d i n	compound
+মসলিন	m O s l i n	loanword
+ক্যান্সার	k ya n s a r	loanword
+এক্সপোজার	e k s p O s a r	loanword
+বাদাম	b a d a m	tatsama
+কাজল	k a j O l	tatsama
+সাগর	sh a g O r	tatsama
+আদর	a d O r	tatsama
+আসল	a sh O l	tatsama
+নগর	n o g O r	tatsama
+কবর	k o b O r	loanword
+চাকর	ch a k O r	loanword
+ডাকঘর	D a k gh O r	compound
+সুবিধা	sh u b i dh a	tatsama
+অসুবিধা	o sh u b i dh a	tatsama
+অতি	O t i	tatsama
+অতীত	O t i t	tatsama
+অনুরোধ	O n u r o dh	tatsama
+অনুভব	O n u bh o b	tatsama
+অসুর	O sh u r	tatsama

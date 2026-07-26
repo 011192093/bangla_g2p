@@ -53,6 +53,32 @@ def test_twenty_three_is_irregular():
     # numbers 21-99 are each their own irregular word, not compositional
     assert normalize_numbers("23") == "তেইশ"
 
+
+# ── Large numbers: লক্ষ (lakh) / কোটি (crore) / আরব (arab) ────────────────────
+# Bangla groups digits in pairs above the thousands place (১০০,০০০ is
+# "1,00,000", not "100,000"), not the Western thousands/millions grouping.
+
+def test_one_lakh():
+    assert normalize_numbers("100000") == "এক লক্ষ"
+
+def test_lakh_with_thousands_remainder():
+    assert normalize_numbers("125000") == "এক লক্ষ পঁচিশ হাজার"
+
+def test_one_crore():
+    assert normalize_numbers("10000000") == "এক কোটি"
+
+def test_crore_with_lakh_remainder():
+    assert normalize_numbers("15000000") == "এক কোটি পঞ্চাশ লক্ষ"
+
+def test_one_arab():
+    # আরব (10^9 = 100 crore) -- rare in everyday text, but the grouping
+    # pattern should keep extending rather than falling back to raw digits
+    assert normalize_numbers("1000000000") == "এক আরব"
+
+def test_full_magnitude_composition():
+    # 12,34,567 -> 12 lakh, 34 thousand, 567 -- every tier composing together
+    assert normalize_numbers("1234567") == "বারো লক্ষ চৌত্রিশ হাজার পাঁচশো সাতষট্টি"
+
 def test_sixty_seven_is_irregular():
     assert normalize_numbers("67") == "সাতষট্টি"
 
