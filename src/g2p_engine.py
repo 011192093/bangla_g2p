@@ -402,6 +402,14 @@ def cluster_to_phonemes(cluster: Cluster, clusters: List[Cluster], idx: int) -> 
         # not in CONJUNCT_OVERRIDES; confirmed against the existing
         # হৃদরোগ/হৃদরোগ বিশেষজ্ঞ lexicon entries, both already হ-less.
         pass
+    elif consonant_str == "স" and cluster.vowel_sign == "ৃ":
+        # স + ঋ-kar is the same native Sanskrit-pattern artifact as শ্র/স্র/
+        # স্থ্য (see convert_lexicon.py) -- স realizes as "s", not the usual
+        # "sh" default (সৃষ্টি "srishTi", সৃজিত "srijito", not "shrishTi").
+        # Single-consonant + vowel-sign pairing, not a conjunct, so this
+        # isn't in CONJUNCT_OVERRIDES; confirmed against the existing
+        # সৃষ্টি/সৃজিত lexicon entries, both already hand-overridden to "s".
+        phonemes.append("s")
     else:
         consonants_to_render = cluster.consonants
         if (cluster.vowel_sign == "া" and len(cluster.consonants) > 1
