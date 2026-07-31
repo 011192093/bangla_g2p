@@ -47,7 +47,16 @@ Two tiers:
 
   Chandrobindu (always applied with --fix):
     word has ঁ but no phoneme token carries "~" -- filled in from the
-    engine's nasal placement when it's unambiguous.
+    engine's nasal placement when it's unambiguous. Alignment is
+    consonant-anchored (find_nasal_fixes), not a raw len(toks)==len(eng)
+    check -- an earlier version required exact token-count equality and
+    exactly one nasal in the engine's output, which silently skipped any
+    word with a legitimate extra token on either side (a retained schwa
+    in the lexicon, e.g. পাঁচশত with its trailing O) or more than one
+    nasal (e.g. আঁকিবুঁকি, which needs two). That version missed 15 words
+    lexicon-wide before this was caught by chance on পাঁচশত and swept for.
+    Runs after conjunct-regroup so the two consonant skeletons are
+    already aligned by the time nasal positions are matched.
 
   Tag check (always applied with --fix):
     native-tagged words containing ণ/ষ/ৃ/ঞ/ঃ or one of the tatsama
@@ -147,6 +156,53 @@ def try_regroup(toks, eng):
     return new_toks, True
 
 
+def find_nasal_fixes(toks, eng):
+    """
+    Locate which vowel tokens in `toks` need a "~" appended so their
+    nasalization matches the engine's, WITHOUT requiring toks and eng to
+    be the same length -- a legitimate extra token on either side (a
+    retained schwa in toks, or an extra vowel the engine inserts) is
+    common and must not block the check the way an exact len() match
+    used to.
+
+    Anchors on consonants: walks both token lists in parallel, and only
+    trusts a vowel-to-vowel comparison when both pointers are sitting on
+    a vowel at the same point in the shared consonant skeleton. A vowel
+    present on only one side is skipped on that side alone, so the
+    pointers stay aligned on the next shared consonant. Returns None
+    (unsafe, don't touch) if the consonant skeletons don't match at all
+    -- that's a genuine conjunct-grouping or consonant-content
+    difference, out of scope for this check (falls through to Tier-3
+    reporting instead).
+    """
+    lex_cons = [t for t in toks if not is_vowel(t)]
+    eng_cons = [t for t in eng if not is_vowel(t)]
+    if lex_cons != eng_cons:
+        return None
+
+    to_nasalize = set()
+    i, j = 0, 0
+    while i < len(toks) and j < len(eng):
+        ti, ei = toks[i], eng[j]
+        ti_v, ei_v = is_vowel(ti), is_vowel(ei)
+        if not ti_v and not ei_v:
+            if ti != ei:
+                return None  # shouldn't happen given lex_cons == eng_cons, but stay safe
+            i += 1
+            j += 1
+        elif ti_v and ei_v:
+            if ei == ti + "~":
+                to_nasalize.add(i)
+            i += 1
+            j += 1
+        elif ti_v and not ei_v:
+            i += 1  # lex has an extra vowel (e.g. retained schwa); skip it, keep as-is
+        else:
+            j += 1  # engine has an extra vowel lex doesn't; skip it
+
+    return to_nasalize
+
+
 def lint_word(word, phon, tag):
     """Returns (new_phon, new_tag, fixes_applied:list[str], flags:list[str])."""
     toks = phon.split()
@@ -157,34 +213,31 @@ def lint_word(word, phon, tag):
         tag = "tatsama"
         fixes.append("tag:native->tatsama")
 
-    if CHANDRABINDU in word and not any(t.endswith("~") for t in toks):
-        try:
-            eng = G.text_to_phonemes(normalize(word))
-        except Exception:
-            eng = None
-        if eng is not None:
-            nasal_positions = [i for i, t in enumerate(eng) if t.endswith("~")]
-            if len(nasal_positions) == 1 and len(toks) == len(eng):
-                idx = nasal_positions[0]
-                if eng[idx] == toks[idx] + "~":
-                    toks[idx] = eng[idx]
-                    fixes.append("chandrobindu")
-
+    eng = None
     if "|" not in phon:
         try:
             eng = G.text_to_phonemes(normalize(word))
         except Exception:
             eng = None
-        if eng is not None and eng != toks:
-            new_toks, ok = try_regroup(toks, eng)
-            if ok:
-                toks = new_toks
-                fixes.append("conjunct-regroup")
-            else:
-                lex_cons = [t for t in toks if not is_vowel(t)]
-                eng_cons = [t for t in eng if not is_vowel(t)]
-                kind = "consonant-diff" if "".join(lex_cons) != "".join(eng_cons) else "vowel-only-diff"
-                flags.append(f"{kind}: lex={toks} eng={eng}")
+
+    if eng is not None and eng != toks:
+        new_toks, ok = try_regroup(toks, eng)
+        if ok:
+            toks = new_toks
+            fixes.append("conjunct-regroup")
+
+    if CHANDRABINDU in word and not any(t.endswith("~") for t in toks) and eng is not None:
+        nasal_fixes = find_nasal_fixes(toks, eng)
+        if nasal_fixes:
+            for idx in nasal_fixes:
+                toks[idx] = toks[idx] + "~"
+            fixes.append("chandrobindu")
+
+    if eng is not None and eng != toks:
+        lex_cons = [t for t in toks if not is_vowel(t)]
+        eng_cons = [t for t in eng if not is_vowel(t)]
+        kind = "consonant-diff" if "".join(lex_cons) != "".join(eng_cons) else "vowel-only-diff"
+        flags.append(f"{kind}: lex={toks} eng={eng}")
 
     return " ".join(toks), tag, fixes, flags
 
