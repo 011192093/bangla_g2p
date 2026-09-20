@@ -132,6 +132,30 @@ def _next_syllable_triggers_harmony(clusters: List[Cluster], idx: int) -> bool:
     return False
 
 
+HIGH_VOWEL_SIGNS_NO_EKAR = {"ি", "ী", "ু", "ূ"}
+HIGH_STANDALONE_VOWELS_NO_E = {"ই", "ঈ", "উ", "ঊ"}
+
+
+def _standalone_o_is_open(clusters: List[Cluster], idx: int) -> bool:
+    # Word-initial standalone অ ("o", open) raises to closed "O" when the
+    # *next* syllable carries a high vowel -- ি/ী/ু/ূ as a sign, or
+    # ই/ঈ/উ/ঊ standalone (অজু "Oju", অংগুলি "OngguIi"). Unlike the bare
+    # consonant harmony above, এ/ে does NOT trigger this here (অংগে stays
+    # "ongge", not "Ongge") -- validated against the project's confirmed
+    # অ-section corrections, 17/17, only after dropping এ/ে from the
+    # trigger set used for bare consonants. Only word-initial অ is
+    # covered; a non-initial standalone অ (rare) keeps the plain "o".
+    if not _is_word_initial(clusters, idx):
+        return False
+    next_j = _next_real_cluster_idx(clusters, idx)
+    if next_j is None:
+        return False  # nothing follows -> open
+    next_c = clusters[next_j]
+    if next_c.standalone_vowel is not None:
+        return next_c.standalone_vowel in HIGH_STANDALONE_VOWELS_NO_E
+    return next_c.vowel_sign in HIGH_VOWEL_SIGNS_NO_EKAR
+
+
 PENULTIMATE_HARMONY_SONORANTS = {"ম", "ন", "ণ", "ল", "র", "ড়"}
 
 
@@ -159,6 +183,13 @@ def _penultimate_sonorant_triggers(clusters: List[Cluster], idx: int) -> bool:
     # Contrast সুন্দর, where the raising consonant is a conjunct (ন্দ)
     # rather than bare -- that stays a lexicon-only exception, same as
     # this rule's conjunct-exempt sibling above.
+    #
+    # A conjunct preceding syllable was tried as a general trigger too
+    # (গ্রহণ, দ্রবণ, প্রথম, ভ্রমণ, শ্রবণ all want it) but শ্বসন is a
+    # confirmed counterexample with the identical structure that does
+    # NOT raise, and it doesn't reduce to any feature found so far (not
+    # conjunct-final-consonant, not the vowel sign) -- so this stays
+    # lexicon-only on the conjunct side rather than a general rule.
     if _word_syllable_count(clusters, idx) < 3:
         return False
     next_j = _next_real_cluster_idx(clusters, idx)
@@ -321,6 +352,8 @@ def cluster_to_phonemes(cluster: Cluster, clusters: List[Cluster], idx: int) -> 
             # "oJalbam")
             return []
         ph = VOWELS[cluster.standalone_vowel]
+        if cluster.standalone_vowel == "অ" and _standalone_o_is_open(clusters, idx):
+            ph = "O"
         phonemes.append(ph)
         if cluster.nasalized:
             phonemes[-1] = phonemes[-1] + "~"
