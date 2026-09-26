@@ -1,0 +1,317 @@
+line	word	old_phonemes	new_phonemes	tag
+19	এমসি	e m sh i	e m s i	native
+41	এম্বেসি	e mb e sh i	e mb e s i	native
+76	এল.এম.এস.	e l e m e sh	e l e m e s	native
+98	এলসবার্গ	e l o sh b a r g	e l o s b a r g	native
+99	এলসি	e l sh i	e l s i	native
+100	এলসির	e l sh i r	e l s i r	native
+165	এলিমেন্টস	e l i m e n T o sh	e l i m e n T o s	native
+167	এলিসন	e l i sh o n	e l i s o n	native
+168	এলিসি	e l i sh i	e l i s i	native
+169	এলিসের	e l i sh e r	e l i s e r	native
+173	এলিয়াস	e l i y a sh	e l i y a s	native
+209	এসই	e sh i	e s i	native
+210	এসএ	e sh e	e s e	native
+211	এসএন	e sh e n	e s e n	native
+212	এসএম	e sh e m	e s e m	native
+213	এসএস	e sh e sh	e s e s	native
+214	এসও	e sh O	e s O	native
+217	এসকাপ	e sh k a p	e s k a p	native
+218	এসকাপের	e sh k a p e r	e s k a p e r	native
+219	এসকাবেটর	e sh k a b e T o r	e s k a b e T o r	native
+220	এসকে	e sh k e	e s k e	native
+222	এসকোবার	e sh k O b a r	e s k O b a r	native
+223	এসকোয়্যার	e sh k O y A r	e s k O y A r	native
+225	এসজি	e sh j i	e s j i	native
+226	এসজে	e sh j e	e s j e	native
+227	এসটু	e sh T u	e s T u	native
+228	এসতিবালিস	e sh t i b a l i sh	e s t i b a l i s	native
+229	এসতেখারা	e sh t e kh a r a	e s t e kh a r a	native
+230	এসপানা	e sh p a n a	e s p a n a	native
+231	এসপানিওলকে	e sh p a n i O l k e	e s p a n i O l k e	native
+232	এসপানিওলের	e sh p a n i O l e r	e s p a n i O l e r	native
+233	এসপি	e sh p i	e s p i	native
+234	এসপির	e sh p i r	e s p i r	native
+235	এসপিসহ	e sh p i sh o h O	e s p i sh o h O	proper_noun
+236	এসপ্যানিওলের	e sh p A n i O l e r	e s p A n i O l e r	native
+237	এসপ্রেসো	e sh pr e sh O	e s pr e s O	native
+238	এসফল্ট	e sh ph o l T	e s ph o l T	native
+242	এসবি	e sh b i	e s b i	native
+243	এসবির	e sh b i r	e s b i r	native
+252	এসলাম	e sh l a m	e s l a m	native
+253	এসসি	e sh sh i	e s s i	native
+254	এসার	e sh a r	e s a r	native
+255	এসারের	e sh a r e r	e s a r e r	native
+256	এসি	e sh i	e s i	native
+257	এসিআই	e sh i a i	e s i a i	native
+258	এসিআইয়ের	e sh i a i y e r	e s i a i y e r	native
+259	এসিআর	e sh i a r	e s i a r	native
+260	এসিএম	e sh i e m	e s i e m	native
+261	এসিএস	e sh i e sh	e s i e s	native
+262	এসিও	e sh i O	e s i O	native
+263	এসিডদগ্ধ	e sh i D d o g dh	e s i D d o g dh	native
+264	এসিডদগ্ধদের	e sh i D d o g dh d e r	e s i D d o g dh d e r	native
+265	এসিডি	e sh i D i	e s i D i	native
+266	এসিডিক	e sh i D i k	e s i D i k	native
+268	এসিতে	e sh i t e	e s i t e	native
+269	এসিপিইউপিবির	e sh i p i i u p i b i r	e s i p i i u p i b i r	native
+270	এসিপিইউবি	e sh i p i i u b i	e s i p i i u b i	native
+271	এসিপিইউবির	e sh i p i i u b i r	e s i p i i u b i r	native
+272	এসিভি	e sh i bh i	e s i bh i	native
+273	এসির	e sh i r	e s i r	native
+274	এসিল্যান্ড	e sh i l A n D	e s i l A n D	native
+275	এসিস	e sh i sh	e s i s	native
+276	এসিসি	e sh i sh i	e s i s i	native
+277	এসিসিএ	e sh i sh i e	e s i s i e	native
+278	এসিসিএর	e sh i sh i e r	e s i s i e r	native
+279	এসিসির	e sh i sh i r	e s i s i r	native
+280	এসিয়েন	e sh i y e n	e s i y e n	native
+281	এসিয়েনকে	e sh i y e n k e	e s i y e n k e	native
+298	এসোচেম	e sh O ch e m	e s O ch e m	native
+300	এস্তুদিয়ান্তেস	e st o d i y a nt e sh	e st o d i y a nt e s	compound
+301	এস্তুদিয়ান্তেসের	e st o d i y a nt e sh e r	e st o d i y a nt e s e r	compound
+383	এয়ারলাইনস	e a r l a i n sh	e a r l a i n s	native
+384	এয়ারলাইনসকে	e y a r l a i n o sh k e	e y a r l a i n o s k e	native
+385	এয়ারলাইনসগুলো	e y a r l a i n o sh g u l O	e y a r l a i n o s g u l O	compound
+386	এয়ারলাইনসগুলোর	e y a r l a i n o sh g u l O r	e y a r l a i n o s g u l O r	compound
+387	এয়ারলাইনসে	e y a r l a i n o sh e	e y a r l a i n o s e	native
+388	এয়ারলাইনসের	e y a r l a i n o sh e r	e y a r l a i n o s e r	native
+394	ওংকার	O sh k a r	O ng k a r	native
+503	ওইস্লামিক	O i sh l a m i k	O i s l a m i k	native
+595	ওএমএসসহ	O e m e sh sh o h O	O e m e s sh o h O	proper_noun
+600	ওএস	O e sh	O e s	native
+605	ওএসের	O e sh e r	O e s e r	native
+609	ওকস	O k sh	O k s	native
+695	ওটস	O T sh	O T s	native
+841	ওবামাস	O b a m a sh	O b a m a s	native
+860	ওবেসিটি	O b e sh i T i	O b e s i T i	native
+875	ওভারপাস	O bh a r p a sh	O bh a r p a s	native
+876	ওভারপাসের	O bh a r p a sh e r	O bh a r p a s e r	native
+882	ওভারসাইট	O bh a r sh a i T	O bh a r s a i T	native
+883	ওভারসিজ	O bh a r sh i j	O bh a r s i j	native
+884	ওভারসিজের	O bh a r sh i j e r	O bh a r s i j e r	native
+885	ওভারসিস	O bh a r sh i sh	O bh a r s i s	native
+922	ওমেনস	O m e n sh	O m e n s	native
+936	ওরস্যালাইনসহ	O r sh A l a i n sh h	O r s A l a i n sh o h O	native
+947	ওরাসকম	O r a sh k o m	O r a s k o m	native
+948	ওরাসকমের	O r a sh k o m e r	O r a s k o m e r	native
+974	ওলসেংকি	O l sh e ng k i	O l s e ng k i	native
+975	ওলসেন	O l sh e n	O l s e n	native
+1062	ওসাকার	O sh a k a r	O s a k a r	native
+1063	ওসাকায়	O sh a k a y	O s a k a y	native
+1064	ওসান	O sh a n	O s a n	native
+1068	ওসামু	O sh a m u	O s a m u	native
+1071	ওসাসুনা	O sh a sh u n a	O s a s u n a	native
+1072	ওসাসুনাকে	O sh a sh u n a k e	O s a s u n a k e	native
+1073	ওসাসুনার	O sh a sh u n a r	O s a s u n a r	native
+1074	ওসি	O sh i	O s i	native
+1080	ওসিদের	O sh i d e r	O s i d e r	native
+1081	ওসির	O sh i r	O s i r	native
+1083	ওসিসহ	O sh i sh o h O	O s i sh o h O	proper_noun
+1086	ওসোরিও	O sh O r i O	O s O r i O	native
+1114	ওৎসুচি	O t sh u ch i	O t s u ch i	native
+1154	ওয়াইএমসিএ	O y a i e m sh i e	O y a i e m s i e	native
+1155	ওয়াইএমসিএর	O y a i e m sh i e r	O y a i e m s i e r	native
+1169	ওয়াইপস	O y a i p sh	O y a i p s	native
+1179	ওয়াইস	O y a i sh	O y a i s	native
+1180	ওয়াইসি	O y a i sh i	O y a i s i	native
+1192	ওয়াকস	O y a k sh	O y a k s	native
+1235	ওয়াটসন	O y a T sh o n	O y a T s o n	native
+1236	ওয়াটসনও	O y a T sh o n O	O y a T s o n O	native
+1237	ওয়াটসনকে	O y a T sh o n k e	O y a T s o n k e	native
+1238	ওয়াটসনরা	O y a T sh o n r a	O y a T s o n r a	native
+1239	ওয়াটসনের	O y a T sh o n o r a	O y a T s o n e r	native
+1246	ওয়াটারস	O y a T a r sh	O y a T a r s	native
+1249	ওয়াটার্স	O y a T a r sh	O y a T a r s	native
+1287	ওয়ানস্টপ	O y a n sh T o p	O y a n s T o p	loanword
+1293	ওয়ান্টস	O y a n T sh	O y a n T s	native
+1300	ওয়ান্ডারার্সের	O y a n D a r a r sh e r	O y a n D a r a r s e r	compound
+1301	ওয়ান্ডার্স	O y a n D a r sh	O y a n D a r s	native
+1305	ওয়াপস	O y a p O sh	O y a p O s	native
+1306	ওয়াপসাইট	O y a p sh a i T	O y a p s a i T	native
+1322	ওয়ারলেস	O y a r l e sh	O y a r l e s	native
+1323	ওয়ারলেসের	O y a r l e sh e r	O y a r l e s e r	native
+1324	ওয়ারল্যাস	O y a r l A sh	O y a r l A s	native
+1325	ওয়ারস	O y a r sh	O y a r s	native
+1326	ওয়ারসি	O y a r sh i	O y a r s i	native
+1340	ওয়ারিয়র্স	O y a r i y o r sh	O y a r i y o r s	native
+1341	ওয়ারিয়র্সকে	O y a r i y o r sh k e	O y a r i y o r s k e	native
+1342	ওয়ারিয়র্সে	O y a r i y o r sh e	O y a r i y o r s e	native
+1343	ওয়ারিয়র্সের	O y a r i y o r sh e r	O y a r i y o r s e r	native
+1361	ওয়ার্কস	O a r k sh	O a r k s	native
+1362	ওয়ার্কসের	O y a r k sh e r	O y a r k s e r	native
+1364	ওয়ার্কার্স	O a r k a r sh	O a r k a r s	native
+1370	ওয়ার্ডপ্রেস	O y a r D pr e sh	O y a r D pr e s	native
+1374	ওয়ার্ডস	O y a r D sh	O y a r D s	native
+1377	ওয়ার্ডসের	O y a r D sh e r	O y a r D s e r	native
+1400	ওয়ার্ল্ডস	O y a r l D sh	O y a r l D s	native
+1404	ওয়ার্স	O y a r sh	O y a r s	native
+1405	ওয়ার্সা	O y a r sh a	O y a r s a	native
+1420	ওয়ালস	O y a l sh	O y a l s	native
+1446	ওয়ালেস	O y a l e sh	O y a l e s	native
+1447	ওয়ালেসকে	O y a l e sh k e	O y a l e s k e	native
+1448	ওয়ালেসের	O y a l e sh e r	O y a l e s e r	native
+1453	ওয়াল্টার্স	O y a l T a r sh	O y a l T a r s	native
+1475	ওয়াসা	O y a sh a	O y a s a	native
+1476	ওয়াসাকে	O y a sh a k e	O y a s a k e	native
+1477	ওয়াসার	O y a sh a r	O y a s a r	native
+1478	ওয়াসাসহ	O y a sh a sh o h O	O y a s a sh o h O	native
+1479	ওয়াসায়	O y a sh a y	O y a s a y	native
+1542	ওয়েটল্যান্ডস	O y e T l A n D sh	O y e T l A n D s	native
+1549	ওয়েডস	O y e D sh	O y e D s	native
+1570	ওয়েবসাইটই	O y e b sh a i T i	O y e b s a i T i	native
+1571	ওয়েবসাইটও	O y e b sh a i T O	O y e b s a i T O	native
+1572	ওয়েবসাইটকে	O y e b sh a i T k e	O y e b s a i T k e	native
+1573	ওয়েবসাইটগুলো	O y e b sh a i T g u l O	O y e b s a i T g u l O	native
+1574	ওয়েবসাইটগুলোতে	O y e b sh a i T g u l O t e	O y e b s a i T g u l O t e	compound
+1575	ওয়েবসাইটগুলোতেও	O y e b sh a i T g u l O t e O	O y e b s a i T g u l O t e O	compound
+1576	ওয়েবসাইটগুলোর	O y e b sh a i T g u l O r	O y e b s a i T g u l O r	compound
+1577	ওয়েবসাইটটি	O y e b sh a i T T i	O y e b s a i T T i	native
+1578	ওয়েবসাইটটিতে	O y e b sh a i T T i t e	O y e b s a i T T i t e	native
+1579	ওয়েবসাইটটির	O y e b sh a i T T i r	O y e b s a i T T i r	native
+1580	ওয়েবসাইটসহ	O y e b sh a i T sh o h O	O y e b s a i T sh o h O	native
+1581	ওয়েবসাইটির	O y e b sh a i T i r	O y e b s a i T i r	native
+1582	ওয়েবসাইটে	O y e b sh a i T e	O y e b s a i T e	native
+1583	ওয়েবসাইটেই	O y e b sh a i T e i	O y e b s a i T e i	native
+1584	ওয়েবসাইটেও	O y e b sh a i T e O	O y e b s a i T e O	native
+1585	ওয়েবসাইটের	O y e b sh a i T e r	O y e b s a i T e r	native
+1586	ওয়েবসাইটেরও	O y e b sh a i T e r O	O y e b s a i T e r O	native
+1587	ওয়েবসেনস	O y e b sh e n sh	O y e b s e n s	native
+1611	ওয়েলস	O y e l sh	O y e l s	native
+1612	ওয়েলসে	O y e l sh e	O y e l s e	native
+1613	ওয়েলসের	O y e l sh e r	O y e l s e r	native
+1620	ওয়েলেসলি	O y e l e sh l i	O y e l e s l i	native
+1623	ওয়েস	O y e sh	O y e s	native
+1624	ওয়েসফার্মারস	O y e sh ph a r m a r sh	O y e s ph a r m a r s	native
+1625	ওয়েসলি	O y e sh l i	O y e s l i	native
+1626	ওয়েসিস	O y e sh i sh	O y e s i s	native
+1627	ওয়েসেলস	O y e sh e l o sh	O y e s e l o s	native
+1629	ওয়েস্ট	O y e sh T	O y e s T	loanword
+1631	ওয়েস্টএন্ড	O y e sh T e n D	O y e s T e n D	loanword
+1634	ওয়েস্টমন্ট	O y e sh T m o n T	O y e s T m o n T	loanword
+1635	ওয়েস্টমন্টের	O y e sh T m o n T e r	O y e s T m o n T e r	loanword
+1636	ওয়েস্টমিনস্টার	O y e sh T m i n o sh T a r	O y e s T m i n o s T a r	loanword
+1642	ওয়েস্টারম্যান	O y e sh T a r m A n	O y e s T a r m A n	loanword
+1643	ওয়েস্টারম্যানকে	O y e sh T a r m A n k e	O y e s T a r m A n k e	loanword
+1644	ওয়েস্টারম্যানের	O y e sh T a r m A n e r	O y e s T a r m A n e r	loanword
+1645	ওয়েস্টার্ন	O y e sh T a r n	O y e s T a r n	loanword
+1651	ওয়্যারলেস	O e j a r l e sh	O e j a r l e s	native
+1652	ওয়্যারলেসে	O y A r l e sh e	O y A r l e s e	native
+1653	ওয়্যারলেসের	O y A r l e sh e r	O y A r l e s e r	native
+1654	ওয়্যারস	O y A r sh	O y A r s	native
+1655	ওয়্যারহাউস	O y A r h a u sh	O y A r h a u s	native
+1656	ওয়্যারহাউসে	O y A r h a u sh e	O y A r h a u s e	native
+1685	কংগ্রেস	k o ng gr e sh	k o ng gr e s	native
+1686	কংগ্রেসই	k o ng gr e sh i	k o ng gr e s i	native
+1687	কংগ্রেসও	k o ng gr e sh O	k o ng gr e s O	native
+1688	কংগ্রেসকে	k o ng gr e sh k e	k o ng gr e s k e	native
+1689	কংগ্রেসদলিয়	k o ng gr e sh d o l i y o	k o ng gr e s d o l i y o	native
+1690	কংগ্রেসনেতা	k o ng gr e sh n e t a	k o ng gr e s n e t a	native
+1691	কংগ্রেসবিরোধি	k o ng gr e sh b i r O dh i	k o ng gr e s b i r O dh i	compound
+1692	কংগ্রেসম্যান	k o ng gr e sh m A n	k o ng gr e s m A n	native
+1693	কংগ্রেসম্যানদের	k o ng gr e sh m A n d e r	k o ng gr e s m A n d e r	compound
+1694	কংগ্রেসম্যানরা	k o ng gr e sh m A n r a	k o ng gr e s m A n r a	compound
+1695	কংগ্রেসম্যানের	k o ng gr e sh m A n e r	k o ng gr e s m A n e r	compound
+1696	কংগ্রেসে	k o ng gr e sh e	k o ng gr e s e	native
+1697	কংগ্রেসের	k o ng gr e sh e r	k o ng gr e s e r	native
+1764	ককসিডাইনিয়া	k o k sh i D a i n i y a	k o k s i D a i n i y a	native
+1765	ককসিস	k o k sh i sh	k o k s i s	native
+1766	ককসিসের	k o k sh i sh e r	k o k s i s e r	native
+1768	ককাস	k o k a sh	k o k a s	native
+1769	ককাসে	k o k a sh e	k o k a s e	native
+1770	ককাসের	k o k a sh e r	k o k a s e r	native
+1777	ককেসাস	k o k e sh a sh	k o k e s a s	native
+1870	কজেস	k o j e sh	k o j e s	native
+1880	কঞ্জুমারস	k o nj u m a r sh	k o nj u m a r s	tatsama
+2102	কনকোফিলিপসের	k o n k O ph i l i p sh e r	k o n k O ph i l i p s e r	native
+2105	কনজাংটিভাইটিস	k o n j a ng T i bh a i T i sh	k o n j a ng T i bh a i T i s	compound
+2111	কনজুমারস	k o n j u m a r sh	k o n j u m a r s	native
+2113	কনজ্যুমারস	k o n j u m a r sh	k o n j u m a r s	native
+2123	কনটেইনারস	k o n T e i n a r sh	k o n T e i n a r s	native
+2126	কনটেইনার্স	k o n T e i n a r sh	k o n T e i n a r s	native
+2134	কনটেস্ট	k o n T e sh T	k o n T e s T	loanword
+2137	কনট্রাস্ট	k o n T r a sh T	k o n T r a s T	loanword
+2138	কনট্রোলস	k o n T r O l sh	k o n T r O l s	loanword
+2142	কনডেনসড	k o n D e n sh o D	k o n D e n s o D	native
+2143	কনডেনসেট	k o n D e n sh e T	k o n D e n s e T	native
+2159	কনফুসিয়াস	k o n ph u sh i y a sh	k o n ph u s i y a s	native
+2167	কনভারসন	k o n bh a r sh o n	k o n bh a r s o n	native
+2170	কনভার্স	k o n bh a r sh	k o n bh a r s	native
+2171	কনভার্সন	k o n bh a r sh o n	k o n bh a r s o n	native
+2185	কনসপাইরেসি	k o n sh p a i r e sh i	k o n s p a i r e s i	native
+2188	কনসার্টটি	k o n sh a r T T i	k o n s a r T T i	native
+2189	কনসার্টে	k o n sh a r T e	k o n s a r T e	native
+2190	কনসার্টের	k o n sh a r T e r	k o n s a r T e r	native
+2191	কনসার্ন	k o n sh a r n	k o n s a r n	native
+2192	কনসাল	k o n sh a l	k o n s a l	native
+2193	কনসালটিং	k o n sh a l T i ng	k o n s a l T i ng	native
+2194	কনসালটেটিভ	k o n sh a l T e T i bh	k o n s a l T e T i bh	native
+2195	কনসালটেন্ট	k o n sh a l T e n T	k o n s a l T e n T	native
+2198	কনসালট্যান্ট	k o n sh a l T A n T	k o n s a l T A n T	native
+2199	কনসালট্যান্টরা	k o n sh a l T e n T o r a	k o n s a l T e n T o r a	compound
+2200	কনসালট্যান্টস	k o n sh a l T e n T o sh	k o n s a l T e n T o s	compound
+2201	কনসালট্যান্টসহ	k o n sh a l T e n T sh o h O	k o n s a l T e n T sh o h O	compound
+2202	কনসালট্যান্টের	k o n sh a l T e n T e r	k o n s a l T e n T e r	compound
+2205	কনসাল্ট	k o n sh a l T	k o n s a l T	native
+2206	কনসিভ	k o n sh i bh	k o n s i bh	native
+2207	কনসিলার	k o n sh i l a r	k o n s i l a r	native
+2208	কনসুলার	k o n sh u l a r	k o n s u l a r	native
+2209	কনসুলেট	k o n sh u l e T	k o n s u l e T	native
+2210	কনসুলেটে	k o n sh u l e T e	k o n s u l e T e	native
+2211	কনসুলেটের	k o n sh u l e T e r	k o n s u l e T e r	native
+2212	কনসেপসিওন	k o n sh e p sh i O n	k o n s e p s i O n	native
+2213	কনসেপ্ট	k o n sh e p T	k o n s e p T	native
+2214	কনসোর্টিয়াম	k o n sh O r T i y a m	k o n s O r T i y a m	native
+2215	কনসোর্টিয়ামের	k o n sh O r T i y a m e r	k o n s O r T i y a m e r	compound
+2216	কনসোল	k o n sh O l	k o n s O l	native
+2217	কনসোলটি	k o n sh O l T i	k o n s O l T i	native
+2218	কনসোলটির	k o n sh O l T i r	k o n s O l T i r	native
+2222	কনস্টেবলকে	k o n O sh T e b O l k e	k o n O s T e b O l k e	loanword
+2223	কনস্টেবলরা	k o n sh T e b o l r a	k o n s T e b o l r a	loanword
+2224	কনস্টেবলসহ	k o n sh T e b o l sh o h O	k o n s T e b o l sh o h O	loanword
+2228	কনস্যুলার	k o n sh u l a r	k o n s u l a r	native
+2229	কনস্যুলেট	k o n sh u l e T	k o n s u l e T	native
+2230	কনস্যুলেটে	k o n sh u l e T e	k o n s u l e T e	native
+2259	কনোকোফিলিপস	k o n O k O ph i l i p sh	k o n O k O ph i l i p s	native
+2260	কনোকোফিলিপসকে	k o n O k O ph i l i p sh k e	k o n O k O ph i l i p s k e	compound
+2261	কনোকোফিলিপসের	k o n O k O ph i l i p sh e r	k o n O k O ph i l i p s e r	compound
+2277	কন্টেইনারস	k o n T e i n a r sh	k o n T e i n a r s	native
+2285	কন্ট্রাস্ট	k o n T r a sh T	k o n T r a s T	loanword
+2337	কন্ডোলিৎসা	k o n D O l i t sh a	k o n D O l i t s a	native
+2550	কমকাস্ট	k o m k a sh T	k o m k a s T	loanword
+2575	কমনস	k o m o n sh	k o m o n s	native
+2577	কমনসের	k o m o n sh e r	k o m o n s e r	native
+2591	কমপ্রিহেনসিভ	k o m pr i h e n sh i bh	k o m pr i h e n s i bh	native
+2592	কমপ্রেসার	k o m pr e sh a r	k o m pr e s a r	native
+2597	কমপ্লেইন্টস	k o m p l e i n T sh	k o m p l e i n T s	loanword
+2600	কমপ্লেক্সসংলগ্ন	k o m p l e k sh o sh o ng l g n o	k o m p l e k s sh o ng l o g n o	loanword
+2667	কমান্ডার্স	k o m a n D a r sh	k o m a n D a r s	native
+2682	কমার্স	k o m a r sh	k o m a r s	native
+2683	কমার্সে	k o m a r sh e	k o m a r s e	native
+2704	কমিউনিস্ট	k O m i u n i sh T	k O m i u n i s T	loanword
+2705	কমিউনিস্টও	k o m i u n i sh T O	k o m i u n i s T O	loanword
+2707	কমিউনিস্টরা	k o m i u n i sh T r a	k o m i u n i s T r a	loanword
+2708	কমিউনিস্টরাও	k o m i u n i sh T r a O	k o m i u n i s T r a O	loanword
+2709	কমিউনিস্টের	k o m i u n i sh T e r	k o m i u n i s T e r	loanword
+2711	কমিকস	k o m i k sh	k o m i k s	loanword
+2757	কমিসার	k o m i sh a r	k o m i s a r	native
+2758	কমিসেরিয়েট	k O m i sh e r i y e T	k O m i s e r i y e T	native
+2774	কমেন্টস	k o m e n T sh	k o m e n T s	native
+2823	কম্পিউটারস	k o mp i u T a r sh	k o mp i u T a r s	loanword
+2834	কম্পিউটার্স	k o mp i u T a r sh	k o mp i u T a r s	loanword
+2835	কম্পিউটার্সে	k o mp i u T a r sh e	k o mp i u T a r s e	loanword
+2836	কম্পিউটার্সের	k o mp i u T a r sh e r	k o mp i u T a r s e r	loanword
+2952	করপাস	k o r p a sh	k o r p a s	native
+3116	করিন্থিয়ানস	k o r i n th i y a n sh	k o r i n th i y a n s	native
+3117	করিন্থিয়ানসে	k o r i n th i y a n sh e	k o r i n th i y a n s e	native
+3118	করিন্থিয়ানসের	k o r i n th i y a n sh e r	k o r i n th i y a n s e r	compound
+3198	করেসপনডেন্ট	k o r e sh p o n D e n T	k o r e s p o n D e n T	native
+3199	করেসপনডেন্টস	k o r e sh p o n D e n T sh	k o r e s p o n D e n T s	native
+3200	করেসপন্ডেন্ট	k o r e sh p o n D e n T	k o r e s p o n D e n T	native
+3312	কর্নেলিয়াস	k o r n e l i y a sh	k o r n e l i y a s	native
+3316	কর্পস	k o r p o sh	k o r p o s	native
+3680	কলাপসিবল	k o l a p sh i b o l	k o l a p s i b o l	native
+3700	কলামনিস্ট	k o l a m n i sh T	k o l a m n i s T	loanword
+3703	কলামিস্ট	k o l a m i sh T	k o l a m i s T	loanword
+3797	কলেজেস	k o l e j e sh	k o l e j e s	native
+3806	কলেস্টেরল	k o l e sh T e r o l	k o l e s T e r o l	loanword

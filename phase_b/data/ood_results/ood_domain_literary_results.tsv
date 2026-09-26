@@ -1,0 +1,99 @@
+# word	frequency	predicted_register	model_prediction	VERIFICATION(correct/wrong)
+গ্রামের	4	unknown	gr a m e r	correct
+তার	4	unknown	t a r	correct
+করে	3	unknown	k o r e	 correct
+এই	3	unknown	e i i	wrong
+ভেসে	3	unknown	bh e sh e	correct
+প্রতিটি	3	unknown	pr O t i T i	correct
+নদীর	3	unknown	n O d i r	correct
+মাটির	2	unknown	m a T i r	correct
+যখন	2	unknown	j o kh o n	wrong
+আসে	2	unknown	a sh e	correct
+থাকা	2	unknown	th a k a	correct
+আর	2	unknown	a r	correct
+প্রকৃতি	2	unknown	pr O k ri t i	correct
+শেষ	1	unknown	sh e sh	correct
+প্রান্তে	1	unknown	pr a nt e	correct
+যেখানে	1	unknown	j e kh a n e	correct
+নিয়েছে	1	unknown	n i e chh e	wrong
+সেখানে	1	unknown	s e kh a n e	wrong
+একটি	1	unknown	e k T i	correct
+দাঁড়িয়ে	1	unknown	d a~ r i y e	correct
+আছে	1	unknown	a chh e	correct
+যুগ	1	unknown	j u g g	wrong
+শিকড়গুলো	1	unknown	sh i k o r g u l O	correct
+গভীরে	1	unknown	g O bh i r e	correct
+গেছে	1	unknown	g e chh e	wrong
+সময়ের	1	unknown	sh o m o y e r	correct
+সাথে	1	unknown	s a th e	wrong
+পাল্লা	1	unknown	p a l l a	correct
+দিয়ে	1	unknown	d i y e	correct
+বেঁচে	1	unknown	b e~ ch e	correct
+প্রতিজ্ঞা	1	unknown	pr O t i g g a	correct
+সন্ধ্যার	1	unknown	sh o n dh a r	correct
+আলো	1	unknown	a l O	correct
+গাছের	1	unknown	g a chh e r	correct
+ছায়ায়	1	unknown	chh a y a y	correct
+বসে	1	unknown	b o sh e	correct
+মুখে	1	unknown	m u kh e	correct
+ঘেরা	1	unknown	gh e r a	correct
+শীতের	1	unknown	sh i t e r	correct
+সকালে	1	unknown	sh o k a l e	correct
+মেঠোপথ	1	unknown	m e Th O p o th	 correct
+হেঁটে	1	unknown	h e~ T e	correct
+কৃষকদের	1	unknown	k ri sh o k d e r	correct
+কণ্ঠে	1	unknown	k o n Th e	correct
+লোকগীতির	1	unknown	l O k g i t i r	correct
+তাদের	1	unknown	t a d e r	correct
+কাঁধে	1	unknown	k a~ dh e	correct
+হৃদয়ে	1	unknown	r i d y e	wrong
+ফসলের	1	unknown	ph o s l e r	wrong
+মৌসুমে	1	unknown	m ou sh u m e	correct
+নেয়	1	unknown	n e y O	wrong
+সূর্যের	1	unknown	sh u r j e r	correct
+প্রতিফলন	1	unknown	pr O t i ph o l O n	correct
+রঙ	1	unknown	r o ng	correct
+মনে	1	unknown	m o n e	wrong
+নিজেই	1	unknown	n i j e i	correct
+কোনো	1	unknown	k O n O	correct
+অলৌকিক	1	unknown	o l ou k i k	correct
+গড়া	1	unknown	g o r a	correct
+দূরের	1	unknown	d u r e r	correct
+পাহাড়ের	1	unknown	p a h a r e r	correct
+আনাগোনা	1	unknown	a n a g O n a	correct
+পাখিদের	1	unknown	p a kh i d e r	correct
+ঘরে	1	unknown	gh o r e	correct
+ফেরার	1	unknown	ph e r a r	correct
+তাড়া	1	unknown	t a r a	correct
+সবকিছু	1	unknown	sh o b k i chh u	correct
+মিলিয়ে	1	unknown	m i l i y e	correct
+অবর্ণনীয়	1	unknown	o b O r n n i y	wrong
+সৌন্দর্যের	1	unknown	s ou nd O r j e r	wrong
+বৃদ্ধ	1	unknown	b ri d dh O	correct
+মাঝি	1	unknown	m a jh i	correct
+প্রতিদিন	1	unknown	pr O t i d i n	correct
+সন্ধ্যায়	1	unknown	sh o n dh a y	correct
+ছোট্ট	1	unknown	chh O T T O	correct
+নিয়ে	1	unknown	n i y e	correct
+বুকে	1	unknown	b u k e	correct
+বেড়ায়	1	unknown	b e r a y	correct
+জীবনের	1	unknown	j i b o n e r	correct
+ঢেউয়ের	1	unknown	Dh e u e r	correct
+মতোই	1	unknown	m o t O i	correct
+অবিরাম	1	unknown	O b i r a m	wrong
+উত্তাল	1	unknown	u tt a l	correct
+জমে	1	unknown	j o m e	correct
+বছরের	1	unknown	b o chh O r e r	correct
+শরতের	1	unknown	sh o r t e r	correct
+ভেলা	1	unknown	bh E l a	correct
+পথে	1	unknown	p o th e	correct
+কাশফুলের	1	unknown	k a sh ph u l e r	correct
+দোলায়	1	unknown	d O l a y	correct
+দুলে	1	unknown	d u l e	correct
+প্রান্তর	1	unknown	pr a nt o r	correct
+ঋতুতে	1	unknown	r i t u t e	correct
+সেজে	1	unknown	sh e j e	correct
+পাতায়	1	unknown	p a t a y correct	
+ফুলে	1	unknown	ph u l e	correct
+অনির্বচনীয়	1	unknown	o n i r b O ch O n i y O correct	
+মাধুর্য	1	unknown	m a dh u r j O	correct

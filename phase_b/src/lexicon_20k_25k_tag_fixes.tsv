@@ -1,0 +1,1007 @@
+line	word	phonemes	old_tag	new_tag	reason
+7	এমপিপুত্র	e m p i p u tr O	native	loanword	abbr
+9	এমপিসহ	e m p i sh o h O	proper_noun	loanword	abbr
+19	এমসি	e m s i	native	loanword	abbr
+36	এমেকা	e m e k a	native	proper_noun	rule
+37	এমেকাকে	e m e k a k e	native	proper_noun	rule
+38	এমেকার	e m e k a r	native	proper_noun	rule
+42	এম–ডি	e m D i	native	loanword	abbr
+51	এরদোগান	e r d O g a n	native	proper_noun	rule
+52	এরদোগানকে	e r d O g a n k e	native	proper_noun	rule
+53	এরদোগানের	e r d O g a n e r	native	proper_noun	rule
+54	এরদোয়ান	e r d O y a n	native	proper_noun	rule
+66	এরিস	e r i s	native	proper_noun	rule
+67	এরিসের	e r i s e r	native	proper_noun	rule
+68	এরিয়া	e r i y a	native	loanword	rule
+69	এরিয়ার	e r i y a r	native	loanword	rule
+70	এরিয়ায়	e r i y a y	native	loanword	rule
+74	এরেন	e r e n	native	proper_noun	rule
+76	এল.এম.এস.	e l e m e s	native	loanword	abbr
+77	এলআর	e l a r	native	loanword	abbr
+78	এলই	e l i	native	loanword	abbr
+79	এলএন	e l e n	native	loanword	abbr
+80	এলএম	e l e m	native	loanword	abbr
+82	এলকে	e l k e	native	loanword	abbr
+85	এলগার	e l g a r	native	proper_noun	rule
+87	এলটন	e l T o n	native	proper_noun	rule
+88	এলডোরাডো	e l D O r a D O	native	proper_noun	rule
+90	এলন	e l o n	native	proper_noun	rule
+91	এলপিআরে	e l p i a r e	proper_noun	loanword	abbr
+92	এলবারাদি	e l b a r a d i	native	proper_noun	rule
+93	এলবারাদির	e l b a r a d i r	native	proper_noun	rule
+94	এলবির	e l b i r	native	loanword	abbr
+98	এলসবার্গ	e l o s b a r g	native	proper_noun	rule
+99	এলসি	e l s i	native	loanword	abbr
+100	এলসির	e l s i r	native	loanword	abbr
+147	এলার্ট	e l a r T	native	loanword	rule
+156	এলিজা	e l i j a	native	proper_noun	rule
+157	এলিজাবেথে	e l i j a b e th e	native	proper_noun	rule
+158	এলিজাবেথের	e l i j a b e th e r	native	proper_noun	rule
+159	এলিট	e l i T	native	loanword	rule
+161	এলিন	e l i n	native	proper_noun	rule
+162	এলিনা	e l i n a	native	proper_noun	rule
+163	এলিনার	e l i n a r	native	proper_noun	rule
+164	এলিভেটর	e l i bh e T o r	native	loanword	rule
+165	এলিমেন্টস	e l i m e n T o s	native	loanword	rule
+167	এলিসন	e l i s o n	native	proper_noun	rule
+168	এলিসি	e l i s i	native	proper_noun	rule
+169	এলিসের	e l i s e r	native	proper_noun	rule
+170	এলিয়ট	e l i y o T	native	proper_noun	rule
+171	এলিয়টের	e l i y o T e r o	native	proper_noun	rule
+173	এলিয়াস	e l i y a s	native	proper_noun	rule
+179	এলেনা	e l e n a	native	proper_noun	rule
+185	এলোপ্যাথিক	e l O p A th i k	native	loanword	rule
+188	এল্টন	e l T o n	native	proper_noun	rule
+197	এশিয়াজুড়ে	e sh i y a j u r e	native	proper_noun	rule
+198	এশিয়াটিক	e sh i a T i k	native	loanword	rule
+199	এশিয়াটিকের	e sh i y a T i k e r	native	loanword	rule
+200	এশিয়াডে	e sh i y a D e	native	proper_noun	rule
+201	এশিয়াতেই	e sh i y a t e i	native	proper_noun	rule
+202	এশিয়াতেও	e sh i y a t e O	native	proper_noun	rule
+203	এশিয়াবিশয়ক	e sh i y a b i sh o y o k	native	proper_noun	rule
+204	এশিয়াসহ	e sh i y a sh o h O	native	proper_noun	rule
+205	এশিয়ায়	e sh i y a y	native	proper_noun	rule
+209	এসই	e s i	native	loanword	abbr
+210	এসএ	e s e	native	loanword	abbr
+211	এসএন	e s e n	native	loanword	abbr
+212	এসএম	e s e m	native	loanword	abbr
+213	এসএস	e s e s	native	loanword	abbr
+214	এসও	e s O	native	loanword	abbr
+217	এসকাপ	e s k a p	native	loanword	rule
+218	এসকাপের	e s k a p e r	native	loanword	rule
+219	এসকাবেটর	e s k a b e T o r	native	loanword	rule
+220	এসকে	e s k e	native	loanword	abbr
+222	এসকোবার	e s k O b a r	native	proper_noun	rule
+223	এসকোয়্যার	e s k O y A r	native	loanword	rule
+225	এসজি	e s j i	native	loanword	abbr
+226	এসজে	e s j e	native	loanword	abbr
+227	এসটু	e s T u	native	loanword	rule
+228	এসতিবালিস	e s t i b a l i s	native	proper_noun	rule
+230	এসপানা	e s p a n a	native	proper_noun	rule
+231	এসপানিওলকে	e s p a n i O l k e	native	proper_noun	rule
+232	এসপানিওলের	e s p a n i O l e r	native	proper_noun	rule
+233	এসপি	e s p i	native	loanword	abbr
+234	এসপির	e s p i r	native	loanword	abbr
+235	এসপিসহ	e s p i sh o h O	proper_noun	loanword	abbr
+236	এসপ্যানিওলের	e s p A n i O l e r	native	proper_noun	rule
+237	এসপ্রেসো	e s pr e s O	native	loanword	rule
+238	এসফল্ট	e s ph o l T	native	loanword	rule
+242	এসবি	e s b i	native	loanword	abbr
+243	এসবির	e s b i r	native	loanword	abbr
+253	এসসি	e s s i	native	loanword	abbr
+254	এসার	e s a r	native	proper_noun	rule
+255	এসারের	e s a r e r	native	proper_noun	rule
+256	এসি	e s i	native	loanword	abbr
+257	এসিআই	e s i a i	native	loanword	abbr
+258	এসিআইয়ের	e s i a i y e r	native	loanword	abbr
+259	এসিআর	e s i a r	native	loanword	abbr
+260	এসিএম	e s i e m	native	loanword	abbr
+261	এসিএস	e s i e s	native	loanword	abbr
+262	এসিও	e s i O	native	loanword	abbr
+263	এসিডদগ্ধ	e s i D d o g dh	native	loanword	rule
+264	এসিডদগ্ধদের	e s i D d o g dh d e r	native	loanword	rule
+265	এসিডি	e s i D i	native	loanword	abbr
+266	এসিডিক	e s i D i k	native	loanword	rule
+268	এসিতে	e s i t e	native	loanword	abbr
+269	এসিপিইউপিবির	e s i p i i u p i b i r	native	loanword	abbr
+270	এসিপিইউবি	e s i p i i u b i	native	loanword	abbr
+271	এসিপিইউবির	e s i p i i u b i r	native	loanword	abbr
+272	এসিভি	e s i bh i	native	loanword	abbr
+273	এসির	e s i r	native	loanword	abbr
+274	এসিল্যান্ড	e s i l A n D	native	loanword	rule
+275	এসিস	e s i s	native	loanword	rule
+276	এসিসি	e s i s i	native	loanword	abbr
+277	এসিসিএ	e s i s i e	native	loanword	abbr
+278	এসিসিএর	e s i s i e r	native	loanword	abbr
+279	এসিসির	e s i s i r	native	loanword	abbr
+280	এসিয়েন	e s i y e n	native	loanword	rule
+281	এসিয়েনকে	e s i y e n k e	native	loanword	rule
+296	এসেনশিয়াল	e sh e n sh i y a l	native	loanword	rule
+298	এসোচেম	e s O ch e m	native	loanword	rule
+300	এস্তুদিয়ান্তেস	e st o d i y a nt e s	compound	proper_noun	rule
+301	এস্তুদিয়ান্তেসের	e st o d i y a nt e s e r	compound	proper_noun	rule
+303	এস্তেবান	e st e b a n	native	proper_noun	rule
+307	এস্তোনিয়া	e st O n i y a	native	proper_noun	rule
+308	এস্তোনিয়ার	e st O n i y a r	native	proper_noun	rule
+368	এয়ার	e a r	native	loanword	rule
+369	এয়ারওয়েজ	e a r O y e j	native	loanword	rule
+370	এয়ারওয়েজে	e y a r O y e j e	native	loanword	rule
+371	এয়ারওয়েজের	e y a r O y e j e r	native	loanword	rule
+372	এয়ারকন্ডিশন	e y a r k o n D i sh o n	native	loanword	rule
+373	এয়ারকন্ডিশনার	e y a r k o n D i sh o n a r	compound	loanword	rule
+374	এয়ারকন্ডিশনারের	e y a r k o n D i sh o n a r e r	compound	loanword	rule
+375	এয়ারগান	e y a r g a n	native	loanword	rule
+376	এয়ারটেল	e y a r T e l	native	proper_noun	rule
+377	এয়ারপোর্ট	e a r p O r T	native	loanword	rule
+378	এয়ারপোর্টগুলোতে	e y a r p O r T o g u l O t e	compound	loanword	rule
+379	এয়ারপোর্টে	e y a r p O r T	native	loanword	rule
+380	এয়ারপোর্টের	e y a r p O r T e r	native	loanword	rule
+382	এয়ারলাইন	e y a r l a i n	native	loanword	rule
+383	এয়ারলাইনস	e a r l a i n s	native	loanword	rule
+384	এয়ারলাইনসকে	e y a r l a i n o s k e	native	loanword	rule
+385	এয়ারলাইনসগুলো	e y a r l a i n o s g u l O	compound	loanword	rule
+386	এয়ারলাইনসগুলোর	e y a r l a i n o s g u l O r	compound	loanword	rule
+387	এয়ারলাইনসে	e y a r l a i n o s e	native	loanword	rule
+388	এয়ারলাইনসের	e y a r l a i n o s e r	native	loanword	rule
+390	এয়ারের	e y a r e r	native	loanword	rule
+391	এয়ার–কন্ডিশন	e y a r k o n D i sh o n	native	loanword	rule
+396	ওআইসি	O a i s i	proper_noun	loanword	abbr
+397	ওআইসির	O a i s i r	proper_noun	loanword	abbr
+400	ওআর	O a r	native	loanword	abbr
+401	ওআরজি	O a r j i	proper_noun	loanword	abbr
+402	ওআরজির	O a r j i r	proper_noun	loanword	abbr
+403	ওআরসি	O a r s i	proper_noun	loanword	abbr
+501	ওইসিডি	O i s i D i	proper_noun	loanword	abbr
+590	ওএনএলএফ	O e n e l e ph	proper_noun	loanword	abbr
+591	ওএনজিসি	O e n j i s i	proper_noun	loanword	abbr
+592	ওএনজিসির	O e n j i s i r	proper_noun	loanword	abbr
+593	ওএমআরডিএম	O e m a r D i e m	proper_noun	loanword	abbr
+594	ওএমএস	O e m e s	proper_noun	loanword	abbr
+595	ওএমএসসহ	O e m e s sh o h O	proper_noun	loanword	abbr
+596	ওএমএসে	O e m e s e	proper_noun	loanword	abbr
+597	ওএমএসের	O e m e s e r	proper_noun	loanword	abbr
+598	ওএলইডি	O e l i D i	proper_noun	loanword	abbr
+599	ওএলপিসির	O e l p i s i r	proper_noun	loanword	abbr
+600	ওএস	O e s	native	loanword	abbr
+601	ওএসএক্স	O e s e k s O	proper_noun	loanword	abbr
+602	ওএসএন	O e s e n	proper_noun	loanword	abbr
+603	ওএসডি	O e s D i	proper_noun	loanword	abbr
+604	ওএসডির	O e s D i r	proper_noun	loanword	abbr
+605	ওএসের	O e s e r	native	loanword	abbr
+608	ওকলাহোমা	O k l a h O m a	native	proper_noun	rule
+609	ওকস	O k s	native	loanword	rule
+610	ওকাদা	O k a d a	native	proper_noun	rule
+611	ওকাদার	O k a d a r	native	proper_noun	rule
+612	ওকাম্পো	O k a mp O	native	proper_noun	rule
+613	ওকাম্পোর	O k a mp O r	native	proper_noun	rule
+622	ওকিনাওয়া	O k i n a O y a	native	proper_noun	rule
+623	ওকিনাওয়ার	O k i n a O y a r	native	proper_noun	rule
+627	ওকোনজো	O k O n j O	native	proper_noun	rule
+656	ওজনিয়াক	O j o n i y a k	native	proper_noun	rule
+657	ওজনিয়াকি	O j o n i y a k i	native	proper_noun	rule
+658	ওজনিয়াকিকে	O j o n i y a k i k e	native	proper_noun	rule
+659	ওজনিয়াকির	O j o n i y a k i r	native	proper_noun	rule
+660	ওজনিয়াকের	O j o n i y a k e r	native	proper_noun	rule
+668	ওজাওয়া	O j a O y a	native	proper_noun	rule
+669	ওজাওয়াকে	O j a O y a k e	native	proper_noun	rule
+670	ওজাওয়ার	O j a O y a r	native	proper_noun	rule
+687	ওজোন	O j O n	native	loanword	rule
+688	ওজোপাডিকো	O j O p a D i k O	native	proper_noun	rule
+689	ওজোপাডিকোর	O j O p a D i k O r	native	proper_noun	rule
+694	ওটমিল	O T m i l	native	loanword	rule
+695	ওটস	O T s	native	loanword	rule
+701	ওটামেন্ডি	O T a m e n D i	native	proper_noun	rule
+706	ওটিজি	O T i j i	proper_noun	loanword	abbr
+707	ওটিপিসি	O T i p i s i	proper_noun	loanword	abbr
+708	ওটিপিসির	O T i p i s i r	proper_noun	loanword	abbr
+710	ওটিসিতে	O T i s i t e	proper_noun	loanword	abbr
+715	ওটেলিনি	O T e l i n i	native	proper_noun	rule
+748	ওডি	O D i	native	loanword	abbr
+749	ওডিআই	O D i a i	proper_noun	loanword	abbr
+750	ওডিকলোন	O D i k l O n	native	loanword	rule
+763	ওতুনবায়েভা	O t u n b a y e bh a	native	proper_noun	rule
+764	ওতুনবায়েভাকে	O t u n b a y e bh a k e	native	proper_noun	rule
+765	ওতুনবায়েভার	O t u n b a y e bh a r	native	proper_noun	rule
+770	ওথেলো	O th e l O	native	proper_noun	rule
+782	ওনলি	O n l i	native	loanword	rule
+783	ওনাগাওয়া	O n a g a O y a	native	proper_noun	rule
+807	ওপিএইচআইর	O p i e i ch a i r	proper_noun	loanword	abbr
+808	ওপিএম	O p i e m	proper_noun	loanword	abbr
+810	ওপিনিয়ন	O p i n i y o n	native	loanword	rule
+811	ওপেক	O p e k	native	loanword	rule
+812	ওপেকের	O p e k e r	native	loanword	rule
+816	ওপেনার	O p e n a r	native	loanword	rule
+817	ওপেনারই	O p e n a r o i	native	loanword	rule
+818	ওপেনারকে	O p e n a r k e	native	loanword	rule
+819	ওপেনারদের	O p e n a r d e r	native	loanword	rule
+820	ওপেনাররা	O p e n a r r a	native	loanword	rule
+821	ওপেনারের	O p e n a r e r	native	loanword	rule
+822	ওপেনিং	O p e n i ng	native	loanword	rule
+823	ওপেনিংয়ে	O p e n i ng y e	native	loanword	rule
+824	ওপেনিংয়ের	O p e n i ng y e r	native	loanword	rule
+825	ওপেনে	O p e n e	native	loanword	rule
+826	ওপেনের	O p e n e r	native	loanword	rule
+827	ওপেরা	O p e r a	native	loanword	rule
+838	ওবামাকে	O b a m a k e	native	proper_noun	rule
+839	ওবামাকেও	O b a m a k e O	native	proper_noun	rule
+840	ওবামার	O b a m a r	native	proper_noun	rule
+841	ওবামাস	O b a m a s	native	proper_noun	rule
+842	ওবামাসহ	O b a m a sh o h O	native	proper_noun	rule
+854	ওবি	O b i	native	loanword	abbr
+855	ওবিসি	O b i s i	proper_noun	loanword	abbr
+859	ওবেরয়	O b e r o y	native	proper_noun	rule
+860	ওবেসিটি	O b e s i T i	native	loanword	rule
+863	ওভার	O bh a r	native	loanword	rule
+864	ওভারই	O bh a r i	native	loanword	rule
+865	ওভারও	O bh a r O	native	loanword	rule
+866	ওভারকোট	O bh a r k O T	native	loanword	rule
+867	ওভারগুলোতে	O bh a r g u l O t e	native	loanword	rule
+868	ওভারটা	O bh a r T a	native	loanword	rule
+869	ওভারটাই	O bh a r T a i	native	loanword	rule
+870	ওভারটাইম	O bh a r T a i m	native	loanword	rule
+871	ওভারটাইমের	O bh a r T a i m e r	native	loanword	rule
+872	ওভারটার	O bh a r T a r	native	loanword	rule
+873	ওভারটেক	O bh a r T e k	native	loanword	rule
+875	ওভারপাস	O bh a r p a s	native	loanword	rule
+876	ওভারপাসের	O bh a r p a s e r	native	loanword	rule
+877	ওভারপ্রতি	O bh a r pr O t i	native	loanword	rule
+878	ওভারব্রিজে	O bh a r b ri j e	native	loanword	rule
+879	ওভারব্রিজের	O bh a r b ri j e r	native	loanword	rule
+880	ওভারলে	O bh a r l e	native	loanword	rule
+881	ওভারলোড	O bh a r l O D	native	loanword	rule
+882	ওভারসাইট	O bh a r s a i T	native	loanword	rule
+883	ওভারসিজ	O bh a r s i j	native	loanword	rule
+884	ওভারসিজের	O bh a r s i j e r	native	loanword	rule
+885	ওভারসিস	O bh a r s i s	native	loanword	rule
+886	ওভারহেড	O bh a r h e D	native	loanword	rule
+887	ওভারি	O bh a r i	native	loanword	rule
+888	ওভারেই	O bh a r e i	native	loanword	rule
+889	ওভারেও	O bh a r e O	native	loanword	rule
+890	ওভাল	O bh a l	native	loanword	rule
+891	ওভালেই	O bh a l e i	native	loanword	rule
+892	ওভালের	O bh a l e r	native	loanword	rule
+893	ওভি	O bh i	native	loanword	abbr
+894	ওভেনে	O bh e n e	native	loanword	rule
+895	ওভেনের	O bh e n e r	native	loanword	rule
+908	ওমলেট	O m l e T	native	loanword	rule
+910	ওমান	O m a n	native	proper_noun	rule
+911	ওমানি	O m a n i	native	proper_noun	rule
+912	ওমানে	O m a n e	native	proper_noun	rule
+913	ওমানের	O m a n e r	native	proper_noun	rule
+919	ওমেগা	O m e g a	native	loanword	rule
+921	ওমেন	O m e n	native	loanword	rule
+922	ওমেনস	O m e n s	native	loanword	rule
+923	ওমেনের	O m e n e r	native	loanword	rule
+927	ওম্যান	O m A n	native	loanword	rule
+936	ওরস্যালাইনসহ	O r s A l a i n sh o h O	native	loanword	rule
+941	ওরাকল	O r a k o l	native	proper_noun	rule
+942	ওরাকলের	O r a k o l e r	native	proper_noun	rule
+946	ওরাল	O r a l	native	loanword	rule
+947	ওরাসকম	O r a s k o m	native	proper_noun	rule
+948	ওরাসকমের	O r a s k o m e r	native	proper_noun	rule
+950	ওরিয়ন	O r i O n	native	proper_noun	rule
+951	ওরিয়েন্ট	O r i y e n T	native	loanword	rule
+952	ওরিয়েন্টাল	O r i y e n T a l	native	loanword	rule
+953	ওরিয়েন্টেড	O r i y e n T e D	native	loanword	rule
+954	ওরিয়েন্টেশন	O r i y e n T e sh o n	native	loanword	rule
+959	ওর্তেগা	O r t e g a	native	proper_noun	rule
+963	ওলগা	O l g a	native	proper_noun	rule
+974	ওলসেংকি	O l s e ng k i	native	proper_noun	rule
+975	ওলসেন	O l s e n	native	proper_noun	rule
+996	ওলেগ	O l e g	native	proper_noun	rule
+1004	ওল্ড	O l D	native	loanword	rule
+1008	ওশান	O sh a n	native	loanword	rule
+1037	ওশেন	O sh e n	native	loanword	rule
+1038	ওশেনিয়া	O sh e n i y a	native	proper_noun	rule
+1039	ওশেনিয়ান	O sh e n i y a n	native	proper_noun	rule
+1040	ওশেনিয়ার	O sh e n i y a r	native	proper_noun	rule
+1062	ওসাকার	O s a k a r	native	proper_noun	rule
+1063	ওসাকায়	O s a k a y	native	proper_noun	rule
+1064	ওসান	O s a n	native	loanword	rule
+1068	ওসামু	O s a m u	native	proper_noun	rule
+1071	ওসাসুনা	O s a s u n a	native	proper_noun	rule
+1072	ওসাসুনাকে	O s a s u n a k e	native	proper_noun	rule
+1073	ওসাসুনার	O s a s u n a r	native	proper_noun	rule
+1074	ওসি	O s i	native	loanword	abbr
+1075	ওসিআর	O s i a r	proper_noun	loanword	abbr
+1076	ওসিএজি	O s i e j i	proper_noun	loanword	abbr
+1077	ওসিএল	O s i e l	proper_noun	loanword	abbr
+1078	ওসিএলের	O s i e l e r	proper_noun	loanword	abbr
+1079	ওসিকে	O s i k e	proper_noun	loanword	abbr
+1080	ওসিদের	O s i d e r	native	loanword	abbr
+1081	ওসির	O s i r	native	loanword	abbr
+1082	ওসিরা	O s i r a	proper_noun	loanword	abbr
+1083	ওসিসহ	O s i sh o h O	proper_noun	loanword	abbr
+1084	ওসিসিতে	O s i s i t e	proper_noun	loanword	abbr
+1085	ওসিসির	O s i s i r	proper_noun	loanword	abbr
+1086	ওসোরিও	O s O r i O	native	proper_noun	rule
+1094	ওহাইও	O h a i O	native	proper_noun	rule
+1095	ওহাইওর	O h a i O r	native	proper_noun	rule
+1096	ওহাইয়ো	O h a i y O	native	proper_noun	rule
+1114	ওৎসুচি	O t s u ch i	native	proper_noun	rule
+1143	ওয়াং	O a ng	native	proper_noun	rule
+1144	ওয়াংখেড়ে	O y a ng kh e r e	native	proper_noun	rule
+1145	ওয়াংখেড়েতে	O y a ng kh e r e t e	native	proper_noun	rule
+1146	ওয়াংখেড়ের	O y a ng kh e r e r	native	proper_noun	rule
+1147	ওয়াংগারি	O y a ng g a r i	native	proper_noun	rule
+1148	ওয়াংগারির	O y a ng g a r i r o	native	proper_noun	rule
+1149	ওয়াংচুক	O y a ng ch u k	native	proper_noun	rule
+1150	ওয়াংচুকের	O y a ng ch u k e r	native	proper_noun	rule
+1151	ওয়াংমো	O y a ng m O	native	proper_noun	rule
+1152	ওয়াংয়ের	O y a ng y e r	native	proper_noun	rule
+1153	ওয়াই	O a i	native	loanword	rule
+1154	ওয়াইএমসিএ	O y a i e m s i e	native	loanword	abbr
+1155	ওয়াইএমসিএর	O y a i e m s i e r	native	loanword	abbr
+1156	ওয়াইওমিংয়ের	O y a i O m i ng y e r	native	proper_noun	rule
+1157	ওয়াইজ	O y a i j	native	loanword	rule
+1158	ওয়াইজঘাট	O y a i j gh a T	native	proper_noun	rule
+1159	ওয়াইজঘাটে	O y a i j gh a T	native	proper_noun	rule
+1160	ওয়াইজঘাটের	O y a i j gh a T e r	native	proper_noun	rule
+1161	ওয়াইজের	O y a i j e r	native	loanword	rule
+1162	ওয়াইট	O y a i T	native	loanword	rule
+1163	ওয়াইটিএন	O y a i T i e n	native	loanword	abbr
+1164	ওয়াইড	O y a i D	native	loanword	rule
+1166	ওয়াইন	O y a i n	native	loanword	rule
+1167	ওয়াইনহাউজ	O y a i n h a u j	native	proper_noun	rule
+1168	ওয়াইনহাউজের	O y a i n h a u j e r	native	proper_noun	rule
+1169	ওয়াইপস	O y a i p s	native	loanword	rule
+1170	ওয়াইফ	O y a i ph	native	loanword	rule
+1171	ওয়াইফাং	O y a i ph a ng	native	proper_noun	rule
+1172	ওয়াইফাই	O a i ph a i	native	loanword	rule
+1173	ওয়াইফাইয়ের	O y a i ph a i y e r	native	loanword	rule
+1176	ওয়াইল্ড	O y a i l D o	native	loanword	rule
+1177	ওয়াইল্ডলাইফ	O y a i l D o l a i ph o	native	loanword	rule
+1178	ওয়াইল্ডের	O y a i l D e r	native	loanword	rule
+1179	ওয়াইস	O y a i s	native	loanword	rule
+1180	ওয়াইসি	O y a i s i	native	loanword	abbr
+1181	ওয়াও	O y a O	native	loanword	rule
+1182	ওয়াওয়া	O y a O y a	native	loanword	rule
+1183	ওয়াক	O y a k	native	loanword	rule
+1184	ওয়াকআউট	O y a k a u T	native	loanword	rule
+1185	ওয়াকআউটে	O y a k a u T e	native	loanword	rule
+1186	ওয়াকআউটের	O y a k a u T e r	native	loanword	rule
+1187	ওয়াকওভার	O y a k O bh a r	native	loanword	rule
+1188	ওয়াকওয়ে	O y a k o O y e	native	loanword	rule
+1190	ওয়াকম্যান	O y a k m A n o	native	loanword	rule
+1191	ওয়াকম্যানের	O y a k m A n e r	native	loanword	rule
+1192	ওয়াকস	O y a k s	native	loanword	rule
+1197	ওয়াকিং	O y a k i ng	native	loanword	rule
+1198	ওয়াকিটকি	O y a k i T o k i	native	loanword	rule
+1206	ওয়াগ	O y a g	native	loanword	rule
+1207	ওয়াগদের	O y a g d e r	native	loanword	rule
+1208	ওয়াগন	O y a g o n	native	loanword	rule
+1209	ওয়াগনে	O y a g o n e	native	loanword	rule
+1210	ওয়াগনের	O y a g o n e r	native	loanword	rule
+1214	ওয়াচ	O y a ch	native	loanword	rule
+1215	ওয়াচগার্ড	O y a ch g a r D o	native	loanword	rule
+1216	ওয়াচডগ	O y a ch D o g	native	loanword	rule
+1217	ওয়াচডগের	O y a ch D o g e r	native	loanword	rule
+1218	ওয়াচের	O y a ch e r	native	loanword	rule
+1226	ওয়াজিরিস্তান	O y a j i r i st a n	native	proper_noun	rule
+1227	ওয়াজিরিস্তানে	O y a j i r i st a n e	compound	proper_noun	rule
+1228	ওয়াজিরিস্তানের	O y a j i r i st a n e r	compound	proper_noun	rule
+1232	ওয়াট	O y a T	native	loanword	rule
+1233	ওয়াটলিং	O y a T l i ng	native	proper_noun	rule
+1234	ওয়াটলিংকে	O y a T l i ng k e	native	proper_noun	rule
+1235	ওয়াটসন	O y a T s o n	native	proper_noun	rule
+1236	ওয়াটসনও	O y a T s o n O	native	proper_noun	rule
+1237	ওয়াটসনকে	O y a T s o n k e	native	proper_noun	rule
+1238	ওয়াটসনরা	O y a T s o n r a	native	proper_noun	rule
+1239	ওয়াটসনের	O y a T s o n e r	native	proper_noun	rule
+1241	ওয়াটার	O y a T a r	native	loanword	rule
+1242	ওয়াটারকে	O y a T a r k e	native	loanword	rule
+1243	ওয়াটারগেট	O y a T a r g e T	native	proper_noun	rule
+1244	ওয়াটারবোর্ডিং	O y a T a r b O r D i ng	compound	loanword	rule
+1245	ওয়াটারলু	O y a T a r l u	native	proper_noun	rule
+1246	ওয়াটারস	O y a T a r s	native	loanword	rule
+1247	ওয়াটারে	O y a T a r e	native	loanword	rule
+1248	ওয়াটারের	O y a T a r e r	native	loanword	rule
+1249	ওয়াটার্স	O y a T a r s	native	loanword	rule
+1250	ওয়াটের	O y a T e r	native	loanword	rule
+1253	ওয়াতানাবে	O y a t a n a b e	native	proper_noun	rule
+1254	ওয়াতানাবের	O y a t a n a b e r	native	proper_noun	rule
+1255	ওয়াতারা	O y a t a r a	native	proper_noun	rule
+1256	ওয়াতারাকে	O y a t a r a k e	native	proper_noun	rule
+1257	ওয়াতারার	O y a t a r a r	native	proper_noun	rule
+1258	ওয়াত্তানাইয়াগর্ন	O y a tt a n a i y a g o r n	compound	proper_noun	rule
+1271	ওয়ান	O a n	native	loanword	rule
+1272	ওয়ানওয়ে	O y a n O y e	native	loanword	rule
+1273	ওয়ানকে	O y a n k e	native	loanword	rule
+1274	ওয়ানডে	O y a n D e	native	loanword	rule
+1275	ওয়ানডেই	O y a n D e i	native	loanword	rule
+1276	ওয়ানডেও	O y a n D e O	native	loanword	rule
+1277	ওয়ানডেটা	O y a n D e T a	native	loanword	rule
+1278	ওয়ানডেটি	O y a n D e T i	native	loanword	rule
+1279	ওয়ানডেটিতে	O y a n D e T i t e	native	loanword	rule
+1280	ওয়ানডেতে	O y a n D e t e	native	loanword	rule
+1281	ওয়ানডেতেই	O y a n D e t e i	native	loanword	rule
+1282	ওয়ানডেতেও	O y a n D e t e O	native	loanword	rule
+1283	ওয়ানডের	O y a n D e r	native	loanword	rule
+1286	ওয়ানম্যান	O y a n m A n	native	loanword	rule
+1290	ওয়ানে	O y a n e	native	loanword	rule
+1291	ওয়ানের	O y a n e r	native	loanword	rule
+1292	ওয়ান্ট	O y a n T	native	loanword	rule
+1293	ওয়ান্টস	O y a n T s	native	loanword	rule
+1294	ওয়ান্টেড	O y a n T D	native	loanword	rule
+1295	ওয়ান্ডার	O y a n D a r	native	loanword	rule
+1296	ওয়ান্ডারফুল	O y a n D a r ph u l	native	loanword	rule
+1297	ওয়ান্ডারল্যান্ড	O y a n D a r l A n D	compound	loanword	rule
+1298	ওয়ান্ডারল্যান্ডে	O y a n D a r l A n D e	compound	loanword	rule
+1299	ওয়ান্ডারল্যান্ডের	O y a n D a r l A n D e r	compound	loanword	rule
+1300	ওয়ান্ডারার্সের	O y a n D a r a r s e r	compound	loanword	rule
+1301	ওয়ান্ডার্স	O y a n D a r s	native	loanword	rule
+1305	ওয়াপস	O y a p O s	native	loanword	rule
+1306	ওয়াপসাইট	O y a p s a i T	native	loanword	rule
+1311	ওয়ার	O y a r	native	loanword	rule
+1312	ওয়ারউইক	O y a r u i k	native	proper_noun	rule
+1313	ওয়ারউইকের	O y a r u i k e r	native	proper_noun	rule
+1317	ওয়ারনার	O y a r n a r	native	proper_noun	rule
+1318	ওয়ারনারের	O y a r n a r e r	native	proper_noun	rule
+1322	ওয়ারলেস	O y a r l e s	native	loanword	rule
+1323	ওয়ারলেসের	O y a r l e s e r	native	loanword	rule
+1324	ওয়ারল্যাস	O y a r l A s	native	loanword	rule
+1325	ওয়ারস	O y a r s	native	loanword	rule
+1326	ওয়ারসি	O y a r s i	native	proper_noun	rule
+1327	ওয়ারহেড	O y a r h e D	native	loanword	rule
+1340	ওয়ারিয়র্স	O y a r i y o r s	native	loanword	rule
+1341	ওয়ারিয়র্সকে	O y a r i y o r s k e	native	loanword	rule
+1342	ওয়ারিয়র্সে	O y a r i y o r s e	native	loanword	rule
+1343	ওয়ারিয়র্সের	O y a r i y o r s e r	native	loanword	rule
+1346	ওয়ারেন	O y a r e n	native	proper_noun	rule
+1347	ওয়ারেন্ট	O y a r e n T	native	loanword	rule
+1348	ওয়ারেন্টি	O y a r e n T i	native	loanword	rule
+1349	ওয়ারেন্টিসহ	O y a r e n T i sh o h O	native	loanword	rule
+1350	ওয়ারেন্টে	O y a r e n T e	native	loanword	rule
+1351	ওয়ারেন্টের	O y a r e n T e r o	native	loanword	rule
+1354	ওয়ার্ক	O a r k	native	loanword	rule
+1355	ওয়ার্কআউট	O a r k a u T	native	loanword	rule
+1356	ওয়ার্কওভার	O y a r k O bh a r	native	loanword	rule
+1357	ওয়ার্কচার্জড	O y a r k ch a r j o D	native	loanword	rule
+1358	ওয়ার্কশপ	O y a r k sh o p	native	loanword	rule
+1359	ওয়ার্কশপে	O y a r k sh o p e	native	loanword	rule
+1360	ওয়ার্কশপের	O y a r k sh o p e r	native	loanword	rule
+1361	ওয়ার্কস	O a r k s	native	loanword	rule
+1362	ওয়ার্কসের	O y a r k s e r	native	loanword	rule
+1363	ওয়ার্কার	O y a r k a r	native	loanword	rule
+1364	ওয়ার্কার্স	O a r k a r s	native	loanword	rule
+1365	ওয়ার্কিং	O y a r k i ng	native	loanword	rule
+1366	ওয়ার্কের	O y a r k e r	native	loanword	rule
+1367	ওয়ার্ডকে	O y a r D k e	native	loanword	rule
+1368	ওয়ার্ডগুলোতে	O y a r D g u l O t e	native	loanword	rule
+1369	ওয়ার্ডগুলোর	O y a r D g u l O r	native	loanword	rule
+1370	ওয়ার্ডপ্রেস	O y a r D pr e s	native	proper_noun	rule
+1371	ওয়ার্ডবয়	O y a r D b o y	native	loanword	rule
+1372	ওয়ার্ডভিত্তিক	O y a r D bh i tt i k	compound	loanword	rule
+1373	ওয়ার্ডরোব	O y a r D r O b	native	loanword	rule
+1374	ওয়ার্ডস	O y a r D s	native	loanword	rule
+1375	ওয়ার্ডসভা	O y a r D sh o bh a	native	loanword	rule
+1376	ওয়ার্ডসভার	O y a r D sh o bh a r	native	loanword	rule
+1377	ওয়ার্ডসের	O y a r D s e r	native	loanword	rule
+1378	ওয়ার্ডে	O y a r D e	native	loanword	rule
+1379	ওয়ার্ডেই	O y a r D e i	native	loanword	rule
+1380	ওয়ার্ডেও	O y a r D e O	native	loanword	rule
+1381	ওয়ার্ডের	O y a r D e r	native	loanword	rule
+1383	ওয়ার্ন	O y a r n	native	loanword	rule
+1384	ওয়ার্নকে	O y a r n k e	native	loanword	rule
+1385	ওয়ার্নার	O y a r n a r	native	proper_noun	rule
+1386	ওয়ার্নারকে	O y a r n a r k e	native	proper_noun	rule
+1387	ওয়ার্নারের	O y a r n a r e r	native	proper_noun	rule
+1388	ওয়ার্নিং	O y a r n i ng	native	loanword	rule
+1389	ওয়ার্নের	O y a r n e r	native	loanword	rule
+1390	ওয়ার্ম	O y a r m	native	loanword	rule
+1391	ওয়ার্মআপ	O y a r m a p	native	loanword	rule
+1392	ওয়ার্মআপের	O y a r m a p e r	native	loanword	rule
+1393	ওয়ার্মটি	O y a r m T i	native	loanword	rule
+1394	ওয়ার্ল্ড	O y a r l D	native	loanword	rule
+1395	ওয়ার্ল্ডওয়াইড	O y a r l D O y a i D	compound	loanword	rule
+1396	ওয়ার্ল্ডকাপ	O a r l D k a p	native	loanword	rule
+1397	ওয়ার্ল্ডকে	O y a r l D k e	native	loanword	rule
+1398	ওয়ার্ল্ডটেল	O y a r l D T e l	native	proper_noun	rule
+1399	ওয়ার্ল্ডটেলের	O y a r l D T e l e r	compound	proper_noun	rule
+1400	ওয়ার্ল্ডস	O y a r l D s	native	loanword	rule
+1401	ওয়ার্ল্ডে	O y a r l D e	native	loanword	rule
+1402	ওয়ার্ল্ডের	O y a r l D e r	native	loanword	rule
+1404	ওয়ার্স	O y a r s	native	loanword	rule
+1405	ওয়ার্সা	O y a r s a	native	proper_noun	rule
+1406	ওয়াল	O y a l	native	loanword	rule
+1407	ওয়ালকট	O y a l k o T	native	proper_noun	rule
+1408	ওয়ালকটকে	O y a l k o T k e	native	proper_noun	rule
+1409	ওয়ালকটের	O y a l k o T e r	native	proper_noun	rule
+1410	ওয়ালটন	O y a l T o n	native	proper_noun	rule
+1411	ওয়ালটনের	O y a l T o n e r	native	proper_noun	rule
+1412	ওয়ালটার	O y a l T a r	native	proper_noun	rule
+1413	ওয়ালথাম	O y a l th a m	native	proper_noun	rule
+1414	ওয়ালদো	O y a l d O	native	proper_noun	rule
+1415	ওয়ালপেপার	O y a l p e p a r	native	loanword	rule
+1416	ওয়ালমার্ট	O a l m a r T	native	proper_noun	rule
+1417	ওয়ালমার্টের	O y a l m a r T e r	native	proper_noun	rule
+1418	ওয়ালশ	O y a l sh	native	proper_noun	rule
+1419	ওয়ালশের	O y a l sh e r	native	proper_noun	rule
+1420	ওয়ালস	O y a l s	native	loanword	rule
+1442	ওয়ালে	O y a l e	native	loanword	rule
+1443	ওয়ালেট	O y a l e T	native	loanword	rule
+1445	ওয়ালের	O y a l e r	native	loanword	rule
+1446	ওয়ালেস	O y a l e s	native	proper_noun	rule
+1447	ওয়ালেসকে	O y a l e s k e	native	proper_noun	rule
+1448	ওয়ালেসের	O y a l e s e r	native	proper_noun	rule
+1449	ওয়াল্ট	O y a l T	native	proper_noun	rule
+1450	ওয়াল্টন	O y a l T o n	native	proper_noun	rule
+1451	ওয়াল্টার	O y a l T a r	native	proper_noun	rule
+1452	ওয়াল্টারকে	O y a l T a r k e	native	proper_noun	rule
+1453	ওয়াল্টার্স	O y a l T a r s	native	proper_noun	rule
+1454	ওয়াল্ডনার	O y a l D n a r	native	proper_noun	rule
+1455	ওয়াশ	O y a sh	native	loanword	rule
+1458	ওয়াশিং	O y a sh i ng	native	loanword	rule
+1459	ওয়াশিংটন	O a sh i ng T o n	native	proper_noun	rule
+1460	ওয়াশিংটনকে	O y a sh i ng T o n k e	native	proper_noun	rule
+1461	ওয়াশিংটনভিত্তিক	O y a sh i ng T o n bh i tt i k	compound	proper_noun	rule
+1462	ওয়াশিংটনসহ	O y a sh i ng T o n sh o h O	native	proper_noun	rule
+1463	ওয়াশিংটনে	O y a sh i ng T o n e	native	proper_noun	rule
+1464	ওয়াশিংটনের	O y a sh i ng T o n e r	native	proper_noun	rule
+1465	ওয়াশিমা	O y a sh i m a	native	proper_noun	rule
+1466	ওয়াশিমার	O y a sh i m a r	native	proper_noun	rule
+1475	ওয়াসা	O y a s a	native	loanword	rule
+1476	ওয়াসাকে	O y a s a k e	native	loanword	rule
+1477	ওয়াসার	O y a s a r	native	loanword	rule
+1478	ওয়াসাসহ	O y a s a sh o h O	native	loanword	rule
+1479	ওয়াসায়	O y a s a y	native	loanword	rule
+1523	ওয়ে	O y e	native	loanword	rule
+1524	ওয়েং	O y e ng	native	proper_noun	rule
+1525	ওয়েংগার	O y e ng g a r	native	proper_noun	rule
+1526	ওয়েংগারকে	O y e ng g a r o k e	native	proper_noun	rule
+1527	ওয়েংগারের	O y e ng g a r e r	native	proper_noun	rule
+1528	ওয়েই	O y e i	native	proper_noun	rule
+1529	ওয়েইন	O y e i n	native	proper_noun	rule
+1530	ওয়েইনবাম	O y e i n b a m	native	proper_noun	rule
+1531	ওয়েইনার	O y e i n a r	native	proper_noun	rule
+1532	ওয়েইমিন	O y e i m i n	native	proper_noun	rule
+1533	ওয়েউং	O y e u ng	native	proper_noun	rule
+1534	ওয়েক	O y e k	native	loanword	rule
+1535	ওয়েকলিন	O y e k l i n	native	proper_noun	rule
+1538	ওয়েজ	O y e j	native	loanword	rule
+1539	ওয়েজবোর্ড	O y e j b O r D	native	loanword	rule
+1540	ওয়েজবোর্ডের	O y e j o b O r D e r	native	loanword	rule
+1541	ওয়েট	O y e T	native	loanword	rule
+1542	ওয়েটল্যান্ডস	O y e T l A n D s	native	loanword	rule
+1543	ওয়েটারকে	O y e T a r k e	native	loanword	rule
+1544	ওয়েটারদের	O y e T a r d e r	native	loanword	rule
+1545	ওয়েটিং	O y e T i ng r u m	native	loanword	rule
+1547	ওয়েড	O y e D	native	proper_noun	rule
+1548	ওয়েডল	O y e D o l	native	proper_noun	rule
+1549	ওয়েডস	O y e D s	native	proper_noun	rule
+1550	ওয়েডিং	O y e D i ng	native	loanword	rule
+1551	ওয়েডের	O y e D e r	native	proper_noun	rule
+1556	ওয়েদার	O y e d a r	native	loanword	rule
+1557	ওয়েদারপ্রুফ	O y e d a r pr u ph o	native	loanword	rule
+1558	ওয়েদারলির	O y e d a r o l i r	native	proper_noun	rule
+1559	ওয়েন	O y e n	native	proper_noun	rule
+1560	ওয়েনের	O y e n e r	native	proper_noun	rule
+1561	ওয়েন্ডি	O y e n D i	native	proper_noun	rule
+1563	ওয়েব	O y e b	native	loanword	rule
+1564	ওয়েবকে	O y e b k e	native	loanword	rule
+1566	ওয়েবপেজ	O y e b p e j	native	loanword	rule
+1567	ওয়েবভিত্তিক	O y e b bh i tt i k	native	loanword	rule
+1569	ওয়েবলিংক	O y e b l i ng k	native	loanword	rule
+1570	ওয়েবসাইটই	O y e b s a i T i	native	loanword	rule
+1571	ওয়েবসাইটও	O y e b s a i T O	native	loanword	rule
+1572	ওয়েবসাইটকে	O y e b s a i T k e	native	loanword	rule
+1573	ওয়েবসাইটগুলো	O y e b s a i T g u l O	native	loanword	rule
+1574	ওয়েবসাইটগুলোতে	O y e b s a i T g u l O t e	compound	loanword	rule
+1575	ওয়েবসাইটগুলোতেও	O y e b s a i T g u l O t e O	compound	loanword	rule
+1576	ওয়েবসাইটগুলোর	O y e b s a i T g u l O r	compound	loanword	rule
+1577	ওয়েবসাইটটি	O y e b s a i T T i	native	loanword	rule
+1578	ওয়েবসাইটটিতে	O y e b s a i T T i t e	native	loanword	rule
+1579	ওয়েবসাইটটির	O y e b s a i T T i r	native	loanword	rule
+1580	ওয়েবসাইটসহ	O y e b s a i T sh o h O	native	loanword	rule
+1581	ওয়েবসাইটির	O y e b s a i T i r	native	loanword	rule
+1582	ওয়েবসাইটে	O y e b s a i T e	native	loanword	rule
+1583	ওয়েবসাইটেই	O y e b s a i T e i	native	loanword	rule
+1584	ওয়েবসাইটেও	O y e b s a i T e O	native	loanword	rule
+1585	ওয়েবসাইটের	O y e b s a i T e r	native	loanword	rule
+1586	ওয়েবসাইটেরও	O y e b s a i T e r O	native	loanword	rule
+1587	ওয়েবসেনস	O y e b s e n s	native	loanword	rule
+1588	ওয়েবার	O y e b a r	native	proper_noun	rule
+1590	ওয়েবে	O y e b e	native	loanword	rule
+1591	ওয়েবের	O y e b e r	native	loanword	rule
+1592	ওয়েভ	O y e bh	native	loanword	rule
+1595	ওয়েভিং	O y e bh i ng	native	loanword	rule
+1597	ওয়েভের	O y e bh e r	native	loanword	rule
+1598	ওয়েমার	O y e m a r	native	proper_noun	rule
+1599	ওয়েম্বলি	O y e mb l i	native	proper_noun	rule
+1600	ওয়েম্বলিতে	O y e mb l i t e	native	proper_noun	rule
+1601	ওয়েম্বলির	O y e mb l i r	native	proper_noun	rule
+1604	ওয়েল	O y e l	native	loanword	rule
+1605	ওয়েলকাম	O y e l k a m	native	loanword	rule
+1606	ওয়েলডন	O y e l D o n	native	loanword	rule
+1607	ওয়েলথ	O y e l th	native	loanword	rule
+1609	ওয়েলবেক	O y e l b e k	native	proper_noun	rule
+1610	ওয়েলশ	O y e l sh	native	loanword	rule
+1611	ওয়েলস	O y e l s	native	proper_noun	rule
+1612	ওয়েলসে	O y e l s e	native	proper_noun	rule
+1613	ওয়েলসের	O y e l s e r	native	proper_noun	rule
+1614	ওয়েলিংটন	O y e l i ng T o n	native	proper_noun	rule
+1615	ওয়েলিংটনে	O y e l i ng T o n e	native	proper_noun	rule
+1616	ওয়েলিংটনের	O y e l i ng T o n e r	native	proper_noun	rule
+1620	ওয়েলেসলি	O y e l e s l i	native	proper_noun	rule
+1621	ওয়েল্ডিং	O y e l D i ng	native	loanword	rule
+1623	ওয়েস	O y e s	native	proper_noun	rule
+1624	ওয়েসফার্মারস	O y e s ph a r m a r s	native	proper_noun	rule
+1625	ওয়েসলি	O y e s l i	native	proper_noun	rule
+1626	ওয়েসিস	O y e s i s	native	loanword	rule
+1627	ওয়েসেলস	O y e s e l o s	native	proper_noun	rule
+1650	ওয়্যার	O y A r	native	loanword	rule
+1651	ওয়্যারলেস	O e j a r l e s	native	loanword	rule
+1652	ওয়্যারলেসে	O y A r l e s e	native	loanword	rule
+1653	ওয়্যারলেসের	O y A r l e s e r	native	loanword	rule
+1654	ওয়্যারস	O y A r s	native	loanword	rule
+1655	ওয়্যারহাউস	O y A r h a u s	native	loanword	rule
+1656	ওয়্যারহাউসে	O y A r h a u s e	native	loanword	rule
+1657	ওয়্যারিং	O y A r i ng	native	loanword	rule
+1658	ওয়্যারের	O y A r e r	native	loanword	rule
+1675	কংক্রিট	k o ng k ri T	native	loanword	rule
+1676	কংক্রিটে	k o ng k ri T e	native	loanword	rule
+1677	কংক্রিটের	k o ng k ri T e r	native	loanword	rule
+1680	কংগো	k o ng g O	native	proper_noun	rule
+1681	কংগোতে	k o ng g O t e	native	proper_noun	rule
+1682	কংগোর	k o ng g O r	native	proper_noun	rule
+1683	কংগোয়	k o ng g O y	native	proper_noun	rule
+1684	কংগ্রেশনাল	k o ng gr e sh o n a l	native	loanword	rule
+1685	কংগ্রেস	k o ng gr e s	native	loanword	rule
+1686	কংগ্রেসই	k o ng gr e s i	native	loanword	rule
+1687	কংগ্রেসও	k o ng gr e s O	native	loanword	rule
+1688	কংগ্রেসকে	k o ng gr e s k e	native	loanword	rule
+1689	কংগ্রেসদলিয়	k o ng gr e s d o l i y o	native	loanword	rule
+1690	কংগ্রেসনেতা	k o ng gr e s n e t a	native	loanword	rule
+1691	কংগ্রেসবিরোধি	k o ng gr e s b i r O dh i	compound	loanword	rule
+1692	কংগ্রেসম্যান	k o ng gr e s m A n	native	loanword	rule
+1693	কংগ্রেসম্যানদের	k o ng gr e s m A n d e r	compound	loanword	rule
+1694	কংগ্রেসম্যানরা	k o ng gr e s m A n r a	compound	loanword	rule
+1695	কংগ্রেসম্যানের	k o ng gr e s m A n e r	compound	loanword	rule
+1696	কংগ্রেসে	k o ng gr e s e	native	loanword	rule
+1697	কংগ্রেসের	k o ng gr e s e r	native	loanword	rule
+1704	কং্গো	k o ng g O	native	proper_noun	rule
+1756	ককটেল	k o k T e l	native	loanword	rule
+1757	ককটেলগুলো	k o k T e l g u l O	native	loanword	rule
+1758	ককটেলসদৃশ	k o k T e l sh o d ri sh	tatsama	loanword	rule
+1759	ককটেলসহ	k o k T e l sh o h O	native	loanword	rule
+1760	ককটেলে	k o k T e l e	native	loanword	rule
+1761	ককটেলের	k o k T e l e r	native	loanword	rule
+1762	ককপিট	k o k p i T	native	loanword	rule
+1764	ককসিডাইনিয়া	k o k s i D a i n i y a	native	loanword	rule
+1765	ককসিস	k o k s i s	native	loanword	rule
+1766	ককসিসের	k o k s i s e r	native	loanword	rule
+1768	ককাস	k o k a s	native	loanword	rule
+1769	ককাসে	k o k a s e	native	loanword	rule
+1770	ককাসের	k o k a s e r	native	loanword	rule
+1774	ককেশাস	k o k e sh a sh	native	proper_noun	rule
+1775	ককেশাসের	k o k e sh a sh e r	native	proper_noun	rule
+1776	ককেশিয়	k o k e sh i y	native	loanword	rule
+1777	ককেসাস	k o k e s a s	native	proper_noun	rule
+1809	কগনিটিভ	k o g n i T i bh	native	loanword	rule
+1863	কজওয়ে	k o j O y e	native	loanword	rule
+1870	কজেস	k o j e s	native	proper_noun	rule
+1880	কঞ্জুমারস	k o nj u m a r s	tatsama	loanword	rule
+1889	কটন	k o T O n	native	loanword	rule
+1890	কটনসহ	k o T O n sh o h O	native	loanword	rule
+1891	কটনের	k o T O n e r	native	loanword	rule
+1893	কটলার	k o T l a r	native	proper_noun	rule
+1894	কটলারের	k o T l a r e r	native	proper_noun	rule
+1919	কটেজ	k o T e j	native	loanword	rule
+1920	কটেজগুলো	k o T e j g u l O	native	loanword	rule
+1921	কটেজগুলোতে	k o T e j g u l O t e	native	loanword	rule
+1922	কটেজে	k o T e j e	native	loanword	rule
+1923	কটেজের	k o T e j e r	native	loanword	rule
+2090	কনওয়ে	k o n O y e	native	proper_noun	rule
+2095	কনকর্ড	k o n k o r D	native	proper_noun	rule
+2096	কনকর্ডিয়া	k o n k o r D i y a	native	proper_noun	rule
+2099	কনকারেন্ট	k o n k a r e n T	native	loanword	rule
+2100	কনকেভিটি	k o n k e bh i T i	native	loanword	rule
+2102	কনকোফিলিপসের	k o n k O ph i l i p s e r	native	proper_noun	rule
+2103	কনক্যাকাফ	k o n k e k a ph	native	proper_noun	rule
+2104	কনক্রিট	k o n kr i T	native	loanword	rule
+2105	কনজাংটিভাইটিস	k o n j a ng T i bh a i T i s	compound	loanword	rule
+2106	কনজারভেটিভ	k o n j a r bh e T i bh	native	loanword	rule
+2107	কনজারভেটিভদের	k o n j a r bh e T i bh d e r	compound	loanword	rule
+2108	কনজারভেটিভরা	k o n j a r bh e T i bh r a	native	loanword	rule
+2109	কনজিউমার	k o n j i u m a r	native	loanword	rule
+2110	কনজুমার	k O n j u m a r	native	loanword	rule
+2111	কনজুমারস	k o n j u m a r s	native	loanword	rule
+2112	কনজ্যুমার	k o n j u m a r	native	loanword	rule
+2113	কনজ্যুমারস	k o n j u m a r s	native	loanword	rule
+2114	কনটাক্ট	k o n T a k T	native	loanword	rule
+2115	কনটিনজেন্ট	k o n T i n j e n T	native	loanword	rule
+2117	কনটিনিউড	k o n T i n i u D	native	loanword	rule
+2118	কনটেইনার	k o n T e i n a r	native	loanword	rule
+2119	কনটেইনারগুলো	k o n T e i n a r g u l O	native	loanword	rule
+2120	কনটেইনারটি	k O n T e i n a r T i	native	loanword	rule
+2121	কনটেইনারপ্রতি	k o n T e i n a r pr o t i	compound	loanword	rule
+2122	কনটেইনারবাহি	k o n T e i n a r b a h i	native	loanword	rule
+2123	কনটেইনারস	k o n T e i n a r s	native	loanword	rule
+2124	কনটেইনারে	k o n T e i n a r e	native	loanword	rule
+2125	কনটেইনারের	k o n T e i n a r e r	native	loanword	rule
+2126	কনটেইনার্স	k o n T e i n a r s	native	loanword	rule
+2128	কনটেন্ট	k o n T e n T	native	loanword	rule
+2129	কনটেন্টটি	k o n T e n T T i	native	loanword	rule
+2130	কনটেন্টটির	k o n T e n T T i r	native	loanword	rule
+2131	কনটেন্টের	k o n T e n T e r	native	loanword	rule
+2136	কনট্যাক্ট	k o n T A k T	native	loanword	rule
+2139	কনডম	k o n D O m	native	loanword	rule
+2140	কনডমের	k o n D O m e r	native	loanword	rule
+2141	কনডাক্ট	k o n D a k T	native	loanword	rule
+2142	কনডেনসড	k o n D e n s o D	native	loanword	rule
+2143	কনডেনসেট	k o n D e n s e T	native	loanword	rule
+2145	কনডেম	k o n D e m	native	loanword	rule
+2146	কনফারমেশন	k o n ph a r m e sh o n	native	loanword	rule
+2151	কনফার্ম	k o n ph a r m	native	loanword	rule
+2153	কনফার্মেশন	k o n ph a r m e sh O n	native	loanword	rule
+2154	কনফিউজড	k o n ph i u j D	native	loanword	rule
+2155	কনফিগার	k o n ph i g a r	native	loanword	rule
+2156	কনফিগারেশনের	k o n ph i g a r e sh o n e r	native	loanword	rule
+2159	কনফুসিয়াস	k o n ph u s i y a s	native	proper_noun	rule
+2160	কনফেকশনারিতে	k o n ph e k sh o n a r i t e	native	loanword	rule
+2161	কনফেকশনারির	k o n ph e k sh o n a r i r	native	loanword	rule
+2162	কনফেডারেশন	k o n ph e D a r e sh o n	native	loanword	rule
+2163	কনফেডারেশনস	k o n ph e D a r e sh o n sh	native	loanword	rule
+2166	কনভারশন	k o n bh a r sh o n	native	loanword	rule
+2167	কনভারসন	k o n bh a r s o n	native	loanword	rule
+2168	কনভার্ট	k o n bh a r T	native	loanword	rule
+2169	কনভার্টেবল	k o n bh a r T e b o l	native	loanword	rule
+2170	কনভার্স	k o n bh a r s	native	loanword	rule
+2171	কনভার্সন	k o n bh a r s o n	native	loanword	rule
+2172	কনভেনশনগুলো	k o n bh e n sh o n g u l O	native	loanword	rule
+2173	কনভেনশনটি	k o n bh e n sh o n T i	native	loanword	rule
+2174	কনভেনশনটিতে	k o n bh e n sh o n T i t e	native	loanword	rule
+2175	কনভেনশনে	k o n bh e n sh o n e	native	loanword	rule
+2176	কনভেশন	k o n bh e sh o n	native	loanword	rule
+2177	কনভোকেশন	k o n bh O k e sh o n	native	loanword	rule
+2178	কনভয়	k o n bh o y	native	loanword	rule
+2181	কনরাড	k o n r a D	native	proper_noun	rule
+2182	কনরাডের	k o n r a D e r	native	proper_noun	rule
+2183	কনরার্ড	k o n r a r D	native	proper_noun	rule
+2184	কনরের	k o n r e r	native	proper_noun	rule
+2185	কনসপাইরেসি	k o n s p a i r e s i	native	loanword	rule
+2186	কনসারটেশিয়ন	k o n sh a r T e sh i y o n	native	loanword	rule
+2187	কনসারটেশিয়নের	k o n sh a r T e sh i y o n e r	compound	loanword	rule
+2188	কনসার্টটি	k o n s a r T T i	native	loanword	rule
+2189	কনসার্টে	k o n s a r T e	native	loanword	rule
+2190	কনসার্টের	k o n s a r T e r	native	loanword	rule
+2191	কনসার্ন	k o n s a r n	native	loanword	rule
+2192	কনসাল	k o n s a l	native	loanword	rule
+2193	কনসালটিং	k o n s a l T i ng	native	loanword	rule
+2194	কনসালটেটিভ	k o n s a l T e T i bh	native	loanword	rule
+2195	কনসালটেন্ট	k o n s a l T e n T	native	loanword	rule
+2197	কনসালটেশন	k o n sh a l T e sh o n	native	loanword	rule
+2198	কনসালট্যান্ট	k o n s a l T A n T	native	loanword	rule
+2199	কনসালট্যান্টরা	k o n s a l T e n T o r a	compound	loanword	rule
+2200	কনসালট্যান্টস	k o n s a l T e n T o s	compound	loanword	rule
+2201	কনসালট্যান্টসহ	k o n s a l T e n T sh o h O	compound	loanword	rule
+2202	কনসালট্যান্টের	k o n s a l T e n T e r	compound	loanword	rule
+2205	কনসাল্ট	k o n s a l T	native	loanword	rule
+2206	কনসিভ	k o n s i bh	native	loanword	rule
+2207	কনসিলার	k o n s i l a r	native	loanword	rule
+2208	কনসুলার	k o n s u l a r	native	loanword	rule
+2209	কনসুলেট	k o n s u l e T	native	loanword	rule
+2210	কনসুলেটে	k o n s u l e T e	native	loanword	rule
+2211	কনসুলেটের	k o n s u l e T e r	native	loanword	rule
+2212	কনসেপসিওন	k o n s e p s i O n	native	proper_noun	rule
+2213	কনসেপ্ট	k o n s e p T	native	loanword	rule
+2214	কনসোর্টিয়াম	k o n s O r T i y a m	native	loanword	rule
+2215	কনসোর্টিয়ামের	k o n s O r T i y a m e r	compound	loanword	rule
+2216	কনসোল	k o n s O l	native	loanword	rule
+2217	কনসোলটি	k o n s O l T i	native	loanword	rule
+2218	কনসোলটির	k o n s O l T i r	native	loanword	rule
+2228	কনস্যুলার	k o n s u l a r	native	loanword	rule
+2229	কনস্যুলেট	k o n s u l e T	native	loanword	rule
+2230	কনস্যুলেটে	k o n s u l e T e	native	loanword	rule
+2258	কনোকো	k o n O k O	native	proper_noun	rule
+2259	কনোকোফিলিপস	k o n O k O ph i l i p s	native	proper_noun	rule
+2260	কনোকোফিলিপসকে	k o n O k O ph i l i p s k e	compound	proper_noun	rule
+2261	কনোকোফিলিপসের	k o n O k O ph i l i p s e r	compound	proper_noun	rule
+2262	কনোকোর	k o n O k O r	native	proper_noun	rule
+2270	কন্টিনজেন্ট	k o n T i n j e n T	native	loanword	rule
+2271	কন্টিনিউ	k o n T i n i u	native	loanword	rule
+2272	কন্টিনিউড	k o n T i n i u D	native	loanword	rule
+2273	কন্টিনেন্ট	k o n T i n e n T	native	loanword	rule
+2274	কন্টিনেন্টাল	k o n T i n e n T a l	native	loanword	rule
+2275	কন্টেইনার	k o n T e i n a r	native	loanword	rule
+2276	কন্টেইনারটি	k o n T e i n a r T i	native	loanword	rule
+2277	কন্টেইনারস	k o n T e i n a r s	native	loanword	rule
+2278	কন্টেইনারে	k o n T e i n a r e	native	loanword	rule
+2279	কন্টেন্ট	k o n T e n T	native	loanword	rule
+2280	কন্ট্যাক্ট	k o n T A k T	native	loanword	rule
+2281	কন্ট্যাক্টমিউজিক	k o n T a k T m i u j i k	compound	loanword	rule
+2324	কন্ডাক্ট	k o n D a k T	native	loanword	rule
+2325	কন্ডাক্টর	k o n D a k T O r	native	loanword	rule
+2327	কন্ডিশন	k o n D i sh O n	native	loanword	rule
+2328	কন্ডিশনকে	k o n D i sh o n k e	native	loanword	rule
+2329	কন্ডিশনটা	k o n D i sh o n T a	native	loanword	rule
+2330	কন্ডিশনার	k o n D i sh o n a r	native	loanword	rule
+2331	কন্ডিশনারের	k o n D i sh o n a r e r	native	loanword	rule
+2332	কন্ডিশনিং	k o n D i sh O n i ng	native	loanword	rule
+2333	কন্ডিশনে	k o n D i sh o n e	native	loanword	rule
+2334	কন্ডিশনেও	k o n D i sh o n e O	native	loanword	rule
+2335	কন্ডিশনের	k o n D i sh O n e r	native	loanword	rule
+2336	কন্ডোল	k o n D O l	native	loanword	rule
+2337	কন্ডোলিৎসা	k o n D O l i t s a	native	proper_noun	rule
+2372	কপটিক	k o p T i k	native	loanword	rule
+2381	কপারের	k o p a r e r	native	loanword	rule
+2410	কপিয়ার	k o p i y a r	native	loanword	rule
+2416	কপোরেশনের	k o p O r e sh o n e r	native	loanword	rule
+2418	কপ্টার	k o p T a r	native	loanword	rule
+2422	কফিতে	k o ph i t e	native	loanword	rule
+2423	কফিন	k o ph i n	native	loanword	rule
+2424	কফিনটি	k o ph i n T i	native	loanword	rule
+2425	কফিনে	k o ph i n e	native	loanword	rule
+2426	কফিনের	k o ph i n e r	native	loanword	rule
+2427	কফির	k o ph i r	native	loanword	rule
+2432	কফিশপে	k o ph i sh o p e	native	loanword	rule
+2538	কভার	k o bh a r	native	loanword	rule
+2539	কভারেজ	k o bh a r e j	native	loanword	rule
+2540	কভারের	k o bh a r e r	native	loanword	rule
+2541	কভার্ড	k o bh a r D	native	loanword	rule
+2542	কভার্ডভ্যান	k o bh a r D bh A n	native	loanword	rule
+2559	কমটেক	k o m T e k	native	loanword	rule
+2561	কমডোর	k o m D O r	native	loanword	rule
+2567	কমন	k o m O n	native	loanword	rule
+2568	কমনওয়েলথ	k o m o n O y e l th	native	loanword	rule
+2569	কমনওয়েলথভুক্ত	k o m o n O y e l th bh u kt o	compound	loanword	rule
+2570	কমনওয়েলথে	k o m o n O y e l th e	native	loanword	rule
+2571	কমনওয়েলথের	k o m o n O y e l th e r	native	loanword	rule
+2573	কমনরুম	k o m o n r u m	native	loanword	rule
+2574	কমনরুমে	k o m o n r u m e	native	loanword	rule
+2575	কমনস	k o m o n s	native	loanword	rule
+2577	কমনসের	k o m o n s e r	native	loanword	rule
+2585	কমপিউটার	k o m p i u T a r	native	loanword	rule
+2586	কমপিউটারের	k o m p i u T a r e r	native	loanword	rule
+2587	কমপেনসেশন	k o m p e n sh e sh o n	native	loanword	rule
+2589	কমপ্যাক	k o m p A k o	native	loanword	rule
+2590	কমপ্যাক্ট	k o m p A k T	native	loanword	rule
+2591	কমপ্রিহেনসিভ	k o m pr i h e n s i bh	native	loanword	rule
+2592	কমপ্রেসার	k o m pr e s a r	native	loanword	rule
+2603	কমফোর্ট	k o m ph O r T	native	loanword	rule
+2607	কমব্যাটিং	k o m b A T i ng	native	loanword	rule
+2612	কমরেড	k o m r e D	native	loanword	rule
+2613	কমরেডকে	k o m r e D k e	native	loanword	rule
+2614	কমরেডদের	k o m r e D d e r	native	loanword	rule
+2615	কমরেডরা	k o m r e D r a	native	loanword	rule
+2616	কমরেডের	k o m r e D e r	native	loanword	rule
+2651	কমানডেন্ট	k o m a n D e n T	native	loanword	rule
+2658	কমান্ড	k o m a n D	native	loanword	rule
+2659	কমান্ডকে	k o m a n D k e	native	loanword	rule
+2660	কমান্ডার	k o m a n D a r	native	loanword	rule
+2661	কমান্ডারকে	k o m a n D a r k e	native	loanword	rule
+2662	কমান্ডারদের	k o m a n D a r d e r	native	loanword	rule
+2663	কমান্ডাররা	k o m a n D a r r a	native	loanword	rule
+2664	কমান্ডারস	k o m a n D a r s	native	loanword	rule
+2665	কমান্ডারসহ	k o m a n D a r sh o h O	native	loanword	rule
+2666	কমান্ডারের	k o m a n D a r e r	native	loanword	rule
+2667	কমান্ডার্স	k o m a n D a r s	native	loanword	rule
+2668	কমান্ডিং	k o m a n D i ng	native	loanword	rule
+2669	কমান্ডে	k o m a n D e	native	loanword	rule
+2670	কমান্ডেন্ট	k o m a n D e n T	native	loanword	rule
+2671	কমান্ডের	k o m a n D e r	native	loanword	rule
+2672	কমান্ডো	k o m a n D O	native	loanword	rule
+2673	কমান্ডোদের	k o m a n D O d e r	native	loanword	rule
+2674	কমান্ডোর	k o m a n D O r	native	loanword	rule
+2675	কমান্ডোরা	k O m a n D O r a	native	loanword	rule
+2676	কমান্ড্যান্ট	k o m a n D e n T	native	loanword	rule
+2681	কমার্শিয়াল	k o m a r sh i a l	native	loanword	rule
+2682	কমার্স	k o m a r s	native	loanword	rule
+2683	কমার্সে	k o m a r s e	native	loanword	rule
+2756	কমিশিয়ার	k o m i sh i y a r	native	loanword	rule
+2757	কমিসার	k o m i s a r	native	loanword	rule
+2758	কমিসেরিয়েট	k O m i s e r i y e T	native	loanword	rule
+2772	কমেট	k o m e T	native	loanword	rule
+2774	কমেন্টস	k o m e n T s	native	loanword	rule
+2775	কমেন্টে	k o m e n T e	native	loanword	rule
+2776	কমেন্টেটর	k o m e n T e T o r	native	loanword	rule
+2839	কম্পিটারের	k o mp i T a r e r	native	loanword	rule
+2873	করকমিশনার	k o r k o m i sh o n a r	native	loanword	rule
+2952	করপাস	k o r p a s	native	loanword	rule
+2954	করপোরাল	k o r p O r a l	native	loanword	rule
+2973	করপোরেশেনের	k o r p O r e sh e n e r	native	loanword	rule
+3116	করিন্থিয়ানস	k o r i n th i y a n s	native	loanword	rule
+3117	করিন্থিয়ানসে	k o r i n th i y a n s e	native	loanword	rule
+3118	করিন্থিয়ানসের	k o r i n th i y a n s e r	compound	loanword	rule
+3198	করেসপনডেন্ট	k o r e s p o n D e n T	native	loanword	rule
+3199	করেসপনডেন্টস	k o r e s p o n D e n T s	native	loanword	rule
+3200	করেসপন্ডেন্ট	k o r e s p o n D e n T	native	loanword	rule
+3203	করোগেটেড	k o r O g e T e D	native	loanword	rule
+3206	করোনারি	k o r O n a r i	native	loanword	rule
+3208	করোনেশন	k o r O n e sh o n	native	loanword	rule
+3214	কর্টানা	k o r T a n a	native	proper_noun	rule
+3215	কর্টানার	k o r T a n a r	native	proper_noun	rule
+3216	কর্ডন	k o r D o n	native	loanword	rule
+3217	কর্ডের	k o r D e r	native	loanword	rule
+3297	কর্নার	k o r n a r	native	loanword	rule
+3298	কর্নারটি	k o r n a r T i	native	loanword	rule
+3299	কর্নারড	k o r n a r D	native	loanword	rule
+3300	কর্নারের	k o r n a r e r	native	loanword	rule
+3303	কর্নিলিয়াস	k o r n i l i y a s	native	proper_noun	rule
+3304	কর্নিয়া	k o r n i y a	native	loanword	rule
+3305	কর্নিয়াজনিত	k o r n i y a j O n i t o	native	loanword	rule
+3306	কর্নিয়ান	k o r n i y a n	native	loanword	rule
+3307	কর্নিয়ার	k o r n i y a r	native	loanword	rule
+3308	কর্নেট	k o r n e T	native	loanword	rule
+3310	কর্নেল	k o r n e l	native	loanword	rule
+3311	কর্নেলকে	k o r n e l k e	native	loanword	rule
+3312	কর্নেলিয়াস	k o r n e l i y a s	native	proper_noun	rule
+3313	কর্নেলের	k o r n e l e r	native	loanword	rule
+3316	কর্পস	k o r p o s	native	loanword	rule
+3319	কর্পোরাল	k o r p O r a l	native	loanword	rule
+3320	কর্পোরেট	k o r p O r e T	native	loanword	rule
+3321	কর্পোরেশন	k o r p O r e sh o n	native	loanword	rule
+3322	কর্পোরেশনকে	k o r p O r e sh o n k e	native	loanword	rule
+3323	কর্পোরেশনে	k o r p O r e sh o n e	native	loanword	rule
+3324	কর্পোরেশনের	k o r p O r e sh o n e r	native	loanword	rule
+3583	কলগার্ল	k o l g a r l	native	loanword	rule
+3606	কলবেল	k o l b e l	native	loanword	rule
+3607	কলবেলের	k o l b e l e r	native	loanword	rule
+3680	কলাপসিবল	k o l a p s i b o l	native	loanword	rule
+3696	কলাম	k o l a m	native	loanword	rule
+3697	কলামজুড়ে	k o l a m j u r e	native	loanword	rule
+3698	কলামটি	k o l a m T i	native	loanword	rule
+3699	কলামটিতে	k o l a m T i t e	native	loanword	rule
+3701	কলামলেখক	k o l a m l e kh O k	native	loanword	rule
+3702	কলামলেখকদের	k o l a m l e kh o k d e r	native	loanword	rule
+3705	কলামে	k o l a m e	native	loanword	rule
+3706	কলামেই	k o l a m e i	native	loanword	rule
+3707	কলামের	k o l a m e r	native	loanword	rule
+3708	কলাম্বিয়া	k o l a mb i y a	native	proper_noun	rule
+3709	কলাম্বিয়ার	k o l a mb i y a r	native	proper_noun	rule
+3719	কলিং	k o l i ng	native	loanword	rule
+3720	কলিংউড	k o l i ng u D	native	proper_noun	rule
+3721	কলিংউডই	k o l i ng u D i	native	proper_noun	rule
+3722	কলিংউডকে	k o l i ng u D k e	native	proper_noun	rule
+3723	কলিংউডের	k o l i ng u D e r	native	proper_noun	rule
+3725	কলিংবেল	k o l i ng b e l	native	loanword	rule
+3731	কলিগ	k o l i g	native	loanword	rule
+3733	কলিজিয়াম	k o l i j i y a m	native	loanword	rule
+3736	কলিন	k o l i n	native	proper_noun	rule
+3754	কলেজই	k o l e j i	native	loanword	rule
+3755	কলেজও	k o l e j O	native	loanword	rule
+3756	কলেজকে	k o l e j k e	native	loanword	rule
+3757	কলেজগামি	k o l e j g a m i	native	loanword	rule
+3758	কলেজগুলো	k o l e j g u l O	native	loanword	rule
+3759	কলেজগুলোও	k o l e j g u l O O	native	loanword	rule
+3760	কলেজগুলোকে	k o l e j g u l O k e	native	loanword	rule
+3761	কলেজগুলোতে	k o l e j g u l O t e	native	loanword	rule
+3762	কলেজগুলোতেও	k o l e j g u l O t e O	native	loanword	rule
+3763	কলেজগুলোয়	k o l e j g u l O y	native	loanword	rule
+3764	কলেজগেট	k o l e j g e T	native	loanword	rule
+3765	কলেজগেটে	k o l e j g e T e	native	loanword	rule
+3766	কলেজছাত্রকে	k o l e j chh a tr O k e	native	loanword	rule
+3767	কলেজছাত্রি	k o l e j chh a tr i	native	loanword	rule
+3768	কলেজছাত্রিকে	k o l e j chh a tr i k e	native	loanword	rule
+3769	কলেজছাত্রির	k o l e j chh a tr i r	native	loanword	rule
+3770	কলেজছাত্রের	k o l e j chh a tr e r	native	loanword	rule
+3771	কলেজজিবন	k o l e j j i b O n | k o l e j j i b o n	native	loanword	rule
+3772	কলেজজিবনে	k o l e j j i b O n e | k o l e j j i b o n e	native	loanword	rule
+3773	কলেজজিবনের	k o l e j j i b o n e r	native	loanword	rule
+3774	কলেজটি	k o l e j T i	native	loanword	rule
+3775	কলেজটিও	k o l e j T i O	native	loanword	rule
+3776	কলেজটিকে	k o l e j T i k e	native	loanword	rule
+3777	কলেজটির	k o l e j T i r	native	loanword	rule
+3778	কলেজপাড়া	k o l e j p a r a	native	loanword	rule
+3779	কলেজপাড়ার	k o l e j p a r a r	native	loanword	rule
+3780	কলেজপাড়ায়	k o l e j p a r a y	native	loanword	rule
+3781	কলেজপড়ুয়া	k o l e j p o r u y a	native	loanword	rule
+3782	কলেজমাঠে	k o l e j m a Th e	native	loanword	rule
+3783	কলেজমাঠের	k o l e j m a Th e r	native	loanword	rule
+3784	কলেজশিক্ষক	k o l e j sh i kkh O k	tatsama	loanword	rule
+3785	কলেজশিক্ষকের	k o l e j sh i k k o k e r	tatsama	loanword	rule
+3786	কলেজশিক্ষার্থি	k o l e j sh i k k a r th i	tatsama	loanword	rule
+3787	কলেজসংলগ্ন	k o l e j sh o ng l o g n o	native	loanword	rule
+3788	কলেজসহ	k o l e j sh o h O	native	loanword	rule
+3789	কলেজহাসপাতালে	k o l e j h a sh p a t a l e	compound	loanword	rule
+3790	কলেজিয়েট	k o l e j i y e T	native	loanword	rule
+3791	কলেজে	k o l e j e	native	loanword	rule
+3792	কলেজেই	k o l e j e i	native	loanword	rule
+3793	কলেজেও	k o l e j e O	native	loanword	rule
+3794	কলেজের	k o l e j e r	native	loanword	rule
+3795	কলেজেরই	k o l e j e r i	native	loanword	rule
+3796	কলেজেরও	k o l e j e r O	native	loanword	rule
+3797	কলেজেস	k o l e j e s	native	loanword	rule
+3808	কলোনির	k o l O n i r	native	loanword	rule
+3809	কলোনিসহ	k o l O n i sh o h O	native	loanword	rule
+3810	কলোনিয়াল	k o l O n i y a l	native	loanword	rule

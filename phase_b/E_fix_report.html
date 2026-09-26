@@ -1,0 +1,157 @@
+<title>E-vowel fix log</title>
+<meta name="description" content="470 lexicon entries where the open-'ae' phoneme (E) was mechanically missing and got corrected against the rule engine.">
+<style>
+:root{{
+  --bg:#faf9f7; --surface:#ffffff; --border:#e4e0da; --border-soft:#eeebe5;
+  --text:#232019; --text-dim:#6b6357; --text-faint:#9b9border;
+  --accent:#8a5a3f; --accent-soft:#f3e7de; --mono-bg:#f4f1ec;
+  --diff-old:#b3483a; --diff-new:#3f7a4f;
+}}
+@media (prefers-color-scheme: dark){{
+  :root:not([data-theme="light"]){{
+    --bg:#1a1815; --surface:#221f1b; --border:#3a352d; --border-soft:#2c2822;
+    --text:#efece5; --text-dim:#b0a897; --text-faint:#77705f;
+    --accent:#d9a476; --accent-soft:#332a20; --mono-bg:#26221c;
+    --diff-old:#e08a7a; --diff-new:#7fc492;
+  }}
+}}
+:root[data-theme="dark"]{{
+  --bg:#1a1815; --surface:#221f1b; --border:#3a352d; --border-soft:#2c2822;
+  --text:#efece5; --text-dim:#b0a897; --text-faint:#77705f;
+  --accent:#d9a476; --accent-soft:#332a20; --mono-bg:#26221c;
+  --diff-old:#e08a7a; --diff-new:#7fc492;
+}}
+*{{box-sizing:border-box}}
+body{{
+  background:var(--bg); color:var(--text); margin:0;
+  font-family:'Source Sans 3',system-ui,-apple-system,sans-serif;
+  padding:28px 16px 48px; padding-block:28px 48px;
+}}
+.wrap{{max-width:920px;margin:0 auto}}
+h1{{
+  font-family:'Fraunces',Georgia,serif; font-weight:600; font-size:1.7rem;
+  margin:0 0 6px; letter-spacing:-0.01em;
+}}
+.sub{{color:var(--text-dim); font-size:0.92rem; margin:0 0 4px; line-height:1.5; max-width:60ch}}
+.sub code{{
+  font-family:'JetBrains Mono',ui-monospace,monospace; font-size:0.85em;
+  background:var(--mono-bg); padding:0.1em 0.4em; border-radius:4px;
+}}
+.stats{{
+  display:flex; gap:18px; flex-wrap:wrap; margin:18px 0 16px;
+}}
+.stat{{
+  background:var(--surface); border:1px solid var(--border); border-radius:10px;
+  padding:10px 16px; min-width:110px;
+}}
+.stat .n{{font-family:'Fraunces',serif; font-size:1.5rem; font-weight:600; font-variant-numeric:tabular-nums}}
+.stat .l{{font-size:0.72rem; color:var(--text-dim); text-transform:uppercase; letter-spacing:0.06em; margin-top:2px}}
+.controls{{
+  display:flex; gap:10px; margin:18px 0 12px; flex-wrap:wrap; align-items:center;
+}}
+input[type="search"]{{
+  flex:1; min-width:180px; background:var(--surface); border:1px solid var(--border);
+  color:var(--text); border-radius:8px; padding:9px 12px; font-size:0.92rem;
+  font-family:inherit;
+}}
+input[type="search"]:focus{{outline:2px solid var(--accent); outline-offset:1px}}
+select{{
+  background:var(--surface); border:1px solid var(--border); color:var(--text);
+  border-radius:8px; padding:9px 10px; font-size:0.88rem; font-family:inherit;
+}}
+.count{{font-size:0.82rem; color:var(--text-faint); white-space:nowrap}}
+.tablewrap{{
+  border:1px solid var(--border); border-radius:12px; overflow:auto;
+  background:var(--surface); max-height:72vh;
+}}
+table{{border-collapse:collapse; width:100%; font-size:0.9rem}}
+thead th{{
+  position:sticky; top:0; background:var(--surface); z-index:1;
+  text-align:left; font-size:0.72rem; text-transform:uppercase; letter-spacing:0.06em;
+  color:var(--text-dim); font-weight:600; padding:10px 14px;
+  border-bottom:1px solid var(--border);
+}}
+tbody td{{padding:9px 14px; border-bottom:1px solid var(--border-soft); vertical-align:top}}
+tbody tr:last-child td{{border-bottom:none}}
+tbody tr:hover{{background:var(--accent-soft)}}
+.word{{font-family:'Noto Sans Bengali','Noto Sans',sans-serif; font-size:1.02rem; white-space:nowrap}}
+.phon{{font-family:'JetBrains Mono',ui-monospace,monospace; font-size:0.82rem; white-space:nowrap}}
+.old .E{{color:var(--diff-old); font-weight:700}}
+.new .E{{color:var(--diff-new); font-weight:700}}
+.arrow{{color:var(--text-faint); padding:0 4px}}
+.src{{font-size:0.74rem; color:var(--text-faint); white-space:nowrap}}
+.empty{{padding:32px; text-align:center; color:var(--text-faint)}}
+</style>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@500;600&family=Source+Sans+3:wght@400;500;600&family=JetBrains+Mono:wght@400;500&family=Noto+Sans+Bengali:wght@400;500&display=swap" rel="stylesheet">
+
+<div class="wrap">
+  <h1>E-vowel fix log</h1>
+  <p class="sub">470 lexicon entries where the rule engine requires the open "ae" phoneme <code>E</code> (as in দেখা &rarr; dEkha) but the entry had plain <code>e</code> instead. Confirmed against <code>g2p_engine.py</code>'s documented word-initial-syllable rule, not a judgment call.</p>
+
+  <div class="stats">
+    <div class="stat"><div class="n">470</div><div class="l">words fixed</div></div>
+    <div class="stat"><div class="n">447</div><div class="l">in lexicon.tsv</div></div>
+    <div class="stat"><div class="n">23</div><div class="l">in 35k&ndash;40k batch</div></div>
+  </div>
+
+  <div class="controls">
+    <input type="search" id="q" placeholder="Filter by word or phonemes&hellip;" autocomplete="off">
+    <select id="srcFilter">
+      <option value="">All sources</option>
+      <option value="lexicon.tsv">lexicon.tsv</option>
+      <option value="lexicon_35k_40k.tsv">lexicon_35k_40k.tsv</option>
+    </select>
+    <span class="count" id="count"></span>
+  </div>
+
+  <div class="tablewrap">
+    <table>
+      <thead>
+        <tr><th>Word</th><th>Before</th><th></th><th>After</th><th>Source</th></tr>
+      </thead>
+      <tbody id="rows"></tbody>
+    </table>
+  </div>
+</div>
+
+<script>
+const DATA = {data_json};
+
+function esc(s) {{ return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }}
+function markE(s) {{ return esc(s).replace(/(^|\s)E(?=\s|$)/g, '<span class="E">E</span>'); }}
+
+const tbody = document.getElementById('rows');
+const qEl = document.getElementById('q');
+const srcEl = document.getElementById('srcFilter');
+const countEl = document.getElementById('count');
+
+function render() {{
+  const q = qEl.value.trim().toLowerCase();
+  const src = srcEl.value;
+  const filtered = DATA.filter(r => {{
+    if (src && r[3] !== src) return false;
+    if (!q) return true;
+    return r[0].toLowerCase().includes(q) || r[1].toLowerCase().includes(q) || r[2].toLowerCase().includes(q);
+  }});
+  countEl.textContent = filtered.length + ' of ' + DATA.length;
+  if (!filtered.length) {{
+    tbody.innerHTML = '<tr><td colspan="5" class="empty">No matches</td></tr>';
+    return;
+  }}
+  tbody.innerHTML = filtered.map(r => (
+    '<tr>' +
+      '<td class="word">' + esc(r[0]) + '</td>' +
+      '<td class="phon old">' + markE(r[1]) + '</td>' +
+      '<td class="arrow">&rarr;</td>' +
+      '<td class="phon new">' + markE(r[2]) + '</td>' +
+      '<td class="src">' + esc(r[3]) + '</td>' +
+    '</tr>'
+  )).join('');
+}}
+
+qEl.addEventListener('input', render);
+srcEl.addEventListener('change', render);
+render();
+</script>

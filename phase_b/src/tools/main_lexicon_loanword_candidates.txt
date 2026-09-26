@@ -1,0 +1,3002 @@
+# 3000 candidates (of 97661 native,tatsama,deshi,tadbhava-tagged words scanned), sorted by loanword-likelihood
+# score	word	phoneme	tag	trigger_window
+3.0940	মহারাষ্ট্রের	m o h a r a s T r e r	tatsama	sTr
+3.0940	রাষ্ট্রগুলোর	r a s T r O g u l O r	tatsama	sTr
+3.0940	রাষ্ট্রদ্রোহের	r a s T r O d r O h e r	tatsama	sTr
+3.0940	রাষ্ট্রপে	r a s T r O p e	tatsama	sTr
+3.0940	ষ্ট্রীটে	s T r i T e	tatsama	sTr
+2.8739	অবস্থাদৃষ্টে	o b O s th a d r i s T e	tatsama	sTe
+2.8739	যিশুখ্রিষ্টের	j i sh u kh r i s T e r	tatsama	sTe
+2.4431	ভিসিডি	bh i s i D i	native	siD
+2.4376	স্টলগুলোতে	s T o l g u l O t e	native	sTo
+2.4281	কার্ডসহ	k a r D sh o h O	native	rDs
+2.4105	এসটি	e s T i	native	esT
+2.4105	নেকলেসটা	n e k l e s T a	native	esT
+2.4105	পিএসটিসি	p i e s T i s i	native	esT
+2.1926	পাসওয়ার্ডটি	p a s O y a r D T i	native	rDT
+2.1909	অনুষ্টানে	O n u s T a n e	tatsama	sTa
+2.1909	অষ্টাদশী	o s T a d O sh i	tatsama	sTa
+2.1909	খ্রিষ্টানরা	kh r i s T a n r a	tatsama	sTa
+2.1909	খ্রিষ্টাব্দ	kh r i s T a b d O	tatsama	sTa
+2.1909	খৃস্টাব্দের	kh r i s T a b d e r	tatsama	sTa
+2.1909	পাসটা	p a s T a	native	sTa
+2.1334	অফিসটি	o ph i s T i	native	sTi
+2.1334	গ্যাসটি	g A s T i	native	sTi
+2.1334	বাসটি	b a s T i	native	sTi
+2.1334	বাসটিকে	b a s T i k e	native	sTi
+2.1306	নেটওয়ার্কসের	n e T o O y a r k s e r	native	kse
+2.0030	গেডমি	g e D m i	native	eDm
+1.9968	ট্যা	T A	native	TA
+1.9724	অবশিষ্ট	o b O sh i s T O	tatsama	sTO
+1.9724	খ্রিস্টধর্মের	kh r i s T O dh o r m e r	native	sTO
+1.9724	খ্রিস্টপূর্বাব্দে	kh r i s T O p u r b a b d e	native	sTO
+1.9516	থাকসিনপন্থি	th a k s i n p o n th i	native	ksi
+1.9274	কানসাট	k a n s a T	native	nsa
+1.9169	নেশনসের	n e sh o n s e r	native	nse
+1.9169	পাবলিকেশনসের	p a b l i k e sh o n s e r	native	nse
+1.9169	ফ্যাশনসে	ph A sh o n s e	native	nse
+1.9169	ফ্যাশনসের	ph A sh O n s e r	native	nse
+1.8948	কেডস	k e D sh	native	eDs
+1.8948	লিয়েডসন	l i y e D sh o n	native	eDs
+1.8679	প্রতিষ্ঠাতা	p r O t i s Th a t a	tatsama	isT
+1.8679	বুদ্ধিস্ট	b u d dh i s T	tatsama	isT
+1.8671	অপারেটরা	o p a r e T r a	native	eTr
+1.8671	উইকেটরক্ষক	u i k e T r o kkh O k	tatsama	eTr
+1.8671	উইকেটরক্ষককে	u i k e T r o kkh o k k e	tatsama	eTr
+1.8671	উইকেটরক্ষকের	u i k e T r o kkh O k e r	tatsama	eTr
+1.8579	এড	e D	native	eD
+1.8526	প্যাটরা	p A T r a	native	ATr
+1.8377	পাইরেটসের	p a i r e T s e r	native	Tse
+1.8377	পার্টসের	p a r T s e r	native	Tse
+1.8307	সেটটিতে	s e T T i t e	native	seT
+1.8307	সেটসহ	s e T sh o h O	native	seT
+1.8307	সেটেই	s e T e i	native	seT
+1.8191	বাল্কহেডটি	b a l k h e D T i	native	eDT
+1.8118	ওয়ারড্রোব	O y a r D r O b	native	rDr
+1.8118	পোলার্ডরা	p O l a r D r a	native	rDr
+1.8108	শেয়ারহোল্ডিং	sh e y a r h O l D i ng	native	lDi
+1.8108	বুকবিল্ডিং	b u k b i l D i ng	native	lDi
+1.7999	কাষ্ঠল	k a s Th O l	tatsama	asT
+1.7979	বাক্স্বাধিনতা	b a k s a dh i n o t a	tatsama	ksa
+1.7752	পোলার্ডকে	p O l a r D k e	native	rDk
+1.7748	ইডরা	i D r a	native	iDr
+1.7748	ইডরাকে	i D r a k e	native	iDr
+1.7748	ইডরার	i D r a r	native	iDr
+1.7740	শেক্সপিয়র	sh e k s p i y o r	native	ksp
+1.7709	কাভার্ডভ্যান	k a bh a r D bh A n	native	rDb
+1.7476	অর্ডিনারি	O r D i n a r i	native	rDi
+1.7476	অর্ডিনেটর	O r D i n e T o r	native	rDi
+1.7476	অর্ডিনেশন	O r D i n e sh o n	native	rDi
+1.7476	আরডি	a r D i	native	rDi
+1.7476	টুর্ডি	T u r D i	native	rDi
+1.7476	টুর্ডিকে	T u r D i k e	native	rDi
+1.7476	টুর্ডির	T u r D i r	native	rDi
+1.7476	ডেরডিয়োক	D e r D i y O k	native	rDi
+1.7476	প্রাইমরডিয়াল	pr a i m o r D i y a l	native	rDi
+1.7475	পিডিএ	p i D i e	native	Die
+1.7475	পিডিএফ	p i D i e ph	native	Die
+1.7415	কিডনি	k i D n i	native	iDn
+1.7415	কিডনী	k i D n i	native	iDn
+1.7294	ফ্যাশনসচেতন	ph A sh o n s o ch e t O n	native	nso
+1.7278	রিডলে	r i D l e	native	iDl
+1.6854	সেনাক্যাম্প	sh e n a k A mp	native	kAm
+1.6854	সেনাক্যাম্পে	sh e n a k A mp e	native	kAm
+1.6845	এজেন্সিজ	e j e n s i j	native	nsi
+1.6845	এজেন্সিজের	e j e n s i j e r	native	nsi
+1.6845	ফরেনসিক	ph o r e n s i k	native	nsi
+1.6845	ফিনানসিয়াল	ph i n a n s i a l	native	nsi
+1.6845	বিএনসি	b i e n s i	native	nsi
+1.6845	বিএনসিসি	b i e n s i s i	native	nsi
+1.6845	বিএনসিসিআই	b i e n s i s i a i	native	nsi
+1.6845	বিএনসিসির	b i e n s i s i r	native	nsi
+1.6761	ওয়াসেল	O y a s e l	native	sel
+1.6761	পার্সেলের	p a r s e l e r	native	sel
+1.6761	বিএসএল	b i e s e l	native	sel
+1.6761	বিজিএসএলের	b i j i e s e l e r	native	sel
+1.6761	পিএলএফএসএল	p i e l e ph e s e l	native	sel
+1.6668	কাকফিল্ডে	k a k ph i l D e	native	lDe
+1.6560	প্যারামেডিক	p A r a m e D i k	native	eDi
+1.6560	অর্থোপেডিক	o r th O p e D i k	native	eDi
+1.6560	অর্থোপেডিকস	o r th O p e D i k sh	native	eDi
+1.6560	আরজেডি	a r j e D i	native	eDi
+1.6560	আরজেডির	a r j e D i r	native	eDi
+1.6560	ইউনিক্রেডিট	i u n i kr e D i T	native	eDi
+1.6560	এডি	e D i	native	eDi
+1.6560	এডিট	e D i T	native	eDi
+1.6560	এডিটিং	e D i T i ng	native	eDi
+1.6560	এডিটোরিয়েল	e D i T O r i y e l	native	eDi
+1.6560	রেডি	r e D i	native	eDi
+1.6560	রেডিও	r e D i O	native	eDi
+1.6560	রেডিওতে	r e D i O t e	native	eDi
+1.6560	রেডিওলজি	r e D i O l O j i	native	eDi
+1.6560	কেনেডি	k e n e D i	native	eDi
+1.6560	পিএডি	p i e D i	native	eDi
+1.6560	পিএডির	p i e D i r	native	eDi
+1.6560	পেডিকিউর	p e D i k i u r	native	eDi
+1.6560	পেডিকিওর	p e D i k i O r	native	eDi
+1.6560	বেডি	b e D i	native	eDi
+1.6560	বেডির	b e D i r	native	eDi
+1.6560	লেডিরোজেটা	l e D i r O j e T a	native	eDi
+1.6486	অর্ডিনেটিং	O r D e n e T i ng	native	rDe
+1.6486	কনকর্ডের	k o n k o r D e r	native	rDe
+1.6486	শিক্ষাবোর্ডে	sh i kkh a b O r D e	tatsama	rDe
+1.6486	কিবোর্ডে	k i b O r D e	native	rDe
+1.6486	কিবোর্ডের	k i b O r D e r	native	rDe
+1.6486	গিলার্ডের	g i l a r D e r	native	rDe
+1.6486	পাসওয়ার্ডের	p a s O y a r D e r	native	rDe
+1.6486	পোলার্ডের	p O l a r D e r	native	rDe
+1.6486	ফদনারডেইল	ph o d o n a r D e i l	native	rDe
+1.6486	বিশ্বরেকর্ডের	b i sh sh O r e k O r D e r	tatsama	rDe
+1.6486	শিক্ষাবোর্ডের	sh i kkh a b O r D e r	tatsama	rDe
+1.6486	সার্ডের	sh a r D e r	native	rDe
+1.6471	ইউনাইটেডকে	i u n a i T e D k e	native	eDk
+1.6370	লাইসেন্সকৃত	l a i s e n s k ri t O	tatsama	sensk
+1.6259	ইপিজেডে	i p i j e D e	native	eDe
+1.6259	ইউনাইটেডে	i u n a i T e D e	native	eDe
+1.6259	ইউনাইটেডের	i u n a i T e D e r	native	eDe
+1.6259	হেডে	h e D e	native	eDe
+1.6259	হেডের	h e D e r	native	eDe
+1.6259	ক্রেডেনশিয়াল	kr e D e n sh i y a l	native	eDe
+1.6232	পুশিক্যাট	p u sh i k A T	native	kAT
+1.5970	ক্যাডমিয়াম	k A D m i y a m	native	kAD
+1.5970	ক্যাডিলাক	k A D i l a k	native	kAD
+1.5882	ব্ল্যাকবেরি	b l A k b e r i	native	blA
+1.5863	হেন্ডরিক	h e n D r i k	native	nDr
+1.5541	ট্যাটন	T A T o n	native	TAT
+1.5442	বিআইআইএসএসের	b i a i a i e s e s e r	native	sese
+1.5207	সেন্টুকে	s e n T u k e	native	sen
+1.5207	সেন্টুর	s e n T u r	native	sen
+1.5207	সেন্টে	s e n T O e	native	sen
+1.5207	পারসেন্ট	p a r s e n T	native	sen
+1.5207	পার্সেন্টেজ	p a r s e n T e j	native	sen
+1.5207	প্যাসেঞ্জার	p A s e nj a r	tatsama	sen
+1.5207	বিএসএনএল	b i e s e n e l	native	sen
+1.5207	বিএসএনএলের	b i e s e n e l e r	native	sen
+1.4883	কেনাডার	k A n a D a r	native	kAn
+1.4883	ক্যাং	k A ng	native	kAn
+1.4883	পলিটিক্যান	p o l i T i k A n	native	kAn
+1.4883	পেলিক্যান	p e l i k A n	native	kAn
+1.4836	ওয়াসেক	O y a s e k	native	sek
+1.4836	পারসেক	p a r s e k	native	sek
+1.4822	আল্ট্রা	a l T r a	native	lTr
+1.4807	ইউক্লিডের	i u kl i D e r	native	iDe
+1.4807	অফসাইডে	o ph sh a i D e	native	iDe
+1.4807	অফসাইডের	o ph sh a i D e r	native	iDe
+1.4807	অর্কিডের	O r k i D e r	native	iDe
+1.4807	ইডেন	i D e n	native	iDe
+1.4807	ইডেনে	i D e n e	native	iDe
+1.4807	ইডেনের	i D e n e r	native	iDe
+1.4807	এইডের	e i D e r	native	iDe
+1.4807	পিরামিডের	p i r a m i D e r	native	iDe
+1.4807	প্রভিডেন্ট	pr O bh i D e n T	native	iDe
+1.4807	মোবিডেটা	m O b i D e T a	native	iDe
+1.4807	রিডেল	r i D e l	native	iDe
+1.4807	ইউএসএইডের	i u e sh e i D e r	native	iDe
+1.4740	ডিডি	D i D i	native	iDi
+1.4740	অবিডিও	O b i D i O	native	iDi
+1.4740	ইক্যুইটিবিডি	i k k u i T i b i D i	native	iDi
+1.4740	ইডি	i D i	native	iDi
+1.4740	ইডিয়ট	i D i y o T	native	iDi
+1.4740	ইডিয়টস	i D i y o T sh	native	iDi
+1.4740	ইনসিডিন	i n sh i D i n	native	iDi
+1.4740	ইরিডিয়াম	i r i D i y a m	native	iDi
+1.4740	বিডিআরের	b i D i a r e r	native	iDi
+1.4740	ভিডিওগুলো	bh i D i O g u l O	native	iDi
+1.4740	ভিডিওগুলোর	bh i D i O g u l O r	native	iDi
+1.4740	পিআইডি	p i a i D i	native	iDi
+1.4740	পিআইডিই	p i a i D i i	native	iDi
+1.4740	পিইডিপি	p i i D i p i	native	iDi
+1.4740	পিডি	p i D i	native	iDi
+1.4740	পিডিপি	p i D i p i	native	iDi
+1.4740	পিডিপির	p i D i p i r	native	iDi
+1.4740	পিডিবি	p i D i b i	native	iDi
+1.4740	পিডিবিকে	p i D i b i k e	native	iDi
+1.4740	পিডিবির	p i D i b i r	native	iDi
+1.4740	পিডিভিএসএ	p i D i bh i e s e	native	iDi
+1.4740	প্রিজাইডিং	p ri j a i D i ng	native	iDi
+1.4740	বাংলাপিডিয়া	b a ng l a p i D i y a	native	iDi
+1.4740	বাংলাপিডিয়ার	b a ng l a p i D i a r	native	iDi
+1.4740	বিডি	b i D i	native	iDi
+1.4740	বিডির	b i D i r	native	iDi
+1.4740	ভিজিডি	bh i j i D i	native	iDi
+1.4740	ভিজিডির	bh i j i D i r	native	iDi
+1.4740	ভিজিডিসহ	bh i j i D i sh o h O	native	iDi
+1.4740	ভিডিওদৃশ্য	bh i D i O d ri sh sh o	tatsama	iDi
+1.4740	ভিডিপি	bh i D i p i	native	iDi
+1.4740	ভিডিপির	bh i D i p i r	native	iDi
+1.4740	ভিডিসি	bh i D i s i	native	iDi
+1.4740	ভিডিসির	bh i D i s i r	native	iDi
+1.4740	মিডিয়াসংস্কৃতি	m i D i y a sh o ng s k ri t i	tatsama	iDi
+1.4740	সিএনসিডি	sh i e n o sh i D i	native	iDi
+1.4613	স্যু	s u	native	su
+1.4515	বিসিএসআইআর	b i s i e s a i a r	native	sai
+1.4515	বিসিএসআইআরের	b i s i e s a i a r e r	native	sai
+1.4515	পিএসআই	p i e s a i	native	sai
+1.4515	পিএসআইয়ের	p i e s a i y e r	native	sai
+1.4515	ভিসাই	bh i s a i	native	sai
+1.4492	কার্ডধারীদের	k a r D dh a r i d e r	native	rDd
+1.4473	ট্যাং	T A ng	native	TAn
+1.4473	ট্যাংকলরি	T A ng k l o r i	native	TAn
+1.4473	ট্যাংকলরিতে	T A ng k l o r i t e	native	TAn
+1.4473	ট্যাংকলরির	T A ng k l o r i r	native	TAn
+1.4473	ট্যাংরা	T A ng r a	native	TAn
+1.4473	ট্যান্ডন	T A n D o n	native	TAn
+1.4473	ট্যান্ডল	T A n D o l	native	TAn
+1.4441	সেমিতে	s e m i t e	native	sem
+1.4441	সেমিনারকক্ষে	s e m i n a r k o kkh e	tatsama	sem
+1.4441	সেমিনারগুলোতে	s e m i n a r g u l O t e	native	sem
+1.4441	সেমিনারে	s e m i n a r e	native	sem
+1.4441	বিএসএম	b i e s e m	native	sem
+1.4441	বিএসএমএমইউ	b i e s e m e m i u	native	sem
+1.4441	বিএসএমএমইউকে	b i e s e m e m i u k e	native	sem
+1.4441	বিএসএমএমইউতে	b i e s e m e m i u t e	native	sem
+1.4441	বিএসএমএমইউর	b i e s e m e m i u r	native	sem
+1.4441	বিএসএমএর	b i e s e m e r	native	sem
+1.3968	ব্যাটসম্যানে	b A T s m A n e	native	Tsm
+1.3906	প্র্যাট	p r A T	native	rAT
+1.3894	গোল্ডকাপ	g O l D k a p	native	lDk
+1.3882	এডা	e D a	native	eDa
+1.3882	বেডারা	b e D a r a	native	eDa
+1.3881	আবশ্যিক	a b O s s i k	native	ssi
+1.3881	পিএসসি	p i e s s i	native	ssi
+1.3881	পিএসসিকে	p i e s s i k e	native	ssi
+1.3881	পিএসসিতে	p i e s s i t e	native	ssi
+1.3881	পিএসসির	p i e s s i r	native	ssi
+1.3881	বিএসসি	b i e s s i	native	ssi
+1.3881	বিএসসির	b i e s s i r	native	ssi
+1.3881	বিএসসিসিএল	b i e s s i s i e l	native	ssi
+1.3881	বিএসসিসিএলের	b i e s s i s i e l e r	native	ssi
+1.3881	বিপিএসসি	b i p i e s s i	native	ssi
+1.3881	বিপিএসসির	b i p i e s s i r	native	ssi
+1.3807	প্যাডি	p A D i	native	ADi
+1.3685	ট্রেনটিতে	T r e n T i t e	native	Tre
+1.3685	ট্রেনারের	T r e n a r e r	native	Tre
+1.3685	যুক্তরাষ্ট্রেরও	j u kt O r a sh T r e r O	tatsama	Tre
+1.3685	রাষ্ট্রে	r a sh T r e	tatsama	Tre
+1.3685	রাষ্ট্রের	r a sh T r e r	tatsama	Tre
+1.3685	তটরেখা	t o T r e kh a	native	Tre
+1.3685	ভিটরে	bh i T r e	native	Tre
+1.3591	পিসের	p i s e r	native	ise
+1.3591	ভিসেরা	bh i s e r a	native	ise
+1.3591	ভিসেরার	bh i s e r a r	native	ise
+1.3536	প্যাডের	p A D e r	native	ADe
+1.3536	প্যাডেলের	p A D e l e r	native	ADe
+1.3516	সংস্করণটি	sh o ng s k o r O n T i	tatsama	sko
+1.3516	বিজ্ঞানমনস্কতা	b i g g a n m o n o s k o t a	tatsama	sko
+1.3504	ইউনাইটেড	i u n a i T e D	native	TeD
+1.3504	ইউনাইটেডও	i u n a i T e D o O	native	TeD
+1.3504	ইনটিগ্রেটেড	i n T i gr e T e D o	native	TeD
+1.3504	পাইরেটেড	p a i r e T e D	native	TeD
+1.3504	প্রটেকটেড	pr O T e k o T e D	native	TeD
+1.3504	প্রিহিটেড	p ri h i T e D	native	TeD
+1.3481	এস্কান্দারের	e s k a nd a r e r	native	esk
+1.3481	বেশখানিকটা	b e s kh a n i k T a	native	esk
+1.3481	পিএসকে	p i e s k e	native	esk
+1.3481	বিবিএসকে	b i b i e s k e	native	esk
+1.3470	নাইটরা	n a i T r a	native	iTr
+1.3422	গুডস	g u D s	native	uDs
+1.3421	পন্ডস	p o n D sh	native	nDs
+1.3421	পোল্যান্ডসহ	p O l A n D sh o h O	native	nDs
+1.3421	ফান্ডস	ph a n D s	native	nDs
+1.3421	ব্যান্ডসংগিত	b A n D sh o ng g i t	native	nDs
+1.3341	ডিড	D i D	native	DiD
+1.3341	ডিডকা	D i D k a	native	DiD
+1.3257	বেলডারেনে	b e l D a r e n e	native	elD
+1.3214	অডেটি	o D e T i	native	DeT
+1.3214	ডেটা	D e T a	native	DeT
+1.3182	পিসবোর্ড	p i s o b O r D o	native	rDo
+1.3175	ক্যাপাসিটি	k A p a s i T i	native	siT
+1.3175	ক্যাপাসিটির	k A p a s i T i r	native	siT
+1.3175	পলিসিটা	p o l i s i T a	native	siT
+1.3175	পাবলিসিটি	p a b l i s i T i	native	siT
+1.3175	পিসিটি	p i s i T i	native	siT
+1.3175	প্যারাসিটামল	p A r a s i T a m O l	native	siT
+1.3175	নেসেসিটি	n e s e s i T i	native	siT
+1.3147	মিডমাড	m i D m a D	native	iDm
+1.3035	আবিস্কৃত	a b i s k ri t O	tatsama	isk
+1.3035	বহিস্কৃত	b o h i s k ri t o	tatsama	isk
+1.2804	ডি	D i	native	Di
+1.2592	স্যাম্পলিং	s A mp l i ng	native	mpl
+1.2554	প্যাসেজ	p A s e j	native	Ase
+1.2554	প্যাসেজের	p A s e j e r	native	Ase
+1.2441	চার্জার্সের	ch a r j a r s e r	native	rse
+1.2441	পারসেপশন	p a r s e p sh o n	native	rse
+1.2441	পেভারসের	p e bh a r s e r	native	rse
+1.2441	ফিউচার্সের	ph i u ch a r s e r	native	rse
+1.2441	ফোর্সেস	ph O r s e s	native	rse
+1.2408	ফান্ডেড	ph a n D e D	native	DeD
+1.2408	বন্ডেড	b o n D e D	native	DeD
+1.2408	ব্র্যান্ডেড	b r A n D e D	native	DeD
+1.2356	ফটোসেশন	ph o T O s e sh O n	native	ses
+1.2356	ফটোসেশনে	ph o T O s e sh O n e	native	ses
+1.2356	ফটোসেশনের	ph o T O s e sh O n e r	native	ses
+1.2356	বিআইআইএসএস	b i a i a i e s e s	native	ses
+1.2356	বিএসএস	b i e s e s	native	ses
+1.2351	অন্যমনস্ক	o n n O m o n O s k O	native	skO
+1.2351	পাসকোড	p a s k O D	native	skO
+1.2351	বিজ্ঞানমনস্ক	b i g g a n m O n O s k O	tatsama	skO
+1.2343	নার্সারী	n a r s a r i	native	rsa
+1.2268	বডম্যানকে	b o D m A n k e	native	DmA
+1.2215	বিএমসিসিআই	b i e m s i s i a i	native	emsi
+1.2215	বিজেএমসি	b i j e e m s i	native	emsi
+1.2215	বিজেএমসির	b i j e e m s i r	native	emsi
+1.2205	ইউক্যাশ	i u k A sh	native	kAs
+1.2205	ইউক্যাশে	i u k A sh e	native	kAs
+1.2205	ইউক্যাশের	i u k A sh e r	native	kAs
+1.2195	ইকুয়েডরের	i k u y e D O r e r	native	eDO
+1.2186	ইন্ডিয়ার	i n D i a r	native	Dia
+1.2186	কানাডিয়ান	k a n a D i a n	native	Dia
+1.2050	ক্রসিং	kr o s i ng	native	sin
+1.2050	ক্রসিংয়ে	kr o s i ng y e	native	sin
+1.2050	ক্রসিংয়ের	kr o s i ng y e r	native	sin
+1.2050	পাসিং	p a s i ng	native	sin
+1.2050	পাাসিং	p a s i ng	native	sin
+1.2050	ফোকাসিং	ph O k a s i ng	native	sin
+1.1962	পাসকেল	p a s k e l	native	aske
+1.1954	মেঢ্র	m e Dh r O	native	meD
+1.1930	ল্যাটা	l A T a	native	lAT
+1.1930	ল্যাটেল	l A T e l	native	lAT
+1.1930	ল্যাঠা	l A Th a	native	lAT
+1.1914	প্রুডেনশিয়াল	pr u D e n sh i y a l	native	Dens
+1.1809	ইমিগ্র্যান্ট	i m i g r A n T	native	rAn
+1.1809	গ্র্যান্ডোলি	g r A n D O l i	native	rAn
+1.1809	ব্র্যাঞ্চ	b r A nch	tatsama	rAn
+1.1809	ব্র্যান্ডে	b r A n D e	native	rAn
+1.1689	ম্যাডান	m A D a n	native	ADa
+1.1611	পাসকৃত	p a s k ri t O	tatsama	ask
+1.1605	ট্যামট্যাম	T A m T A m	native	TAm
+1.1605	ট্যামাই	T A m a i	native	TAm
+1.1419	স্যাসন	s A s o n	native	Aso
+1.1375	গুডলাক	g u D l a k	native	uDl
+1.1343	ঢ্যাডড়া	Dh A D r a	native	ADr
+1.1269	ট্যাকশাল	T A k sh a l	native	TAks
+1.1221	ফার্মেসিকে	ph a r m e s i k e	native	esi
+1.1221	ফার্মেসিতে	ph a r m e s i t e	native	esi
+1.1221	ফার্মেসির	ph a r m e s i r	native	esi
+1.1221	বিআইএসি	b i a i e s i	native	esi
+1.1221	বিআইএসির	b i a i e s i r	native	esi
+1.1221	চেসিস	ch e s i s	native	esi
+1.1221	পাইরেসি	p a i r e s i	native	esi
+1.1221	পাইরেসির	p a i r e s i r	native	esi
+1.1221	পিএসইউ	p i e s i u	native	esi
+1.1221	পিএসি	p i e s i	native	esi
+1.1221	প্রগ্রেসিভ	pr O gr e s i bh	native	esi
+1.1221	ফেসিয়াল	ph e s i y a l	native	esi
+1.1221	বিএসইসি	b i e s i s i	native	esi
+1.1221	বিএসইসির	b i e s i s i r	native	esi
+1.1221	বিএসিসিও	b i e s i s i O	native	esi
+1.1221	বিএসিসিওর	b i e s i s i O r	native	esi
+1.1221	রেসিপি	r e s i p i	native	esi
+1.1221	নেমেসিস	n e m e s i s	native	esi
+1.1198	ইউএনএইডসের	i u e n e i D o sh e r	native	iDo
+1.1198	সিডলকে	sh i D o l k e	native	iDo
+1.1198	সিডলের	sh i D o l e r	native	iDo
+1.1198	স্থন্ডিল	sth o n o i D o l	native	iDo
+1.1191	সেজ	s e j O	native	sej
+1.1147	কুদ্দুসকে	k u d d u s k e	native	ske
+1.1147	চার্জার্সকে	ch a r j a r s k e	native	ske
+1.1147	স্যামুয়েলসকে	s A m u y e l s k e	native	ske
+1.1043	গুডবাই	g u D b a i	native	uDb
+1.0986	বিশ্বরোডে	b i sh sh O r O D e	tatsama	ODe
+1.0986	মোডে	m O D e	native	ODe
+1.0986	ওডে	O D e	native	ODe
+1.0986	বিশ্বরোডের	b i sh sh o r O D e r	tatsama	ODe
+1.0986	মোডের	m O D e r	native	ODe
+1.0986	লাওডে	l a O D e	native	ODe
+1.0979	উডি	u D i	native	uDi
+1.0979	কারমুডি	k a r m u D i	native	uDi
+1.0979	ছুডি	chh u D i	native	uDi
+1.0979	পুডিং	p u D i ng	native	uDi
+1.0979	বলিউডি	b o l i u D i	native	uDi
+1.0941	নামডাক	n a m D a k	native	mDa
+1.0906	পিকেএসএফ	p i k e e s e ph	native	sep
+1.0906	পিকেএসএফের	p i k e e s e ph e r	native	sep
+1.0906	যোশেফ	j O s e ph	native	sep
+1.0906	সেপ্টেম্বরে	s e p T e mb o r e	native	sep
+1.0906	সেপ্টেম্বরেই	s e p T e mb o r e i	native	sep
+1.0906	সেপ্টেম্বরেও	s e p T e mb o r e O	native	sep
+1.0906	পিএসএফ	p i e s e ph	native	sep
+1.0906	বিএএসএফ	b i e e s e ph	native	sep
+1.0906	বিএসএফ	b i e s e ph	native	sep
+1.0906	বিএসএফকে	b i e s e ph k e	native	sep
+1.0906	বিএসএফের	b i e s e ph e r	native	sep
+1.0880	পেনিনসুলা	p e n i n s u l a	native	nsu
+1.0880	পেনিনসুলার	p e n i n s u l a r	native	nsu
+1.0842	বিজেএসএর	b i j e e s e r	native	ser
+1.0842	পিএসের	p i e s e r	native	ser
+1.0842	বায়াসের	b a y a s e r	native	ser
+1.0842	বিসিএএসের	b i s i e e s e r	native	ser
+1.0842	ইমপালসের	i m p a l s e r	native	ser
+1.0842	কুদ্দুসের	k u d d u s e r	native	ser
+1.0842	কেমিক্যালসের	k e m i k e l s e r	native	ser
+1.0842	ক্রসের	kr o s e r	native	ser
+1.0842	নুডলসের	n u D o l s e r	native	ser
+1.0842	নুডুলসের	n u D u l s e r	native	ser
+1.0842	পাইলসের	p a i l s e r	native	ser
+1.0842	পাসের	p a s e r	native	ser
+1.0842	পিপলসের	p i p o l s e r	native	ser
+1.0842	পিবিএসের	p i b i e s e r	native	ser
+1.0842	পেসের	p e s e r	native	ser
+1.0842	প্যালেসের	p A l e s e r	native	ser
+1.0842	ফসফরাসের	ph o s ph o r a s e r	native	ser
+1.0842	ফার্মসের	ph a r m s e r	native	ser
+1.0842	ফিল্মসের	ph i l m s e r	native	ser
+1.0842	ফোকাসের	ph O k a s e r	native	ser
+1.0842	বিবিএসের	b i b i e s e r	native	ser
+1.0842	বিসিএসের	b i s i e s e r	native	ser
+1.0842	ভিআরএসের	bh i a r e s e r	native	ser
+1.0842	ভয়েসের	bh o y e s e r	native	ser
+1.0842	স্যান্তোসের	s A nt O s e r	native	ser
+1.0842	স্যামুয়েলসের	s A m u y e l s e r	native	ser
+1.0842	ক্যালকুলাসের	k A l k u l a s e r	native	ser
+1.0786	চাপলে	ch a p l e	native	ple
+1.0786	চাপলেই	ch a p l e i	native	ple
+1.0786	ছাপলে	chh a p l e	native	ple
+1.0786	ছাপলেই	chh a p l e i	native	ple
+1.0786	ছাপলেন	chh a p l e n	native	ple
+1.0786	মাপলে	m a p l e	native	ple
+1.0783	মুদ্রাস্ফীতি	m u d r a s ph i t i	native	asp
+1.0706	ইউএনওরা	i u e n O r a	native	iue
+1.0706	ইউএনওসহ	i u e n O sh o h O	native	iue
+1.0706	ইউএনডিপিসহ	i u e n D i p i sh o h O	native	iue
+1.0706	ইউএসএইড	i u e sh e i D	native	iue
+1.0706	ইউএসি	i u e sh i	native	iue
+1.0706	নিউএজ	n i u e j	native	iue
+1.0706	সিইউএফএল	sh i i u e ph e l	native	iue
+1.0706	সিইউএফএলের	sh i i u e ph o e l e r	native	iue
+1.0706	সিইউএস	sh i i u e sh o	native	iue
+1.0706	সিইউএসের	sh i i u e sh e r	native	iue
+1.0697	দুইডা	d u i D a	native	uiD
+1.0697	সুইড	sh u i D	native	uiD
+1.0674	রেড	r e D	native	reD
+1.0674	প্যারেড	p A r e D	native	reD
+1.0653	ওয়ের্ডার	O y e r D a r	native	rDa
+1.0653	গদাধরডাংগি	g o d a dh o r D a ng g i	native	rDa
+1.0653	চোরডারে	ch O r D a r e	native	rDa
+1.0653	জর্ডানে	j o r D a n e	native	rDa
+1.0653	তুলারডাংগা	t u l a r D a ng g a	native	rDa
+1.0653	নাথুয়ারডাংগা	n a th u y a r D a ng g a	native	rDa
+1.0653	বর্ডারস	b o r D a r s	native	rDa
+1.0653	বর্ডারের	b o r D a r e r	native	rDa
+1.0653	ভেরডার	bh e r D a r	native	rDa
+1.0653	রামেরডাংগা	r a m e r D a ng g a	native	rDa
+1.0653	সারডা	sh a r D a	native	rDa
+1.0640	প্যালেসে	p A l e s e	native	ese
+1.0640	দেছে	d e s e	native	ese
+1.0640	কেসে	k e s e	native	ese
+1.0640	পিএসএ	p i e s e	native	ese
+1.0640	পেসে	p e s e	native	ese
+1.0640	ফেসে	ph e s e	native	ese
+1.0640	বিবিএসে	b i b i e s e	native	ese
+1.0640	বিসিএসে	b i s i e s e	native	ese
+1.0640	ভয়েসে	bh o y e s e	native	ese
+1.0635	পিসিএল	p i s i e l	native	sie
+1.0635	পিসিএলে	p i s i e l e	native	sie
+1.0635	পিসিএলের	p i s i e l e r	native	sie
+1.0635	বিজিএফসিএল	b i j i e ph s i e l	native	sie
+1.0635	বিজিএফসিএলের	b i j i e ph s i e l e r	native	sie
+1.0635	বিসিএএস	b i s i e e s	native	sie
+1.0635	বিসিএফ	b i s i e ph	native	sie
+1.0635	বিসিএলে	b i s i e l e	native	sie
+1.0635	বিসিএলের	b i s i e l e r	native	sie
+1.0635	বিসিএস	b i s i e s	native	sie
+1.0635	বিসিএসসহ	b i s i e s sh o h O	native	sie
+1.0635	বিএলএফসিএ	b i e l e ph s i e	native	sie
+1.0635	বিএলএফসিএর	b i e l e ph s i e r	native	sie
+1.0531	পিরিয়ডটা	p i r i y o D T a	native	DTa
+1.0526	বিজিসিসিআই	b i j i s i s i a i	native	sisi
+1.0526	পিসিসি	p i s i s i	native	sisi
+1.0526	পিসিসির	p i s i s i r	native	sisi
+1.0526	বিসিসি	b i s i s i	native	sisi
+1.0526	বিসিসিআই	b i s i s i a i	native	sisi
+1.0526	বিসিসিআইর	b i s i s i a i r	native	sisi
+1.0526	বিসিসিআইয়ের	b i s i s i a i y e r	native	sisi
+1.0526	বিসিসির	b i s i s i r	native	sisi
+1.0473	কাটরা	k a T r a	native	Tra
+1.0473	কাটরার	k a T r a r	native	Tra
+1.0473	কাটরায়	k a T r a y	native	Tra
+1.0473	কাট–কাটরা	k a T k a T r a	native	Tra
+1.0473	খুটরানো	kh u T r a n O	native	Tra
+1.0473	গটরা	g o T r a	native	Tra
+1.0473	গাট্টা	g a T r a	native	Tra
+1.0473	নবাবকাটরার	n o b a b k a T r a y	native	Tra
+1.0473	পাইলটরা	p a i l o T r a	native	Tra
+1.0473	ভাটরা	bh a T r a	native	Tra
+1.0473	লেফট–রাইট	l e ph T r a i T	native	Tra
+1.0473	সম্রাটরা	sh o m r a T r a	native	Tra
+1.0471	কেসম	k e s o m	native	eso
+1.0468	বলিউডকে	b o l i u D k e	native	uDk
+1.0411	পিরিয়ডসহ	p i r i y o D sh o h O	native	oDs
+1.0411	রডসহ	r o D sh o h O	native	oDs
+1.0385	বিকেএসপিতে	b i k e e s p i t e	native	spi
+1.0385	সংসদেরস্পীকারের	sh o ng sh O d e r s p i k a r e r	native	spi
+1.0385	স্পীকারের	s p i k a r e r	native	spi
+1.0385	পিআরএসপি	p i a r e s p i	native	spi
+1.0385	পিআরএসপিতে	p i a r e s p i t e	native	spi
+1.0385	পিআরএসপির	p i a r e s p i r	native	spi
+1.0385	পিএসপির	p i e s p i r	native	spi
+1.0385	বিএসপি	b i e s p i	native	spi
+1.0385	বিকেএসপি	b i k e e s p i	native	spi
+1.0385	বিকেএসপির	b i k e e s p i r	native	spi
+1.0359	স্যান্তোস	s A nt O s	native	sAn
+1.0288	ইনডিপেনডেন্ট	i n D i p e n D e n T	native	DenT
+1.0288	পেনডেন্ট	p e n D e n T	native	DenT
+1.0204	পিপিআরসি	p i p i a r s i	native	rsi
+1.0204	পিপিআরসির	p i p i a r s i r	native	rsi
+1.0204	বিএআরসি	b i e a r s i	native	rsi
+1.0204	বিআরসি	b i a r s i	native	rsi
+1.0204	বিইআরসি	b i i a r s i	native	rsi
+1.0204	বিইআরসিকে	b i i a r s i k e	native	rsi
+1.0204	বিইআরসির	b i i a r s i r	native	rsi
+1.0198	কুন্ডেশ্বরি	k u n D e sh sh o r i	tatsama	Des
+1.0198	কুন্ডেশ্বরিতে	k u n D e sh sh o r i t e	tatsama	Des
+1.0198	কুন্ডেশ্বরির	k u n D e sh sh o r i r	tatsama	Des
+1.0148	তেলেসমাতি	t e l e s m a t i	native	esm
+1.0148	কেসমত	k e s m o t	native	esm
+1.0125	প্রসপেকটিভ	pr O s p e k T i bh	native	spe
+1.0125	প্রসপেকটিভলি	pr O s p e k T i bh l i	native	spe
+1.0125	প্রসপেক্টাস	pr O s p e k T a s	native	spe
+1.0125	প্রসপেক্টাসে	pr O s p e k T a s e	native	spe
+1.0125	প্রসপেক্টিভ	pr O s p e k T i bh o	native	spe
+1.0084	ট্যা–ফো	T A ph O	native	TAp
+1.0079	দিছিল	d i s i l O	native	sil
+1.0079	ওয়াসিল	O y a s i l	native	sil
+1.0079	ফসিল	ph o s i l	native	sil
+1.0079	ফসিলের	ph o s i l e r	native	sil
+1.0070	কোরাসে	k O r a s e	native	ase
+1.0070	পাসে	p a s e	native	ase
+1.0070	ফোকাসে	ph O k a s e	native	ase
+1.0005	ইডকল	i D k o l	native	iDk
+1.0005	ইডকলের	i D k o l e r	native	iDk
+1.0004	ন্যাটস	n A T s	native	ATs
+1.0004	ব্যাটসো	b A T s O	native	ATs
+0.9928	অওডি	o O D i	native	ODi
+0.9928	অডি	O D i	native	ODi
+0.9928	অডিও	O D i O	native	ODi
+0.9928	অডিওবার্তায়	O D i O b a r t a y	native	ODi
+0.9928	অডিওর	O D i O r	native	ODi
+0.9928	অডিশন	O D i sh o n	native	ODi
+0.9928	অডিশনের	O D i sh O n e r	native	ODi
+0.9928	আয়োডিন	a y O D i n	native	ODi
+0.9928	আয়োডিনজুক্ত	a y O D i n j u kt o	native	ODi
+0.9928	আয়োডিনের	a y O D i n e r	native	ODi
+0.9928	গোডিম	g O D i m	native	ODi
+0.9928	প্রডিজি	pr O D i j i	native	ODi
+0.9928	বোডিং	b O D i ng	native	ODi
+0.9915	ক্যালসিয়ামের	k A l s i y a m e r	native	siy
+0.9839	ছালামের	s a l a m e r	native	sal
+0.9836	পিএইচডি	p i e i ch D i	native	hDi
+0.9836	পিএইচডিতে	p i e i ch D i t e	native	hDi
+0.9836	পিএইচডিধারি	p i e i ch D i dh a r i	native	hDi
+0.9836	পিএইচডির	p i e i ch D i r	native	hDi
+0.9836	পিএইচডিরত	p i e i ch D i r o t o	native	hDi
+0.9836	সিএসড,	sh i e sh D i	native	hDi
+0.9802	পার্টস	p a r T s	native	rTs
+0.9802	শর্ট–সাইট	sh o r T sh a i T	native	rTs
+0.9793	ক্যালসিয়াম	k A l s i a m	native	sia
+0.9793	পিসিআই	p i s i a i	native	sia
+0.9793	বিসিআই	b i s i a i	native	sia
+0.9793	বিসিআইর	b i s i a i r	native	sia
+0.9793	বিসিআইয়ের	b i s i a i y e r	native	sia
+0.9751	ইনডেমনিটি	i n D e m n i T i	native	Dem
+0.9751	একাডেমি	E k a D e m i	native	Dem
+0.9751	একাডেমিতে	E k a D e m i t e	native	Dem
+0.9751	একাডেমিসহ	E k a D e m i sh o h O	native	Dem
+0.9751	একাডেমী	E k a D e m i	native	Dem
+0.9751	ডেমদের	D e m d e r	native	Dem
+0.9751	ডেমা	D e m a	native	Dem
+0.9751	ডেমিরেল	D e m i r e l	native	Dem
+0.9718	পিরিয়ডে	p i r i y o D e	native	oDe
+0.9718	পিরিয়ডের	p i r i y o D e r	native	oDe
+0.9718	বডের	b o D e r	native	oDe
+0.9718	রডের	r o D e r	native	oDe
+0.9691	অরচার্ড	o r o ch a r D	native	arD
+0.9691	আর্মার্ড	a r m a r D	native	arD
+0.9691	কাভার্ড	k a bh a r D	native	arD
+0.9691	কেনার্ড	k e n a r D	native	arD
+0.9691	গিলার্ড	g i l a r D	native	arD
+0.9691	দার্ঢ্য	d a r Dh Dh O	native	arD
+0.9691	নাইটগার্ড	n a i T g a r D	native	arD
+0.9691	পাওয়ার্ড	p a O y a r D	native	arD
+0.9691	পাসওয়ার্ড	p a s O y a r D	native	arD
+0.9691	পোলার্ড	p O l a r D	native	arD
+0.9691	সার্ড	sh a r D	native	arD
+0.9610	কাউসার	k a u s a r	native	sar
+0.9610	কাওসারের	k a O s a r e r	native	sar
+0.9610	কিসার	k i s a r	native	sar
+0.9610	পালসার	p a l s a r	native	sar
+0.9610	পালসারের	p a l s a r e r	native	sar
+0.9610	পাসারেলার	p a s a r e l a r	native	sar
+0.9610	পিসার	p i s a r	native	sar
+0.9610	পেসার	p e s a r	native	sar
+0.9610	পেসারই	p e s a r i	native	sar
+0.9610	পেসারও	p e s a r O	native	sar
+0.9610	পেসারকে	p e s a r k e	native	sar
+0.9610	পেসারদের	p e s a r d e r	native	sar
+0.9610	পেসাররা	p e s a r r a	native	sar
+0.9610	পেসাররাই	p e s a r r a i	native	sar
+0.9610	পেসাররাও	p e s a r r a O	native	sar
+0.9610	পেসারের	p e s a r e r	native	sar
+0.9610	বিএসআরএস	b i e s a r e s	native	sar
+0.9600	এটেম্পট	e T e mp o T	native	Temp
+0.9600	টেম্পোচালক	T e mp O ch a l k o	native	Temp
+0.9600	টেম্পোজাত্রি	T e mp O j a tr i	native	Temp
+0.9535	ট্যাসট্যাস	T A sh T A sh	native	TAs
+0.9529	ওয়াসিউদ্দিন	O y a s i u d d i n	native	siu
+0.9516	সিলেটগামি	sh i l e T g a m i	native	eTg
+0.9516	প্যাকেটগুলো	p A k e T g u l O	native	eTg
+0.9486	চ্যাসি	ch A s i	native	Asi
+0.9486	প্যাসিফিক	p A s i ph i k	native	Asi
+0.9486	প্যাসিফিকে	p A s i ph i k e	native	Asi
+0.9486	প্যাসিফিকের	p A s i ph i k e r	native	Asi
+0.9486	প্যাসিভ	p A s i bh	native	Asi
+0.9486	ফ্যাসিবাদ	ph A s i b a d	native	Asi
+0.9486	ফ্যাসিবাদি	ph A s i b a d i	native	Asi
+0.9486	ফ্যাসিবাদের	ph A s i b a d e r	native	Asi
+0.9459	ইবেটসনের	i b e T sh o n e r	native	eTs
+0.9459	গেটশহ	g e T sh o h O	native	eTs
+0.9459	গেটসংলগ্ন	g e T sh o ng l o g n O	native	eTs
+0.9459	চকলেটশহ	ch o k l e T sh o h o	native	eTs
+0.9459	চুয়েটশহ	ch u y e T sh o h o	native	eTs
+0.9459	পাইরেটস	p a i r e T s	native	eTs
+0.9459	সিলেটসহ	sh i l e T sh o h O	native	eTs
+0.9424	হাড্ডিসার	h a D D i sh a r	native	Dis
+0.9424	জন্ডিসশহ	j o n D i sh sh o h o	native	Dis
+0.9424	ডিন্ডিশ	D i n D i sh	native	Dis
+0.9424	ধানমন্ডিসহ	dh a n m o n D i sh o h O	native	Dis
+0.9424	ধানমন্ডিস্থ	dh a n m O n D i sth O	native	Dis
+0.9322	ইডা	i D a	native	iDa
+0.9322	ইনসাইডার	i n sh a i D a r	native	iDa
+0.9322	এইডা	e i D a	native	iDa
+0.9322	হেইডা	h e i D a	native	iDa
+0.9322	কানাইডাংগা	k a n a i D a ng g a	native	iDa
+0.9322	কিডা	k i D a	native	iDa
+0.9322	প্রভাইডার	pr O bh a i D a r	native	iDa
+0.9322	প্রভাইডারদের	pr O bh a i D a r d e r	native	iDa
+0.9322	প্রোভাইডাররা	pr O bh a i D a r r a	native	iDa
+0.9322	মবিডাটা	m o b i D a T a	native	iDa
+0.9322	মাটিডালি	m a T i D a l i	native	iDa
+0.9322	মারিডা	m a r i D a	native	iDa
+0.9322	মুভিডাটা	m u bh i D a T a	native	iDa
+0.9322	মোবিডাটা	m O b i D a T a	native	iDa
+0.9322	শান্তিডাংগা	sh a nt i D a ng g a	native	iDa
+0.9322	সিডা	sh i D a	native	iDa
+0.9308	স্কাল্পচার	s k a l p ch a r	native	ska
+0.9308	পুনঃসংস্কার	p u n o sh o ng s k a r	tatsama	ska
+0.9308	পুনঃসংস্কারের	p u n o sh o ng s k a r e r	tatsama	ska
+0.9308	পুরস্কারস্বরুপ	p u r o s k a r sh o r u p	tatsama	ska
+0.9261	ফেসপ্যাক	ph e s p A k	native	spA
+0.9222	প্রেসবিজ্ঞপ্তিতে	pr e s b i g g O p t i t e	tatsama	esb
+0.9222	ফেসবুকভিত্তিক	ph e s b u k bh i tt i k	native	esb
+0.9222	পিএসভি	p i e s bh i	native	esb
+0.9222	ফেসভ্যালু	ph e s bh A l u	native	esb
+0.9222	বিএসবি	b i e s b i	native	esb
+0.9222	বিএসবিআই	b i e s b i a i	native	esb
+0.9222	বিএসবিএ	b i e s b i e	native	esb
+0.9221	পরিসংখ্যান	p O r i s o ng kh a n	native	iso
+0.9207	ট্যাক	T A k	native	TAk
+0.9207	ট্যাকা	T A k a	native	TAk
+0.9207	ট্যাকার	T A k a r	native	TAk
+0.9207	ট্যাকো	T A k O	native	TAk
+0.9189	ফজিলাতুন্নেছা	ph O j i l a t u n n e s a	native	esa
+0.9189	কেসাস	k e s a sh	native	esa
+0.9158	ফাইব্রোসাস	ph a i br O s a s	native	sas
+0.9158	ভিসাসহ	bh i s a sh o h O	native	sas
+0.9131	কিসসা	k i s s a	native	ssa
+0.8999	পিএসজি	p i e s j i	native	esj
+0.8999	পিএসজির	p i e s j i r	native	esj
+0.8983	পিএসও	p i e s O	native	esO
+0.8983	পেসো	p e s O	native	esO
+0.8983	ফেসওয়াশ	ph e s O y a sh	native	esO
+0.8983	বিএসও	b i e s O	native	esO
+0.8982	ইডোউ	i D O u	native	iDO
+0.8982	ডগিডগি	D O g i D O g i	native	iDO
+0.8982	নেপিডোতে	n e p i D O t e	native	iDO
+0.8982	নেপিডোয়	n e p i D O y	native	iDO
+0.8982	সিডল	sh i D O l	native	iDO
+0.8982	সিডো	sh i D O	native	iDO
+0.8908	স্বদেশপ্রেম	sh o d e s p r e m	tatsama	esp
+0.8906	গোসাইলডাংগা	g O sh a i l D a ng g a	native	ilDa
+0.8879	ইস্পাতদৃড়	i s p a t d ri rh o	tatsama	spa
+0.8879	প্রসপার	pr O s p a r	native	spa
+0.8861	ব্রিটেনসহ	br i T e n sh o h O	native	Tens
+0.8857	উডেন	u D e n	native	Den
+0.8857	ডেংগর	D e ng g o r	native	Den
+0.8857	ডেংগা	D e ng g a	native	Den
+0.8857	ডেনিং	D e n i ng	native	Den
+0.8857	ডেন্ডাবর	D e n D a b o r	native	Den
+0.8857	লুডেন	l u D e n	native	Den
+0.8857	লুডেনের	l u D e n e r	native	Den
+0.8853	ইটস	i T sh	native	iTs
+0.8853	ইটসহ	i T sh o h O	native	iTs
+0.8853	ইটসেলফ	i T sh e l o ph	native	iTs
+0.8853	ইটস্	i T sh	native	iTs
+0.8853	পারমিটসহ	p a r m i T sh o h O	native	iTs
+0.8744	ইউনিফাইড	i u n i ph a i D	native	aiD
+0.8744	ইনসাইড	i n sh a i D	native	aiD
+0.8744	নাইডু	n a i D u	native	aiD
+0.8744	পাইড	p a i D	native	aiD
+0.8744	প্রাইড	pr a i D	native	aiD
+0.8744	লিংগুইসাইড	l i ng g u i sh a i D	native	aiD
+0.8706	কনটেন্টে	k o n T e n T e	native	nTenTe
+0.8693	অক্ষরজ্ঞানসম্পন্ন	o kkh o r g A n sh o mp o nn o	tatsama	Ans
+0.8693	জ্ঞানশূন্য	g A n sh u n n O	tatsama	Ans
+0.8693	কান্ডজ্ঞানসম্পন্ন	k a n D o g g A n sh o mp o nn O	tatsama	Ans
+0.8693	চেয়ারম্যানশহ	ch e y a r m A n sh o h o	native	Ans
+0.8693	ফিন্যানশিয়াল	ph i n A n sh i y a l o	native	Ans
+0.8693	ভ্যানসহ	bh A n sh o h O	native	Ans
+0.8693	ম্যানশন	m A n sh o n	native	Ans
+0.8693	ম্যানশনের	m A n sh o n e r	native	Ans
+0.8693	ম্যানস	m A n sh	native	Ans
+0.8693	ম্যানসন	m A n sh o n	native	Ans
+0.8561	পোল্যান্ডকে	p O l A n D k e	native	nDk
+0.8561	ইংল্যান্ডকে	i ng l A n D k e	native	nDk
+0.8561	ইংল্যান্ডকেই	i ng l A n D k e i	native	nDk
+0.8551	ইটগুলো	i T g u l O	native	iTg
+0.8434	অডিওতে	o D i O t e	native	oDi
+0.8434	এন্টিবডি	e n T i b o D i	native	oDi
+0.8434	বডি	b o D i	native	oDi
+0.8434	ক্লডিয়া	kl o D i y a	native	oDi
+0.8434	জডিং	j o D i ng	native	oDi
+0.8434	নোবডি	n O b o D i	native	oDi
+0.8434	বডিই	b o D i i	native	oDi
+0.8434	বডিতে	b o D i t e	native	oDi
+0.8434	বডির	b o D i r	native	oDi
+0.8413	ন্যাভিগ্যাট	n A bh i g A T	native	gAT
+0.8389	বিআইজেএফ	b i a i j e e ph	native	eep
+0.8389	বিআইজেএফের	b i a i j e e ph e r	native	eep
+0.8389	বিএএফ	b i e e ph	native	eep
+0.8389	সিএমজেএ,	sh i e m j e e ph	native	eep
+0.8384	বলিউডে	b o l i u D e	native	uDe
+0.8384	বলিউডেও	b o l i u D e O	native	uDe
+0.8384	বলিউডের	b o l i u D e r	native	uDe
+0.8384	মুডে	m u D e	native	uDe
+0.8382	পুরস্কৃতই	p u r o s k ri t o i	tatsama	osk
+0.8382	পুরস্কৃতও	p u r o s k ri t o O	tatsama	osk
+0.8331	নটিংহ্যামের	n o T i ng h A m e r	native	Ame
+0.8263	মবলগ	m o b l o g	native	blo
+0.8176	শেয়ারবাজারসংক্রান্ত	sh e y a r b a j a r s o ng k r a n t O	native	rso
+0.8176	চেয়াপারসনের	ch e y a p a r s o n e r	native	rso
+0.8176	চেয়ারপারসন	ch e y a r p a r s o n	native	rso
+0.8176	চেয়ারপারসনই	ch e y a r p a r s o n i	native	rso
+0.8176	চেয়ারপারসনকে	ch e y a r p a r s o n k e	native	rso
+0.8176	চেয়ারপারসনের	ch e y a r p a r s o n e r	native	rso
+0.8172	টেম্বা	T e mb a	native	Tem
+0.8172	ভিটেমাটিছাড়া	bh i T e m a T i chh a r a	native	Tem
+0.8172	ভিটেমাটির	bh i T e m a T i r	native	Tem
+0.8168	নটরডেম	n o T O r D A m	native	rDA
+0.8118	ইয়ানডেল	i y a n D e l	native	Del
+0.8118	ডেলা	D e l a	native	Del
+0.8118	ডেলিশিয়া	D e l i sh i y a	native	Del
+0.8118	ডেলো	D e l O	native	Del
+0.8118	প্যান্ডেল	p A n D e l	native	Del
+0.8118	প্যান্ডেলে	p A n D e l e	native	Del
+0.8118	প্যান্ডেলের	p A n D e l e r	native	Del
+0.8118	বান্ডেল	b a n D e l	native	Del
+0.8112	নিউজিল্যন্ড	n i u j i l A n D	native	ilAn
+0.8112	নিউজিল্যান্ড	n i u j i l A n D	native	ilAn
+0.8075	শেয়ারহোল্ডার	sh e y a r h O l D a r	native	lDa
+0.8075	শেয়ারহোল্ডারদের	sh e y a r h O l D a r d e r	native	lDa
+0.8075	শেয়ারহোল্ডাররা	sh e y a r h O l D a r r a	native	lDa
+0.8075	ডালডা	D a l D a	native	lDa
+0.8075	ডালডার	D a l D a r	native	lDa
+0.8075	নলডাংগা	n o l D a ng g a	native	lDa
+0.8075	পোল্ডার	p O l D a r	native	lDa
+0.8075	পোল্ডারে	p O l D a r e	native	lDa
+0.8075	পোল্ডারের	p O l D a r e r	native	lDa
+0.8075	মশালডাংগা	m o sh a l D a ng g a	native	lDa
+0.8075	শালডাংগা	sh a l D a ng g a	native	lDa
+0.8046	সেক্সুয়াল	sh e k s u y a l	native	ksu
+0.8033	ক্লিভল্যান্ড	kl i bh l A n D	native	hlA
+0.7995	টেটাবিদ্ধ	T e T a b i d dh O	tatsama	TeT
+0.7995	টেটন	T e T o n	native	TeT
+0.7995	টেটা	T e T a	native	TeT
+0.7995	টেটারি	T e T a r i	native	TeT
+0.7995	টেটিয়া	T e T i y a	native	TeT
+0.7995	পটেটো	p O T e T O	native	TeT
+0.7941	ডেভিড	D e bh i D	native	Deb
+0.7941	ডেভেলপারের	D e bh e l o p a r e r	native	Deb
+0.7941	ডেবারমিন	D e b a r m i n	native	Deb
+0.7941	ডেভিয়ানা	D e bh i y a n a	native	Deb
+0.7893	পিরামিড	p i r a m i D	native	miD
+0.7893	মিড	m i D	native	miD
+0.7887	অতিবিপ্লবি	O t i b i p l o b i	tatsama	iplo
+0.7880	এলাকাবাসিও	e l a k a b a s i O	native	siO
+0.7880	পিসিও	p i s i O	native	siO
+0.7863	ইভেন্টস	i bh e n T sh	native	enTs
+0.7863	ইভেন্টসের	i bh e n T sh e r	native	enTs
+0.7863	ডকুমেন্টস	D o k u m e n T s	native	enTs
+0.7863	প্যারেন্টস	p A r e n T s	native	enTs
+0.7835	ভিস্যাট	bh i s A T	native	sAT
+0.7835	ভিস্যাটের	bh i s A T e r	native	sAT
+0.7780	কিসমত	k i s m o t	native	ism
+0.7702	প্যাটেন্টের	p A T e n T e r	native	TenTe
+0.7697	ম্যাট	m A T	native	mAT
+0.7697	ম্যাটেজ	m A T e j	native	mAT
+0.7697	ম্যাটের	m A T e r	native	mAT
+0.7681	রডগুলো	r o D g u l O	native	oDg
+0.7681	রডবোঝাই	r o D b O jh a i	native	oDb
+0.7678	বিকেএমইএর	b i k e e m i e r	native	eem
+0.7678	বিকেএমইএ	b i k e e m i e	native	eem
+0.7678	বিকেএমইএকে	b i k e e m i e k e	native	eem
+0.7678	বিজেএমইএ	b i j e e m i e	native	eem
+0.7678	বিজেএমইএর	b i j e e m i e r	native	eem
+0.7678	বিজেএমএর	b i j e e m e r	native	eem
+0.7664	সিটিএমএস	sh i T i e m o e sh	native	Tiem
+0.7521	ইংল্যান্ডই	i ng l A n D i	native	lAnDi
+0.7512	ভ্যাবলা	bh A b l a	native	Abl
+0.7511	প্রেজেন্টেশন	pr e j e n T e sh O n	native	jenTe
+0.7451	প্যারালাইসিস	p A r a l a i s i s	native	sis
+0.7451	ক্রাইসিস	kr a i s i s	native	sis
+0.7451	বিবিসিসহ	b i b i s i sh o h O	native	sis
+0.7414	ইল্ড	i l D	native	ilD
+0.7414	কিল্ড	k i l D	native	ilD
+0.7414	চাইল্ড	ch a i l D	native	ilD
+0.7414	চাইল্ডহুড	ch a i l D h u D	native	ilD
+0.7414	নিলডুমুর	n i l D u m u r	native	ilD
+0.7414	পোর্টারফিল্ড	p O r T a r ph i l D	native	ilD
+0.7394	ইভেন্টে	i bh e n T e	native	enTe
+0.7394	ইভেন্টেই	i bh e n T e i	native	enTe
+0.7394	ইভেন্টেও	i bh e n T e O	native	enTe
+0.7394	ইভেন্টের	i bh e n T e r	native	enTe
+0.7394	কারেন্টের	k a r e n T e r	native	enTe
+0.7394	গভর্নমেন্টের	g o bh o r n m e n T e r	native	enTe
+0.7394	পার্লামেন্টে	p a r l a m e n T e	native	enTe
+0.7394	পিগমেন্টেশন	p i g m e n T e sh O n	native	enTe
+0.7393	অভিপ্লুত	O bh i p l u t O	tatsama	ipl
+0.7393	পাইপলাইন	p a i p l a i n	native	ipl
+0.7393	পাইপলাইনগুলো	p a i p l a i n g u l O	native	ipl
+0.7393	পাইপলাইনে	p a i p l a i n e	native	ipl
+0.7393	পাইপলাইনের	p a i p l a i n e r	native	ipl
+0.7393	পিপলি	p i p l i	native	ipl
+0.7393	লিপলাইনার	l i p l a i n a r	native	ipl
+0.7393	শিপলু	sh i p l u	native	ipl
+0.7393	শিপলুর	sh i p l u r o	native	ipl
+0.7387	গ্যাসসমৃদ্ধ	g A s sh o m r i d dh O	tatsama	Ass
+0.7387	গ্যাসস্বল্পতা	g A s sh o l p o t a	tatsama	Ass
+0.7387	গ্যাসস্বল্পতার	g A s sh o l p o t a r	tatsama	Ass
+0.7377	পেইন্টস	p e i n T s	native	nTs
+0.7377	প্যান্টসহ	p A n T sh o h O	native	nTs
+0.7320	ইন্ডিজ	i n D i j	native	Dij
+0.7320	ইন্ডিজই	i n D i j i	native	Dij
+0.7320	ইন্ডিজও	i n D i j O	native	Dij
+0.7320	ইন্ডিজকে	i n D i j k e	native	Dij
+0.7320	ইন্ডিজে	i n D i j e	native	Dij
+0.7320	ইন্ডিজেনাস	i n D i j e n a sh	native	Dij
+0.7320	ইন্ডিজের	i n D i j e r	native	Dij
+0.7320	ডিজিটাল	D i j i T a l	native	Dij
+0.7183	ডেজালিয়েন	D e j a l i y e n	native	Dej
+0.7167	টেকসই	T e k sh O i	native	Teks
+0.7167	টেকসইভাবে	T e k sh o i bh a b e	native	Teks
+0.7167	প্রটেকশন	pr O T e k sh O n	native	Teks
+0.7167	প্রোটেকশন	pr O T e k sh o n	native	Teks
+0.7136	কেবল	k A b O l	native	kAb
+0.7136	কেবলমাত্র	k A b O l m a tr O	native	kAb
+0.7111	পাসওভার	p a s O bh a r	native	sOb
+0.7111	ড্র	D r o	native	Dro
+0.7111	ড্রতে	D r o t e	native	Dro
+0.7111	ড্রয়ার	D r o y a r	native	Dro
+0.7107	ভিসাও	bh i s a O	native	isa
+0.7107	ভিসাব্যবস্থা	bh i s a b A b o sth a	native	isa
+0.7107	ভিসায়	bh i s a y	native	isa
+0.7076	আলেখা	a l A kh a	native	lAk
+0.7076	ল্যাকটিক	l A k T i k	native	lAk
+0.7076	ল্যাক	l A k	native	lAk
+0.7076	ল্যাকমে	l A k m e	native	lAk
+0.7074	ইউক্লিড	i u kl i D	native	liD
+0.7074	সিলিড	sh i l i D	native	liD
+0.7052	পালসিজনিত	p a l s i j o n i t o	native	sij
+0.7026	বিসিগনানি	b i s i g n a n i	native	sig
+0.7023	গডফাদারদের	g o D ph a d a r d e r	native	Dph
+0.7023	গডফাদার	g o D ph a d a r	native	Dph
+0.7023	গডফাদাররা	g o D ph a d a r r a	native	Dph
+0.7023	গডফাদারের	g o D ph a d a r e r	native	Dph
+0.7011	বিএনএনআরসি	b i e n e n a r O s i	native	Osi
+0.7011	বিএনএনআরসির	b i e n e n a r O s i r	native	Osi
+0.7011	বিওসি	b i O s i	native	Osi
+0.6971	সিএএল	sh i e e l	native	eel
+0.6932	আসাবরদার	a s a b o r d a r	native	asa
+0.6932	পাসানো	p a s a n O	native	asa
+0.6932	পাসাবান	p a s a b a n	native	asa
+0.6932	হাসান	h a s a n	native	asa
+0.6932	হাসানই	h a s a n i	native	asa
+0.6932	হাসানও	h a s a n O	native	asa
+0.6932	হাসানকে	h a s a n k e	native	asa
+0.6932	হাসানপুর	h a s a n p u r	native	asa
+0.6932	হাসানরা	h a s a n r a	native	asa
+0.6932	হাসানাত	h a s a n a t	native	asa
+0.6932	হাসানুর	h a s a n u r	native	asa
+0.6932	হাসানুল	h a s a n u l	native	asa
+0.6932	হাসানের	h a s a n e r	native	asa
+0.6911	অকল্যান্ড	o k l A n D	native	lAn
+0.6911	অকল্যান্ডে	o k l A n D e	native	lAn
+0.6911	অকল্যান্ডের	o k l A n D e r	native	lAn
+0.6911	অরল্যান্ডো	o r l A n D O	native	lAn
+0.6911	অরল্যান্ডোতে	o r l A n D O t e	native	lAn
+0.6911	আয়ারল্যান্ড	a y a r l A n D	native	lAn
+0.6911	আয়ারল্যান্ডও	a y a r l A n D O	native	lAn
+0.6911	আয়ারল্যান্ডে	a y a r l A n D e	native	lAn
+0.6911	ইংল্যান্ডও	i ng l A n D O	native	lAn
+0.6911	ইংল্যান্ডে	i ng l A n D e	native	lAn
+0.6911	ইংল্যান্ডেই	i ng l A n D e i	native	lAn
+0.6911	ইংল্যান্ডেও	i ng l A n D e O	native	lAn
+0.6911	ইংল্যান্ডের	i ng l A n D e r	native	lAn
+0.6911	ইংল্যান্ডেরই	i ng l A n D e r o i	native	lAn
+0.6911	ইংল্যান্ডেরও	i ng l A n D e r o O	native	lAn
+0.6911	ইনল্যান্ড	i n l A n D	native	lAn
+0.6911	কল্যানিয়েশু	k O l A n i y e sh u	native	lAn
+0.6911	নাগাল্যান্ড	n a g a l A n D	native	lAn
+0.6911	নাগাল্যান্ডে	n a g a l A n D e	native	lAn
+0.6911	নুল্যান্ড	n u l A n D	native	lAn
+0.6911	নেদারল্যান্ড	n e d a r l A n D	native	lAn
+0.6911	নেভারল্যান্ড	n e bh a r l A n D	native	lAn
+0.6911	পোল্যান্ড	p O l A n D	native	lAn
+0.6911	পোল্যান্ডে	p O l A n D e	native	lAn
+0.6911	পোল্যান্ডের	p O l A n D e r	native	lAn
+0.6911	লেংটা	l A ng T a	native	lAn
+0.6911	লেংটার	l A ng T a r	native	lAn
+0.6911	লেংড়া	l A ng r a	native	lAn
+0.6911	ল্যাংকাশায়ার	l A ng k a sh a y a r	native	lAn
+0.6911	ল্যাংগুয়েজ	l A ng g u y e j	native	lAn
+0.6911	ল্যাংগুয়েজের	l A ng g u y e j e r	native	lAn
+0.6911	ল্যাংগে	l A ng g e	native	lAn
+0.6911	ল্যাংচা	l A ng ch a	native	lAn
+0.6911	ল্যাংটা	l A ng T a	native	lAn
+0.6911	ল্যাংড়া	l A ng r a	native	lAn
+0.6911	ল্যান	l A n	native	lAn
+0.6911	ল্যানহাম	l A n h a m o	native	lAn
+0.6911	সুকল্যান	sh u k o l A n	native	lAn
+0.6905	উপপররাশ্ট্রমন্ত্রি	u p O p o r o r a sh T r o m o n t r i	tatsama	hTr
+0.6905	উপরাশ্ট্রদুত	u p O r a sh T r o d u t o	tatsama	hTr
+0.6905	উপরাশ্ট্রপতিকে	u p O r a sh T r o p o t i k e	tatsama	hTr
+0.6905	উপরাশ্ট্রপতির	u p O r a sh T r o p o t i r	tatsama	hTr
+0.6905	উশ্ট্র	u sh T r O	tatsama	hTr
+0.6905	পররাষ্ট্র	p o r O r a sh T r O	tatsama	hTr
+0.6905	পররাষ্ট্রমন্ত্রীর	p o r O r a sh T r O m O n t r i r	tatsama	hTr
+0.6905	পররাষ্ট্রমন্ত্রীরা	p o r O r a sh T r O m O n t r i r a	tatsama	hTr
+0.6905	পররাষ্ট্রসচিবের	p o r O r a sh T r O sh O ch i b e r	tatsama	hTr
+0.6905	যুক্তরাষ্ট্রকে	j u kt O r a sh T r O k e	tatsama	hTr
+0.6905	যুক্তরাষ্ট্রসহ	j u kt O r a sh T r O sh o h O	tatsama	hTr
+0.6905	রাষ্ট্র	r a sh T r O	tatsama	hTr
+0.6905	রাষ্ট্রগুলোকে	r a sh T r O g u l O k e	tatsama	hTr
+0.6905	রাষ্ট্রগুলোতে	r a sh T r O g u l O t e	tatsama	hTr
+0.6905	রাষ্ট্রদূত	r a sh T r O d u t	tatsama	hTr
+0.6905	রাষ্ট্রদূতকে	r a sh T r O d u t k e	tatsama	hTr
+0.6905	রাষ্ট্রদূতদের	r a sh T r O d u t d e r	tatsama	hTr
+0.6905	রাষ্ট্রদূতসহ	r a sh T r O d u t sh o h O	tatsama	hTr
+0.6905	রাষ্ট্রদূতের	r a sh T r O d u t e r	tatsama	hTr
+0.6905	রাষ্ট্রদ্রোহী	r a sh T r O d r O h i	tatsama	hTr
+0.6905	রাষ্ট্রধর্ম	r a sh T r O dh o r m O	tatsama	hTr
+0.6905	রাষ্ট্রপ	r a sh T r O p	tatsama	hTr
+0.6905	রাষ্ট্রপক্ষ	r a sh T r O p o kkh O	tatsama	hTr
+0.6905	রাষ্ট্রপতি	r a sh T r O p O t i	tatsama	hTr
+0.6905	রাষ্ট্রযন্ত্র	r a sh T r O j o n t r O	tatsama	hTr
+0.6905	রাষ্ট্রশক্তি	r a sh T r O sh O kt i	tatsama	hTr
+0.6905	স্বরাষ্ট্রমন্ত্রীরা	sh o r a sh T r O m O n t r i r a	tatsama	hTr
+0.6905	স্বরাষ্ট্রসচিব	sh o r a sh T r O sh O ch i b	tatsama	hTr
+0.6905	ধৃতরাশ্ট্র	dh ri t O r a sh T r O	tatsama	hTr
+0.6905	রাশ্ট্রক্ষমতা	r a sh T r o kkh o m o t a	tatsama	hTr
+0.6905	রাশ্ট্রক্ষমতার	r a sh T r O kh o m O t a r	tatsama	hTr
+0.6905	রাশ্ট্রক্ষমতায়	r a sh T r o kkh o m o t a y	tatsama	hTr
+0.6905	রাশ্ট্রপক্ষ	r a sh T r O p o kkh O	tatsama	hTr
+0.6905	রাশ্ট্রপক্ষও	r a sh T r O p O kkh O	tatsama	hTr
+0.6905	রাশ্ট্রপক্ষকে	r a sh T r O p o kkh O k e	tatsama	hTr
+0.6905	রাশ্ট্রপক্ষে	r a sh T r o p o kkh e	tatsama	hTr
+0.6905	রাশ্ট্রবিজ্ঞান	r a sh T r O b i g g a n	tatsama	hTr
+0.6905	রাশ্ট্রবিজ্ঞানি	r a sh T r O b i g g a n i	tatsama	hTr
+0.6905	রাশ্ট্রবিজ্ঞানিরা	r a sh T r o b i g g a n i r a	tatsama	hTr
+0.6905	রাশ্ট্রবিজ্ঞানে	r a sh T r O b i g g a n e	tatsama	hTr
+0.6905	রাশ্ট্রবিজ্ঞানের	r a sh T r O b i g g a n e r	tatsama	hTr
+0.6905	স্বরাশ্ট্র	sh o r a sh T r O	tatsama	hTr
+0.6905	স্বরাশ্ট্রপ্রতিমন্ত্রি	sh o r a sh T r O pr O t i m O n	tatsama	hTr
+0.6905	স্বরাশ্ট্রমন্ত্রি	sh o r a sh T r o m o nt r i	tatsama	hTr
+0.6905	স্বরাশ্ট্রমন্ত্রিই	sh o r a sh T r o m o nt r i i	tatsama	hTr
+0.6905	স্বরাশ্ট্রমন্ত্রিও	sh o r a sh T r o m o nt r i O	tatsama	hTr
+0.6905	স্বরাশ্ট্রমন্ত্রিকে	sh o r a sh T r O m O nt ri k e	tatsama	hTr
+0.6905	স্বরাশ্ট্রমন্ত্রিদের	sh o r a sh T r o m o nt r i d e r	tatsama	hTr
+0.6905	স্বরাশ্ট্রমন্ত্রির	sh o r a sh T r O m O nt ri r	tatsama	hTr
+0.6905	স্বরাশ্ট্রমন্ত্রিরা	sh o r a sh T r O m O nt ri r a	tatsama	hTr
+0.6905	স্বরাশ্ট্রমন্ত্রিসহ	sh o r a sh T r o m o nt r i sh o h O	tatsama	hTr
+0.6905	স্বরাশ্ট্রসচিব	sh o r a sh T r O sh O ch i b	tatsama	hTr
+0.6905	স্বরাশ্ট্রসচিবকে	sh o r a sh T r o sh o ch i b k e	tatsama	hTr
+0.6905	স্বরাশ্ট্রসচিবদের	sh o r a sh T r o sh o ch i b d e r	tatsama	hTr
+0.6905	স্বরাশ্ট্রসচিবসহ	sh o r a sh T r o sh o ch i b sh o h O	tatsama	hTr
+0.6905	স্বরাশ্ট্রসচিবের	sh o r a sh T r o sh o ch i b e r	tatsama	hTr
+0.6905	স্বরাশ্ট্রসহ	sh o r a sh T r o sh o h O	tatsama	hTr
+0.6896	পারসোনা	p a r s O n a	native	rsO
+0.6896	পারসোনার	p a r s O n a r	native	rsO
+0.6896	পারসোনাল	p a r s O n a l	native	rsO
+0.6896	পারসোনালিটি	p a r s O n a l i T i	native	rsO
+0.6896	পারসোনায়	p a r s O n a y	native	rsO
+0.6896	পার্সোনালিটি	p a r s O n a l i T i	native	rsO
+0.6896	পার্সোনেল	p a r s O n e l	native	rsO
+0.6890	প্যান্টে	p A n T e	native	AnTe
+0.6890	প্যান্টের	p A n T e r	native	AnTe
+0.6886	পোডগোরিকা	p O D g O r i k a	native	ODg
+0.6872	পেন্ডিমোনিও	p e n D i m O n i O	native	enDi
+0.6872	ভেরেন্ডি	bh e r e n D i	native	enDi
+0.6872	ভেরেন্ডির	bh e r e n D i r	native	enDi
+0.6850	ড্যাং	D A ng	native	DAn
+0.6850	ড্যাংগা	D A ng g a	native	DAn
+0.6850	ড্যানো	D A n O	native	DAn
+0.6842	ইউকেটে	i u k e T e	native	eTe
+0.6842	ইনসেটে	i n sh e T e	native	eTe
+0.6842	ইন্টানেটের	i n T a n e T e r	native	eTe
+0.6842	এটে	e T e	native	eTe
+0.6842	এটেছে	e T e chh e	native	eTe
+0.6842	এটেছেন	e T e chh e n	native	eTe
+0.6842	এটেল	e T e l	native	eTe
+0.6842	খেটে	kh e T e	native	eTe
+0.6842	খেটেখাওয়া	kh e T e kh a O y a	native	eTe
+0.6842	খেটেখুটে	kh e T e kh u T e	native	eTe
+0.6842	খেটেছি	kh e T e chh i	native	eTe
+0.6842	খেটেছিলেন	kh e T e chh i l e n	native	eTe
+0.6842	খেটেছে	kh e T e chh e	native	eTe
+0.6842	খেটেছেন	kh e T e chh e n	native	eTe
+0.6842	খেটেল	kh e T e l	native	eTe
+0.6842	গেটে	g e T e	native	eTe
+0.6842	হেটে	h e T e	native	eTe
+0.6842	হেটেই	h e T e i	native	eTe
+0.6842	হেটেও	h e T e O	native	eTe
+0.6842	হেটেছি	h e T e chh i	native	eTe
+0.6842	হেটেছিলেন	h e T e chh i l e n	native	eTe
+0.6842	হেটেছে	h e T e chh e	native	eTe
+0.6842	হেটেছেন	h e T e chh e n	native	eTe
+0.6842	করনেটের	k o r n e T e r	native	eTe
+0.6842	কাটলেটের	k a T l e T e r	native	eTe
+0.6842	কালেক্টরেটের	k a l e k T o r e T e r	native	eTe
+0.6842	কেটে	k e T e	native	eTe
+0.6842	কেটেই	k e T e i	native	eTe
+0.6842	কেটেও	k e T e O	native	eTe
+0.6842	কেটেছি	k e T e chh i	native	eTe
+0.6842	কেটেছিল	k e T e chh i l O	native	eTe
+0.6842	কেটেছিলেন	k e T e chh i l e n	native	eTe
+0.6842	কেটেছে	k e T e chh e	native	eTe
+0.6842	কেটের	k e T e r	native	eTe
+0.6842	খালিপেটে	kh a l i p e T e	native	eTe
+0.6842	গলাকেটে	g o l a k e T e	native	eTe
+0.6842	গ্যেটের	g e T e r	native	eTe
+0.6842	ঘেটেও	gh e T e O	native	eTe
+0.6842	ঘেটেল	gh e T e l	native	eTe
+0.6842	চকলেটে	ch o k l e T e	native	eTe
+0.6842	চকলেটের	ch o k l e T e r	native	eTe
+0.6842	চুয়েটে	ch u y e T e	native	eTe
+0.6842	চুয়েটের	ch u y e T e r	native	eTe
+0.6842	চেটে	ch e T e	native	eTe
+0.6842	চেটেপুটে	ch e T e p u T e	native	eTe
+0.6842	জর্জেটের	j o r j e T e r	native	eTe
+0.6842	ডিনেটের	D i n e T e r	native	eTe
+0.6842	পকেটে	p o k e T e	native	eTe
+0.6842	পকেটেই	p o k e T e i	native	eTe
+0.6842	পকেটেও	p o k e T e O	native	eTe
+0.6842	পকেটের	p o k e T e r	native	eTe
+0.6842	পিনোচেটের	p i n O ch e T e r	native	eTe
+0.6842	পেটেই	p e T e i	native	eTe
+0.6842	পেটেও	p e T e O	native	eTe
+0.6842	পেটের	p e T e r	native	eTe
+0.6842	পেটেল	p e T e l	native	eTe
+0.6842	প্যাকেটে	p A k e T e	native	eTe
+0.6842	প্রাইভেটে	pr a i bh e T e	native	eTe
+0.6842	ফেটেছে	ph e T e chh e	native	eTe
+0.6842	বিশ্বক্রিকেটের	b i sh sh o k ri k e T e r	tatsama	eTe
+0.6842	বুকপকেটে	b u k p o k e T e	native	eTe
+0.6842	বেটে	b e T e	native	eTe
+0.6842	মেরেকেটে	m e r e k e T e	native	eTe
+0.6842	সিলেটেও	sh i l e T e O	native	eTe
+0.6842	সিলেটের	sh i l e T e r	native	eTe
+0.6811	বরফঢাকা	b o r o ph Dh a k a	native	phD
+0.6809	আবাদচন্ডিপুর	a b a d ch o n D i p u r	native	Dip
+0.6809	চন্ডিপুর	ch o n D i p u r	native	Dip
+0.6809	চন্ডিপুরের	ch o n D i p u r e r	native	Dip
+0.6809	ডিপ	D i p	native	Dip
+0.6809	ডিফো	D i ph O	native	Dip
+0.6794	হেরাল্ড	h e r a l D O	native	lDO
+0.6794	গজলডোবা	g o j O l D O b a	native	lDO
+0.6794	গজলডোবায়	g o j o l D O b a y o	native	lDO
+0.6794	গাজলডোবা	g a j o l D O b a	native	lDO
+0.6779	এন্ডে	e n D e	native	enDe
+0.6779	এমপিওভুক্তি	e m p i O bh u kt i	native	empi
+0.6779	বিএমপি	b i e m p i	native	empi
+0.6779	সিএমপি	sh i e m p i	native	empi
+0.6779	সিএমপির	sh i e m p i r	native	empi
+0.6771	আসমারা	a s m a r a	native	asm
+0.6754	উপপ্লব	u p O p l o b O	tatsama	plo
+0.6754	প্লটের	p l o T e r	native	plo
+0.6746	ব্র্যাকসহ	b r A k sh o h O	native	rAks
+0.6688	গন্ডেপিন্ডে	g o n D e p i n D e	native	Dep
+0.6688	ডেপ	D e p	native	Dep
+0.6688	ডেপল	D e p o l	native	Dep
+0.6688	ডেপুরা	D e p u r a	native	Dep
+0.6683	শিক্ষাসফরে	sh i k kh a s o ph O r e	tatsama	sop
+0.6683	সফরকারী	s o ph O r k a r i	native	sop
+0.6683	ফিলসফি	ph i l o s o ph i	native	sop
+0.6672	ক্রিকেটপ্রেমীদের	kr i k e T pr e m i d e r	native	eTp
+0.6672	পেটপুরে	p e T p u r e	native	eTp
+0.6661	ইন্টেলিজেন্ট	i n T e l i j e n T	native	nTel
+0.6661	ইন্টেলের	i n T e l e r	native	nTel
+0.6648	ব্র্যাক	b r A k	native	rAk
+0.6648	ব্র্যাকে	b r A k e	native	rAk
+0.6648	ব্র্যাকেন	b r A k e n	native	rAk
+0.6648	ব্র্যাকেনের	b r A k e n e r	native	rAk
+0.6648	ব্র্যাকের	b r A k e r	native	rAk
+0.6628	ওয়াসিফ	O y a s i ph	native	sip
+0.6628	ওয়াসিফকে	O y a s i ph k e	native	sip
+0.6628	ওয়াসিফের	O y a s i ph e r	native	sip
+0.6628	পার্টিসিপেশন	p a r T i s i p e sh o n	native	sip
+0.6628	পিসিপুল	p i s i p u l	native	sip
+0.6628	বিসিপিএস	b i s i p i e s	native	sip
+0.6593	ইম্পর্টেন্ট	i mp o r T e n T	native	rTenT
+0.6567	প্যারাসুট	p A r a s u T	native	suT
+0.6567	প্যারাসুটের	p A r a s u T e r	native	suT
+0.6563	ল্যাপ	l A p	native	lAp
+0.6563	ল্যাপের	l A p e r	native	lAp
+0.6553	রেপসল	r e p s o l	native	sol
+0.6497	প্রেমপত্র	pr e m p o tr O	native	emp
+0.6435	নেড	n e D	native	neD
+0.6420	স্পটগুলোতে	s p o T g u l O t e	native	spo
+0.6420	হৃদস্পন্দন	r i d s p o nd o n	tatsama	spo
+0.6420	হৃৎস্পন্দন	r i t s p o nd O n	tatsama	spo
+0.6420	পিএলসি	p i e l s i	native	lsi
+0.6420	বিএলসি	b i e l s i	native	lsi
+0.6420	বিওয়াইএলসি	b i O y a i e l s i	native	lsi
+0.6420	বিওয়াইএলসির	b i O y a i e l s i r	native	lsi
+0.6420	বিএপিএলসি	b i e p i e l s i	native	lsi
+0.6420	বিএপিএলসির	b i e p i e l s i r	native	lsi
+0.6414	ইউনিফায়েড	i u n i ph a y e D	native	yeD
+0.6414	ইকুয়েডর	i k u y e D o r	native	yeD
+0.6414	ইকুয়েডরকে	i k u y e D o r k e	native	yeD
+0.6414	ইকুয়েডরে	i k u y e D o r e	native	yeD
+0.6414	প্যারানয়েড	p A r a n y e D o	native	yeD
+0.6409	স্যামসং	s A m s o ng	native	mso
+0.6409	স্যামসন	s A m s o n	native	mso
+0.6409	ক্রিমসন	k ri m s o n	native	mso
+0.6347	ঘন্টেশ্বর	gh o n T e sh sh o r o	tatsama	nTes
+0.6344	পিএটিসির	p i e T i s i r	native	ieTisi
+0.6335	এট	e T	native	eT
+0.6308	ওয়াডে	O y a D e	native	aDe
+0.6308	নোরাডের	n O r a D e r	native	aDe
+0.6295	ইনটেক	i n T e k	native	nTe
+0.6295	ইনটেরিয়র	i n T e r i y o r	native	nTe
+0.6295	ইন্টেগ্রিটি	i n T e gr i T i	native	nTe
+0.6295	ইন্টেরিয়র	i n T e r i y o r	native	nTe
+0.6295	তিনটেতে	t i n T e t e	native	nTe
+0.6295	কাউন্টের	k a u n T e r	native	nTe
+0.6295	তিনটে	t i n T e	native	nTe
+0.6295	তিনটের	t i n T e r	native	nTe
+0.6295	পান্টের	p a n T e r	native	nTe
+0.6295	ফন্টে	ph o n T e	native	nTe
+0.6295	ফন্টেইন	ph o n T e i n	native	nTe
+0.6295	ফন্টেইনের	ph o n T e i n e r	native	nTe
+0.6295	ভাশানটেক	bh a sh a n T e k	native	nTe
+0.6295	ভাশানটেকে	bh a sh a n T e k e	native	nTe
+0.6295	ভাশানটেকের	bh a sh a n T e k e r	native	nTe
+0.6295	ভাসানটেক	bh a sh a n T e k	native	nTe
+0.6295	ভাসানটেকে	bh a sh a n T e k	native	nTe
+0.6295	মন্টে	m o n T e	native	nTe
+0.6291	বাসগুলো	b a s g u l O	native	asg
+0.6230	শিক্ষাবোর্ড	sh i kkh a b O r D	tatsama	OrD
+0.6230	কীবোর্ড	k i b O r D	native	OrD
+0.6230	চিংফোর্ড	ch i ng ph O r D	native	OrD
+0.6230	বিশ্বরেকর্ড	b i sh sh O r e k O r D	tatsama	OrD
+0.6230	শিলিংফোর্ড	sh i l i ng ph O r D	native	OrD
+0.6230	শোর্ড	sh O r D	native	OrD
+0.6214	ককটেলটি	k o k T e l T i	native	kTel
+0.6202	প্রেসসচিব	pr e s sh O ch i b	native	ess
+0.6202	ন্যাডপো	n A D p O	native	ADp
+0.6202	ন্যাডপোর	n A D p O r	native	ADp
+0.6181	প্যাটেন্ট	p A T e n T	native	TenT
+0.6117	সিকান্দর	s i k a nd O r	native	sik
+0.6117	এলাকাবাসিকে	e l a k a b a s i k e	native	sik
+0.6117	ক্যাপসিকাম	k A p s i k a m	native	sik
+0.6117	ক্যাপসিকামের	k A p s i k a m e r	native	sik
+0.6117	পিসিকালচার	p i s i k a l ch a r	native	sik
+0.6117	পিসিকে	p i s i k e	native	sik
+0.6117	বিপিসিকে	b i p i s i k e	native	sik
+0.6117	বিবিসিকে	b i b i s i k e	native	sik
+0.6117	বিসিক	b i s i k	native	sik
+0.6117	ভিসিকে	bh i s i k e	native	sik
+0.6092	ক্যাপশহ	k A p sh o h o	native	kAp
+0.6092	ক্যাপস	k A p o s	native	kAp
+0.6092	ক্যাপসদের	k A p s d e r	native	kAp
+0.6092	ক্যাপসরা	k A p s r a	native	kAp
+0.6092	ক্যাপসুল	k A p s u l	native	kAp
+0.6092	ক্যাপসুলের	k A p s u l e r	native	kAp
+0.6092	ক্যাপেং	k A p e ng	native	kAp
+0.6092	ক্যাপের	k A p e r	native	kAp
+0.6092	ক্যাপোট	k A p O T	native	kAp
+0.6053	কিডজ	k i D j	native	iDj
+0.6048	পেমেন্ট	p e m e n T	native	emenT
+0.6042	স্বতঃস্ফূর্ততা	s o t O s ph u r t O t a	tatsama	sph
+0.6042	ক্রসফায়ার	kr o s ph a y a r	native	sph
+0.6042	ক্রসফায়ারই	kr o s ph a y a r i	native	sph
+0.6042	ক্রসফায়ারও	kr o s ph a y a r O	native	sph
+0.6042	ক্রসফায়ারে	kr o s ph a y a r e	native	sph
+0.6042	ক্রসফায়ারের	kr o s ph a y a r e r	native	sph
+0.6042	ফসফরাস	ph o s ph o r a s	native	sph
+0.6042	স্ফটিকের	s ph O T i k e r	native	sph
+0.6042	স্ফাটিক	s ph a T i k	native	sph
+0.6042	স্ফুট	s ph u T O	native	sph
+0.6042	স্ফোট	s ph O T	native	sph
+0.6042	স্ফোটক	s ph O T o k	native	sph
+0.6042	স্ফোটন	s ph O T o n	native	sph
+0.6020	অর্ধডজন	o r dh O D o j O n	native	ODo
+0.6020	প্রবলেম	pr O b l e m	native	Obl
+0.6020	প্রবলেমটা	pr O b l e m T a	native	Obl
+0.6016	ইকুইপমেন্ট	i k u i p m e n T	native	pmenT
+0.5998	উলফেনসন	u l ph e n sh o n	native	ens
+0.5998	এনশাআল্লাহ	e n sh a l l a h	native	ens
+0.5998	এনসাফ	e n sh a ph	native	ens
+0.5998	এনসি	e n sh i	native	ens
+0.5998	এন্শা	e n sh a	native	ens
+0.5998	কনভেনশন	k o n bh e n sh o n	native	ens
+0.5998	কনভেনশনের	k o n bh e n sh o n e r	native	ens
+0.5998	বেনসন	b e n sh o n	native	ens
+0.5998	সেনসহ	sh e n sh o h O	native	ens
+0.5998	পেনশনভোগি	p e n sh o n bh O g i	native	ens
+0.5998	পেনশনভোগিদের	p e n sh o n bh O g i d e r	native	ens
+0.5998	পেনশনভোগিরা	p e n sh o n bh O g i r a	native	ens
+0.5998	পেনশনার	p e n sh O n a r	native	ens
+0.5998	পেনশনারস	p e n sh o n a r s	native	ens
+0.5998	পেনশনে	p e n sh O n e	native	ens
+0.5998	বাতেনসহ	b a t e n sh o h O	native	ens
+0.5998	মেনশন	m e n sh o n	native	ens
+0.5998	মেনস	m e n sh	native	ens
+0.5998	মেনসা	m e n sh a	native	ens
+0.5998	মোমেনশাহি	m O m e n sh a h i	native	ens
+0.5998	মোহাইমেনসহ	m O h a i m e n sh o h O	native	ens
+0.5998	লাদেনসহ	l a d e n sh o h O	native	ens
+0.5998	লেনদেনসহ	l e n d e n sh o h O	native	ens
+0.5998	লেনসহ	l e n sh o h O	native	ens
+0.5998	শাহেনশা	sh a h e n sh a	native	ens
+0.5998	শাহেনশাহ	sh a h e n sh a h	native	ens
+0.5998	শাহেনশাহকে	sh a h e n sh a h k e	native	ens
+0.5998	সাসপেনশন	sh a sh p e n sh o n	native	ens
+0.5998	সোরেনসন	sh O r e n sh o n	native	ens
+0.5998	হোসেনসহ	h O sh e n sh o h O	native	ens
+0.5950	র্যাশ	r A sh	native	rAs
+0.5946	ক্রসবার	kr o s b a r	native	sba
+0.5946	ক্রসবারে	kr o s b a r e	native	sba
+0.5946	ক্রসবারের	kr o s b a r e r	native	sba
+0.5908	বিআরটিএতে	b i a r T i e t e	native	Tie
+0.5908	বিআরটিএর	b i a r T i e r	native	Tie
+0.5908	পিইটিএন	p i i T i e n	native	Tie
+0.5908	পিটিএ	p i T i e	native	Tie
+0.5895	আর্জেন্টিনিও	a r j e n T i n i O	native	jenT
+0.5895	প্রেজেন্ট	pr e j e n T	native	jenT
+0.5895	প্রেজেন্টার	pr e j e n T a r	native	jenT
+0.5873	টেলিকমমন্ত্রি	T e l i k o m m O n t r i	native	Teli
+0.5873	টেলিঘনত্ব	T e l i gh o n O tt O	tatsama	Teli
+0.5873	টেলিছবিতে	T e l i chh O b i t e	native	Teli
+0.5873	টেলিযোগাযোগ	T e l i j O g a j O g	native	Teli
+0.5852	বাল্কহেড	b a l k h e D	native	heD
+0.5852	হেড	h e D	native	heD
+0.5852	পিয়ারহেড	p i y a r h e D	native	heD
+0.5852	রেখেঢেকে	r e kh e Dh e k e	native	heD
+0.5840	পিএইচটিসি	p i e i ch T i s i	native	Tisi
+0.5814	ইউডা	i u D a	native	iuD
+0.5814	বলিউড	b o l i u D	native	iuD
+0.5808	ঢিলেঢালাভাবে	Dh i l e Dh a l a bh a b e	native	leD
+0.5808	ঢিলেঢালা	Dh i l e Dh a l a	native	leD
+0.5801	সংক্রান্ত	s o ng k r a n t O	native	son
+0.5801	সংবাদের	s o ng b a d e r	native	son
+0.5801	সন্তোষ	s o nt O sh	tatsama	son
+0.5801	সেবাসংক্রান্ত	sh e b a s o ng k r a n t O	native	son
+0.5775	চাপল	ch a p l O	native	plO
+0.5775	প্লক্ষ	p l O kkh O	tatsama	plO
+0.5767	পার্টিক্যাল	p a r T i k A l	native	kAl
+0.5767	ইউক্যালিপটাস	i u k A l i p T a sh	native	kAl
+0.5767	এথিক্যাল	e th i k A l	native	kAl
+0.5767	কেমিক্যালস	k e m i k A l s	native	kAl
+0.5767	কেলানো	k A l a n O	native	kAl
+0.5767	ক্যালকাট	k A l k a T	native	kAl
+0.5767	ক্যালকাটা	k A l k a T a	native	kAl
+0.5767	ক্যালকুলাস	k A l k u l a s	native	kAl
+0.5767	ক্যালাসানের	k A l a sh a n e r	native	kAl
+0.5767	ক্যালিয়ন	k A l i y o n	native	kAl
+0.5767	ক্যালিয়নের	k A l i y o n e r	native	kAl
+0.5767	ক্যালু	k A l u	native	kAl
+0.5767	ক্যালেন্ডারে	k A l e n D a r e	native	kAl
+0.5767	পলিটিক্যালি	p o l i T i k A l i	native	kAl
+0.5767	প্রাকটিক্যাল	pr a k T i k A l	native	kAl
+0.5767	ফিজিক্যাল	ph i j i k A l	native	kAl
+0.5767	ফিজিক্যালি	ph i j i k A l i	native	kAl
+0.5767	বায়োলজিক্যাল	b a y O l o j i k A l	native	kAl
+0.5767	ভেহিক্যাল	bh e h i k A l	native	kAl
+0.5767	মিউজিক্যাল	m i u j i k A l	native	kAl
+0.5767	মেকানিক্যাল	m e k a n i k A l	native	kAl
+0.5767	ম্যাজিক্যাল	m A j i k A l	native	kAl
+0.5767	সার্জিক্যাল	sh a r j i k A l	native	kAl
+0.5733	সর্বাত্মক	s o r b a t t o k	native	sor
+0.5733	স্যরি	s o r i	native	sor
+0.5727	জনসম্মুখে	j o n O s o mm u kh e	native	Oso
+0.5714	প্যান্ডেকার	p A n D e k a r	native	AnDe
+0.5714	ব্যান্ডে	b A n D e	native	AnDe
+0.5666	এলাকাবাসিই	e l a k a b a s i i	native	sii
+0.5666	বিপিসিই	b i p i s i i	native	sii
+0.5666	নরটেলের	n o r T e l e r	native	rTel
+0.5656	চার্টের	ch a r T e r	native	rTe
+0.5656	শেখেরটেক	sh e kh e r T e k	native	rTe
+0.5656	শেখেরটেকে	sh e kh e r T e k e	native	rTe
+0.5656	শেখেরটেকের	sh e kh e r T e k e r	native	rTe
+0.5656	ওলপার্টের	O l p a r T e r	native	rTe
+0.5656	কাইকারটেক	k a i k a r T e k	native	rTe
+0.5656	কালভার্টে	k a l bh a r T e	native	rTe
+0.5656	কালভার্টের	k a l bh a r T e r	native	rTe
+0.5656	কেয়ারটেকার	k e y a r T e k a r	native	rTe
+0.5656	কেয়ারটেকারের	k e y a r T e k a r e r	native	rTe
+0.5656	গার্টেনবার্গ	g a r T e n b a r g	native	rTe
+0.5656	চারটে	ch a r T e	native	rTe
+0.5656	চারটেয়	ch a r T e i	native	rTe
+0.5656	জজকোর্টে	j o j k O r T e	native	rTe
+0.5656	জজকোর্টের	j o j k O r T e r	native	rTe
+0.5656	নাজিরারটেক	n a j i r a r T e k	native	rTe
+0.5656	পাওয়ারটেক	p a O y a r T e k	native	rTe
+0.5656	পাওয়ারটেকের	p a O y a r T e k e r	native	rTe
+0.5656	পার্টের	p a r T e r	native	rTe
+0.5656	পোর্টেবল	p O r T e b O l	native	rTe
+0.5656	পোর্টেবলিটি	p O r T e b o l i T i	native	rTe
+0.5656	মেলারটেক	m e l a r T e k	native	rTe
+0.5656	মেলারটেকে	m e l a r T e k e	native	rTe
+0.5656	ময়নারটেক	m o y n a r T e k	native	rTe
+0.5656	সিন্নিরটেক	sh i nn i r T e k	native	rTe
+0.5652	প্যন্ট	p A n T	native	AnT
+0.5652	প্যান্টগুলো	p A n T g u l O	native	AnT
+0.5652	প্যান্টটা	p A n T T a	native	AnT
+0.5652	প্যান্টটি	p A n T T i	native	AnT
+0.5652	প্যান্টোমাইম	p A n T O m a i m	native	AnT
+0.5652	ভ্যানটি	bh A n T i	native	AnT
+0.5652	ভ্যানটিকে	bh A n T i k e	native	AnT
+0.5652	ভ্যানটির	bh A n T i r	native	AnT
+0.5626	প্যাটেলকে	p A T e l k e	native	ATel
+0.5626	প্যাটেলদের	p A T e l d e r	native	ATel
+0.5626	প্যাটেলের	p A T e l e r	native	ATel
+0.5614	ইবাডির	i b a D i r	native	aDi
+0.5614	কবাডি	k o b a D i	native	aDi
+0.5614	নয়াডিঙ্গী	n o a D i ng g i	native	aDi
+0.5614	কাপাডিয়া	k a p a D i y a	native	aDi
+0.5614	কাপাডিয়ার	k a p a D i y a r	native	aDi
+0.5614	কাবাডি	k a b a D i	native	aDi
+0.5614	কাবাডিতে	k a b a D i t e	native	aDi
+0.5614	কাবাডিতেও	k a b a D i t e O	native	aDi
+0.5614	কাবাডির	k a b a D i r	native	aDi
+0.5614	নয়াডিংগি	n o y a D i ng g i	native	aDi
+0.5614	নয়াডিং্গি	n o a D i ng g i	native	aDi
+0.5614	বাডি	b a D i	native	aDi
+0.5614	রাডিয়ার	r a D i y a r	native	aDi
+0.5609	ম্যাকসন	m A k sh o n	native	Aks
+0.5609	ম্যাকসনস	m A k sh o n sh	native	Aks
+0.5609	ম্যাকসি	m A k sh i	native	Aks
+0.5609	ম্যাকসুয়েন	m A k sh u y e n	native	Aks
+0.5609	স্ন্যাকস	sn A k sh	native	Aks
+0.5596	সাকিবের	s a k i b e r	native	sak
+0.5595	ইমিটেশন	i m i T e sh O n	native	Tes
+0.5595	ইমিটেশনের	i m i T e sh o n e r	native	Tes
+0.5595	নাটেশ্বর	n a T e sh sh o r	tatsama	Tes
+0.5595	বটেশ্বর	b o T e sh sh o r	tatsama	Tes
+0.5595	বটেশ্বরে	b o T e sh sh O r e	tatsama	Tes
+0.5595	বটেশ্বরের	b o T e sh sh o r e r	tatsama	Tes
+0.5595	শ্টেশন	sh T e sh o n	native	Tes
+0.5595	শ্টেশনে	sh T e sh o n e	native	Tes
+0.5595	শ্টেশনের	sh T e sh o n e r	native	Tes
+0.5595	কশ্টেসৃশ্টে	k o sh T e s ri sh T e	tatsama	Tes
+0.5595	কাল–নটেশ	k a l n o T e sh	native	Tes
+0.5595	কোটেশ্বর	k O T e sh r o	tatsama	Tes
+0.5595	চট্টেশ্বরি	ch o T T e sh sh O r i	tatsama	Tes
+0.5595	নটেশ্বর	n o T e sh sh o r	tatsama	Tes
+0.5595	পাটেশ্বরি	p a T e sh sh O r i	tatsama	Tes
+0.5595	ভাড়াটেসহ	bh a r a T e sh o h O	native	Tes
+0.5576	প্যাটে	p A T e	native	ATe
+0.5576	প্যাটেন	p A T e n	native	ATe
+0.5576	প্যাটের	p A T e r	native	ATe
+0.5576	ফ্যাটের	ph A T e r	native	ATe
+0.5576	ব্যাটে	b A T e	native	ATe
+0.5576	ব্যাটেই	b A T e i	native	ATe
+0.5576	ব্যাটেও	b A T e O	native	ATe
+0.5576	ব্যাটের	b A T e r	native	ATe
+0.5534	ওডভার	O D bh a r	native	ODb
+0.5534	লোডভিক	l O D bh i k	native	ODb
+0.5529	নিস্পৃহ	n i s p ri h O	tatsama	isp
+0.5529	নিস্পৃহতা	n i s p ri h o t a	tatsama	isp
+0.5529	পিসপ্রতি	p i s pr o t i	native	isp
+0.5504	ক্ষেপলা	kh E p l a	tatsama	pla
+0.5504	প্লাবনভূমি	p l a b O n bh u m i	native	pla
+0.5504	শাপলা	sh a p l a	native	pla
+0.5504	হেল্পলাইন	h e l p l a i n	native	pla
+0.5504	কাপলান	k a p l a n	native	pla
+0.5504	খাপলাং	kh a p l a ng	native	pla
+0.5504	ঘাপলা	gh a p l a	native	pla
+0.5504	ঘাপলার	gh a p l a r	native	pla
+0.5504	টোপলা	T O p l a	native	pla
+0.5504	ন্যাপলা	n A p l a	native	pla
+0.5504	শাপলাকে	sh a p l a k e	native	pla
+0.5504	শাপলাপুর	sh a p l a p u r	native	pla
+0.5504	শাপলার	sh a p l a r	native	pla
+0.5504	সাপলা	sh a p l a	native	pla
+0.5468	দুষ্কৃতিকারীরা	d u s k ri t i k a r i r a	tatsama	usk
+0.5437	ডেমরা	D A m r a	native	DAm
+0.5437	ডেমরার	D A m r a r	native	DAm
+0.5426	নাছিম	n a s i m	native	sim
+0.5426	ওয়াসিম	O y a s i m	native	sim
+0.5426	ওয়াসিমকে	O y a s i m k e	native	sim
+0.5426	ওয়াসিমুল	O a s i m u l	native	sim
+0.5426	ওয়াসিমের	O y a s i m e r	native	sim
+0.5426	পিসিম্যাগ	p i s i m A g	native	sim
+0.5426	বায়োপসি	b a y O p s i	native	psi
+0.5425	মাসহ	m a s o h	native	aso
+0.5416	ড্রোনকে	D r O n k e	native	DrO
+0.5416	ড্রোনটি	D r O n T i	native	DrO
+0.5416	ড্রোনটির	D r O n T i r	native	DrO
+0.5413	পিজিসিবি	p i j i s i b i	native	isi
+0.5413	পলিসিতে	p o l i s i t e	native	isi
+0.5413	পলিসির	p o l i s i r	native	isi
+0.5413	পিইসি	p i i s i	native	isi
+0.5413	পিইসির	p i i s i r	native	isi
+0.5413	পিভিসি	p i bh i s i	native	isi
+0.5413	পিসি	p i s i	native	isi
+0.5413	পিসিতে	p i s i t e	native	isi
+0.5413	পিসিবি	p i s i b i	native	isi
+0.5413	পিসিবিকে	p i s i b i k e	native	isi
+0.5413	পিসিবির	p i s i b i r	native	isi
+0.5413	পিসির	p i s i r	native	isi
+0.5413	বিজিসি	b i j i s i	native	isi
+0.5413	বিপিসি	b i p i s i	native	isi
+0.5413	বিবিসি	b i b i s i	native	isi
+0.5413	বিবিসিতে	b i b i s i t e	native	isi
+0.5413	বিবিসির	b i b i s i r	native	isi
+0.5413	বিসি	b i s i	native	isi
+0.5413	বিসিবি	b i s i b i	native	isi
+0.5413	বিসিবিও	b i s i b i O	native	isi
+0.5413	বিসিবিকে	b i s i b i k e	native	isi
+0.5413	বিসিবিতে	b i s i b i t e	native	isi
+0.5413	বিসিবিপ্রধান	b i s i b i pr o dh a n	native	isi
+0.5413	বিসিবির	b i s i b i r	native	isi
+0.5413	বিসিবিরও	b i s i b i r O	native	isi
+0.5413	ভিসি	bh i s i	native	isi
+0.5413	ভিসিবিরোধি	bh i s i b i r O dh i	native	isi
+0.5413	ভিসির	bh i s i r	native	isi
+0.5410	টেন্ডাই	T e n D a i	native	TenD
+0.5410	টেন্ডারবাজ	T e n D a r b a j	native	TenD
+0.5410	টেন্ডারবাজির	T e n D a r b a j i r	native	TenD
+0.5410	টেন্ডারে	T e n D a r e	native	TenD
+0.5410	টেন্ডুলকারসহ	T e n D u l k a r sh o h O	native	TenD
+0.5403	ল্যামি	l A m i	native	lAm
+0.5403	ল্যামোগলিয়া	l A m O g o l i y a	native	lAm
+0.5403	ল্যাম্প	l A mp	native	lAm
+0.5403	ল্যাম্পগুলো	l A mp g u l O	native	lAm
+0.5403	ল্যাম্পস	l A mp sh	native	lAm
+0.5403	ল্যাম্পের	l A mp e r	native	lAm
+0.5403	ল্যাম্ব	l A mb	native	lAm
+0.5380	নিটওয়্যার	n i T O y A r	native	OyAr
+0.5380	নিটওয়্যারের	n i T O y A r e r	native	OyAr
+0.5380	ফ্যাশনওয়্যার	ph A sh o n O y A r	native	OyAr
+0.5380	সামহোয়্যার	sh a m h O y A r	native	OyAr
+0.5380	সামহোয়্যারইন	sh a m h O y A r i n	native	OyAr
+0.5370	পনিটেল	p a n i T e l	native	iTel
+0.5363	ইনগ্রিড	i n gr i D	native	riD
+0.5363	পাওয়ারগ্রিড	p a O y a r gr i D	native	riD
+0.5336	পিড	p i D	native	piD
+0.5336	পিড্য	p i D D O m a n	native	piD
+0.5303	ইম্পাউন্ডিং	i mp a u n D i ng	native	nDin
+0.5284	চাপলিন	ch a p l i n	native	pli
+0.5284	চ্যাপলিনের	ch A p l i n e r	native	pli
+0.5284	জপলিন	j o p l i n	native	pli
+0.5284	পপলিন	p o p l i n	native	pli
+0.5284	লতাচাপলি	l o t a ch a p l i	native	pli
+0.5283	সাম	s a m	native	sam
+0.5283	সামিউল	s a m i u l	native	sam
+0.5265	এঁটেল	e~ T e l	native	Tel
+0.5265	হোটেলগুলো	h O T e l g u l O	native	Tel
+0.5265	হোটেলগুলোতে	h O T e l g u l O t e	native	Tel
+0.5265	খটেল	kh o T e l	native	Tel
+0.5265	খোটেল	kh O T e l	native	Tel
+0.5265	টেল	T e l	native	Tel
+0.5265	টেলর	T e l o r	native	Tel
+0.5265	টেলা	T e l a	native	Tel
+0.5265	টেলার	T e l a r	native	Tel
+0.5265	টেলে	T e l e	native	Tel
+0.5265	টেলের	T e l e r	native	Tel
+0.5265	টেল্লো	T e l l O	native	Tel
+0.5265	পটেল	p o T e l	native	Tel
+0.5265	পাটেল	p a T e l	native	Tel
+0.5264	আড়খেমটা	a r kh e m T a	native	emT
+0.5264	প্রেমটা	pr e m T a	native	emT
+0.5229	বাসচালক	b a s ch a l O k	native	asc
+0.5229	বাসচালকের	b a s ch a l O k e r	native	asc
+0.5229	বাসযাত্রী	b a s j a tr i	native	asj
+0.5229	বাসযাত্রীরা	b a s j a t r i r a	native	asj
+0.5227	তুন্ডিল	t u n D i l	native	Dil
+0.5227	বান্ডিল	b a n D i l	native	Dil
+0.5227	বান্ডিলে	b a n D i l e	native	Dil
+0.5227	শান্ডিল্য	sh a n D i l l O	native	Dil
+0.5113	টে	T e	native	Te
+0.5093	কেটলি	k e T l i	native	eTl
+0.5056	ইক্যুইটেবল	i k k u i T e b o l	native	uiTe
+0.5020	ক্ল্যাও	k l A O	native	klA
+0.5003	উড্ডিন	u D D i n	native	Din
+0.5003	ডিনারে	D i n a r e	native	Din
+0.5003	ডিংকা	D i ng k a	native	Din
+0.5003	ডিংগাডোবা	D i ng g a D O b a	native	Din
+0.5003	ডিংাতে	D i ng g a t e	native	Din
+0.5003	ডিংানো	D i ng g a n O	native	Din
+0.5003	ডিংানোর	D i ng g a n O r	native	Din
+0.5003	ডিংি	D i ng i	native	Din
+0.5003	ডিংিয়ে	D i ng g i y e	native	Din
+0.5003	ডিনেট	D i n e T	native	Din
+0.5003	ডিন্ডিম	D i n D i m	native	Din
+0.5003	ডিন্ডির	D i n D i r	native	Din
+0.4875	ক্লায়েন্ট	kl a y e n T	native	yenT
+0.4875	টোয়েন্টি	T O y e n T i	native	yenT
+0.4870	সোপের	s O p e r	native	sOp
+0.4870	সোফি	s O ph i	native	sOp
+0.4861	পনিটেইল	p O n i T e i l	native	iTeil
+0.4858	ইফেক্টস	i ph e k T sh	native	kTs
+0.4858	ইফেক্টসের	i ph e k T sh e r	native	kTs
+0.4858	ফোক্ট্স	ph O k T sh	native	kTs
+0.4850	স্কুলছাত্র	s k u l chh a tr O	native	sku
+0.4850	স্কুলছাত্রকে	s k u l chh a tr O k e	native	sku
+0.4850	স্কুলছাত্রীদের	s k u l chh a tr i d e r	native	sku
+0.4850	স্কুলশিক্ষিকা	s k u l sh i kkh i k a	tatsama	sku
+0.4850	স্কুলশিক্ষক	s k u l sh i kkh o k	tatsama	sku
+0.4850	স্কুলশিক্ষককে	s k u l sh i kkh o k k e	tatsama	sku
+0.4850	স্কুলশিক্ষকদের	s k u l sh i kkh o k d e r	tatsama	sku
+0.4850	স্কুলশিক্ষকের	s k u l sh i kkh O k e r	tatsama	sku
+0.4850	স্কুলশিক্ষা	s k u l sh i kkh a	tatsama	sku
+0.4850	স্কুলশিক্ষার্থি	s k u l sh i kkh a r th i	tatsama	sku
+0.4850	স্কুলশিক্ষার্থিদের	s k u l sh i kkh a r th i d e r	tatsama	sku
+0.4850	স্কুলশিক্ষিকার	s k u l sh i kkh i k a r	tatsama	sku
+0.4831	টেরা	T A r a	native	TAr
+0.4831	ট্যারা	T A r a	native	TAr
+0.4828	ইদুরটিকে	i d u r T o k e	native	rTo
+0.4828	গিয়ার্ট	g i y a r T o	native	rTo
+0.4828	নরটন	n o r T o n	native	rTo
+0.4804	পেভমেন্ট	p e bh m e n T	native	menT
+0.4804	ইনক্রিমেন্ট	i n k ri m e n T	native	menT
+0.4804	ইমপিচমেন্ট	i m p i ch m e n T	native	menT
+0.4804	ইমপ্রুভমেন্ট	i m pr u bh m e n T	native	menT
+0.4804	টুর্নামেন্ট	T u r n a m e n T	native	menT
+0.4804	গবর্নমেন্ট	g o b o r n o m e n T o	native	menT
+0.4804	গবর্মেন্ট	g o b o r m e n T o	native	menT
+0.4804	গভমেন্ট	g o bh m e n T	native	menT
+0.4804	গভর্নমেন্ট	g o bh o r n m e n T o	native	menT
+0.4804	পানিশমেন্ট	p a n i sh m e n T	native	menT
+0.4804	পার্লামেন্ট	p a r l a m e n T	native	menT
+0.4804	পার্লামেন্টই	p a r l a m e n T i	native	menT
+0.4804	পিগমেন্ট	p i g m e n T	native	menT
+0.4804	লজমেন্ট	l o j m e n T	native	menT
+0.4804	সুমেন্টু	sh u m e n T u	native	menT
+0.4798	ইএম	i e m	native	iem
+0.4798	ইভিএমে	i bh i e m e	native	iem
+0.4798	পিএমআই	p i e m a i	native	iem
+0.4798	পিএমএল	p i e m e l	native	iem
+0.4798	বিআইবিএম	b i a i b i e m	native	iem
+0.4798	বিআইবিএমের	b i a i b i e m e r	native	iem
+0.4798	বিএম	b i e m	native	iem
+0.4798	বিএমআই	b i e m a i	native	iem
+0.4798	বিএমআরই	b i e m a r i	native	iem
+0.4798	বিএমএমএএর	b i e m e m e e r	native	iem
+0.4798	বিএমএর	b i e m e r	native	iem
+0.4798	বিএমবিএ	b i e m b i e	native	iem
+0.4798	বিএমবিএর	b i e m b i e r	native	iem
+0.4798	বিজিএমইএ	b i j i e m i e	native	iem
+0.4798	বিজিএমইএকে	b i j i e m i e k e	native	iem
+0.4798	বিপিজিএমইএ	b i p i j i e m i e	native	iem
+0.4798	বিপিজিএমইএর	b i p i j i e m i e r	native	iem
+0.4798	সিএম	sh i e m	native	iem
+0.4798	সিএমআরআরসি	sh i e m a r a r sh i	native	iem
+0.4798	সিএমএ	sh i e m e	native	iem
+0.4798	সিএমএইচ	sh i e m e i ch	native	iem
+0.4798	সিএমএইচে	sh i e m e i ch e	native	iem
+0.4798	সিএমএইচের	sh i e m e i ch e r	native	iem
+0.4798	সিএমএম	sh i e m e m	native	iem
+0.4798	সিএমএল	sh i e m e l	native	iem
+0.4798	সিএমএস	sh i e m e sh	native	iem
+0.4798	সিএমও	sh i e m O	native	iem
+0.4798	সিএমওএ,	sh i e m O e sh	native	iem
+0.4798	সিএমসি	sh i e m sh i	native	iem
+0.4798	সিএমসিক,	sh i e m sh i k e	native	iem
+0.4798	সিএমসির	sh i e m sh i r	native	iem
+0.4798	সিপিআইএম	sh i p i a i e m	native	iem
+0.4798	সিপিআইএমের	sh i p i a i e m e r	native	iem
+0.4798	সিপিএম	sh i p i e m	native	iem
+0.4798	সিপিএমকে	sh i p i e m k e	native	iem
+0.4798	সিপিএমের	sh i p i e m e r	native	iem
+0.4798	সিবিএম	sh i b i e m	native	iem
+0.4768	পাসও	p a s O	native	asO
+0.4663	পুরস্কৃত	p u r O s k ri t O	tatsama	Osk
+0.4662	প্যাডল	p A D o l	native	ADo
+0.4642	আর্মব্যান্ড	a r m b A n D	native	AnD
+0.4642	ব্যাণ্ডদল	b A n D d o l	tatsama	AnD
+0.4642	প্যান্ডোরার	p A n D O r a r	native	AnD
+0.4642	ব্যান্ডতারকা	b A n D t a r o k a	native	AnD
+0.4642	ব্যান্ডদল	b A n D d o l	native	AnD
+0.4642	ভ্যানডায়ার	bh A n D a y a r	native	AnD
+0.4642	ভ্যান্ডারলি	bh A n D a r l i	native	AnD
+0.4634	ইনফেকশন	i n ph e k sh o n	native	eks
+0.4634	ইনফেকশনে	i n ph e k sh o n e	native	eks
+0.4634	ইনফেকশনের	i n ph e k sh O n e r	native	eks
+0.4634	অবজেকশন	o b O j e k sh o n	native	eks
+0.4634	আলেকসান্দর	a l e k sh a nd o r	native	eks
+0.4634	আলেকসান্দার	a l e k sh a nd a r	native	eks
+0.4634	ইঞ্জেকশন	i nj e k sh o n	tatsama	eks
+0.4634	ইঞ্জেকশান	i nj e k sh a n	tatsama	eks
+0.4634	ইনজেকশনও	i n j e k sh o n O	native	eks
+0.4634	ইনজেকশনের	i n j e k sh O n e r	native	eks
+0.4634	ইলেকশন	i l e k sh o n	native	eks
+0.4634	ইলেকশনের	i l e k sh o n e r	native	eks
+0.4634	ইলেকশান	i l e k sh a n	native	eks
+0.4634	কারেকশন	k a r e k sh o n	native	eks
+0.4634	কালেকশন	k a l e k sh o n	native	eks
+0.4634	শেকসপিয়ার	sh e k sh p i y a r	native	eks
+0.4634	শেকসপিয়ারের	sh e k sh p i y a r e r	native	eks
+0.4634	কানেকশনসহ	k a n e k sh o n sh o h O	native	eks
+0.4634	কানেকশনের	k a n e k sh o n e r	native	eks
+0.4634	কয়েকশ	k o y e k sh o	native	eks
+0.4634	খালেকশহ	kh a l e k sh o h o	native	eks
+0.4634	তারেকসহ	t a r e k sh o h O	native	eks
+0.4634	পারফেকশন	p a r ph e k sh o n	native	eks
+0.4634	প্রজেকশন	pr O j e k sh O n	native	eks
+0.4634	প্রজেকশনে	pr O j e k sh o n e	native	eks
+0.4634	প্রজেকশনের	pr O j e k sh o n e r	native	eks
+0.4634	বিবেকসম্পন্ন	b i b e k sh o mp o nn o	native	eks
+0.4634	মানেকশ	m a n e k sh o	native	eks
+0.4634	মানেকশর	m a n e k sh o r	native	eks
+0.4634	মালেকসহ	m a l e k sh o h O	native	eks
+0.4634	লিক্যুইফেকশন	l i k u i ph e k sh o n	native	eks
+0.4634	লেকশোর	l e k sh O r	native	eks
+0.4634	লেকস	l e k sh	native	eks
+0.4634	লেকসার্কাস	l e k sh a r k a sh	native	eks
+0.4634	সিলেকশনের	sh i l e k sh o n e r	native	eks
+0.4634	কনফেকশনারি	k o n ph e k sh o n a r i	native	eks
+0.4615	ইউটা	i u T a	native	iuTa
+0.4615	ইউটার্ন	i u T a r n	native	iuTa
+0.4613	র্যাচেল	r A ch e l	native	rAc
+0.4555	গেজেটভুক্ত	g e j e T bh u kt O	native	eTb
+0.4555	পেটব্যথা	p e T b A th a	native	eTb
+0.4555	নেটবই	n e T b o i	native	eTb
+0.4555	নেটবুক	n e T b u k	native	eTb
+0.4555	নেটবুকে	n e T b u k e	native	eTb
+0.4555	পেটব্যথার	p e T b A th a r	native	eTb
+0.4555	পেটভরে	p e T bh o r e	native	eTb
+0.4555	পেটভাতা	p e T bh a t a	native	eTb
+0.4555	বুলেটবিদ্ধ	b u l e T b i d dh O	tatsama	eTb
+0.4554	ওডা	O D a	native	ODa
+0.4554	টোডা	T O D a	native	ODa
+0.4554	নোডাল	n O D a l	native	ODa
+0.4554	পুরোডাশ	p u r O D a sh	native	ODa
+0.4554	প্যাগোডা	p A g O D a	native	ODa
+0.4554	প্যাগোডায়	p A g O D a y	native	ODa
+0.4554	প্রডাকশন	pr O D a k sh O n	native	ODa
+0.4554	প্রডাকশনের	pr O D a k sh o n e r	native	ODa
+0.4554	প্রডাক্ট	pr O D a k T	native	ODa
+0.4554	প্রডাক্টকে	pr O D a k T k e	native	ODa
+0.4554	প্রোডাকশনের	pr O D a k sh O n e r	native	ODa
+0.4554	প্রোডাক্ট	pr O D a k T	native	ODa
+0.4554	প্রোডাক্টের	pr O D a k T e r	native	ODa
+0.4516	ক্যাক	k A k	native	kAk
+0.4482	কিয়োডো	k i y O D O	native	ODO
+0.4482	ছোড	chh O D O	native	ODO
+0.4482	নাওডোবা	n a O D O b a	native	ODO
+0.4320	ইটে	i T e	native	iTe
+0.4320	ইটেগাছা	i T e g a chh a	native	iTe
+0.4320	ইটের	i T e r	native	iTe
+0.4320	ইনসাইটের	i n sh a i T e r	native	iTe
+0.4320	এইটে	e i T e	native	iTe
+0.4320	এইটের	e i T e r	native	iTe
+0.4320	কপিরাইটের	k o p i r a i T e r	native	iTe
+0.4320	শীটের	sh i T e r	native	iTe
+0.4320	সেইটে	sh e i T e	native	iTe
+0.4320	হেরিটেজ	h e r i T e j	native	iTe
+0.4320	কিটের	k i T e r	native	iTe
+0.4320	চামচিটে	ch a m T i T e	native	iTe
+0.4320	চিটচিটে	ch i T ch i T e	native	iTe
+0.4320	চ্যারিটেবল	ch A r i T e b O l	native	iTe
+0.4320	ছিটেফোটা	chh i T e ph O T a	native	iTe
+0.4320	ছিটেফোটাও	chh i T e ph O T a O	native	iTe
+0.4320	ছিটের	chh i T e r	native	iTe
+0.4320	ডাংপিটে	D a ng p i T e	native	iTe
+0.4320	ডাকটিকিটে	D a k T i k i T e	native	iTe
+0.4320	ডাকটিকিটের	D a k T i k i T e r	native	iTe
+0.4320	ডাকসাইটে	D a k sh a i T e	native	iTe
+0.4320	ডানপিটে	D a n p i T e	native	iTe
+0.4320	নাইটে	n a i T e	native	iTe
+0.4320	নাইটের	n a i T e r	native	iTe
+0.4320	নেপোলিটেনো	n e p O l i T e n O	native	iTe
+0.4320	পলিটেকনিকে	p o l i T e k n i k e	native	iTe
+0.4320	পলিটেকনিকের	p o l i T e k n i k e r	native	iTe
+0.4320	পারমিটের	p a r m i T e r	native	iTe
+0.4320	পিটের	p i T e r	native	iTe
+0.4320	ফারেনহাইটের	ph a r e n h a i T e r	native	iTe
+0.4320	ফিটফিটে	ph i T ph i T e	native	iTe
+0.4320	বসতভিটে	b o sh o t bh i T e	native	iTe
+0.4320	বিটে	b i T e	native	iTe
+0.4320	বৃটেন	b ri T e n	tatsama	iTe
+0.4320	বৃটেনের	b ri T e n e r	tatsama	iTe
+0.4320	ব্রিটেন	b ri T e n	native	iTe
+0.4320	ব্রিটেনকে	b ri T e n k e	native	iTe
+0.4320	ব্রিটেনে	b ri T e n e	native	iTe
+0.4320	ব্রিটেনেও	b ri T e n e O	native	iTe
+0.4320	ব্রিটেনের	br i T e n e r	native	iTe
+0.4320	ভিটে	bh i T e	native	iTe
+0.4320	ভিটেছাড়া	bh i T e chh a r a	native	iTe
+0.4320	ভিটেতে	bh i T e t e	native	iTe
+0.4320	ভিটেবাড়ি	bh i T e b a r i	native	iTe
+0.4320	ভিটেবাড়িতে	bh i T e b a r i t e	native	iTe
+0.4320	ভিটের	bh i T e r	native	iTe
+0.4320	ভিভিটেক	bh i bh i T e k	native	iTe
+0.4320	মারপিটে	m a r p i T e	native	iTe
+0.4320	মারপিটের	m a r p i T e r	native	iTe
+0.4320	মিটে	m i T e	native	iTe
+0.4320	মিটেও	m i T e O	native	iTe
+0.4320	মিটেছে	m i T e chh e	native	iTe
+0.4290	প্যাকেটটা	p A k e T T a	native	keTT
+0.4281	গ্যাসক্ষেত্র	g A s kh e tr O	tatsama	Ask
+0.4281	গ্যাসক্ষেত্রের	g A s kh e t r e r	tatsama	Ask
+0.4281	গ্যাসক্ষেত্রকে	g A s kh e tr o k e	tatsama	Ask
+0.4281	গ্যাসক্ষেত্রগুলো	g A s kh e tr o g u l O	tatsama	Ask
+0.4281	গ্যাসক্ষেত্রগুলোতে	g A s kh e tr o g u l O t e	tatsama	Ask
+0.4281	গ্যাসক্ষেত্রগুলোর	g A s kh e tr o g u l O r	tatsama	Ask
+0.4281	গ্যাসক্ষেত্রটি	g A s kh e tr o T i	tatsama	Ask
+0.4281	গ্যাসক্ষেত্রটিতে	g A s kh e tr o T i t e	tatsama	Ask
+0.4281	গ্যাসক্ষেত্রটির	g A s kh e tr o T i r	tatsama	Ask
+0.4281	গ্যাসক্ষেত্রে	g A s kh e tr e	tatsama	Ask
+0.4276	সাদিকা	s a d i k a	native	sad
+0.4263	ডিবিতে	D i b i t e	native	Dib
+0.4263	গন্ডিবদ্ধ	g O n D i b o d dh O	tatsama	Dib
+0.4263	চন্ডিবের	ch o n D i b e r	native	Dib
+0.4263	ডিবর	D i b o r	native	Dib
+0.4263	ডিবেঞ্চার	D i b e nch a r	tatsama	Dib
+0.4263	ডিব্বা	D i b b a	native	Dib
+0.4263	ভিন্ডিবাল	bh i n D i b a l	native	Dib
+0.4263	কালভার্টগুলো	k a l bh a r T g u l O	native	rTg
+0.4263	মর্টগেজ	m o r T g e j	native	rTg
+0.4262	বিইওএলের	b i i O e l e r	native	Oel
+0.4204	ইউনিকোড	i u n i k O D	native	kOD
+0.4167	ডেইল	D e i l	native	Dei
+0.4167	মানদন্ডেই	m a n d o n D e i	native	Dei
+0.4166	নাইটদের	n a i T d e r	native	iTd
+0.4078	স্যাক	s A k	native	sAk
+0.4050	অকটেন	o k T e n	native	kTe
+0.4050	অকটেনের	o k T e n e r	native	kTe
+0.4050	ইনজেকটেবল	i n j e k T e b o l	native	kTe
+0.4050	ইফেক্টের	i ph e k T e r	native	kTe
+0.4050	প্রোজেক্টের	pr O j e k T e r	native	kTe
+0.4044	অথেনটিক	o th e n T i k	native	enT
+0.4044	ইনসেনটিভ	i n sh e n T i bh	native	enT
+0.4044	ইনোসেন্ট	i n O sh e n T	native	enT
+0.4044	ইভেন্টটি	i bh e n T T i	native	enT
+0.4044	এনটি	e n T i	native	enT
+0.4044	এনটিনি	e n T i n i	native	enT
+0.4044	এনটিনির	e n T i n i r	native	enT
+0.4044	এন্টার	e n T a r	native	enT
+0.4044	এন্টারপ্রাইজ	e n T a r pr a i j	native	enT
+0.4044	এন্টালি	e n T a l i	native	enT
+0.4044	এন্টি	e n T i	native	enT
+0.4044	এন্টিবায়োটিক	e n T i b a y O T i k	native	enT
+0.4044	এন্টিভাইরাস	e n T i bh a i r a sh	native	enT
+0.4044	সেন্টারিংয়ের	sh e n T a r i ng y e r	native	enT
+0.4044	করবেনটা	k o r b e n T a	native	enT
+0.4044	কারেন্ট	k a r e n T	native	enT
+0.4044	ডিকেন্টর	D i k e n T o r	native	enT
+0.4044	পার্মানেন্ট	p a r m a n e n T	native	enT
+0.4044	পেন্টাগন	p e n T a g o n	native	enT
+0.4044	পেন্টাগনও	p e n T a g o n O	native	enT
+0.4044	পেন্টাগনকে	p e n T a g o n k e	native	enT
+0.4044	পেন্টাগনে	p e n T a g o n e	native	enT
+0.4044	পেন্ঠি	p e n Th i	native	enT
+0.4044	পেশেন্ট	p e sh e n T	native	enT
+0.4044	প্যারেন্ট	p A r e n T	native	enT
+0.4044	প্যারেন্টাল	p A r e n T a l	native	enT
+0.4044	প্রিভেনটিভ	p ri bh e n T i bh	native	enT
+0.4044	বেন্টনার	b e n T n a r	native	enT
+0.4044	রেন্টিনা	r e n T i n a	native	enT
+0.4044	রেন্টু	r e n T u	native	enT
+0.4040	র্যাম	r A m	native	rAm
+0.4040	র্যামন	r A m O n	native	rAm
+0.4040	র্যাম্প	r A mp	native	rAm
+0.4040	র‍্যামন	r A m O n	native	rAm
+0.4040	র‍্যাম্প	r A mp	native	rAm
+0.4029	প্যাটন	p A T o n	native	ATo
+0.3920	প্রটেক্টর	pr O T e k T o r	native	TekTo
+0.3911	কেটকে	k e T k e	native	keTk
+0.3891	বুন্দেসলিগায়	b u nd e s l i g a y	native	esli
+0.3882	বিএএস	b i e e s	native	ees
+0.3882	সিএএ,	sh i e e sh	native	ees
+0.3872	ইউনিএইড	i u n i e i D	native	eiD
+0.3872	এইড	e i D	native	eiD
+0.3872	পেইড	p e i D	native	eiD
+0.3872	প্যারেইড	p A r e i D	native	eiD
+0.3872	প্রিপেইড	p ri p e i D	native	eiD
+0.3854	ইউটিউব	i u T i u b	native	iuT
+0.3854	ইউটিউবসহ	i u T i u b sh o h O	native	iuT
+0.3854	ইউটিউবে	i u T i u b e	native	iuT
+0.3854	ইউটিউবেও	i u T i u b e O	native	iuT
+0.3854	ইউটিউবের	i u T i u b e r	native	iuT
+0.3854	ইউটিলাইজেশন	i u T i l a i j e sh o n	native	iuT
+0.3854	ইউটিলিটি	i u T i l i T i	native	iuT
+0.3854	ইউটোপিয়ান	i u T O p i y a n	native	iuT
+0.3854	নিউট	n i u T	native	iuT
+0.3854	নিউটন	n i u T o n	native	iuT
+0.3854	নিউটনের	n i u T o n e r	native	iuT
+0.3845	গেল	g A l O	native	gAl
+0.3845	গেলবার	g A l O b a r	native	gAl
+0.3845	গ্যালাওয়ে	g A l a O y e	native	gAl
+0.3845	গ্যালাওয়ের	g A l a O y e r	native	gAl
+0.3845	গ্যালে	g A l e	native	gAl
+0.3845	গ্যালো	g A l O	native	gAl
+0.3832	ভিউআরবি	bh i u a r b i	native	iua
+0.3832	ভিউআরভি	bh i u a r bh i	native	iua
+0.3816	গ্যাড়াকল	g A r a k o l	native	gAr
+0.3816	গ্যাড়াকলে	g A r a k o l e	native	gAr
+0.3802	ক্রাফটের	kr a ph T e r	native	phTe
+0.3802	পাইক্রফটের	p a i kr o ph T e r	native	phTe
+0.3779	কাটআউট	k a T a u T	native	TauT
+0.3779	স্যামসাং	s A m s a ng	native	san
+0.3779	স্যামসাংকে	s A m s a ng k e	native	san
+0.3779	স্যামসাংয়ের	s A m s a ng y e r	native	san
+0.3779	স্যামস্যাং	s A m s a ng	native	san
+0.3719	নুডলস	n u D O l s	native	uDO
+0.3719	বাহুডোরে	b a h u D O r e	native	uDO
+0.3719	সুডোউল	sh u D O u l	native	uDO
+0.3718	এন্ড	e n D	native	enD
+0.3718	এন্ডা	e n D a	native	enD
+0.3718	এন্ডায়	e n D a y	native	enD
+0.3718	এন্ডার	e n D a r	native	enD
+0.3718	এন্ডাররা	e n D a r r a	native	enD
+0.3718	এন্ডারস	e n D a r o sh	native	enD
+0.3718	গেন্ডা	g e n D a	native	enD
+0.3718	দেন্ডারা	d e n D a r a	native	enD
+0.3718	পেন্ডাল	p e n D a l	native	enD
+0.3718	বেন্ডুয়া	b e n D u y a	native	enD
+0.3718	ভেরেন্ডা	bh A r e n D a	native	enD
+0.3704	ঘটেইনি	gh o T e i n i	native	Tein
+0.3676	অগ্নিকাণ্ডে	O g n i k a n D e	tatsama	nDe
+0.3676	অগ্নিকান্ডে	O g n i k a n D e	native	nDe
+0.3676	অগ্নিকান্ডের	O g n i k a n D e r	native	nDe
+0.3676	অর্থদন্ডে	o r th O d o n D e	native	nDe
+0.3676	অর্থদন্ডেও	o r th O d o n D e O	native	nDe
+0.3676	অর্থদন্ডের	o r th O d o n D e r	native	nDe
+0.3676	অর্থদন্ডেরও	o r th O d o n D e r o O	native	nDe
+0.3676	উত্তরাখন্ডে	u tt O r a kh o n D e	native	nDe
+0.3676	উত্তরাখন্ডের	u tt O r a kh o n D e r	native	nDe
+0.3676	উভয়দন্ডে	u bh o y d o n D e	native	nDe
+0.3676	কর্মকাণ্ডেও	k o r m O k a n D e O	tatsama	nDe
+0.3676	কাণ্ডের	k a n D e r	tatsama	nDe
+0.3676	খণ্ডে	kh o n D e	tatsama	nDe
+0.3676	খণ্ডের	kh o n D e r	tatsama	nDe
+0.3676	দণ্ডমুণ্ডের	d o n D O m u n D e r	tatsama	nDe
+0.3676	পাণ্ডে	p a n D e	tatsama	nDe
+0.3676	পাণ্ডের	p a n D e r	tatsama	nDe
+0.3676	মৃত্যুদণ্ডের	m r i t t u d o n D e r	tatsama	nDe
+0.3676	মেরুদণ্ডের	m e r u d o n D e r	tatsama	nDe
+0.3676	সীতাকুণ্ডের	sh i t a k u n D e r	tatsama	nDe
+0.3676	হত্যাকান্ডে	h O t t a k a n D e	native	nDe
+0.3676	কর্মকান্ডে	k o r m O k a n D e	native	nDe
+0.3676	কর্মকান্ডেও	k o r m O k a n D e O	native	nDe
+0.3676	কর্মকান্ডের	k o r m O k a n D e r	native	nDe
+0.3676	কর্মকান্ডেরও	k o r m O k a n D e r O	native	nDe
+0.3676	কান্ডে	k a n D e	native	nDe
+0.3676	কান্ডের	k a n D e r	native	nDe
+0.3676	কামান্ডে	k a m a n D e	native	nDe
+0.3676	কারাদন্ডে	k a r a d o n D e	native	nDe
+0.3676	কারাদন্ডের	k a r a d o n D e r	native	nDe
+0.3676	কুন্ডের	k u n D e r	native	nDe
+0.3676	খন্ডে	kh o n D e	native	nDe
+0.3676	খন্ডের	kh o n D e r	native	nDe
+0.3676	গুন্ডে	g u n D e	native	nDe
+0.3676	গ্রাউন্ডে	gr a u n D e	native	nDe
+0.3676	গ্রাউন্ডের	gr a u n D e r	native	nDe
+0.3676	তদ্দন্ডে	t o d d o n D e	native	nDe
+0.3676	দন্ডমুন্ডের	d o n D O m u n D e r	native	nDe
+0.3676	দন্ডে	d o n D e	native	nDe
+0.3676	দন্ডের	d o n D e r	native	nDe
+0.3676	পাউন্ডে	p a u n D e	native	nDe
+0.3676	পাউন্ডের	p a u n D e r	native	nDe
+0.3676	পাউন্ডেরও	p a u n D e r	native	nDe
+0.3676	পান্ডে	p a n D e	native	nDe
+0.3676	পান্ডের	p a n D e r	native	nDe
+0.3676	পাশন্ডের	p a sh o n D e r	native	nDe
+0.3676	প্রচন্ডের	pr O ch o n D e r	native	nDe
+0.3676	প্রাইজবন্ডের	pr a i j b o n D e r	native	nDe
+0.3676	প্রানদন্ডের	pr a n d o n D e r	native	nDe
+0.3676	ফান্ডে	ph a n D e	native	nDe
+0.3676	বন্ডে	b o n D e	native	nDe
+0.3676	বরফখন্ডের	b o r o ph kh o n D e r	native	nDe
+0.3676	বাড়বকুন্ডে	b a r o b k u n D e	native	nDe
+0.3676	বাড়বকুন্ডের	b a r o b k u n D e r	native	nDe
+0.3676	বিশ্বব্রহ্মান্ডে	b i sh sh o br o m m a n D e	tatsama	nDe
+0.3676	ভুখন্ডে	bh u kh o n D e	native	nDe
+0.3676	ভুখন্ডের	bh u kh o n D e r	native	nDe
+0.3676	মানদন্ডে	m a n d o n D e	native	nDe
+0.3676	মানদন্ডের	m a n d o n D e r	native	nDe
+0.3676	মৃত্যুদন্ডে	m ri t t u d o n D e	tatsama	nDe
+0.3676	মৃত্যুদন্ডের	m ri t t u d o n D e r	tatsama	nDe
+0.3676	মেরুদন্ডে	m e r u d o n D e	native	nDe
+0.3676	মেরুদন্ডের	m e r u d o n D e r	native	nDe
+0.3676	শিলাখন্ডের	sh i l a kh o n D e r	native	nDe
+0.3676	সিতাকুন্ডে	sh i t a k u n D e	native	nDe
+0.3676	সিতাকুন্ডের	sh i t a k u n D e r	native	nDe
+0.3676	হত্যাকান্ডেও	h O t t a k a n D e O	native	nDe
+0.3676	হত্যাকান্ডের	h o t t a k a n D e r	native	nDe
+0.3676	হৃদপিন্ডের	r i d p i n D e r	tatsama	nDe
+0.3676	হৃৎপিন্ডে	r i t p i n D e	tatsama	nDe
+0.3676	হৃৎপিন্ডের	r i t p i n D e r	tatsama	nDe
+0.3673	পোর্টফলিও	p O r T ph o l i O	native	rTph
+0.3673	পোর্টফোলিও	p O r T ph O l i O	native	rTph
+0.3673	পোর্টফোলিওতে	p O r T ph o l i O t e	native	rTph
+0.3673	পোর্টফোলিওর	p O r T ph o l i O r	native	rTph
+0.3652	চ্যাটা	ch A T a	native	ATa
+0.3652	চ্যাটাং	ch A T a ng	native	ATa
+0.3652	চ্যাটার্জির	ch A T a r j i r	native	ATa
+0.3652	ন্যাটা	n A T a	native	ATa
+0.3652	প্যাটার্ন	p A T a r n	native	ATa
+0.3652	প্যাটার্নে	p A T a r n e	native	ATa
+0.3652	প্যাটার্নের	p A T a r n e r	native	ATa
+0.3652	ফ্যাটা	ph A T a	native	ATa
+0.3652	ব্যাটাকে	b A T a k e	native	ATa
+0.3652	ব্যাটার	b A T a r	native	ATa
+0.3652	ব্যাটারা	b A T a r a	native	ATa
+0.3652	ব্যাটারে	b A T a r e	native	ATa
+0.3652	ব্যাটারের	b A T a r e r	native	ATa
+0.3650	ল্যাগের	l A g e r	native	lAg
+0.3613	উলটে	u l T e	native	lTe
+0.3613	উল্টে	u l T e	native	lTe
+0.3613	উল্টেপাল্টে	u l T e p a l T e	native	lTe
+0.3613	পালটে	p a l T e	native	lTe
+0.3613	পাল্টেছেন	p a l T e chh e n	native	lTe
+0.3613	কলটেপা	k o l T e p a	native	lTe
+0.3613	পাল্টে	p a l T e	native	lTe
+0.3613	পাল্টেছি	p a l T e chh i	native	lTe
+0.3613	পাল্টেছে	p a l T e chh e	native	lTe
+0.3613	ফটোভোল্টেইক	ph o T O bh O l T e i k	native	lTe
+0.3613	ভল্টে	bh O l T e	native	lTe
+0.3570	নকআউট	n o k a u T	native	auT
+0.3560	আল্টিমেটাম	a l T i m e T a m	native	meT
+0.3560	আল্টিমেটামের	a l T i m e T a m e r	native	meT
+0.3560	টমেটো	T o m e T O	native	meT
+0.3560	টমেটোতে	T o m e T O t e	native	meT
+0.3560	মেটাতে	m e T a t e	native	meT
+0.3560	মেটানোর	m e T a n O r	native	meT
+0.3560	ডিমেট	D i m e T	native	meT
+0.3560	পমেটম	p o m e T o m	native	meT
+0.3560	পোমেটম	p O m e T o m	native	meT
+0.3560	মেটাচ্ছে	m e T a ch chh e	native	meT
+0.3560	মেটাচ্ছেন	m e T a ch chh e n	native	meT
+0.3560	মেটাত	m e T a t o	native	meT
+0.3560	মেটাতেই	m e T a t e i	native	meT
+0.3560	মেটান	m e T a n	native	meT
+0.3560	মেটানো	m e T a n O	native	meT
+0.3560	মেটানোই	m e T a n O i	native	meT
+0.3560	মেটাবে	m e T a b e	native	meT
+0.3560	মেটায়	m e T a y o	native	meT
+0.3560	মেঠাই	m e Th a i	native	meT
+0.3560	মেঠে	m e Th e	native	meT
+0.3560	মেঠো	m e Th O	native	meT
+0.3560	মেঠোপথ	m e Th O p o th	native	meT
+0.3560	মেঠোপথে	m e Th O p o th e	native	meT
+0.3558	গোল্ড	g O l D	native	OlD
+0.3549	এট্টা	e T T a	native	eTT
+0.3549	এট্টু	e T T u	native	eTT
+0.3549	গেট্টাগোট্টা	g e T T a g O T T a	native	eTT
+0.3549	পেটটা	p e T T a	native	eTT
+0.3549	পেনেট্টা	p e n e T T a	native	eTT
+0.3549	প্যানেট্টা	p A n e T T a	native	eTT
+0.3549	প্যানেট্টার	p A n e T T a r	native	eTT
+0.3537	গোসলখানা	g O s O l kh a n a	native	sOl
+0.3537	ষোলতে	s O l O t e	tatsama	sOl
+0.3537	সোলা	s O l a	native	sOl
+0.3537	সোলাগাড়ি	s O l a g a r i	native	sOl
+0.3537	সোলেইম	s O l e i m	native	sOl
+0.3537	সোলেকিলে	s O l e k i l e	native	sOl
+0.3537	সোলেকিলের	s O l e k i l e r	native	sOl
+0.3536	শ্লেট	s l e T	native	sleT
+0.3522	টলটলে	T o l T o l e	native	lTo
+0.3522	নয়াপল্টন	n o y a p o l T o n	native	lTo
+0.3522	নয়াপল্টনে	n o y a p o l T o n e	native	lTo
+0.3522	নয়াপল্টনের	n o y a p o l T o n e r	native	lTo
+0.3522	পলটন	p o l T o n	native	lTo
+0.3521	প্রেমেন্দ্র	pr e m e ndr O	native	emen
+0.3497	লেপটে	l e p T e	native	pTe
+0.3497	লেপ্টে	l e p T e	native	pTe
+0.3463	সাবেলা	s a b e l a	native	sab
+0.3449	খট্টা	kh o T r O	native	TrO
+0.3437	এসলাম	e s l a m	native	esl
+0.3433	ক্যাত	k A t	native	kAt
+0.3433	ক্যাথেলি	k A th e l i	native	kAt
+0.3431	প্রিপারেটরি	p ri p a r e T O r i	native	reTO
+0.3391	বসন্তে	b o s O n t e	native	osO
+0.3383	টেজন	T e j o n	native	Tej
+0.3383	ফুটেজও	ph u T e j O	native	Tej
+0.3383	ফুটেজগুলো	ph u T e j g u l O	native	Tej
+0.3383	ফুটেজে	ph u T e j e	native	Tej
+0.3383	ফুটেজের	ph u T e j e r	native	Tej
+0.3303	ইংকজেট	i ng k j e T	native	jeT
+0.3303	ইনজেট	i n j e T	native	jeT
+0.3303	বাজেট	b a j e T	native	jeT
+0.3303	বাজেটকে	b a j e T k e	native	jeT
+0.3303	জেটা	j e T a	native	jeT
+0.3303	জেটাই	j e T a i	native	jeT
+0.3303	জেটাকে	j e T a k e	native	jeT
+0.3303	জেটাতে	j e T a t e	native	jeT
+0.3303	জেটার	j e T a r	native	jeT
+0.3303	জেটায়	j e T a y	native	jeT
+0.3303	জেটুক	j e T u k	native	jeT
+0.3303	জেটুকু	j e T u k u	native	jeT
+0.3234	ইএফ	i e ph	native	ieph
+0.3234	পিএফআই	p i e ph a i	native	ieph
+0.3234	বিআইএফএফ	b i a i e ph e ph	native	ieph
+0.3234	বিআইএফএফএল	b i a i e ph e ph e l	native	ieph
+0.3234	বিআইএফএফএলের	b i a i e ph e ph e l e r	native	ieph
+0.3234	বিআইএফএফে	b i a i e ph e ph e	native	ieph
+0.3234	বিআইএফসি	b i a i e ph s i	native	ieph
+0.3234	বিআইএফসির	b i a i e ph s i r	native	ieph
+0.3234	বিএফআই	b i e ph a i	native	ieph
+0.3234	বিএফআরআই	b i e ph a r a i	native	ieph
+0.3234	বিএফআরএস	b i e ph a r e s	native	ieph
+0.3234	বিএফইউজে	b i e ph i u j e	native	ieph
+0.3234	বিএফইউজের	b i e ph i u j e r	native	ieph
+0.3234	বিএফএ	b i e ph e	native	ieph
+0.3234	বিএফএফইএ	b i e ph e ph i e	native	ieph
+0.3234	বিএফএফইএর	b i e ph e ph i e r	native	ieph
+0.3234	বিএফএলএলএফইএ	b i e ph e l e l e ph i e	native	ieph
+0.3234	বিবিএফ	b i b i e ph	native	ieph
+0.3234	বিবিএফের	b i b i e ph e r	native	ieph
+0.3234	ভিএফএস	bh i e ph e s	native	ieph
+0.3234	ভিজিএফ	bh i j i e ph	native	ieph
+0.3234	সিআরপিএফ	sh i a r p i e ph	native	ieph
+0.3234	সিআরপিএফের	a r p i e ph e r	native	ieph
+0.3234	সিএফ	sh i e ph O	native	ieph
+0.3234	সিএফএল	sh i e ph e l	native	ieph
+0.3234	সিএফসি	sh i e ph sh i	native	ieph
+0.3234	সিএফসির	sh i e ph sh i r	native	ieph
+0.3234	সিবিএফ	sh i b i e ph	native	ieph
+0.3234	সিবিএফের	sh i b i e ph e r	native	ieph
+0.3221	ইকুইটি	i k u i T i	native	uiT
+0.3221	ইক্যুইটি	i k u i T i	native	uiT
+0.3221	ইক্যুইটির	i k k u i T i r	native	uiT
+0.3221	কুইট	k u i T	native	uiT
+0.3221	দুইটা	d u i T a	native	uiT
+0.3221	দুইটার	d u i T a r	native	uiT
+0.3221	দুইটায়	d u i T a y	native	uiT
+0.3221	দুইটি	d u i T i	native	uiT
+0.3221	দুইটিতে	d u i T i t e	native	uiT
+0.3221	দুইটির	d u i T i r	native	uiT
+0.3191	অফলাইন	o ph l a i n	native	phl
+0.3191	অফলাইনে	o ph l a i n e	native	phl
+0.3191	অফলাইনেও	o ph l a i n e O	native	phl
+0.3191	ফ্লাইট	ph l a i T	native	phl
+0.3191	ফ্লেচারের	ph l e ch a r e r	native	phl
+0.3191	ফ্লোরটাচ	ph l O r T a ch	native	phl
+0.3191	মাফলারের	m a ph l a r e r	native	phl
+0.3191	কাফলিং	k a ph l i ng	native	phl
+0.3191	গাফলতি	g a ph l o t i	native	phl
+0.3191	মাফলার	m a ph l a r	native	phl
+0.3191	সাফলা	sh a ph l a	native	phl
+0.3147	সমুচা	s O m u ch a	native	sOm
+0.3147	ক্রোমোসোম	kr O m O s O m	native	sOm
+0.3147	ক্রোমোসোমের	kr O m O s O m e r	native	sOm
+0.3145	আলেমসমাজ	a l e m sh o m a j	native	ems
+0.3145	কাসেমশহ	k a sh e m sh o h o	native	ems
+0.3145	গেমসটি	g e m sh T i	native	ems
+0.3145	গেমসে	g e m sh e	native	ems
+0.3145	গেমসের	g e m sh e r	native	ems
+0.3145	ঢেমসা	Dh e m sh a	native	ems
+0.3145	নেমস	n e m sh	native	ems
+0.3145	পোয়েমস	p O y e m s	native	ems
+0.3140	নাছির	n a s i r	native	sir
+0.3140	নাছিরকে	n a s i r k e	native	sir
+0.3140	নাসিরই	n a s i r i	native	sir
+0.3140	বাছির	b a s i r	native	sir
+0.3140	সিরকার	s i r k a r	native	sir
+0.3140	এলাকাবাসির	e l a k a b a s i r	native	sir
+0.3140	এলাকাবাসিরা	e l a k a b a s i r a	native	sir
+0.3140	পাসির	p a s i r	native	sir
+0.3120	গেড	g e D	native	geD
+0.3092	অফিসগুলোতে	o ph i s g u l O t e	native	sgu
+0.3092	অফিসগুলোর	o ph i s g u l O r	native	sgu
+0.3092	হাউসগুলোতে	h a u s g u l O t e	native	sgu
+0.3066	পিকেআই	p i k e a i	native	eai
+0.3066	বেআইনি	b e a i n i	native	eai
+0.3066	বেআইনিও	b e a i n i O	native	eai
+0.3066	বেআইনিভাবে	b e a i n i bh a b e	native	eai
+0.3060	পিএপি	p i e p i	native	iep
+0.3054	টি–	T i T i a i	native	TiTia
+0.3039	করনেটকে	k o r n e T k e	native	eTk
+0.3039	পেটকে	p e T k e	native	eTk
+0.3039	পেটকো	p e T k O	native	eTk
+0.3039	প্রাইভেটকার	pr a i bh e T k a r	native	eTk
+0.3039	প্রাইভেটকারে	pr a i bh e T k a r e	native	eTk
+0.3039	সকারনেটকে	sh o k a r n e T k e	native	eTk
+0.3039	সিলেটকে	sh i l e T k e	native	eTk
+0.2999	দেবিডুবা	d e b i D u b a	native	iDu
+0.2978	স্পন্দিত	s p O nd i t O	tatsama	spO
+0.2978	তারিখবৃহস্পতিবার	t a r i kh b ri h o s p O t i b a r	tatsama	spO
+0.2978	বৃহস্পতি	b ri h o s p O t i	tatsama	spO
+0.2978	বৃহস্পতিবারই	b ri h O s p O t i b a r i	tatsama	spO
+0.2978	বৃহস্পতিবারও	b ri h O s p O t i b a r O	tatsama	spO
+0.2978	বৃহস্পতিবারে	b ri h O s p O t i b a r e	tatsama	spO
+0.2978	বৃহস্পতিবারের	b ri h O s p O t i b a r e r	tatsama	spO
+0.2978	বৃহস্পতির	b ri h o s p O t i r	tatsama	spO
+0.2947	কাউন্টডাউন	k a u n T D a u n	native	nTD
+0.2932	অখন্ডিত	o kh O n D i t O	native	nDi
+0.2932	অপন্ডিত	o p O n D i t	native	nDi
+0.2932	ইনডিকেটর	i n D i k e T o r	native	nDi
+0.2932	ইন্ডিকা	i n D i k a	native	nDi
+0.2932	ইন্ডিকেটিং	i n D i k e T i ng	native	nDi
+0.2932	ইন্ডিকেটিভ	i n D i k e T i bh	native	nDi
+0.2932	ইন্ডিয়া	i n D i y a	native	nDi
+0.2932	ইন্ডিয়াকে	i n D i y a k e	native	nDi
+0.2932	ইন্ডিয়ান	i n D i y a n	native	nDi
+0.2932	ইন্ডিয়ানদের	i n D i y a n d e r	native	nDi
+0.2932	ইন্ডিয়ানস	i n D i y a n sh o h o	native	nDi
+0.2932	ইন্ডিয়ানসকে	i n D i y a n o sh k e	native	nDi
+0.2932	ইন্ডিয়ানসের	i n D i y a n sh e r	native	nDi
+0.2932	ইন্ডিয়ানা	i n D i y a n a	native	nDi
+0.2932	ইন্ডিয়ানার	i n D i y a n a r	native	nDi
+0.2932	ইন্ডিয়ানের	i n D i y a n e r	native	nDi
+0.2932	ইন্ডিয়ায়	i n D i y a y	native	nDi
+0.2932	ইয়াউন্ডি	i a u n D i	native	nDi
+0.2932	খণ্ডিত	kh O n D i t O	tatsama	nDi
+0.2932	দণ্ডিত	d O n D i t O	tatsama	nDi
+0.2932	দণ্ডিতরা	d O n D i t O r a	tatsama	nDi
+0.2932	দ্বিখণ্ডিত	d i kh O n D i t O	tatsama	nDi
+0.2932	পণ্ডিত	p O n D i t	tatsama	nDi
+0.2932	মেরুদণ্ডী	m e r u d O n D i	tatsama	nDi
+0.2932	ওইশ্বর্যমন্ডিত	O i sh sh o r j m o n D i t o	tatsama	nDi
+0.2932	কুশন্ডিকা	k u sh O n D i k a	native	nDi
+0.2932	খন্ডি	kh O n D i	native	nDi
+0.2932	খন্ডিত	kh O n D i t O	native	nDi
+0.2932	খন্ডিতভাবে	kh o n D i t o bh a b e	native	nDi
+0.2932	খলিশাকুন্ডি	kh O l i sh a k u n D i	native	nDi
+0.2932	খান্ডিক	kh a n D i k	native	nDi
+0.2932	গন্ডি	g O n D i	native	nDi
+0.2932	গন্ডিতে	g O n D i t e	native	nDi
+0.2932	গন্ডিতেই	g O n D i t e i	native	nDi
+0.2932	গন্ডির	g O n D i r	native	nDi
+0.2932	গুন্ডিত	g u n D i t O	native	nDi
+0.2932	গোমদন্ডি	g O m d n D i	native	nDi
+0.2932	চন্ডি	ch O n D i	native	nDi
+0.2932	চন্ডিকা	ch O n D i k a	native	nDi
+0.2932	চন্ডিগড়	ch o n D i g o r	native	nDi
+0.2932	চন্ডিগড়ে	ch o n D i g o r e	native	nDi
+0.2932	চন্ডিগড়ের	ch o n D i g o r e r	native	nDi
+0.2932	চন্ডিদাস	ch O n D i d a sh	native	nDi
+0.2932	চন্ডিদাসের	ch O n D i d a sh e r	native	nDi
+0.2932	চান্ডিমাল	ch a n D i m a l	native	nDi
+0.2932	চান্ডিমালকে	ch a n D i m a l k e	native	nDi
+0.2932	চান্ডিমালের	ch a n D i m a l e r	native	nDi
+0.2932	চোউখন্ডিয়া	ch O u kh O n D i y a	native	nDi
+0.2932	চোউফলদন্ডি	ch O u ph o l d o n D i	native	nDi
+0.2932	ডান্ডি	D a n D i	native	nDi
+0.2932	তন্ডি	t O n D i	native	nDi
+0.2932	তামাকুমন্ডি	t a m a k u m o n D i	native	nDi
+0.2932	দক্ষিনডিহি	d o kkh i n D i h i	tatsama	nDi
+0.2932	দক্ষিনডিহির	d o kkh i n D i h i r	tatsama	nDi
+0.2932	দন্ডাদন্ডি	d o n D a d O n D i	native	nDi
+0.2932	দন্ডি	d O n D i	native	nDi
+0.2932	দন্ডিত	d O n D i t O	native	nDi
+0.2932	দন্ডিতদের	d o n D i t o d e r	native	nDi
+0.2932	দন্ডিতরা	d o n D i t o r a	native	nDi
+0.2932	দন্ডিতের	d O n D i t e r	native	nDi
+0.2932	দান্ডি	d a n D i	native	nDi
+0.2932	দান্ডিক	d a n D i k	native	nDi
+0.2932	দ্বিখন্ডিত	d i kh O n D i t O	native	nDi
+0.2932	ধানমন্ডি	dh a n m O n D i	native	nDi
+0.2932	ধানমন্ডিতে	dh a n m O n D i t e	native	nDi
+0.2932	ধানমন্ডির	dh a n m O n D i r	native	nDi
+0.2932	ধুন্ডি	dh u n D i	native	nDi
+0.2932	পন্ডিত	p O n D i t	native	nDi
+0.2932	পন্ডিতদের	p O n D i t d e r	native	nDi
+0.2932	পন্ডিতমশাই	p O n D i t m o sh a i	native	nDi
+0.2932	পন্ডিতরা	p O n D i t r a	native	nDi
+0.2932	পন্ডিতসার	p o n D i t sh a r	native	nDi
+0.2932	পন্ডিতি	p o n D i t i	native	nDi
+0.2932	পন্ডিতের	p O n D i t e r	native	nDi
+0.2932	পন্ডিতেরা	p O n D i t e r a	native	nDi
+0.2932	পরিমন্ডিত	p O r i m o n D i t O	native	nDi
+0.2932	পর্যমন্ডিত	p o r j o m o n D i t o	native	nDi
+0.2932	পান্ডিত্য	p a n D i t t O	native	nDi
+0.2932	পান্ডিত্যের	p a n D i t t e r	native	nDi
+0.2932	পিন্ডি	p i n D i	native	nDi
+0.2932	পিন্ডিত	p i n D i t o	native	nDi
+0.2932	বুরুন্ডি	b u r u n D i	native	nDi
+0.2932	বুরুন্ডির	b u r u n D i r	native	nDi
+0.2932	ভান্ডি	bh a n D i	native	nDi
+0.2932	ভান্ডির	bh a n D i r	native	nDi
+0.2932	মনডিয়াল	m o n D i y a l	native	nDi
+0.2932	মন্ডি	m O n D i	native	nDi
+0.2932	মন্ডিত	m O n D i t O	native	nDi
+0.2932	মহিমামন্ডিত	m o h i m a m o n D i t o	native	nDi
+0.2932	মুন্ডি	m u n D i	native	nDi
+0.2932	মেরুদন্ডি	m e r u d O n D i	native	nDi
+0.2932	রান্ডি	r a n D i	native	nDi
+0.2932	শিখন্ডি	sh i kh o n D i	native	nDi
+0.2932	শুন্ডিকা	sh u n D i k a	native	nDi
+0.2932	সাফল্যমন্ডিত	sh a ph O l l O m O n D i t O	native	nDi
+0.2932	সুপন্ডিত	sh u p o n D i t	native	nDi
+0.2932	সুশমামন্ডিত	sh u sh o m a m o n D i t o	native	nDi
+0.2932	হুন্ডি	h u n D i	native	nDi
+0.2932	হুন্ডির	h u n D i r	native	nDi
+0.2902	অপারেটিভ	o p a r e T i bh	native	reTi
+0.2902	অপারেটিভের	o p a r e T i bh e r	native	reTi
+0.2902	ন্যারেটিভ	n A r e T i bh	native	reTi
+0.2902	ন্যারেটিভের	n A r e T i bh e r	native	reTi
+0.2901	সিটিআইটি	sh i T i a i T i	native	TiaiT
+0.2891	কুলজি	k u l j i	native	lji
+0.2891	খিলজি	kh i l j i	native	lji
+0.2889	অপারেটর	o p a r e T o r	native	eTo
+0.2889	অপারেটরও	o p a r e T o r O	native	eTo
+0.2889	অপারেটরকে	o p a r e T o r k e	native	eTo
+0.2889	অপারেটরগুলোর	o p a r e T o r g u l O r	native	eTo
+0.2889	অপারেটরটি	o p a r e T o r T i	native	eTo
+0.2889	অপারেটরদের	o p a r e T o r d e r	native	eTo
+0.2889	অপারেটররা	o p a r e T o r r a	native	eTo
+0.2889	অপারেটররাও	o p a r e T o r r a O	native	eTo
+0.2889	অপারেটরস	o p a r e T o r sh o	native	eTo
+0.2889	অপারেটরসহ	o p a r e T o r sh o h O	native	eTo
+0.2889	অপারেটরে	o p a r e T o r e	native	eTo
+0.2889	অপারেটরের	o p a r e T o r e r	native	eTo
+0.2889	অবজারভেটরির	o b O a r bh e T o r i r	native	eTo
+0.2889	ইকুয়েটরিয়াল	i k u y e T o r i y a l	native	eTo
+0.2889	খেটক	kh e T o k	native	eTo
+0.2889	রেগুলেটর	r e g u l e T o r	native	eTo
+0.2889	রেগুলেটরি	r e g u l e T o r i	native	eTo
+0.2889	গভনেট	g o bh n e T o	native	eTo
+0.2889	নেটং	n e T o ng	native	eTo
+0.2889	নেটওয়ার্কও	n e T o O y a r k O	native	eTo
+0.2889	নেটওয়ার্ককে	n e T o O y a r k k e	native	eTo
+0.2889	নেটওয়ার্কটি	n e T o O y a r k T i	native	eTo
+0.2889	নেটওয়ার্কস	n e T o O y a r k s	native	eTo
+0.2889	নেটওয়ার্কসহ	n e T o O y a r k sh o h O	native	eTo
+0.2889	নেটওয়ার্কিং	n e T o O y a r k i ng	native	eTo
+0.2889	নেটওয়ার্কে	n e T o O y a r k e	native	eTo
+0.2889	নেটওয়ার্কেও	n e T o O y a r k e O	native	eTo
+0.2889	নেটওয়ার্কের	n e T o O y a r k e r	native	eTo
+0.2889	পকেটস্থ	p o k e T o sth O	native	eTo
+0.2889	ভিয়েটর	bh i y e T o r	native	eTo
+0.2889	লেটন	l e T o n	native	eTo
+0.2886	ওসমানই	O s m a n i	native	sma
+0.2886	ওসমানকে	O s m a n k e	native	sma
+0.2886	ওসমানপুর	O s m a n p u r	native	sma
+0.2886	ওসমানসহ	O s m a n sh o h O	native	sma
+0.2886	ওসমানিকে	O s m a n i k e	native	sma
+0.2886	ওসমানিনগর	O s m a n i n o g O r	native	sma
+0.2886	ওসমানির	O s m a n i r	native	sma
+0.2886	ওসমানিয়া	O s m a n i y a	native	sma
+0.2886	ওসমানের	O s m a n e r	native	sma
+0.2859	কাটেনি	k a T e n i	native	Ten
+0.2859	টটেনহাম	T O T e n h a m	native	Ten
+0.2859	টেনেছিল	T e n e chh i l O	native	Ten
+0.2859	টেনেছে	T e n e chh e	native	Ten
+0.2859	টেনেছেন	T e n e chh e n	native	Ten
+0.2859	হাঁটেননি	h a~ T e n n i	native	Ten
+0.2859	কাটেন	k a T e n	native	Ten
+0.2859	কাটেননি	k a T e n n i	native	Ten
+0.2859	খাটেন	kh a T e n	native	Ten
+0.2859	গোটেংরা	g O T e ng r a	native	Ten
+0.2859	ঘটেনি	gh o T e n i	native	Ten
+0.2859	ছোটেন	chh O T e n	native	Ten
+0.2859	টেংগরি	T e ng g r i	native	Ten
+0.2859	টেংগারচর	T e ng g a r ch o r	native	Ten
+0.2859	টেনবি	T e n b i	native	Ten
+0.2859	টেনা	T e n a	native	Ten
+0.2859	টেনে	T e n e	native	Ten
+0.2859	টেনেও	T e n e O	native	Ten
+0.2859	টেনেছিলেন	T e n e chh i l e n	native	Ten
+0.2859	টেনের	T e n e r	native	Ten
+0.2859	টেনেহিচড়ে	T e n e h i ch r e	native	Ten
+0.2859	বটেন	b o T e n	native	Ten
+0.2859	রটেন	r o T e n	native	Ten
+0.2859	হাটেন	h a T e n	native	Ten
+0.2859	হাটেননি	h a T e n n i	native	Ten
+0.2852	অপারেট	o p a r e T	native	reT
+0.2852	সেক্রেটারিয়েট	sh e kr e T a r i y e T	native	reT
+0.2852	কালেক্টরেট	k a l e k T O r e T	native	reT
+0.2852	তেরেট	t e r e T	native	reT
+0.2852	নিরেট	n i r e T	native	reT
+0.2852	নেকড়েটা	n e k r e T a	native	reT
+0.2852	পরেটা	p o r e T a	native	reT
+0.2852	পাইরেট	p a i r e T	native	reT
+0.2852	মিউরেট	m i u r e T	native	reT
+0.2852	লরেট	l o r e T	native	reT
+0.2827	পাউডার	p a u D a r	native	auD
+0.2827	পাউডারও	p a u D a r O	native	auD
+0.2827	পাউডারজাতিয়	p a u D a r j a t i y o	native	auD
+0.2827	পাউডারের	p a u D a r e r	native	auD
+0.2816	পকেটমারকে	p o k e T m a r k e	native	eTm
+0.2816	পকেটমারদের	p o k e T m a r d e r	native	eTm
+0.2816	পকেটমারের	p o k e T m a r e r	native	eTm
+0.2794	কানেক্টর	k a n e k T o r	native	ekTo
+0.2794	কারেক্টর	k a r e k T o r	native	ekTo
+0.2794	প্রোজেক্টরের	pr O j e k T o r e r	native	ekTo
+0.2787	রিমাইন্ডারঃ	r i m a i n D a r	tatsama	ainDa
+0.2742	প্রেমজি	pr e m j i	native	emji
+0.2712	ব্যাটটাকে	b A T T a k e	native	ATT
+0.2712	ব্যাটটি	b A T T i	native	ATT
+0.2712	ব্যাট্যা	b A T T a	native	ATT
+0.2706	ঢলঢল	Dh o l O Dh o l O	native	lOD
+0.2687	অবসেসিভ	o b O e sh i bh o	native	Oes
+0.2687	পিএলওএস	p i e l O e s	native	Oes
+0.2687	পিওএস	p i O e s	native	Oes
+0.2685	ক্রসে	kr O s e	native	Ose
+0.2680	পসিবল	p o s i b o l	native	sib
+0.2678	ইমপ্যাক্ট	i m p A k T	native	AkT
+0.2678	পারফেক্ট	p a r ph A k T	native	AkT
+0.2678	প্যাকটি	p A k T i	native	AkT
+0.2678	প্যাক্ট	p A k T	native	AkT
+0.2648	ভাবলে	bh a b l e	native	ble
+0.2648	ভাবলেন	bh a b l e n	native	ble
+0.2648	ভাবলেশহীন	bh a b l e sh h i n	native	ble
+0.2648	কুম্বলে	k u mb l e	native	ble
+0.2648	খুবলে	kh u b l e	native	ble
+0.2648	ঢিবলে	Dh i b l e	native	ble
+0.2648	তাবলেরচর	t a b l e r ch o r	native	ble
+0.2648	ভাবলেই	bh a b l e i	native	ble
+0.2648	ভাবলেও	bh a b l e O	native	ble
+0.2648	ভাবলেশহিন	bh a b l e sh h i n	native	ble
+0.2648	শাবলের	sh a b l e r	native	ble
+0.2619	টকটকে	T o k T o k e	native	kTo
+0.2619	ডঃ	D o k T o r	tatsama	kTo
+0.2619	প্রক্টর	pr O k T o r	native	kTo
+0.2619	প্রক্টরও	pr O k T o r O	native	kTo
+0.2619	প্রক্টরকে	pr O k T o r k e	native	kTo
+0.2619	প্রক্টররা	pr O k T o r r a	native	kTo
+0.2619	প্রক্টরসহ	pr O k T o r sh o h O	native	kTo
+0.2619	প্রক্টরিয়াল	pr O k T o r i y a l	native	kTo
+0.2596	ইএ	i e	native	ie
+0.2586	ভাইব্রেশন	bh a i br e sh o n	native	bres
+0.2506	টেবুনিয়া	T e b u n i y a	native	Teb
+0.2503	চামিন্ডা	ch a m i n D a	native	inDa
+0.2475	প্রিকুয়্যাল	pr i k u y A l	native	yAl
+0.2475	রয়্যালসের্	r o y A l sh e r	native	yAl
+0.2467	ইবলিশ	i b l i sh	native	bli
+0.2467	ইবলিস	i b l i sh	native	bli
+0.2467	তাবলিগে	t a b l i g e	native	bli
+0.2467	তাবলীগের	t a b l i g e r	native	bli
+0.2467	পাবলিকেশন	p a b l i k e sh o n	native	bli
+0.2467	বাবলির	b a b l i r	native	bli
+0.2467	রিপাবলিকানদের	r i p a b l i k a n d e r	native	bli
+0.2467	শিবলী	sh i b l i	native	bli
+0.2467	কাবলি	k a b l i	native	bli
+0.2467	ডাবলি	D a b l i	native	bli
+0.2467	তবলিয়া	t o b l i y a	native	bli
+0.2467	তান্ডবলিলা	t a n D o b l i l a	native	bli
+0.2467	তাবলিগ	t a b l i g	native	bli
+0.2467	তাবলিগি	t a b l i g i	native	bli
+0.2467	তাবলিগের	t a b l i g e r	native	bli
+0.2467	দেবলিনা	d e b l i n a	native	bli
+0.2467	পাবলিক	p a b l i k	native	bli
+0.2467	পাবলিকলি	p a b l i k l i	native	bli
+0.2467	পাবলিকে	p a b l i k e	native	bli
+0.2467	পাবলিকের	p a b l i k e r	native	bli
+0.2467	পাবলিকেশনস	p a b l i k e sh o n s	native	bli
+0.2467	পাবলিকেশনের	p a b l i k e sh O n e r	native	bli
+0.2467	পাবলিশার্স	p a b l i sh a r s	native	bli
+0.2467	পাবলিশার্সের	p a b l i sh a r s	native	bli
+0.2467	বাবলি	b a b l i	native	bli
+0.2467	রিপাবলিক	r i p a b l i k	native	bli
+0.2467	রিপাবলিকা	r i p a b l i k a	native	bli
+0.2467	রিপাবলিকান	r i p a b l i k a n	native	bli
+0.2467	রিপাবলিকানরা	r i p a b l i k a n r a	native	bli
+0.2467	রিপাবলিকে	r i p a b l i k e	native	bli
+0.2467	রিপাবলিকের	r i p a b l i k e r	native	bli
+0.2467	শিবলি	sh i b l i	native	bli
+0.2467	শিবলিকে	sh i b l i k e	native	bli
+0.2467	শিবলির	sh i b l i r	native	bli
+0.2467	হাবলি	h a b l i	native	bli
+0.2409	ডিয়ানি	D i y a n i	native	Diy
+0.2409	ডিয়াবি	D i y a b i	native	Diy
+0.2408	প্লুরাল	p l u r a l	native	plu
+0.2408	পাপলুকে	p a p l u k e	native	plu
+0.2408	সাপলুডু	sh a p l u D u	native	plu
+0.2407	দুএকটি	d u e k T i	native	uek
+0.2389	ম্যানেজারদের	m A n e j a r d e r	native	mAnej
+0.2362	এলাকাবাসি	e l a k a b a s i	native	asi
+0.2362	এলাকাবাসিদের	e l a k a b a s i d e r	native	asi
+0.2362	ওয়াসি	O y a s i	native	asi
+0.2362	পাসি	p a s i	native	asi
+0.2362	ফার্মাসি	ph a r m a s i	native	asi
+0.2360	পাইলটসহ	p a i l O T sh o h O	native	OTs
+0.2347	টেকনলজি	T e k n O l o j i	native	Tekn
+0.2347	টেকনাফে	T e k n a ph e	native	Tekn
+0.2347	টেকনাফসহ	T e k n a ph sh o h O	native	Tekn
+0.2344	র্যাবকে	r A b k e	native	rAb
+0.2344	র্যাবের	r A b e r	native	rAb
+0.2344	র‍্যাব	r A b	native	rAb
+0.2296	আবলুক	a b l u k	native	blu
+0.2296	আবলুছ	a b l u sh	native	blu
+0.2296	বাবলু	b a b l u	native	blu
+0.2296	লাবলু	l a b l u	native	blu
+0.2296	গাবলু	g a b l u	native	blu
+0.2296	বাবলুকে	b a b l u k e	native	blu
+0.2296	বাবলুর	b a b l u r	native	blu
+0.2296	বাবলুসহ	b a b l u sh o h O	native	blu
+0.2296	শিবলু	sh i b l u	native	blu
+0.2295	সেটিংয়ে	sh e T i ng y e	native	eTin
+0.2295	সেটিংয়ের	sh e T i ng y e r	native	eTin
+0.2295	নেটিংসুবিধা	n e T i ng sh u b i dh a	native	eTin
+0.2295	নেটিংসুবিধার	n e T i ng sh u b i dh a r	native	eTin
+0.2295	পিকেটিংয়ে	p i k e T i ng y e	native	eTin
+0.2295	পিকেটিংয়ের	p i k e T i ng y e r	native	eTin
+0.2256	অফিসগামী	o ph i s g a m i	native	isg
+0.2238	খুটিটি	kh u T i T i	native	TiTi
+0.2238	ঘাটিটি	gh a T i T i	native	TiTi
+0.2238	ঘাটিটির	gh a T i T i r	native	TiTi
+0.2238	ত্রুটিটি	tr u T i T i	native	TiTi
+0.2235	প্রিভি	pr i bh i k a u n sh i l	native	auns
+0.2235	ব্রাউনসহ	br a u n sh o h O	native	auns
+0.2184	অর্কিড	O r k i D	native	kiD
+0.2184	কিড	k i D	native	kiD
+0.2184	শার্কিড	sh a r k i D	native	kiD
+0.2154	প্রোটিনসমৃদ্ধ	pr O T i n sh O m r i d dh O	tatsama	Tins
+0.2128	কডা	k o D a	native	oDa
+0.2128	কয়ডা	k o y o D a	native	oDa
+0.2128	সডাক	sh o D a k	native	oDa
+0.2125	বিজেপি	b i j e p i	native	jep
+0.2125	বিজেপিও	b i j e p i O	native	jep
+0.2125	বিজেপির	b i j e p i r	native	jep
+0.2125	বিজেপিসহ	b i j e p i sh o h O	native	jep
+0.2106	ডার্টিয়ার	D a r T i y a r	native	DarT
+0.2106	ভান্ডারটি	bh a n D a r T i	native	DarT
+0.2100	ড্যাট	D A T	native	DAT
+0.2098	সবজিটি	sh O b j i T i	native	jiT
+0.2098	পজিটিভ	p o j i T i bh	native	jiT
+0.2098	পিজিটি	p i j i T i	native	jiT
+0.2098	পুজিটা	p u j i T a	native	jiT
+0.2098	বাজিটা	b a j i T a	native	jiT
+0.2098	সিএনজিটি	sh i e n j i T i	native	jiT
+0.2098	ইংরেজিটা	i ng r e j i T a	native	jiT
+0.2086	ঘ্যাট	gh A T	native	hAT
+0.2086	চ্যাটিংয়ের	ch A T i ng y e r	native	hAT
+0.2086	ফ্যাটজুক্ত	ph A T j u kt O	native	hAT
+0.2086	ফ্যাটি	ph A T i	native	hAT
+0.2084	পন্ডার্স	p o n D a r sh	native	Dars
+0.2081	ইজিপ্ট	i j i p T o	native	pTo
+0.2081	নর্দাম্পটন	n o r d a mp T o n	native	pTo
+0.2081	নর্দাম্পটনে	n o r d a mp T o n e	native	pTo
+0.2081	নর্দাম্পটনের	n o r d a mp T o n e r	native	pTo
+0.2066	ব্যাটকে	b A T k e	native	ATk
+0.2057	কেওক্রাডং	k e O kr a D O ng	native	aDO
+0.2057	ডামাডোল	D a m a D O l	native	aDO
+0.2057	ডামাডোলে	D a m a D O l e	native	aDO
+0.2057	ডামাডোলের	D a m a D O l e r	native	aDO
+0.2057	প্রাডো	pr a D O	native	aDO
+0.2057	ভরাডোবা	bh o r a D O b a	native	aDO
+0.2047	ইংরেজিসহ	i ng r e j i sh o h O	native	ejis
+0.2024	প্যাটি	p A T i	native	ATi
+0.2024	ব্যাটই	b A T i	native	ATi
+0.2024	ব্যাটিং	b A T i ng	native	ATi
+0.2024	ব্যাটিংও	b A T i ng O	native	ATi
+0.2024	ব্যাটিংকে	b A T i ng k e	native	ATi
+0.2024	ব্যাটিংটাই	b A T i ng T a i	native	ATi
+0.2024	ব্যাটিংটাও	b A T i ng T a O	native	ATi
+0.2024	ব্যাটিংটাকে	b A T i ng T a k e	native	ATi
+0.2024	ব্যাটিংয়ে	b A T i ng y e	native	ATi
+0.2024	ব্যাটিংয়েই	b A T i ng y e i	native	ATi
+0.2024	ব্যাটিংয়েও	b A T i ng y e O	native	ATi
+0.2024	ব্যাটিংয়ের	b A T i ng y e r	native	ATi
+0.2016	দেবশিশু	d e b sh i sh u	native	ebs
+0.2004	পেইন্ট	p e i n T	native	einT
+0.1978	অথরাইজড	o th O r a i j D	native	ijD
+0.1978	অথারাইজড	o th a r a i j D	native	ijD
+0.1978	প্যারালাইজড	p A r a l a i j D	native	ijD
+0.1971	পার্টিং	p a r T i ng	native	rTin
+0.1960	কাফরুল	k a ph r u l	native	phr
+0.1960	কাফরুলে	k a ph r u l e	native	phr
+0.1960	কাফরুলের	k a ph r u l e r	native	phr
+0.1960	কুফরা	k u ph r a	native	phr
+0.1960	কুফরার	k u ph r a r	native	phr
+0.1960	কোফরান	k O ph r a n	native	phr
+0.1960	গাফরি	g a ph r i	native	phr
+0.1960	তফরা	t o ph r a	native	phr
+0.1960	দক্ষিনআফ্রিকার	d O kkh i n a ph r i k a r	tatsama	phr
+0.1960	দফরা	d o ph r a	native	phr
+0.1960	নাফরা	n a ph r a	native	phr
+0.1960	মাফরুহা	m a ph r u h a	native	phr
+0.1960	মুফরাদ	m u ph r a d	native	phr
+0.1960	রহিমআফরোজ	r O h i m a ph r O j	native	phr
+0.1960	রহিমআফরোজের	r o h i m a ph r O j e r	native	phr
+0.1960	শফরি	sh o ph r i	native	phr
+0.1960	শরফরাজ	sh o r o ph r a j	native	phr
+0.1951	কেটো	k e T O	native	keTO
+0.1927	ইটন	i T o n	native	iTo
+0.1927	ইটনের	i T o n e r	native	iTo
+0.1927	ইটলস	i T o l o sh	native	iTo
+0.1927	ইটলসে	i T o l o sh e	native	iTo
+0.1927	ইটলসের	i T o l o sh e r	native	iTo
+0.1927	নিটল	n i T o l	native	iTo
+0.1927	কোইটভ	k O i T o bh	native	iTo
+0.1927	চিপিটক	ch i p i T o k o	native	iTo
+0.1927	টিট	T i T o	native	iTo
+0.1927	ডাকটিকিটও	D a k T i k i T o O	native	iTo
+0.1927	ত্রিপিটক	t ri p i T o k	native	iTo
+0.1927	পিটক	p i T o k	native	iTo
+0.1927	প্রতিটন	pr O t i T o n	native	iTo
+0.1927	বইটই	b o i T o i	native	iTo
+0.1927	বিটংক	b i T o ng k O	native	iTo
+0.1927	বিটকাল	b i T o k a l	native	iTo
+0.1927	বিটন	b i T o n	native	iTo
+0.1927	বিটপ	b i T o p	native	iTo
+0.1927	ভিটরিকে	bh i T o r i k e	native	iTo
+0.1927	ভিটরির	bh i T o r i r	native	iTo
+0.1927	রিটন	r i T o n	native	iTo
+0.1888	কেরাম	k A r a m	native	kAr
+0.1888	ক্যারক্যার	k A r k A r	native	kAr
+0.1888	ক্যারক্যারি	k A r o k A r i	native	kAr
+0.1888	ক্যারল	k A r O l	native	kAr
+0.1888	ক্যারায়ল	k A r a y o l	native	kAr
+0.1888	ক্যারিক	k A r i k	native	kAr
+0.1888	ক্যারিকেচার	k A r i k e ch a r	native	kAr
+0.1888	ক্যারিতে	k A r i t e	native	kAr
+0.1888	ক্যারিবিয়	k A r i b i y	native	kAr
+0.1888	ক্যারিবিয়দের	k A r i b i y d e r	native	kAr
+0.1888	ক্যারিবিয়রা	k A r i b i y y o r a	native	kAr
+0.1888	ক্যারিবিয়ান	k A r i b i y a n	native	kAr
+0.1888	ক্যারিবিয়ানে	k A r i b i y a n e	native	kAr
+0.1888	ক্যারিবিয়ার	k A r i b i y a r	native	kAr
+0.1888	ক্যারিবিয়ায়	k A r i b i y a y	native	kAr
+0.1888	ক্যারির	k A r i r	native	kAr
+0.1888	ক্যারিশমাটিক	k A r i sh o m a T i k	native	kAr
+0.1888	ক্যারিশমায়	k A r i sh o m a y o	native	kAr
+0.1888	ক্যারিয়ার	k A r i y a r	native	kAr
+0.1888	ক্যারিয়ারই	k A r i y a r i	native	kAr
+0.1888	ক্যারিয়ারও	k A r i y a r O	native	kAr
+0.1888	ক্যারিয়ারকে	k A r i y a r k e	native	kAr
+0.1888	ক্যারিয়ারটা	k A r i y a r T a	native	kAr
+0.1888	ক্যারিয়ারটাই	k A r i y a r T a i	native	kAr
+0.1888	ক্যারিয়ারে	k A r i y a r e	native	kAr
+0.1888	ক্যারিয়ারেই	k A r i y a r e i	native	kAr
+0.1888	ক্যারিয়ারেও	k A r i y a r e O	native	kAr
+0.1888	ক্যারিয়ারের	k A r i y a r e r o	native	kAr
+0.1877	অমলেট	o m l e T	native	leT
+0.1877	কাটলেট	k a T l e T	native	leT
+0.1877	ছেলেটা	chh e l e T a	native	leT
+0.1877	ছেলেটি	chh e l e T i	native	leT
+0.1877	ছেলেটিকে	chh e l e T i k e	native	leT
+0.1877	ছেলেটাকে	chh e l e T a k e	native	leT
+0.1877	ছেলেটার	chh e l e T a r	native	leT
+0.1877	ছেলেটিই	chh e l e T i i	native	leT
+0.1877	ছেলেটির	chh e l e T i r	native	leT
+0.1877	নিউজলেটার	n i u j l e T a r	native	leT
+0.1877	পিলেট	p i l e T	native	leT
+0.1877	প্যালেট	p A l e T	native	leT
+0.1877	ফলেট	ph o l e T	native	leT
+0.1877	ফোলেট	ph O l e T	native	leT
+0.1877	বিলেট	b i l e T	native	leT
+0.1877	লেট	l e T	native	leT
+0.1877	লেটা	l e T a	native	leT
+0.1877	লেঠেল	l e Th e l	native	leT
+0.1877	সিলেটি	sh i l e T i	native	leT
+0.1877	সোউফলেট	sh O u ph o l e T	native	leT
+0.1860	ডিকে	D i k e	native	Dik
+0.1860	ডিক	D i k	native	Dik
+0.1860	ডিকটা	D i k T a	native	Dik
+0.1860	ডিকাবের	D i k a b e r	native	Dik
+0.1836	ডের	D e r	native	Der
+0.1836	ডেরা	D e r a	native	Der
+0.1836	ডেরার	D e r a r	native	Der
+0.1836	ডেরায়	D e r a y	native	Der
+0.1836	ডেড়েমুশে	D e r e m u sh e	native	Der
+0.1836	মেম্বারদের	m e mb a r d e r	native	mem
+0.1836	নামেমাত্র	n a m e m a tr O	native	mem
+0.1836	মেমনকে	m e m o n k e	native	mem
+0.1836	মেমি	m e m i	native	mem
+0.1836	মেমোরিয়াল	m e m O r i y a l	native	mem
+0.1836	মেম্বারস	m e mb a r sh	native	mem
+0.1836	রিমেম্বার	r i m e mb a r	native	mem
+0.1823	গ্স	g s o	native	gso
+0.1786	রাবিড	r a b i D	native	biD
+0.1777	নিড	n i D	native	niD
+0.1774	ম্যাজিক	m A j i k	native	mAji
+0.1774	ম্যাজিকে	m A j i k e	native	mAji
+0.1774	ম্যাজিকের	m A j i k e r	native	mAji
+0.1725	শ্রেশ্ঠা	s r E sh Th a	native	rEs
+0.1698	কেবলা	k e b l a	native	ebl
+0.1698	কেবলার	k e b l a r	native	ebl
+0.1696	অবজারভেটরি	o b O a r bh e T O r i	native	eTO
+0.1696	ইকুয়েটোরিয়াল	i k u y e T O r i y a l	native	eTO
+0.1696	এটওয়া	e T O y a	native	eTO
+0.1696	গেটওয়ে	g e T O y e	native	eTO
+0.1696	গেটওয়ের	g e T O y e r	native	eTO
+0.1696	নেটওয়ার্ক	n e T O a r k	native	eTO
+0.1696	নেটো	n e T O	native	eTO
+0.1696	পটো	p e T O	native	eTO
+0.1696	পেটও	p e T O	native	eTO
+0.1696	পেটো	p e T O	native	eTO
+0.1696	পেটোয়া	p e T O y a	native	eTO
+0.1683	এফবি	e ph b i	native	ephb
+0.1671	লিটারপ্রতি	l i T a r pr O t i	native	liTar
+0.1627	প্রটেক্ট	pr O T e k T	native	TekT
+0.1627	প্রোটেক্ট	pr O T e k T	native	TekT
+0.1618	চিড়েচ্যাপ্টা	ch i r e ch A p T a	native	ApT
+0.1618	চেপ্টা	ch A p T a	native	ApT
+0.1618	চ্যাপটা	ch A p T a	native	ApT
+0.1618	চ্যাপ্টা	ch A p T a	native	ApT
+0.1618	চ্যাপ্টার	ch A p T a r	native	ApT
+0.1618	চ্যাপ্টারের	ch A p T a r e r	native	ApT
+0.1613	অম্বুডসম্যান	O mb u D o sh o m A n	native	mAn
+0.1613	ইংলিশম্যান	i ng l i sh m A n	native	mAn
+0.1613	ম্যানহাটন	m A n h a T O n	native	mAn
+0.1613	চেয়াম্যান	ch e y a m A n	native	mAn
+0.1613	চেয়ারম্যান	ch e y a r m A n	native	mAn
+0.1613	চেয়ারম্যানই	ch e y a r m A n i	native	mAn
+0.1613	চেয়ারম্যানও	ch e y a r m A n O	native	mAn
+0.1613	চ্যাপম্যান	ch A p m A n	native	mAn
+0.1613	নরম্যান	n o r m A n	native	mAn
+0.1613	নিউম্যান	n i u m A n	native	mAn
+0.1613	ফায়ারম্যান	ph a y a r m A n	native	mAn
+0.1613	ফিকম্যান	ph i k m A n	native	mAn
+0.1613	ফিশারম্যান	ph i sh a r m A n	native	mAn
+0.1613	ফোরম্যান	ph O r m A n	native	mAn
+0.1613	বম্যান	b o m A n	native	mAn
+0.1613	বার্গম্যান	b a r g m A n	native	mAn
+0.1613	বার্গম্যানকে	b a r g m A n k e	native	mAn
+0.1613	বার্গম্যানের	b a r g m A n e r	native	mAn
+0.1613	ব্রাফম্যান	br a ph m A n	native	mAn
+0.1613	মিসাইলম্যান	m i sh a i l m A n	native	mAn
+0.1613	ম্যাংগানিজ	m A ng g a n i j	native	mAn
+0.1613	ম্যাংগালোর	m A ng g a l O r	native	mAn
+0.1613	ম্যাংগালোরে	m A ng g a l O r e	native	mAn
+0.1613	ম্যাংগালোরের	m A ng g a l O r e r	native	mAn
+0.1613	ম্যাংগো	m A ng g O	native	mAn
+0.1613	ম্যাংগ্রো	m A ng gr O	native	mAn
+0.1613	ম্যান	m A n	native	mAn
+0.1613	ম্যানইউ	m A n i u	native	mAn
+0.1613	ম্যানইউও	m A n i u O	native	mAn
+0.1613	ম্যানইউকে	m A n i u k e	native	mAn
+0.1613	ম্যানইউতে	m A n i u t e	native	mAn
+0.1613	ম্যানইউর	m A n i u r	native	mAn
+0.1613	ম্যানইউয়ের	m A n i u y e r	native	mAn
+0.1613	ম্যানকে	m A n k e	native	mAn
+0.1613	ম্যানগ্রোভ	m A n gr O bh	native	mAn
+0.1613	ম্যানলি	m A n l i	native	mAn
+0.1613	ম্যানহোল	m A n h O l	native	mAn
+0.1613	ম্যানহোলে	m A n h O l e	native	mAn
+0.1613	ম্যানহোলের	m A n h O l e r	native	mAn
+0.1613	ম্যানি	m A n i	native	mAn
+0.1613	ম্যানিং	m A n i ng	native	mAn
+0.1613	ম্যানিংকে	m A n i ng k e	native	mAn
+0.1613	ম্যানিংয়ের	m A n i ng y e r	native	mAn
+0.1613	ম্যানিকিউর	m A n i k i u r	native	mAn
+0.1613	ম্যানিকিওর	m A n i k i O r	native	mAn
+0.1613	ম্যানিপুলেশন	m A n i p u l e sh o n	native	mAn
+0.1613	ম্যানিলা	m A n i l a	native	mAn
+0.1613	ম্যানিলার	m A n i l a r	native	mAn
+0.1613	ম্যানিলায়	m A n i l a y	native	mAn
+0.1613	ম্যানু	m A n u	native	mAn
+0.1613	ম্যানুকা	m A n u k a	native	mAn
+0.1613	ম্যানুলাইফ	m A n u l a i ph	native	mAn
+0.1613	ম্যানুয়াল	m A n u y a l	native	mAn
+0.1613	ম্যানুয়ালি	m A n u y a l i	native	mAn
+0.1613	ম্যানুয়ালে	m A n u y a l e	native	mAn
+0.1613	ম্যানুয়েল	m A n u y e l	native	mAn
+0.1613	ম্যানে	m A n e	native	mAn
+0.1613	ম্যানের	m A n e r	native	mAn
+0.1613	রিচম্যান	r i ch m A n	native	mAn
+0.1613	রোম্যান	r O m A n	native	mAn
+0.1613	লাইনম্যান	l a i n m A n	native	mAn
+0.1613	লাইনম্যানও	l a i n m A n O	native	mAn
+0.1613	লাইনম্যানকে	l a i n m A n k e	native	mAn
+0.1613	লাইনম্যানের	l a i n m A n e r	native	mAn
+0.1613	লিবারম্যান	l i b a r m A n	native	mAn
+0.1613	লিবারম্যানের	l i b a r m A n e r	native	mAn
+0.1613	শারম্যান	sh a r m A n	native	mAn
+0.1613	সানম্যান	sh a n m A n	native	mAn
+0.1613	সিগম্যান	sh i g m A n o	native	mAn
+0.1613	সিম্যান	sh i m A n o	native	mAn
+0.1613	সুপারম্যান	sh u p a r m A n	native	mAn
+0.1613	সুপারম্যানের	sh u p a r m A n e r	native	mAn
+0.1613	হফম্যান	h o ph m A n	native	mAn
+0.1613	হারম্যান	h a r m A n	native	mAn
+0.1613	হিউম্যান	h i u m A n	native	mAn
+0.1600	ইমপিউনিটি	i m o p i u n i T i	native	piu
+0.1600	পিউ	p i u	native	piu
+0.1600	পিউর	p i u r	native	piu
+0.1600	পিউরভিউ	p i u r bh i u	native	piu
+0.1600	পিউরি	p i u r i	native	piu
+0.1600	পিউরিটান	p i u r i T a n	native	piu
+0.1600	পিউরিন	p i u r i n	native	piu
+0.1600	পিউড়ি	p i u r i	native	piu
+0.1597	ঘুটঘুটে	gh u T gh u T e	native	uTg
+0.1597	রুটগুলোর	r u T g u l O r	native	uTg
+0.1597	ঘুটঘুট	gh u T gh u T	native	uTg
+0.1582	লাইটোলার	l a i T O l a r	native	aiTO
+0.1574	হ্যাজেল	h A j e l	native	Aje
+0.1558	তিনটার	t i n T a r	native	inTar
+0.1558	দিনটার	d i n T a r	native	inTar
+0.1494	কুষ্টিয়া	k u sh T i a	tatsama	Tia
+0.1494	পিটিআই	p i T i a i	native	Tia
+0.1494	পিটিআইকে	p i T i a i k e	native	Tia
+0.1494	পিটিআইর	p i T i a i r	native	Tia
+0.1494	পিটিআইয়ে	p i T i a i y e	native	Tia
+0.1494	পিটিআইয়ের	p i T i a i y e r	native	Tia
+0.1446	ইউনিপেটুইউ	i u n i p e T u i u	native	Tui
+0.1446	ইউনিপেটুইউতে	i u n i p e T u i u t e	native	Tui
+0.1446	ইউনিপেটুইউর	i u n i p e T u i u r	native	Tui
+0.1446	কুটুমবাড়ি	k u T u i b a r i	native	Tui
+0.1446	টুই	T u i	native	Tui
+0.1446	টুইউ	T u i u	native	Tui
+0.1446	টুইয়ু	T u i y u	native	Tui
+0.1390	ডেকেছিল	D e k e chh i l O	native	Dek
+0.1390	ডেকচি	D e k o ch i	native	Dek
+0.1390	ডেকচিতে	D e k ch i t e	native	Dek
+0.1390	ডেকটি	D e k o T i	native	Dek
+0.1390	ডেকা	D e k a	native	Dek
+0.1390	ডেকার	D e k a r	native	Dek
+0.1390	ডেকারের	D e k a r e r	native	Dek
+0.1390	ডেকুরা	D e k u r a	native	Dek
+0.1390	ডেকে	D e k e	native	Dek
+0.1390	ডেকেই	D e k e i	native	Dek
+0.1390	ডেকেও	D e k e O	native	Dek
+0.1390	ডেকেছি	D e k e chh i	native	Dek
+0.1390	ডেকেছিলাম	D e k e chh i l a m o	native	Dek
+0.1390	ডেকেছিলে	D e k e chh i l e	native	Dek
+0.1390	ডেকেছিলেন	D e k e chh i l e n	native	Dek
+0.1390	ডেকেছে	D e k e chh e	native	Dek
+0.1390	ডেকেছেন	D e k e chh e n	native	Dek
+0.1390	ডেকের	D e k e r	native	Dek
+0.1387	হেপাটাইটিস	h e p a T a i T i sh	native	aiTis
+0.1370	কলজে	k o l j e	native	lje
+0.1356	নাইটি	n a i T i	native	aiTi
+0.1356	নাইটিংগেল	n a i T i ng g e l	native	aiTi
+0.1356	ভাইটি	bh a i T i	native	aiTi
+0.1356	ভাইটিকে	bh a i T i k e	native	aiTi
+0.1356	ভাইটির	bh a i T i r	native	aiTi
+0.1356	মলাইটিলা	m o l a i T i l a	native	aiTi
+0.1356	মলাইটিলার	m o l a i T i l a r	native	aiTi
+0.1356	লড়াইটি	l o r a i T i	native	aiTi
+0.1356	লড়াইটিকে	l o r a i T i k e	native	aiTi
+0.1347	নাইটকুইন	n a i T k u i n	native	aiTk
+0.1339	চন্ডাশোক	ch o n D a sh O k	native	nDas
+0.1339	খেজমত	kh e j m o t	native	ejm
+0.1336	এটিসহ	e T i sh o h O	native	eTis
+0.1336	সেটিসহ	sh e T i sh o h O	native	eTis
+0.1314	ছুটবেন	chh u T b e n	native	uTb
+0.1314	জুটবে	j u T b e	native	uTb
+0.1314	ফুটবলাররা	ph u T b o l a r r a	native	uTb
+0.1314	কুটবুদ্ধি	k u T b u d dh i	tatsama	uTb
+0.1314	ছুটবে	chh u T b e	native	uTb
+0.1314	ফুটবলজ্বরে	ph u T b o l j b o r e	tatsama	uTb
+0.1314	ফুটবলবিশ্ব	ph u T b o l b i sh sh O	tatsama	uTb
+0.1314	ফুটবলবিশ্বে	ph u T b o l b i sh sh e	tatsama	uTb
+0.1314	ফুটবে	ph u T b e	native	uTb
+0.1314	ফুটভাশি	ph u T bh a sh i	native	uTb
+0.1303	গডউইন	g o D u i n	native	Duin
+0.1285	সিআইএকে	sh i a i e k e	native	iek
+0.1266	এক্টিনমিটার	e k T i n O m i T a r	native	miTar
+0.1266	বর্গমিটারের	b o r g O m i T a r e r	native	miTar
+0.1265	ঢিড	Dh i D	native	hiD
+0.1265	ঢিঢি	Dh i Dh i	native	hiD
+0.1241	ইম্পোর্টার্স	i mp O r T a r sh	native	Tars
+0.1241	ভোটারশুন্য	bh O T a r sh u n n o	native	Tars
+0.1241	ভোটারসংখ্যা	bh O T a r sh o ng kh a	native	Tars
+0.1241	ভোটারসংখ্যার	bh O T a r sh o ng kh A r	native	Tars
+0.1220	টিস্যুর	T i s u r	native	sur
+0.1194	বেজেঞ্জো	b e j e nj O	tatsama	ejen
+0.1194	বেজেঞ্জোর	b e j e nj O r	tatsama	ejen
+0.1194	তেজেন্দ্র	t e j e ndr o	native	ejen
+0.1194	ভেজেনি	bh e j e n i	native	ejen
+0.1194	এমজে	e m j e	native	emje
+0.1191	কাইট্টা	k a i T T a	native	aiTT
+0.1191	নাইট্যংপাড়া	n a i T T o ng p a r a	native	aiTT
+0.1191	ফাইট্টা	ph a i T T a	native	aiTT
+0.1191	বাইট্টা	b a i T T a	native	aiTT
+0.1174	অফসাইট	o ph sh a i T	native	aiT
+0.1174	আড়াইটা	a r a i T a	native	aiT
+0.1174	আড়াইটায়	a r a i T a y	native	aiT
+0.1174	আড়াইটার	a r a i T a r	native	aiT
+0.1174	আড়াইহাজারে	a r a i T a h a j a r e	native	aiT
+0.1174	আড়াইহাজারের	a r a i T a h a j a r e r	native	aiT
+0.1174	ইনভাইট	i n bh a i T	native	aiT
+0.1174	কপিরাইট	k o p i r a i T	native	aiT
+0.1174	কাইট	k a i T	native	aiT
+0.1174	কাইটা	k a i T a	native	aiT
+0.1174	গ্রানাইট	gr a n a i T	native	aiT
+0.1174	নাইট	n a i T	native	aiT
+0.1174	নাইটহুড	n a i T h u D	native	aiT
+0.1174	পাইট	p a i T	native	aiT
+0.1174	ফারেনহাইট	ph a r e n h a i T	native	aiT
+0.1174	বাইট	b a i T	native	aiT
+0.1174	বাইটা	b a i T a	native	aiT
+0.1174	ভাইটা	bh a i T a	native	aiT
+0.1174	ভাইটার	bh a i T a r	native	aiT
+0.1174	মকফাইট	m o k ph a i T	native	aiT
+0.1174	মাইটভাংগা	m a i T bh a ng g a	native	aiT
+0.1174	লড়াইটা	l o r a i T a	native	aiT
+0.1174	লড়াইটাই	l o r a i T a i	native	aiT
+0.1174	লড়াইটাও	l o r a i T a O	native	aiT
+0.1174	লড়াইটাকে	l o r a i T a k e	native	aiT
+0.1174	শাইট	sh a i T	native	aiT
+0.1170	কাকডাংগা	k a k D a ng g a	native	kDa
+0.1170	কাকডাকা	k a k D a k a	native	kDa
+0.1170	বুকডা	b u k D a	native	kDa
+0.1170	হাকডাক	h a k D a k	native	kDa
+0.1166	অবসকিউর	o b O sh k i u r	native	kiu
+0.1166	কারকিউমিন	k a r k i u m i n	native	kiu
+0.1166	পিকিউ	p i k i u	native	kiu
+0.1166	বারবিকিউ	b a r b i k i u	native	kiu
+0.1166	বারবিকিউর	b a r b i k i u r	native	kiu
+0.1166	বেনকিউ	b e n k i u	native	kiu
+0.1166	মেনিকিউর	m e n i k i u r	native	kiu
+0.1166	রেসকিউ	r e sh k i u	native	kiu
+0.1166	সিকিউ,	sh i k i u r	native	kiu
+0.1166	হারকিউলিস	h a r k i u l i sh	native	kiu
+0.1151	হাডুডু	h a D u D u	native	DuD
+0.1143	ক্রফট	kr o ph T	native	phT
+0.1143	ক্রাফট	kr a ph T	native	phT
+0.1143	ক্রাফটস	kr a ph T s	native	phT
+0.1143	গোফটা	g O ph T a	native	phT
+0.1143	পাইক্রফট	p a i kr o ph T	native	phT
+0.1143	বাফটা	b a ph T a	native	phT
+0.1143	লাফটা	l a ph T a	native	phT
+0.1122	প্রেমযোগ	pr e m j O g	native	emj
+0.1122	প্রেমজোগ	pr e m j O g	native	emj
+0.1087	রাইয়্যান	r a i y A n	native	yAn
+0.1077	পিএল	p i e l	native	iel
+0.1077	পিএলএ	p i e l e	native	iel
+0.1077	পিএলএর	p i e l e r	native	iel
+0.1077	পিএলএস	p i e l e s	native	iel
+0.1077	পিএলওর	p i e l O r	native	iel
+0.1077	পিপিএল	p i p i e l	native	iel
+0.1077	পিপিএলের	p i p i e l e r	native	iel
+0.1077	বিএইচইএল	b i e i ch i e l	native	iel
+0.1077	বিএলআই	b i e l a i	native	iel
+0.1077	বিএলআরআই	b i e l a r a i	native	iel
+0.1077	বিপিএলকে	b i p i e l k e	native	iel
+0.1077	বিপিএলে	b i p i e l e	native	iel
+0.1077	বিপিএলের	b i p i e l e r	native	iel
+0.1077	সিআরবিএলপি	sh i a r o b i e l p i	native	iel
+0.1077	সিআরবিএলপির	sh i a r o b i e l o p i r	native	iel
+0.1077	সিএল	sh i e l	native	iel
+0.1077	সিএলপি	sh i e l p i	native	iel
+0.1077	সিএলসিএস	sh i e l sh i e sh	native	iel
+0.1077	সিপিএল	sh i p i e l	native	iel
+0.1077	সিপিএলের	sh i p i e l e r	native	iel
+0.1061	অপসংস্কৃতির	o p O sh o ng s k ri t i r	tatsama	skr
+0.1061	সংস্কৃত	sh o ng s k ri t O	tatsama	skr
+0.1061	সংস্কৃতি	sh o ng s k ri t i	tatsama	skr
+0.1061	সংস্কৃতিমনা	sh o ng s k ri t i m o n a	tatsama	skr
+0.1061	লোকসংস্কৃতির	l O k O sh o ng s k ri t i r	tatsama	skr
+0.1061	সংস্কৃতিও	sh o ng s k ri t i O	tatsama	skr
+0.1061	সংস্কৃতিক	sh o ng s k ri t i k	tatsama	skr
+0.1061	সংস্কৃতিকর্মি	sh o ng s k ri t i k o r m i	tatsama	skr
+0.1061	সংস্কৃতিকর্মিদের	sh o ng s k ri t i k o r m i d e r	tatsama	skr
+0.1061	সংস্কৃতিকর্মিরা	sh o ng s k ri t i k o r m i r a	tatsama	skr
+0.1061	সংস্কৃতিকর্মিসহ	sh o ng s k ri t i k o r m i sh o h O	tatsama	skr
+0.1061	সংস্কৃতিকে	sh o ng s k ri t i k e	tatsama	skr
+0.1061	সংস্কৃতিগত	sh o ng s k ri t i g o t o	tatsama	skr
+0.1061	সংস্কৃতিচর্চা	sh o ng s k ri t i ch o r ch a	tatsama	skr
+0.1061	সংস্কৃতিচর্চার	sh o ng s k ri t i ch o r ch a r	tatsama	skr
+0.1061	সংস্কৃতিচর্চায়	sh o ng s k ri t i ch o r ch a y	tatsama	skr
+0.1061	সংস্কৃতিজগতের	sh o ng s k ri t i j o g o t e r	tatsama	skr
+0.1061	সংস্কৃতিটা	sh o ng s k ri t i T a	tatsama	skr
+0.1061	সংস্কৃতিতে	sh o ng s k ri t i t e	tatsama	skr
+0.1061	সংস্কৃতিতেও	sh o ng s k ri t i t e O	tatsama	skr
+0.1061	সংস্কৃতিনিতি	sh o ng s k ri t i n i t i	tatsama	skr
+0.1061	সংস্কৃতিবলয়ে	sh o ng s k ri t i b o l o y e	tatsama	skr
+0.1061	সংস্কৃতিবাদের	sh o ng s k ri t i b a d i d e r	tatsama	skr
+0.1061	সংস্কৃতিবিনিময়	sh o ng s k ri t i b i n i m o y o	tatsama	skr
+0.1061	সংস্কৃতিবিশয়ক	sh o ng s k ri t i b i sh o y o k	tatsama	skr
+0.1061	সংস্কৃতিবিশয়কমন্ত্রি	sh o ng s k ri t i b i sh o y o k m o nt r i	tatsama	skr
+0.1061	সংস্কৃতিমন্ত্রি	sh o ng s k ri t i m o nt r i	tatsama	skr
+0.1061	সংস্কৃতিমান	sh o ng s k ri t i m a n	tatsama	skr
+0.1061	সংস্কৃতিরই	sh o ng s k ri t i r o i	tatsama	skr
+0.1061	সংস্কৃতিরও	sh o ng s k ri t i r o O	tatsama	skr
+0.1061	সংস্কৃতিসচিব	sh o ng s k ri t i sh o ch i b	tatsama	skr
+0.1061	সংস্কৃতিসচিবের	sh o ng s k ri t i sh o ch i b e r	tatsama	skr
+0.1061	সংস্কৃতিসেবি	sh o ng s k ri t i sh e b i	tatsama	skr
+0.1061	সংস্কৃতিসেবিদের	sh o ng s k ri t i sh e b i d e r	tatsama	skr
+0.1061	সংস্কৃতিসেবিরা	sh o ng s k ri t i sh e b i r a	tatsama	skr
+0.1061	সাংস্কৃতি	sh a ng s k ri t i	tatsama	skr
+0.1061	সাংস্কৃতিক	sh a ng s k r i t i k	tatsama	skr
+0.1061	সাংস্কৃতিকও	sh a ng s k ri t i k O	tatsama	skr
+0.1061	সাংস্কৃতিককর্মি	sh a ng s k ri t i k r m i	tatsama	skr
+0.1061	সাংস্কৃতিকভাবে	sh a ng s k ri t i k bh a b e	tatsama	skr
+0.1061	সাংস্কৃতিকসহ	sh a ng s k ri t i k sh o h O	tatsama	skr
+0.1037	বিসাউয়ের	b i sh a u e r	native	aue
+0.1032	সিএআ	sh i e a r	native	iea
+0.1022	মেপে	m e p e	native	mep
+0.0982	প্রোটিনটি	pr O T i n T i	native	TinT
+0.0957	আরএফএলের	a r e ph e l e r	native	eph
+0.0957	আরেফ	a r e ph	native	eph
+0.0957	আরেফিন	a r e ph i n	native	eph
+0.0957	আরেফিনের	a r e ph i n e r	native	eph
+0.0957	ইউনিসেফ	i u n i sh e ph	native	eph
+0.0957	ইউনিসেফের	i u n i sh e ph e r	native	eph
+0.0957	ইউসেফ	i u sh e ph	native	eph
+0.0957	ইত্তেফাক	i tt e ph a k	native	eph
+0.0957	ইত্তেফাকসহ	i tt e ph a k sh o h O	native	eph
+0.0957	ইত্তেফাকে	i tt e ph a k e	native	eph
+0.0957	ইত্তেফাকের	i tt e ph a k e r	native	eph
+0.0957	ইথেফন	i th e ph o n	native	eph
+0.0957	উয়েফা	u y e ph a	native	eph
+0.0957	উয়েফার	u y e ph a r	native	eph
+0.0957	এত্তেফাক	e tt e ph a k	native	eph
+0.0957	এফএ	e ph e	native	eph
+0.0957	এফোড়–ওফোড়	e ph O r O ph O r	native	eph
+0.0957	তেফলা	t e ph o l a	native	eph
+0.0957	ফুলেফেঁপে	ph u l e ph e~ p e	native	eph
+0.0957	বেফাক	b e ph a k	native	eph
+0.0957	মারেফাতের	m a r e ph a t e r	native	eph
+0.0957	সেফহোমে	sh e ph h O m e	native	eph
+0.0957	সেফহোমের	sh e ph h O m e r	native	eph
+0.0957	সেফালিকা	sh e ph a l i k a	native	eph
+0.0957	স্রেফ	s r e ph	native	eph
+0.0957	হেফজ	h e ph j O	native	eph
+0.0957	হেফাজত	h e ph a j o t	native	eph
+0.0957	হেফাজতকর্মিদের	h e ph a j o t k O r m i d e r	native	eph
+0.0957	হেফাজতকর্মিরা	h e ph a j t k r m i r a	native	eph
+0.0957	হেফাজতকে	h e ph a j O t k e	native	eph
+0.0957	হেফাজতে	h e ph a j O t e	native	eph
+0.0957	হেফাজতের	h e ph a j o t e r	native	eph
+0.0957	হেফ্জ	h e ph j	native	eph
+0.0957	ওফাদার	e ph a d a r	native	eph
+0.0957	ওয়েফাক	O y e ph a k	native	eph
+0.0957	গুলসেফার	g u l sh e ph a r	native	eph
+0.0957	ঘুরেফিরে	gh u r e ph i r e	native	eph
+0.0957	ঘুরেফিরেই	gh u r e ph i r e i	native	eph
+0.0957	চরশেফালি	ch o r sh e ph a l i	native	eph
+0.0957	ছেফলা	chh e ph o l a	native	eph
+0.0957	টোয়েফল	T O y e ph o l	native	eph
+0.0957	তাৎনেফৎ	t a t n e ph o t	native	eph
+0.0957	নায়েফ	n a y e ph	native	eph
+0.0957	নায়েফকে	n a y e ph k e	native	eph
+0.0957	নায়েফের	n a y e ph e r	native	eph
+0.0957	নেফাক	n e ph a k	native	eph
+0.0957	ফুলেফেপে	ph u l e ph e p e	native	eph
+0.0957	বিএনএফ	b i e n e ph	native	eph
+0.0957	বেফাকুল	b e ph a k u l	native	eph
+0.0957	বেফাকুলের	b e ph a k u l e r	native	eph
+0.0957	বেফাকের	b e ph a k e r	native	eph
+0.0957	বেফাস	b e ph a sh	native	eph
+0.0957	ভিএইচএফ	bh i e i ch e ph	native	eph
+0.0957	মুনসেফ	m u n sh e ph	native	eph
+0.0957	জোশেফ	j O sh e ph	native	eph
+0.0957	জোসেফ	j O sh e ph	native	eph
+0.0957	জোসেফের	j O sh e ph e r	native	eph
+0.0957	মোশরেফা	m O sh r e ph a	native	eph
+0.0957	মোশারেফ	m O sh a r e ph	native	eph
+0.0957	মোশারেফা	m O sh a r e ph a	native	eph
+0.0957	রওসেফ	r o O sh e ph	native	eph
+0.0957	রুসেফ	r u sh e ph	native	eph
+0.0957	রেফারেল	r e ph a r e l o	native	eph
+0.0957	রেফায়া	r e ph a y a	native	eph
+0.0957	রোউসেফ	r O u sh e ph	native	eph
+0.0957	রোউসেফের	r O u sh e ph e r	native	eph
+0.0957	শেফা	sh e ph a	native	eph
+0.0957	শেফাউল	sh e ph a u l	native	eph
+0.0957	শেফাক	sh e ph a k	native	eph
+0.0957	শেফারত	sh e ph a r o t	native	eph
+0.0957	শেফালি	sh e ph a l i	native	eph
+0.0957	সিআরএফ	sh i a r e ph	native	eph
+0.0957	সিএসএফ	sh i e sh e ph	native	eph
+0.0957	সিএসএফের	sh i e sh e ph e r	native	eph
+0.0925	বেঢপ	b e Dh o p	native	beD
+0.0924	গেটআপ	g e T a p	native	geT
+0.0924	গেটআপে	g e T a p e	native	geT
+0.0924	করগেট	k o r g e T	native	geT
+0.0924	নাগেট	n a g e T	native	geT
+0.0924	নেগেটিভ	n e g e T i bh	native	geT
+0.0924	প্রিরোগেটিভ	pr i r O g e T i bh	native	geT
+0.0924	বলগেট	b o l g e T	native	geT
+0.0923	অবিশ্রান্ত	O b i s r a nt O	native	isra
+0.0923	পরিশ্রান্ত	p O r i s r a nt O	native	isra
+0.0923	পরিশ্রান্তি	p O r i s r a nt i	native	isra
+0.0923	বিশ্রান্ত	b i s r a nt O	native	isra
+0.0923	বিশ্রাম	b i s r a m	native	isra
+0.0923	বিশ্রামই	b i s r a m i	native	isra
+0.0923	বিশ্রামঘর	b i s r a m gh o r	native	isra
+0.0923	বিশ্রামটা	b i s r a m T a	native	isra
+0.0923	বিশ্রামরত	b i s r a m r o t o	native	isra
+0.0923	বিশ্রামহিন	b i s r a m h i n	native	isra
+0.0923	বিশ্রামাগার	b i s r a m a g a r	native	isra
+0.0923	বিশ্রামে	b i s r a m e	native	isra
+0.0923	বিশ্রামেই	b i s r a m e i	native	isra
+0.0923	বিশ্রামের	b i s r a m e r	native	isra
+0.0903	ছুটিটা	chh u T i T a	native	TiT
+0.0903	জুটিটা	j u T i T a	native	TiT
+0.0903	টিটু	T i T u	native	TiT
+0.0903	টিটুর	T i T u r	native	TiT
+0.0903	কোটিটাকা	k O T i T a k a	native	TiT
+0.0903	দৃশ্টিটা	d ri sh T i T a	tatsama	TiT
+0.0903	পেটিট	p e T i T	native	TiT
+0.0903	বৃশ্টিটা	b ri sh T i T a	tatsama	TiT

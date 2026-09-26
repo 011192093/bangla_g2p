@@ -1,0 +1,101 @@
+# word	frequency	predicted_register	model_prediction	VERIFICATION(correct/wrong)
+ও	10	unknown	O	
+বাংলাদেশের	6	unknown	b a ng l a d e sh e r	correct
+করে	4	unknown	k o r e	correct
+এই	4	unknown	e i i	wrong
+একটি	4	unknown	e k T i	 correct
+পরিবর্তন	3	unknown	p O r i b o r t O n	correct
+সাথে	3	unknown	s a th e	wrong
+বা	3	unknown	b a	correct
+ইতিহাসের	3	unknown	i t i h a s e r	 wrong
+সর্বশেষ	2	unknown	sh o r b O sh e sh	wrong
+খবর	2	unknown	kh o b O r	correct
+প্রধান	2	unknown	pr O dh a n	correct
+রাজ্য	2	unknown	r a j j O	correct
+অঞ্চলে	2	unknown	o nch ch l e	wrong
+যা	2	unknown	j a	correct
+অঞ্চলের	2	unknown	o nch ch e r	wrong
+ছিল	2	unknown	chh i l	wrong
+দুটি	2	unknown	d u T i	correct
+গঙ্গা	2	unknown	g o ngg a	correct
+ব্রহ্মপুত্র	2	unknown	br o h m O p u tr O	correct
+সম্পর্কিত	2	unknown	sh o mp O r k i t O	correct
+রূপরেখা	2	unknown	r u p r e kh a	correct
+আছে	2	unknown	a chh e	correct
+বাংলাদেশসহ	1	unknown	b a ng l a d e sh sh o h O	correct
+সারা	1	unknown	s a r a	wrong
+বিশ্বে	1	unknown	b i sh sh e	correct
+ঘটে	1	unknown	gh o T e	correct
+সকল	1	unknown	sh o k o l	correct
+নিউজ	1	unknown	n i u j	correct
+ভিডিও	1	unknown	bh i D i O	correct
+সংবাদ	1	unknown	sh o ng b a d	correct
+পেতে	1	unknown	p e t e	correct
+ভিজিট	1	unknown	bh i j i T	correct
+করুন	1	unknown	k O r u n	correct
+আলো	1	unknown	a l O	correct
+হওয়ার	1	unknown	h O O y a r	wrong
+থেকেই	1	unknown	th e k e i	correct
+বাঙালিরা	1	unknown	b a ng a l i r a	correct
+অত্যাচারের	1	unknown	O t t a ch a r e r correct	
+বিরুদ্ধে	1	unknown	b i r u d dh e	correct
+সংগ্রাম	1	unknown	sh o ng gr a m	correct
+চালিয়ে	1	unknown	ch a l i y e	correct
+এসেছিল	1	unknown	e s e s i l O	correct
+রাজ্যগুলির	1	unknown	r a j j A g u l i r	 wrong
+আইনি	1	unknown	a i n i	correct
+আঞ্চলিক	1	unknown	a nch ch l i k	wrong
+রাজনৈতিক	1	unknown	r a j n i t i k	wrong
+ঘটনাবলি	1	unknown	gh o T O n a b l i	wrong
+সমন্বিত	1	unknown	sh o m O n n i t O	correct
+মহান	1	unknown	m o h a n	correct
+আলেকজান্ডারের	1	unknown	a l e k j a n D a r e r	correct
+কেন্দ্রের	1	unknown	k e ndr e r	correct
+প্রমাণ	1	unknown	pr O m a n	correct
+রোমান	1	unknown	r O m a n	correct
+ভূগোলবিদরা	1	unknown	bh u g O l b i d r a	correct
+বন্দরের	1	unknown	b o nd O r e r	correct
+উল্লেখ	1	unknown	u l l e kh	correct
+মিলে	1	unknown	m i l e	 correct
+বন্দরটি	1	unknown	b o nd O r T i	correct
+সম্ভবত	1	unknown	sh o m bh o b O t	wrong
+উয়ারী	1	unknown	u a r i	correct
+বাণিজ্য	1	unknown	b a n i j j O	correct
+শাসনকারী	1	unknown	sh a sh O n k a r i	correct
+প্রাচীন	1	unknown	pr a ch i n	 correct
+বৌদ্ধ	1	unknown	b ou d dh O	correct
+হিন্দু	1	unknown	h i nd u	correct
+রাজ্যগুলোর	1	unknown	r a j j A g u l O r	 wrong
+এশিয়ার	1	unknown	e sh i y a r	correct
+যেখানে	1	unknown	j e kh a n e	correct
+বঙ্গোপসাগরে	1	unknown	b O ng g O p s a g r e	wrong
+মিশেছে	1	unknown	m i sh e chh e	correct
+সেখানেই	1	unknown	s e kh a n e i	correct
+কালের	1	unknown	k a l e r	correct
+পরিক্রমায়	1	unknown	p O r i kr O m a y	correct
+গড়ে	1	unknown	g o r e	correct
+ওঠা	1	unknown	O Th a	correct
+বঙ্গীয়	1	unknown	b O ngg i y O	correct
+ব	1	unknown	b o b	wrong
+মোহনা	1	unknown	m O h O n a	correct
+তারও	1	unknown	t a r O	correct
+যে	1	unknown	j e	correct
+জনগোষ্ঠীর	1	unknown	j o n O g O shTh i r	correct
+বসবাস	1	unknown	b o s b a s	wrong
+ই	1	unknown	i i	 wrong
+চড়াই	1	unknown	ch o r a i	correct
+উতরাই	1	unknown	u t O r a i	wrong
+পেরিয়ে	1	unknown	p e r i y e	correct
+এসে	1	unknown	e s e	wrong
+দাড়িয়েছে	1	unknown	d a r i e chh e	wrong
+বর্তমানের	1	unknown	b o r t O m a n e r	correct
+ভৌগোলিক	1	unknown	bh ou g O l i k	correct
+বিচারে	1	unknown	b i ch a r e	correct
+এ	1	unknown	e e	wrong
+পাতাটি	1	unknown	p a t a T i	correct
+বাঙালী	1	unknown	b a ng a l i	correct
+এমন	1	unknown	E m o n	correct
+উইকিপিডিয়ার	1	unknown	u i k i p i D i y a r	correct
+নিবন্ধের	1	unknown	n i b o ndh e r	correct
+তালিকা	1	unknown	t a l i k a	correct
+মাধ্যমে	1	unknown	m a d dh O m e	correct

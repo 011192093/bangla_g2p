@@ -1,0 +1,101 @@
+# word	frequency	predicted_register	model_prediction	VERIFICATION(correct/wrong)
+ও	8	unknown	O	
+প্রযুক্তি	5	unknown	pr O j u kt i	correct
+প্রকৌশল	5	unknown	pr O k ou sh o l	correct
+যা	4	unknown	j a	 correct
+করে	4	unknown	k o r e	correct
+একটি	3	unknown	e k T i	correct
+বিভিন্ন	3	unknown	b i bh i nn o	correct
+এটি	3	unknown	e T i	correct
+ওয়েব	3	unknown	O y e b	correct
+শুরু	3	unknown	sh u r u	correct
+প্রযুক্তিবিদ্যা	2	unknown	pr O j u kt i b i d d a	correct
+বৈজ্ঞানিক	2	unknown	b oi g g a n i k	correct
+বাংলাদেশে	2	unknown	b a ng l a d e sh e	correct
+রয়েছে	2	unknown	r O e e e	wrong
+বিজ্ঞানের	2	unknown	b i g g a n e r	correct
+বিপ্লব	2	unknown	b i p l O b	correct
+বিষয়	2	unknown	b i sh o y	correct
+তথ্যগুপ্তি	2	unknown	t O t th O g u p t i	correct
+সাইড	2	unknown	s a i D	correct
+পদার্থবিজ্ঞান	2	unknown	p o d a r th O b i g g a n	correct
+গবেষণার	2	unknown	g o b e sh O n a r	correct
+ব্যবহার	2	unknown	b A b O h a r	correct
+ক্ষেত্রে	2	unknown	kh e t r e	correct
+অনন্য	2	unknown	o n o n n O	correct
+হল	1	unknown	h o l	wrong
+একাডেমিক	1	unknown	e k a D e m i k	correct
+প্রযুক্তিবিদ্যার	1	unknown	pr O j u kt i b i d d a r	correct
+দিকগুলিকে	1	unknown	d i k g u l i k e	correct
+বেসরকারি	1	unknown	b e s r o k a r i	wrong
+যেখানে	1	unknown	j e kh a n e	correct
+আগেই	1	unknown	a g e i	correct
+এই	1	unknown	e i i	wrong
+বিষয়ে	1	unknown	b i sh o y e	correct
+গেছিল	1	unknown	g e chh i l O	correct
+কয়েকশত	1	unknown	k o y e k sh o t	wrong
+যন্ত্রের	1	unknown	j o n t r e r	correct
+মতবাদগুলির	1	unknown	m o t O b a d g u l i r	correct
+প্রয়োগ	1	unknown	pr o y O g	wrong
+ইত্যাদির	1	unknown	i t t a d i r	correct
+হিসাবে	1	unknown	h i sh a b e	correct
+প্রচলিত	1	unknown	pr O ch l i t	wrong
+মাধ্যমে	1	unknown	m a d dh O m e	correct
+পৃথিবীব্যাপী	1	unknown	p ri th i b i b A p i	correct
+বিরাট	1	unknown	b i r a T	correct
+শিল্পের	1	unknown	sh i l p e r	correct
+তৈরী	1	unknown	t oi r i	correct
+সমান্তরালভাবে	1	unknown	sh o m a nt O r a l bh a b e	wrong
+মেকানিকাল	1	unknown	m e k a n i k a l	correct
+শাখারও	1	unknown	sh a kh a r O	correct
+ঘটে	1	unknown	gh o T e	correct
+প্রধান	1	unknown	pr O dh a n	correct
+ছিল	1	unknown	chh i l	wrong
+তৎকালীন	1	unknown	t o t k a l i n	correct
+শিল্প	1	unknown	sh i l p O	correct
+ফরাসী	1	unknown	ph o r a sh i	correct
+বয়নশিল্পী	1	unknown	b o y n O sh i l p i	correct
+বয়নযন্ত্র	1	unknown	b o y n o j o n t r O	wrong
+কাজে	1	unknown	k a j e	correct
+লাগান	1	unknown	l a g a n	correct
+ছিদ্রযুক্ত	1	unknown	chh i d r O j u kt O	correct
+পাঞ্চড্	1	unknown	p a nch ch D	wrong
+কার্ড	1	unknown	k a r D	correct
+দিয়ে	1	unknown	d i y e	 correct
+চালিত	1	unknown	ch a l i t O	correct
+হত	1	unknown	h o t	wrong
+নিরাপত্তা	1	unknown	n i r a p o tt a	correct
+সম্পর্কিত	1	unknown	sh o mp O r k i t O	 correct
+যেমন	1	unknown	j e m o n	correct
+পাবলিক	1	unknown	p a b l i k	correct
+প্রাইভেট	1	unknown	pr a i bh e T	correct
+এ	1	unknown	e e	wrong
+অ্যালগোরিদমগুলির	1	unknown	A l g O r i d o m g u l i r	correct
+বাস্তবায়ন	1	unknown	b a st O b a y o n	correct
+ক্লায়েন্ট	1	unknown	kl a y e n T	correct
+স্ক্রিপ্ট	1	unknown	s k r i p T	correct
+প্রোটোকলসমূহ	1	unknown	pr O T O k o l s O m u h O	wr
+নির্মাণ	1	unknown	n i r m a n	 correct
+পূর্বকালে	1	unknown	p u r b O k a l e	correct
+দেশের	1	unknown	d e sh e r	 correct
+গণিত	1	unknown	g O n i t O	correct
+তড়িৎ	1	unknown	t O r i t	correct
+ইলেকট্রনিক্স	1	unknown	i l e k T r O n i k s	correct
+কৌশল	1	unknown	k ou sh o l	correct
+প্রভৃতি	1	unknown	pr O bh r i t i	correct
+বিষয়ের	1	unknown	b i sh o y e r	correct
+পাঠ্যক্রমে	1	unknown	p a Th Th O kr O m e	correct
+হার্ডওয়্যার	1	unknown	h a r D O y A r	 correct
+অন্তর্ভুক্তি	1	unknown	o nt O r bh u kt i	correct
+বেশিরভাগ	1	unknown	b e sh i r bh a g	correct
+ব্যবসায়	1	unknown	b A b sh a y correct	
+শিক্ষা	1	unknown	sh i kkh a	correct
+সমন্বয়ে	1	unknown	sh o m O n n e y e	wrong
+সাধারণ	1	unknown	s a dh a r o n	wrong
+উপর	1	unknown	u p o r	wrong
+থাকে	1	unknown	th a k e	correct
+স্কুলে	1	unknown	s k u l e	correct
+বিএস	1	unknown	b i e s	 correct
+কম্পিউটারের	1	unknown	k o mp i u T a r e r	correct
+কাজ	1	unknown	k a j	correct
+ব্যবসায়িক	1	unknown	b A b sh a y i k	correct

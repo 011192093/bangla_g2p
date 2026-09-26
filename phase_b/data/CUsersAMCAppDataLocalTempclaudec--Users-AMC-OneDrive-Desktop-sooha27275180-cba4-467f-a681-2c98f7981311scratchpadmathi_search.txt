@@ -1,0 +1,5 @@
+09ae 09cd 09af 09be 09a5 09bf 0989 || m A th i u || native
+09ae 09cd 09af 09be 09a5 09bf 0989 099c || m A th i u j || native
+09ae 09cd 09af 09be 09a5 09bf 0989 09b8 || m A th i u sh || proper_noun
+09ae 09cd 09af 09be 09a5 09bf 0989 09b8 09c7 09b0 || m A th i u sh e r || proper_noun
+09ae 09cd 09af 09be 09a5 09bf 09af 09bc 09be 09b8 || m A th i y a sh || proper_noun

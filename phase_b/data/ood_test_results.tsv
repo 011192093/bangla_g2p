@@ -1,0 +1,101 @@
+# word	frequency_in_text	model_prediction	YOUR_VERIFICATION(correct/wrong)
+ও	10	O	
+বাংলাদেশ	8	b a ng l a d e sh	correct
+বাংলাদেশের	6	b a ng l a d e sh e r	 correct
+করে	4	k o r e	correct
+এই	4	e i i	wrong- ei
+একটি	4	e k T i	correct
+বাংলা	4	b a ng l a	correct
+আজকের	3	a j k e r	correct
+গুরুত্বপূর্ণ	3	g u r u tt O p u r n O	correct
+এবং	3	e b O ng	 correct
+পরিবর্তন	3	p O r i b o r t O n	correct
+সাথে	3	s a th e	correct
+বা	3	b a	 correct
+ইতিহাসের	3	i t i h a s e r	wrong itihasher
+সর্বশেষ	2	sh o r b O sh e sh	correct
+খবর	2	kh o b O r	correct
+নতুন	2	n O t u n	 correct
+প্রধান	2	pr O dh a n	correct
+পাকিস্তান	2	p a k i st a n	correct
+পর	2	p o r	 correct
+রাজ্য	2	r a j j O	correct
+অঞ্চলে	2	o nch ch l e	wrong- onchole
+যা	2	j a	correct
+অঞ্চলের	2	o nch ch e r	wrong oncholer
+ছিল	2	chh i l	 wrong- chhilO
+ইতিহাস	2	i t i h a s	wrong- itihash
+দক্ষিণ	2	d O kkh i n	correct
+দুটি	2	d u T i	correct
+গঙ্গা	2	g o ngg a	correct
+ব্রহ্মপুত্র	2	br o h m O p u tr O	correct
+হাজার	2	h a j a r	correct
+পূর্ব	2	p u r b O	 correct
+সম্পর্কিত	2	sh o mp O r k i t O	 correct
+রূপরেখা	2	r u p r e kh a	correct
+স্বাধীনতা	2	sh a dh i n o t a	correct
+আছে	2	a chh e	correct
+বিভাগ	2	b i bh a g	correct
+পরিসংখ্যান	2	p O r i sh o ng kh A n	wrong- pOrishonkhan
+বাংলাদেশসহ	1	b a ng l a d e sh sh o h O	correct
+সারা	1	s a r a	wrong shara
+বিশ্বে	1	b i sh sh e	correct
+ঘটে	1	gh o T e	correct
+যাওয়া	1	j a O y a	correct
+সকল	1	sh o k o l	wrong shokOl
+ব্রেকিং	1	br e k i ng	correct
+নিউজ	1	n i u j	correct
+ছবি	1	chh O b i	correct
+ভিডিও	1	bh i D i O	correct
+প্রতিবেদন	1	pr O t i b e d o n	correct
+সংবাদ	1	sh o ng b a d	correct
+শিরোনাম	1	sh i r O n a m	correct
+পেতে	1	p e t e	correct
+ভিজিট	1	bh i j i T	correct
+করুন	1	k O r u n	correct
+প্রথম	1	pr O th O m	correct
+আলো	1	a l O	correct
+হওয়ার	1	h O O y a r	wrong-hoyar
+থেকেই	1	th e k e i	correct
+বাঙালিরা	1	b a ng a l i r a	correct
+রাষ্ট্রের	1	r a s T r e r	correct
+শোষণ	1	sh O sh O n	correct
+অত্যাচারের	1	O t t a ch a r e r	correct
+বিরুদ্ধে	1	b i r u d dh e	correct
+সংগ্রাম	1	sh o ng gr a m	correct
+আন্দোলন	1	a nd O l O n	correct
+চালিয়ে	1	ch a l i y e	correct
+এসেছিল	1	e s e s i l O	correct
+পূর্ববর্তী	1	p u r b O b O r t i	correct
+রাজ্যগুলির	1	r a j j A g u l i r	correct
+আইনি	1	a i n i	correct
+আঞ্চলিক	1	a nch ch l i k	 wrong- anchOlik
+রাজনৈতিক	1	r a j n i t i k	wrong- rajnoitik
+ঘটনাবলি	1	gh o T O n a b l i	wrong- ghotOnabOli
+সমন্বিত	1	sh o m O n n i t O	correct
+মহান	1	m o h a n	correct
+আলেকজান্ডারের	1	a l e k j a n D a r e r	correct
+কেন্দ্রের	1	k e ndr e r	correct
+অস্তিত্ব	1	O st i tt O	correct
+প্রমাণ	1	pr O m a n	correct
+রোমান	1	r O m a n	correct
+ভূগোলবিদরা	1	bh u g O l b i d r a	correct
+বড়	1	b o r	correct
+বন্দরের	1	b o nd O r e r	correct
+অস্তিত্বের	1	O st i tt e r	correct
+কথা	1	k o th a	correct
+উল্লেখ	1	u l l e kh	correct
+চট্টগ্রাম	1	ch o T T O gr a m	correct
+মিলে	1	m i l e	correct
+যায়	1	j a y	correct
+বন্দরটি	1	b o nd O r T i	correct
+সম্ভবত	1	sh o m bh o b O t	wrong shombhObOtO
+উয়ারী	1	u a r i	correct
+বটেশ্বর	1	b o T e sh sh o r	correct
+যুক্ত	1	j u kt O	correct
+বাণিজ্য	1	b a n i j j O	correct
+কেন্দ্র	1	k e ndr O	correct
+বাংলাদেশকে	1	b a ng l a d e sh k e	correct
+শাসনকারী	1	sh a sh O n k a r i	correct
+প্রাচীন	1	pr a ch i n	correct
+বৌদ্ধ	1	b ou d dh O	correct

@@ -1,0 +1,100 @@
+# word	frequency	predicted_register	model_prediction	VERIFICATION(correct/wrong)
+আজকে	3	unknown	a j k e	correct
+দেরি	3	unknown	d e r i	correct
+আর	3	unknown	a r	correct
+করে	3	unknown	k o r e	correct
+তো	3	unknown	t O	correct
+আছে	3	unknown	a chh e	correct
+সকালে	2	unknown	sh o k a l e	correct
+রাতে	2	unknown	r a t e	correct
+একসাথে	2	unknown	e k s a th e	correct
+যাই	2	unknown	j a i	correct
+লাগবে	2	unknown	l a g b e	correct
+তোমার	2	unknown	t O m a r	correct
+ভালোই	2	unknown	bh a l O i	correct
+একটা	2	unknown	E k T a	correct
+এই	2	unknown	e i i	wrong
+আসতে	2	unknown	a sh t e	correct
+অপেক্ষা	2	unknown	o p e kkh a	correct
+উঠতে	1	unknown	u Th t e	correct
+গেল	1	unknown	g e l	wrong
+বললেন	1	unknown	b O l l e n	correct
+তাড়াতাড়ি	1	unknown	t a r a t a r i	correct
+ওঠো	1	unknown	O Th O	correct
+ঘুমাই	1	unknown	gh u m a i	correct
+ঘুমিয়েছিলাম	1	unknown	gh u m i e chh i l a m correct	
+তোমাকে	1	unknown	t O m a k e	correct
+ফোন	1	unknown	ph O n	correct
+ধরলে	1	unknown	dh O r l e	correct
+ফোনটা	1	unknown	ph O n T a	correct
+সাইলেন্ট	1	unknown	s a i l e n T	correct
+ছিল	1	unknown	chh i l	 wrong
+করিনি	1	unknown	k O r i n i	correct
+দেখলাম	1	unknown	d e kh l a m correct	
+ভাবলাম	1	unknown	bh a b l a m correct	
+ব্যাক	1	unknown	b A k	correct
+চল	1	unknown	ch o l	correct
+বিকেলে	1	unknown	b i k e l e	correct
+বাজারে	1	unknown	b a j a r e	correct
+বানিয়ে	1	unknown	b a n i e e	wrong
+ফেলি	1	unknown	ph e l i correct	
+সবজি	1	unknown	sh o b j i	correct
+নিতে	1	unknown	n i t e	correct
+ওহ্	1	unknown	O h	correct
+মাছও	1	unknown	m a chh O	correct
+ভুলেই	1	unknown	bh u l e i	correct
+গিয়েছিলাম	1	unknown	g i e chh i l a m	 wrong
+হলো	1	unknown	h o l O	wrong
+হয়েছে	1	unknown	h e e chh e	 wrong
+মনে	1	unknown	m o n e	 wrong
+তবে	1	unknown	t o b e	correct
+প্রশ্ন	1	unknown	pr O sh n O	 correct
+বুঝিনি	1	unknown	b u jh i n i	correct
+রেজাল্ট	1	unknown	r e j a l T	correct
+শোনো	1	unknown	sh O n O	correct
+আগামীকাল	1	unknown	a g a m i k a l	correct
+আমাদের	1	unknown	a m a d e r	correct
+প্ল্যান	1	unknown	p l A n	correct
+পারবে	1	unknown	p a r b e	correct
+যাচ্ছ	1	unknown	j a ch chh chh wrong	
+ভাবছি	1	unknown	bh a b chh i correct	
+নদীর	1	unknown	n O d i r	correct
+বেড়াতে	1	unknown	b e r a t e	wrong
+যাব	1	unknown	j a b	wrong
+সাথে	1	unknown	s a th e	wrong
+খাওয়াদাওয়াও	1	unknown	kh a O y a d a O y a O	correct
+আবহাওয়াটা	1	unknown	a b h a O y a T a	correct
+বোধহয়	1	unknown	b O dh h o y	correct
+নিয়ে	1	unknown	n i y e	correct
+বের	1	unknown	b e r	correct
+হয়ো	1	unknown	h o y O	wrong
+ভিজে	1	unknown	bh i j e correct	
+যেয়ো	1	unknown	j e y O	correct
+ঠিক	1	unknown	Th i k	correct
+সাবধানে	1	unknown	s a b dh a n e	correct
+থেকো	1	unknown	th e k O	correct
+অফিস	1	unknown	o ph i s	correct
+হচ্ছে	1	unknown	h O ch chh e	correct
+রাস্তায়	1	unknown	r a st a y	correct
+খুব	1	unknown	kh u b	correct
+খাওয়ার	1	unknown	kh a O y a r	correct
+শুরু	1	unknown	sh u r u	correct
+করি	1	unknown	k O r i	correct
+উনি	1	unknown	u n i	correct
+আসতেই	1	unknown	a sh t e i	correct
+যাবে	1	unknown	j a b e	correct
+চাকরিটা	1	unknown	ch a k r i T a	correct
+মানিয়ে	1	unknown	m a n i y e	correct
+নিয়েছি	1	unknown	n i e chh i	wrong
+সহকর্মীরা	1	unknown	sh o h O k O r m i r a	correct
+বেশ	1	unknown	b e sh	correct
+সাহায্য	1	unknown	s a h a j j O	correct
+চলো	1	unknown	ch o l O	correct
+কোন	1	unknown	k O n	correct
+সিনেমাটা	1	unknown	s i n e m a T a	correct
+দেখবে	1	unknown	d e kh b e	correct
+যেটা	1	unknown	j e T a	correct
+এসেছে	1	unknown	e s e chh e	 wrong
+সেটা	1	unknown	s e T a	wrong
+যাক	1	unknown	j a k	correct
+পেয়েছে	1	unknown	p e y e chh e correct	

@@ -2,6 +2,8 @@
 Bangla Rule-Based G2P Engine
 """
 
+import json
+import os
 import unicodedata
 from typing import List
 from phoneme_inventory import (
@@ -9,6 +11,23 @@ from phoneme_inventory import (
     HASANTA, CHANDRABINDU, DIACRITIC_PHONEMES, classify_char,
     YA_PHALA_INHERENT_A, SONORANT_CONSONANTS, ANUSVARA,
 )
+
+# --- Trained local-context schwa lookup table ---
+# Built from a skeleton-alignment pass over the full hand-corrected
+# lexicon: for every bare single-consonant "schwa slot", the 4-grapheme
+# left/right context predicts keep-vs-delete and, if kept, open "o" vs
+# closed "O" -- no phonetic features, just raw grapheme context with
+# frequency-count backoff (n=4..0 chars each side). Measured against the
+# lexicon: ~78% joint accuracy, vs. ~54% for the pure rule-based
+# heuristic it replaces for this case. See _schwa_decision() below.
+_SCHWA_TABLES_PATH = os.path.join(os.path.dirname(__file__), "schwa_context_tables.json")
+try:
+    with open(_SCHWA_TABLES_PATH, encoding="utf-8") as _f:
+        _SCHWA_TABLES = json.load(_f)
+except OSError:
+    _SCHWA_TABLES = None
+
+_SCHWA_KEY_SEP = "\u0001"
 
 KHANDA_TA = "\u09CE"
 
@@ -223,6 +242,77 @@ def _next_cluster_is_consonant(clusters: List[Cluster], idx: int) -> bool:
     return False
 
 
+YA_NUKTA = "য়"  # য়
+
+
+def _is_bare_ro_fola(cluster: Cluster) -> bool:
+    # Any consonant(+consonant...)+র conjunct (্র, "ro-fola") carrying its
+    # inherent vowel bare -- অগ্র, শ্রমিক, রাষ্ট্র's ষ্ট্র, ইত্যাদি.
+    return len(cluster.consonants) >= 2 and cluster.consonants[-1] == "র"
+
+
+def _next_is_bare_ya(clusters: List[Cluster], idx: int) -> bool:
+    # True if the cluster right after idx is a bare য় (no vowel sign of
+    # its own) -- ক্রয় "kroy", not "krOy". Confirmed exception to the
+    # ro-fola-is-always-O rule below.
+    next_j = _next_real_cluster_idx(clusters, idx)
+    if next_j is None:
+        return False
+    next_c = clusters[next_j]
+    if next_c.consonants != [YA_NUKTA]:
+        return False
+    return next_c.vowel_sign is None or next_c.vowel_sign == "__NONE__"
+
+
+def _cluster_offsets(clusters: List[Cluster]) -> List[int]:
+    # Character offset (into the preprocessed word text) of each
+    # cluster's first grapheme -- used to slice the left/right context
+    # windows the schwa lookup table was trained on. Mirrors exactly how
+    # the training script (schwa_context_experiment.py) computed offsets.
+    offsets = []
+    pos = 0
+    for c in clusters:
+        offsets.append(pos)
+        if getattr(c, "_passthrough", None) is not None:
+            pos += 1
+            continue
+        pos += len(c.consonants)
+        if c.vowel_sign not in (None, "__NONE__"):
+            pos += 1
+    return offsets
+
+
+def _schwa_table_predict(table_by_n, left: str, right: str, default: str) -> str:
+    if table_by_n is None:
+        return default
+    for n in (4, 3, 2, 1, 0):
+        tbl = table_by_n.get(str(n))
+        if not tbl:
+            continue
+        left_n = left[-n:] if n > 0 else ""
+        right_n = right[:n] if n > 0 else ""
+        counts = tbl.get(left_n + _SCHWA_KEY_SEP + right_n)
+        if counts:
+            total = sum(counts.values())
+            if n == 0 or total >= 3 or n <= 1:
+                return max(counts.items(), key=lambda kv: kv[1])[0]
+    return default
+
+
+def _schwa_table_decision(text: str, offsets: List[int], idx: int):
+    # Returns 'DEL', 'KEEP_O', or 'KEEP_o' from the trained context
+    # table, or None if the table isn't loaded.
+    if _SCHWA_TABLES is None:
+        return None
+    left = text[max(0, offsets[idx] - 4):offsets[idx]]
+    right_start = offsets[idx] + 1
+    right = text[right_start:right_start + 4]
+    stage1 = _schwa_table_predict(_SCHWA_TABLES["stage1"], left, right, "DEL")
+    if stage1 == "DEL":
+        return "DEL"
+    return _schwa_table_predict(_SCHWA_TABLES["stage2"], left, right, "KEEP_o")
+
+
 # --- Schwa deletion algorithm ---
 # Decides whether a bare consonant cluster's inherent vowel (অ) is
 # present at all. This replaces the old _next_cluster_is_consonant
@@ -331,7 +421,67 @@ def _schwa_should_keep(clusters: List[Cluster], idx: int) -> bool:
     return is_word_final(clusters, idx + 1)
 
 
-def cluster_to_phonemes(cluster: Cluster, clusters: List[Cluster], idx: int) -> List[str]:
+def _schwa_decision(clusters: List[Cluster], idx: int, text: str = None,
+                     offsets: List[int] = None) -> str:
+    """Decide a bare cluster's inherent vowel: 'DEL', 'KEEP_O', or 'KEEP_o'.
+
+    For a bare SINGLE consonant with text/offsets available, prefer the
+    trained local-grapheme-context lookup table above (~78% joint
+    accuracy against the hand-corrected lexicon). Conjunct clusters, and
+    any case the table has no coverage for, fall back to the original
+    rule-based algorithm (_schwa_should_keep + the ro-fola/word-final-
+    conjunct/harmony rules), which measured ~54% on the same cases.
+    """
+    cluster = clusters[idx]
+
+    # Hard override: a bare single consonant immediately before a
+    # WORD-FINAL bare single consonant always keeps its schwa (Bangla
+    # phonotactics need a linking vowel there -- শ্যালক "shalok", লবণ
+    # "lobon", উৎসব "utshob", বিষয় "bishoy") -- near-categorical, no
+    # known exceptions, and under-represented enough in the lexicon's
+    # own schwa-slot training data that the table alone sometimes misses
+    # it (e.g. বিষয়, which isn't even in the lexicon to have been
+    # trained on). Table still picks O-vs-o quality when it has an
+    # opinion; this only forces KEEP over DEL.
+    next_c = _next_real_cluster(clusters, idx)
+    force_keep = (
+        len(cluster.consonants) == 1
+        and next_c is not None
+        and len(next_c.consonants) == 1
+        and (next_c.vowel_sign is None or next_c.vowel_sign == "__NONE__")
+        and is_word_final(clusters, idx + 1)
+    )
+
+    if len(cluster.consonants) == 1 and text is not None and offsets is not None:
+        decision = _schwa_table_decision(text, offsets, idx)
+        if decision is not None:
+            if decision == "DEL" and force_keep:
+                # table wanted to delete but the linking-vowel constraint
+                # forbids that -- ask it for O-vs-o quality instead
+                if _SCHWA_TABLES is not None:
+                    left = text[max(0, offsets[idx] - 4):offsets[idx]]
+                    right = text[offsets[idx] + 1:offsets[idx] + 5]
+                    decision = _schwa_table_predict(_SCHWA_TABLES["stage2"], left, right, "KEEP_o")
+                else:
+                    decision = "KEEP_o"
+            return decision
+
+    # --- fallback: original rule-based algorithm ---
+    if not _schwa_should_keep(clusters, idx):
+        return "DEL"
+    if _is_bare_ro_fola(cluster) and not _next_is_bare_ya(clusters, idx):
+        return "KEEP_O"
+    if is_word_final(clusters, idx) and len(cluster.consonants) > 1:
+        return "KEEP_O"
+    if (len(cluster.consonants) == 1
+            and (_next_syllable_triggers_harmony(clusters, idx)
+                 or _penultimate_sonorant_triggers(clusters, idx))):
+        return "KEEP_O"
+    return "KEEP_o"
+
+
+def cluster_to_phonemes(cluster: Cluster, clusters: List[Cluster], idx: int,
+                         text: str = None, offsets: List[int] = None) -> List[str]:
     phonemes: List[str] = []
 
     if getattr(cluster, "_passthrough", None) is not None:
@@ -482,7 +632,7 @@ def cluster_to_phonemes(cluster: Cluster, clusters: List[Cluster], idx: int) -> 
         # O) below instead of a forced "a".
         phonemes.append("A")
     elif (cluster.vowel_sign is None and cluster.trailing_diacritic == ANUSVARA
-            and not _schwa_should_keep(clusters, idx)):
+            and _schwa_decision(clusters, idx, text, offsets) == "DEL"):
         # Anusvara nasalizes and closes the preceding inherent vowel, even
         # in positions that would otherwise drop it entirely. ং isn't its
         # own cluster (it's a trailing diacritic on this one), so a bare
@@ -491,24 +641,13 @@ def cluster_to_phonemes(cluster: Cluster, clusters: List[Cluster], idx: int) -> 
         # nasalized vowel here regardless of position (এবং "æbOng", not
         # "æbng"; অহংকার "ohOngkar", not "ohngkar").
         phonemes.append("O")
-    elif _schwa_should_keep(clusters, idx):
-        if is_word_final(clusters, idx) and len(cluster.consonants) > 1:
-            # Word-final retained schwa is always the closed sound for a
-            # conjunct: রক্ত "rokto", বিশ্ব "bishsho", not the open "aw".
-            # There's no following syllable to check for harmony here, so
-            # this is checked ahead of that logic. A single consonant only
-            # reaches this branch (schwa kept AND word-final) via the
-            # word-initial rule on a monosyllable -- রং, ঢং -- which stays
-            # open ("rong", not "rOng"), so it falls through to the
-            # harmony check below like any other bare consonant instead.
+    else:
+        decision = _schwa_decision(clusters, idx, text, offsets)
+        if decision == "KEEP_O":
             phonemes.append("O")
-        elif (len(cluster.consonants) == 1
-                and (_next_syllable_triggers_harmony(clusters, idx)
-                     or _penultimate_sonorant_triggers(clusters, idx))):
-            phonemes.append("O")
-        else:
+        elif decision == "KEEP_o":
             phonemes.append("o")
-    # else: schwa deletion algorithm says drop -- append nothing
+        # DEL -> append nothing
 
     if cluster.nasalized:
         if phonemes:
@@ -523,6 +662,7 @@ def cluster_to_phonemes(cluster: Cluster, clusters: List[Cluster], idx: int) -> 
 def text_to_phonemes(text: str) -> List[str]:
     text = preprocess(text)   # normalize + fix nukta sequences
     clusters = segment_clusters(text)
+    offsets = _cluster_offsets(clusters)
     result: List[str] = []
     for idx, cluster in enumerate(clusters):
         if getattr(cluster, "_passthrough", None) is not None:
@@ -530,16 +670,16 @@ def text_to_phonemes(text: str) -> List[str]:
             if ch.isspace():
                 result.append("|")
             continue
-        result.extend(cluster_to_phonemes(cluster, clusters, idx))
+        result.extend(cluster_to_phonemes(cluster, clusters, idx, text, offsets))
     return result
 
 
 if __name__ == "__main__":
     tests = [
         ("আমরা",      ["a","m","r","a"]),
-        ("তোমরা",     ["t","o","m","r","a"]),
+        ("তোমরা",     ["t","O","m","r","a"]),  # confirmed against lexicon.tsv: "t O m r a"
         ("সকাল",      ["sh","o","k","a","l"]),
-        ("করছি",      ["k","o","r","chh","i"]),
+        ("করছি",      ["k","O","r","chh","i"]),  # confirmed against lexicon.tsv: "k O r chh i"
         ("কম",        ["k","o","m"]),
         ("বাংলা",     ["b","a","ng","l","a"]),
         ("জ্ঞান",     ["g","y","a","n"]),
