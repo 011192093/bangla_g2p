@@ -1,24 +1,3 @@
-"""
-Phase B — Compare Neural Model vs Phase A Rule Engine
-========================================================
-Runs both your Phase A rule engine (g2p_engine.py) and the trained
-Phase B neural model on the SAME held-out validation words, and
-reports which one gets closer to the lexicon ground truth.
-
-This produces the key comparison table for your paper:
-    "Phase A rules: X% word-exact-match on held-out words"
-    "Phase B neural: Y% word-exact-match on held-out words"
-
-IMPORTANT: point --g2p_src_dir at your actual bangla_g2p/src folder
-so this script can import your real text_to_phonemes function.
-
-Usage:
-    python compare_with_engine.py \
-        --checkpoint ../checkpoints/best_model.pt \
-        --lexicon ../data/lexicon.tsv \
-        --g2p_src_dir /path/to/bangla_g2p/src
-"""
-
 import sys
 import os
 import argparse
@@ -37,6 +16,9 @@ def main():
     parser.add_argument("--seed", type=int, default=42)
     parser.add_argument("--g2p_src_dir", type=str, default=None,
                          help="Path to your Phase A src/ folder containing g2p_engine.py")
+    parser.add_argument("--dump_comparison", type=str, default=None,
+                         help="If set, writes word/gold/rule_pred/neural_pred to this TSV file,"
+                              " one row per held-out word, for the ensemble selector.")
     args = parser.parse_args()
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -46,7 +28,6 @@ def main():
     _, val_entries = train_val_split(entries, args.val_ratio, args.seed)
     print(f"Evaluating on {len(val_entries)} held-out words (never seen in training)\n")
 
-    # Try to import the real rule engine if a path was given
     text_to_phonemes = None
     if args.g2p_src_dir:
         sys.path.insert(0, args.g2p_src_dir)
@@ -94,6 +75,18 @@ def main():
             neither_correct += 1
 
         rows.append((word, register, gold_phonemes, rule_pred, rule_ok, neural_pred, neural_ok))
+
+    # ---- NEW: write the per-word comparison file the selector needs ----
+    if args.dump_comparison:
+        n_written = 0
+        with open(args.dump_comparison, "w", encoding="utf-8") as f:
+            f.write("# word\tgold\trule_pred\tneural_pred\n")
+            for word, register, gold, rule_pred, rule_ok, neural_pred, neural_ok in rows:
+                if rule_pred is None:
+                    continue  # no rule engine was loaded; nothing to compare
+                f.write(f"{word}\t{' '.join(gold)}\t{' '.join(rule_pred)}\t{' '.join(neural_pred)}\n")
+                n_written += 1
+        print(f"Wrote {n_written} rows to {args.dump_comparison}\n")
 
     n = len(val_entries)
     print(f"{'Word':<15}{'Register':<20}{'Gold':<25}{'Rule':<8}{'Neural':<8}")

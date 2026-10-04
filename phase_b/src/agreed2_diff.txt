@@ -1,0 +1,188 @@
+1,4c1,4
+< এডওয়ার্ডস	e D O y a r D o s	proper_noun
+< এডওয়ার্ডসকে	e D O y a r D o s k e	proper_noun
+< এডওয়ার্ডসের	e D O y a r D O sh e r	proper_noun
+< এডমুন্ড	E D m u n D	proper_noun
+---
+> এডওয়ার্ডস	e D O y a r D s	proper_noun
+> এডওয়ার্ডসকে	e D O y a r D s k e	proper_noun
+> এডওয়ার্ডসের	e D O y a r D s e r	proper_noun
+> এডমুন্ড	e D m u n D	proper_noun
+8c8
+< এতদসত্ত্বেও	E t d sh t t e O	tatsama
+---
+> এতদসত্ত্বেও	E t O d o sh o t t e O	tatsama
+15c15
+< এমফেলার	e m ph E l a r	loanword
+---
+> এমফেলার	e m ph e l a r	loanword
+19c19
+< এসিডসংক্রান্ত	e s i D s o ng k r a n t	loanword
+---
+> এসিডসংক্রান্ত	e s i D s o ng k r a n t O	loanword
+23,24c23,24
+< এসেই	e s e i	loanword
+< এসেক্সের	e s e k s O e r	loanword
+---
+> এসেই	e sh e i	native
+> এসেক্সের	e s e k s e r	loanword
+27c27
+< এস্ক্রো	e s k r	loanword
+---
+> এস্ক্রো	e s k r	O loanword
+32c32
+< কেব্লস	k E bl o s	loanword
+---
+> কেব্লস	k e bl o s	loanword
+68c68
+< গ্রেপ্তারসংক্রান্ত	gr e p t a r s o ng k r a n t	loanword
+---
+> গ্রেপ্তারসংক্রান্ত	gr e p t a r s o ng k r a n t O	loanword
+95,96c95,96
+< টেম্পো	T e mp	loanword
+< টেম্পোস্ট্যান্ড	T E mp O s T A n d	loanword
+---
+> টেম্পো	T e mp O	loanword
+> টেম্পোস্ট্যান্ড	T e mp O s T A n d	loanword
+112c112
+< ট্রেঞ্চলেস	T r e nch O l e s	loanword
+---
+> ট্রেঞ্চলেস	T r e nch l e s	loanword
+125c125
+< ডেমেজ	D e m e j O	loanword
+---
+> ডেমেজ	D e m e j 	loanword
+139c139
+< তেরবৃহস্পতিবারে	t E r b ri h o s p O t i b a r e	loanword
+---
+> তেরবৃহস্পতিবারে	t E r O b ri h O sh p O t i b a r e	loanword
+156c156
+< দেহভস্ম	d e h bh o sh sh	loanword
+---
+> দেহভস্ম	d e h bh o sh sh O	loanword
+159c159
+< নেতৃত্ববিশয়ক	n e t ri tt b i sh o y O k	tatsama
+---
+> নেতৃত্ববিশয়ক	n e t ri tt O b i sh o y O k	tatsama
+162c162
+< পেট্রলের	p E T r o l e r	loanword
+---
+> পেট্রলের	p e T r o l e r	loanword
+164,166c164,166
+< পেনশনের	p E n sh O n e r	loanword
+< পেনসন	p E n s O n	loanword
+< পেনসিল	p E n s i l	loanword
+---
+> পেনশনের	p e n sh o n e r	loanword
+> পেনসন	p e n sh o n	loanword
+> পেনসিল	p e n s i l	loanword
+170,171c170,171
+< প্রেক্ষাগৃহ	pr E kkh a g r i h O	tatsama
+< প্রেক্ষাগৃহের	pr E kkh a g r i h O e r	tatsama
+---
+> প্রেক্ষাগৃহ	pr e kkh a g r i h O	tatsama
+> প্রেক্ষাগৃহের	pr e kkh a g r i h e r	tatsama
+180,181c180,181
+< প্রেসক্রিপশন	pr e s kr i p sh O n	loanword
+< প্রেসক্রিপশনে	pr e s kr i p sh O n e	loanword
+---
+> প্রেসক্রিপশন	pr e s kr i p sh o n	loanword
+> প্রেসক্রিপশনে	pr e s kr i p sh o n e	loanword
+186,187c186,187
+< প্রেসিডেন্টই	pr e s i D e n T o i	loanword
+< প্রেসিডেন্টও	pr e s i D e n T o O	loanword
+---
+> প্রেসিডেন্টই	pr e s i D e n T i	loanword
+> প্রেসিডেন্টও	pr e s i D e n T O	loanword
+198c198
+< প্লেস্টেশনের	p l e s T e sh O n e r	loanword
+---
+> প্লেস্টেশনের	p l e s T e sh o n e r	loanword
+200c200
+< ফেঞ্চুগঞ্জের	ph e nch u g o nj O e r	tatsama
+---
+> ফেঞ্চুগঞ্জের	ph e nch u g o nj e r	tatsama
+202,203c202,203
+< ফেব্রিকস	ph e br i k o s	loanword
+< ফেব্রিকসের	ph e br i k o sh e r	loanword
+---
+> ফেব্রিকস	ph e br i k s	loanword
+> ফেব্রিকসের	ph e br i k s e r	loanword
+208c208
+< ফেলো	ph e l O	loanword
+---
+> ফেলো	ph E l O	loanword
+218,219c218,219
+< ফ্রেন্ডলিস্ট	ph r e n D O l i s T	loanword
+< বেকারত্বসহ	b e k a r o tt sh o h O	tatsama
+---
+> ফ্রেন্ডলিস্ট	ph r e n D l i s T	loanword
+> বেকারত্বসহ	b e k a r o tt O sh o h O	tatsama
+227c227
+< বেস্টের	b e sh T e r	loanword
+---
+> বেস্টের	b e s T e r	loanword
+233,237c233,237
+< ভেঞ্চারস	bh e nch a r o s	loanword
+< ভেদরগঞ্জে	bh e d r g o nj O e	tatsama
+< মেক্সিকোতে	m E k s i k O t e	loanword
+< মেক্সিকোর	m E k s i k O r	loanword
+< মেগাসিটির	m E g a s i T i r	loanword
+---
+> ভেঞ্চারস	bh e nch a r s	loanword
+> ভেদরগঞ্জে	bh e d r g o nj e	tatsama
+> মেক্সিকোতে	m e k s i k O t e	loanword
+> মেক্সিকোর	m e k s i k O r	loanword
+> মেগাসিটির	m e g a s i T i r	loanword
+240c240
+< মেমফিস	m E m ph i s	loanword
+---
+> মেমফিস	m e m ph i s	loanword
+252,253c252,253
+< মেহেন্দিগঞ্জে	m e h e nd i g o nj O e	tatsama
+< মেহেন্দিগঞ্জের	m e h e nd i g o nj O e r	tatsama
+---
+> মেহেন্দিগঞ্জে	m e h e nd i g o nj e	tatsama
+> মেহেন্দিগঞ্জের	m e h e nd i g o nj e r	tatsama
+258,259c258,259
+< রেঞ্জসংলগ্ন	r e nj s O ng l O g n	loanword
+< রেঞ্জারসের	r e nj a r o sh e r	loanword
+---
+> রেঞ্জসংলগ্ন	r e nj sh o ng l o g n O	loanword
+> রেঞ্জারসের	r e nj a r s e r	loanword
+263c263
+< রেলক্রসিংয়ের	r E l o kr s i ng y e r	loanword
+---
+> রেলক্রসিংয়ের	r e l kr o s i ng y e r	loanword
+311c311
+< সেগা	s E g a	proper_noun
+---
+> সেগা	s e g a	proper_noun
+314,320c314,320
+< সেনকাকু	s E n k a k u	proper_noun
+< সেনগুপ্ত	s E n g u p t	proper_noun
+< সেনগুপ্তও	s E n g u p t o O	proper_noun
+< সেনগুপ্তকে	s E n g u p t k e	proper_noun
+< সেনগুপ্তর	s E n g u p t o r	proper_noun
+< সেনগুপ্তসহ	s E n g u p t O sh o h O	proper_noun
+< সেনদাই	s E n d a i	proper_noun
+---
+> সেনকাকু	sh e n k a k u	proper_noun
+> সেনগুপ্ত	sh e n g u p t O	proper_noun
+> সেনগুপ্তও	sh e n g u p t O	proper_noun
+> সেনগুপ্তকে	sh e n g u p t O k e	proper_noun
+> সেনগুপ্তর	sh e n g u p t O r	proper_noun
+> সেনগুপ্তসহ	sh e n g u p t O sh o h O	proper_noun
+> সেনদাই	s e n d a i	proper_noun
+323,327c323,327
+< সেনসর	s E n s O r	loanword
+< সেনসরের	sh e n s o r e r	loanword
+< সেনসাস	s E n s a s	loanword
+< সেনসেক্স	s E n s e k s	proper_noun
+< সেনহাটি	s E n h a T i	proper_noun
+---
+> সেনসর	s e n s O r	loanword
+> সেনসরের	s e n s o r e r	loanword
+> সেনসাস	s e n s a s	loanword
+> সেনসেক্স	s e n s e k s	proper_noun
+> সেনহাটি	sh e n h a T i	proper_noun
