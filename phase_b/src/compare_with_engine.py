@@ -19,13 +19,15 @@ def main():
     parser.add_argument("--dump_comparison", type=str, default=None,
                          help="If set, writes word/gold/rule_pred/neural_pred to this TSV file,"
                               " one row per held-out word, for the ensemble selector.")
+    parser.add_argument("--eval_file", type=str, default=None)
     args = parser.parse_args()
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     model, vocabs = load_model(args.checkpoint, device)
 
-    entries = load_lexicon(args.lexicon)
-    _, val_entries = train_val_split(entries, args.val_ratio, args.seed)
+    if not args.eval_file:
+        raise SystemExit("Pass --eval_file (a fixed split file). Re-splitting would evaluate words the model trained on.")
+    val_entries = load_lexicon(args.eval_file)
     print(f"Evaluating on {len(val_entries)} held-out words (never seen in training)\n")
 
     text_to_phonemes = None
