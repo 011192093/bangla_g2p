@@ -66,7 +66,7 @@ def evaluate(model, loader, vocabs, device):
             register_ids = batch["register_ids"].to(device)
             words = batch["words"]
 
-            preds = model.greedy_decode(
+            preds, _confidences = model.greedy_decode(
                 input_ids, input_lens, register_ids, sos_id, eos_id
             )
 

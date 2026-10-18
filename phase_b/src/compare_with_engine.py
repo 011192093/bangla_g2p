@@ -4,8 +4,10 @@ import argparse
 import torch
 
 sys.path.insert(0, os.path.dirname(__file__))
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "..", "src"))
 from data import load_lexicon, train_val_split
 from predict import load_model, predict_word
+from normalizer import normalize
 
 
 def main():
@@ -50,14 +52,14 @@ def main():
 
     rows = []
     for word, gold_phonemes, register in val_entries:
-        neural_pred = predict_word(model, vocabs, word, register, device)
+        neural_pred, neural_conf = predict_word(model, vocabs, word, register, device)
         neural_ok = neural_pred == gold_phonemes
 
         rule_pred = None
         rule_ok = None
         if text_to_phonemes:
             try:
-                rule_pred = text_to_phonemes(word)
+                rule_pred = text_to_phonemes(normalize(word))
                 rule_ok = rule_pred == gold_phonemes
             except Exception:
                 rule_pred = ["<error>"]
@@ -76,24 +78,24 @@ def main():
         else:
             neither_correct += 1
 
-        rows.append((word, register, gold_phonemes, rule_pred, rule_ok, neural_pred, neural_ok))
+        rows.append((word, register, gold_phonemes, rule_pred, rule_ok, neural_pred, neural_ok, neural_conf))
 
     # ---- NEW: write the per-word comparison file the selector needs ----
     if args.dump_comparison:
         n_written = 0
         with open(args.dump_comparison, "w", encoding="utf-8") as f:
-            f.write("# word\tgold\trule_pred\tneural_pred\n")
-            for word, register, gold, rule_pred, rule_ok, neural_pred, neural_ok in rows:
+            f.write("# word\tgold\trule_pred\tneural_pred\tconfidence\n")
+            for word, register, gold, rule_pred, rule_ok, neural_pred, neural_ok, neural_conf in rows:
                 if rule_pred is None:
                     continue  # no rule engine was loaded; nothing to compare
-                f.write(f"{word}\t{' '.join(gold)}\t{' '.join(rule_pred)}\t{' '.join(neural_pred)}\n")
+                f.write(f"{word}\t{' '.join(gold)}\t{' '.join(rule_pred)}\t{' '.join(neural_pred)}\t{neural_conf:.4f}\n")
                 n_written += 1
         print(f"Wrote {n_written} rows to {args.dump_comparison}\n")
 
     n = len(val_entries)
     print(f"{'Word':<15}{'Register':<20}{'Gold':<25}{'Rule':<8}{'Neural':<8}")
     print("-" * 80)
-    for word, register, gold, rule_pred, rule_ok, neural_pred, neural_ok in rows:
+    for word, register, gold, rule_pred, rule_ok, neural_pred, neural_ok, neural_conf in rows:
         r_icon = "✅" if rule_ok else ("—" if rule_pred is None else "❌")
         n_icon = "✅" if neural_ok else "❌"
         print(f"{word:<15}{register:<20}{' '.join(gold):<25}{r_icon:<8}{n_icon:<8}")

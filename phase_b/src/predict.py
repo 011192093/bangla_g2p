@@ -17,8 +17,10 @@ import argparse
 import torch
 
 sys.path.insert(0, os.path.dirname(__file__))
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "..", "src"))
 from data import encode_word, PAD, SOS, EOS
 from model import Seq2SeqG2P
+from normalizer import compose_nukta
 
 
 def load_model(checkpoint_path, device):
@@ -44,6 +46,12 @@ def load_model(checkpoint_path, device):
 
 
 def predict_word(model, vocabs, word, register="unknown", device="cpu"):
+    # Compose any decomposed য়/ড়/ঢ় (base consonant + separate nukta mark)
+    # to their precomposed form -- the vocab was built from lexicon text
+    # that's entirely precomposed, so a decomposed input word would hit
+    # unknown-character fallbacks for every one of those letters otherwise.
+    word = compose_nukta(word)
+
     input_stoi = vocabs["input_stoi"]
     output_itos = {i: t for t, i in vocabs["output_stoi"].items()}
     register_stoi = vocabs["register_stoi"]
@@ -56,10 +64,10 @@ def predict_word(model, vocabs, word, register="unknown", device="cpu"):
     eos_id = vocabs["output_stoi"][EOS]
 
     with torch.no_grad():
-        preds = model.greedy_decode(input_ids, input_lens, register_id, sos_id, eos_id)
+        preds, confidences = model.greedy_decode(input_ids, input_lens, register_id, sos_id, eos_id)
 
     tokens = [output_itos.get(t, "?") for t in preds[0]]
-    return tokens
+    return tokens, confidences[0]
 
 
 def main():
@@ -76,8 +84,10 @@ def main():
     print(f"Known registers: {list(vocabs['register_stoi'].keys())}\n")
 
     if args.word:
-        tokens = predict_word(model, vocabs, args.word, args.register, device)
-        print(f"{args.word} -> {' '.join(tokens)}")
+        tokens, confidence = predict_word(model, vocabs, args.word, args.register, device)
+        print(f"Word: {args.word}")
+        print(f"Prediction: {' '.join(tokens)}")
+        print(f"Confidence: {confidence:.2f}")
 
     if args.interactive or not args.word:
         print("Interactive mode. Type a Bangla word, optionally 'word|register'.")
@@ -93,8 +103,8 @@ def main():
                 word, register = word.strip(), register.strip()
             else:
                 word, register = raw, "unknown"
-            tokens = predict_word(model, vocabs, word, register, device)
-            print(f"  -> {' '.join(tokens)}\n")
+            tokens, confidence = predict_word(model, vocabs, word, register, device)
+            print(f"  -> {' '.join(tokens)}  (confidence: {confidence:.2f})\n")
 
 
 if __name__ == "__main__":

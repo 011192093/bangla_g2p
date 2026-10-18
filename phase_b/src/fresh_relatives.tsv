@@ -1,0 +1,601 @@
+word	has_relative	overlap	shared_chars	side	closest_train_word	gold	transformer_ok	gru_ok
+অর্বাচিন	1	1.00	8	prefix	অর্বাচিন	o r b a ch i n	1	1
+অর্বাচিনের	1	0.80	8	prefix	অর্বাচিন	o r b a ch i n e r	1	1
+অলকানন্দা	1	0.67	6	suffix	মহানন্দা	o l O k a n o nd a	1	0
+অলক্ষ্য	1	0.86	6	suffix	লক্শ্য	o l O kkh O	1	0
+অলিকে	1	0.80	4	prefix	অলিক	O l i k e	0	0
+অলিগলির	1	0.86	6	prefix	অলিগলি	O l i g O l i r	0	0
+অলো	0	0.67	2	prefix	অলিম্পিক	o l O	1	1
+অল্টারনেটিভ	0	0.45	5	suffix	নেটিভ	o l T a r n e T i bh	1	1
+অল্পক্ষন	1	1.00	8	prefix	অল্পক্শনের	o l p o kkh o n	1	0
+অল্পের	1	0.83	5	suffix	সংকল্পের	o l p e r	1	1
+অশক্য	1	0.80	4	suffix	শক্য	o sh O k k O	0	0
+অশালিন	1	0.83	5	suffix	শালিন	o sh a l i n	1	1
+অশোধন	1	0.80	4	suffix	সংশোধন	o sh O dh O n	1	0
+অশ্বঘোশের	0	0.56	5	suffix	ঘোশের	o sh sh O gh O sh e r	1	1
+অশ্রুধারা	0	0.56	5	prefix	অশ্রু	O s r u dh a r a	1	1
+অসংকুচিত	1	0.88	7	suffix	সংকুচিত	o sh o ng k u ch i t O	1	1
+অসংজমি	1	0.83	5	suffix	সংজমি	o sh o ng j O m i	1	0
+অসংলগ্নতার	1	0.90	9	prefix	অসংলগ্নতা	o sh o ng l o g n O t a r	1	0
+অসংসক্ত	1	0.86	6	suffix	সংসক্ত	o sh o ng sh o kt O	1	0
+অসংস্কৃত	1	0.88	7	suffix	সংস্কৃত	o sh o ng s k r i t O	0	0
+অসচ্ছলতার	1	0.89	8	prefix	অসচ্ছলতা	o sh o ch chh o l O t a r	0	1
+অসদাচারন	1	0.62	5	prefix	অসদাচরনের	o sh o d a ch a r O n	0	0
+অসদুদ্দেশ্যে	1	0.67	8	suffix	উদ্দেশ্যে	o sh o d u d d e sh sh e	1	1
+অসন্তোশও	1	0.62	5	prefix	অসন্তুশ্টি	o sh o nt O sh O	1	1
+অসন্দিগ্ধ	1	0.89	8	suffix	সন্দিগ্ধ	o sh o nd i g dh O	0	0
+অসভ্য	1	0.80	4	suffix	সভ্য	o sh O b bh O	1	0
+অসমসাহসি	1	0.62	5	suffix	দুঃসাহসি	o sh o m sh a h o sh i	0	1
+অসমাপিকা	1	0.62	5	suffix	স্নাপিকা	o sh o m a p i k a	1	1
+অসম্পর্ক	1	0.88	7	suffix	সম্পর্ক	o sh o mp o r k O	1	0
+অসম্পুর্নই	1	0.90	9	suffix	সম্পুর্নই	o sh o mp u r n o i	1	0
+অসলার	1	0.80	4	suffix	গরমমসলার	o sh o l a r	1	1
+অসহজোগ	1	0.83	5	suffix	সহজোগ	o sh o h O j O g	0	1
+অসহিশ্নু	1	1.00	8	prefix	অসহিশ্নু	o sh O i sh n u	0	0
+অসাধুতা	0	0.57	4	suffix	বন্ধুতা	o sh a dh u t a	1	1
+অসাধুতার	1	0.62	5	suffix	বন্ধুতার	o sh a dh u t a r	1	1
+অসামরিক	1	0.86	6	suffix	সামরিক	o sh a m O r i k	1	1
+অসিপ	1	0.75	3	prefix	অসিম	o sh i p	1	1
+অসিমের	1	0.83	5	suffix	সিমের	o sh i m e r	1	1
+অসুখটি	1	0.67	4	prefix	অসুখ	o sh u kh T i	1	1
+অসুন্দর	1	0.86	6	suffix	সুন্দর	o sh u nd O r	0	0
+অসুবিধা	1	1.00	7	prefix	অসুবিধাও	o sh u b i dh a	0	1
+অসুর্যম্পশ্যা	0	0.31	4	suffix	মারিশ্যা	o sh u r j O mp o sh sh a	0	0
+অসুস্থতার	1	0.89	8	suffix	সুস্থতার	o sh u sth O t a r	1	1
+অসুস্থবোধ	0	0.33	3	prefix	অসুবিধার	o sh u sth O b O dh	0	1
+অস্তোন্মুখ	1	0.60	6	suffix	পতনোন্মুখ	o st O n m u kh	1	1
+অস্ত্যথ	1	0.71	5	prefix	অস্ত্রও	o st O th O	0	0
+অস্থিতিশিল	1	0.90	9	suffix	স্থিতিশিল	o sth i t i sh i l	0	0
+অস্থিতিশিলতাও	1	0.92	12	suffix	স্থিতিশিলতাও	o sth i t i sh i l o t a O	0	1
+অস্নাত	1	0.83	5	suffix	বৃশ্টিস্নাত	o sn a t O	1	1
+অস্পশ্টভাবে	1	0.91	10	suffix	স্পশ্টভাবে	o s p o sh T O bh a b e	0	0
+অস্বতন্ত্র	1	0.90	9	suffix	স্বতন্ত্র	o sh sh o t o nt r O	0	0
+অস্বিকৃত	1	0.88	7	suffix	স্বিকৃত	o sh i k ri t O	0	0
+অস্মার	1	0.83	5	suffix	অপস্মার	o sh m a r	0	0
+অহংকারও	1	0.86	6	prefix	অহংকার	o h o ng k a r O	0	0
+অহংবোধ	0	0.50	3	prefix	অহংকারের	o h O ng b O dh	1	1
+অহনাকে	1	0.83	5	suffix	গহনাকে	o h O n a k e	1	1
+অহনার	1	0.80	4	suffix	গহনার	o h O n a r	1	1
+অহমিকা	1	0.67	4	suffix	মিকা	o h O m i k a	1	1
+অহিদুল্যাহ	1	0.90	9	suffix	শহিদুল্যাহ	o h i d u l l a h	0	0
+অ্যাংকেলে	0	0.44	4	prefix	অ্যাকাউন্টেন্ট	A ng k e l e	1	1
+অ্যাডিডাসের	0	0.45	5	suffix	মাইডাসের	A D i D a s e r	1	1
+আংগ	0	0.67	2	prefix	আংটি	a ng g O	1	0
+আংগুরার	1	0.71	5	suffix	মাগুরার	a ng g u r a r	1	1
+আংটিটি	1	0.67	4	prefix	আংটিগুলো	a ng T i T i	1	1
+আংশিকভাবে	1	0.78	7	suffix	বার্শিকভাবে	a ng sh i k bh a b e	1	1
+আংিনার	1	0.67	4	suffix	কিনার	a ng g i n a r	1	1
+আংুরের	1	0.67	4	suffix	অংকুরের	a ng g u r e r	0	1
+আংুলটা	1	0.67	4	suffix	কুলটা	a ng g u l T a	0	1
+আইইউটি	1	0.67	4	suffix	ইউটি	a i i u T i	1	1
+আইইএ	0	0.50	2	prefix	আইন	a i i e	1	1
+আইইএল	1	0.60	3	suffix	বিএইচইএল	a i i e l	1	1
+আইইডিসিআর	1	0.67	6	suffix	ডিসিআর	a i i D i s i a r	1	1
+আইএফএসবি	1	0.75	6	suffix	এফএসবি	a i e ph e s b i	1	1
+আইএফসির	1	0.71	5	suffix	এএফসির	a i e ph s i r	1	1
+আইএমডিবি	0	0.50	4	suffix	এনডিবি	a i e m D i b i	1	1
+আইএসআই	1	0.67	4	suffix	এসআই	a i e s a i	1	1
+আইএসএসবিতে	0	0.40	4	suffix	পল্লবিতে	a i e s e s b i t e	1	1
+আইক্লাউড	1	0.75	6	suffix	ক্লাউড	a i kl a u D	1	1
+আইছিল	1	0.80	4	suffix	কইছিল	a i chh i l O	1	1
+আইজিএসের	1	0.75	6	suffix	ইউএসজিএসের	a i j i e s e r	1	1
+আইজিদের	1	0.71	5	suffix	মজিদের	a i j i d e r	1	1
+আইজে	1	0.75	3	suffix	এন্টারপ্রাইজে	a i j e	1	1
+আইটিউনস	0	0.43	3	suffix	ডাউনস	a i T i u n s	1	1
+আইটিএনের	1	0.62	5	suffix	ডিএনের	a i T i e n e r	1	1
+আইডিই	1	1.00	5	suffix	পিআইডিই	a i D i i	1	1
+আইডিএফ	1	0.67	4	suffix	ইউডিএফ	a i D i e ph	1	1
+আইঢাই	1	0.60	3	suffix	ঢাই	a i Dh a i	1	1
+আইতে	1	1.00	4	suffix	বিএসটিআইতে	a i t e	1	1
+আইনকেও	1	0.67	4	suffix	জনগনকেও	a i n k e O	1	1
+আইনগুলো	1	0.86	6	suffix	লাইনগুলো	a i n g u l O	1	1
+আইনজিবির	1	1.00	8	prefix	আইনজিবির	a i n j i b i r	1	1
+আইনজ্ঞকে	1	0.62	5	suffix	কর্মজজ্ঞকে	a i n o g g O k e	0	0
+আইনটি	1	0.80	4	suffix	ডিজাইনটি	a i n T i	1	1
+আইনটিতে	1	0.86	6	suffix	লাইনটিতে	a i n T i t e	1	1
+আইনপ্রনেতাকে	1	0.67	8	suffix	ছাত্রনেতাকে	a i n pr O n e t a k e	1	1
+আইনপ্রনেতার	0	0.45	5	suffix	বিশ্বনেতার	a i n pr O n e t a r	1	1
+আইনবিদদের	1	0.67	6	suffix	গনিতবিদদের	a i n b i d e r	0	0
+আইনশৃৃংখলা	0	0.50	5	suffix	বিশৃংখলা	a i n s ri ng kh o l a	0	0
+আইনসিদ্ধ	1	0.62	5	suffix	আসিদ্ধ	a i n sh i d dh O	1	0
+আইনিব্যবস্থা	1	0.83	10	suffix	পানিব্যবস্থা	a i n i b A b O sth a	1	1
+আইনুল	1	0.80	4	suffix	মইনুল	a i n u l	1	1
+আইপিএইচ	1	0.71	5	suffix	পিএইচ	a i p i e i ch	1	1
+আইপিএলেই	0	0.50	4	suffix	এলেই	a i p i e l e i	1	1
+আইপ্যাডে	1	0.75	6	suffix	প্যাডে	a i p A D e	0	1
+আইবিএমের	1	1.00	8	suffix	বিআইবিএমের	a i b i e m e r	1	1
+আইবিপিসি	1	0.75	6	suffix	বিপিসি	a i b i p i s i	1	1
+আইলাইনার	1	0.75	6	suffix	লাইনার	a i l a i n a r	1	1
+আইলেই	1	0.80	4	suffix	হইলেই	a i l e i	1	1
+আইলের	1	0.80	4	suffix	ইলের	a i l e r	1	1
+আইল্যান্ডের	1	0.91	10	suffix	থাইল্যান্ডের	a i l A n D e r	1	1
+আইশা	1	0.75	3	suffix	ইশা	a i sh a	1	1
+আইসিডিডিআরবির	0	0.38	5	suffix	এলআরবির	a i s i D i D i a r b i r	1	1
+আইসিসিও	1	0.71	5	suffix	সিসিও	a i sh i sh i O	0	0
+আউটপুট	0	0.50	3	suffix	সংপুট	a u T p u T	1	1
+আউটফিল্ডে	1	0.67	6	suffix	কাকফিল্ডে	a u T ph i l D e	1	1
+আউরত	0	0.50	2	prefix	আউন্সপ্রতি	a u r o t	1	1
+আওকাত	1	0.80	4	suffix	শওকাত	a O k a t	1	1
+আওতাবহির্ভুত	1	0.83	10	suffix	ক্শমতাবহির্ভুত	a O t a b o h i r bh u t o	0	0
+আওরংগজেবের	0	0.40	4	suffix	দেবের	a O r o ng g o j e b e r	0	0
+আওলাকি	1	0.67	4	suffix	লাকি	a O l a k i	1	1
+আওলাদ	1	0.80	4	suffix	ওলাদ	a O l a d	1	1
+আকছে	1	0.75	3	prefix	আকছার	a k chh e	1	1
+আকরোট	1	0.60	3	prefix	আকরাম	a k r O T	1	1
+আকর্ষনও	1	0.86	6	prefix	আকর্শন	a k o r sh o n O	0	0
+আকর্ষনি	1	0.86	6	prefix	আকর্শন	a k o r sh o n i	0	0
+আকলু	1	0.75	3	suffix	কলু	a k l u	1	1
+আকাংক্ষাও	0	0.56	5	suffix	রক্শাও	a k a ng kh a O	1	1
+আকালের	1	0.83	5	suffix	ইদানিংকালের	a k a l e r	1	1
+আকাশবানি	1	0.62	5	suffix	উপদেশবানি	a k a sh b a n i	1	1
+আকির্ন	1	0.83	5	suffix	সংকির্ন	a k i r n O	1	1
+আকিলা	1	0.80	4	suffix	শাকিলা	a k i l a	1	1
+আক্তারসহ	1	0.75	6	prefix	আক্তারুজ্জামান	a kt a r sh o h O	1	1
+আক্রমনটা	1	0.75	6	prefix	আক্রমনকে	a kr o m o n T a	0	0
+আক্ষেপটা	1	0.75	6	prefix	আক্শেপ	a kkh e p T a	1	1
+আখতারও	1	0.83	5	prefix	আখতারুন	a kh o t a r O	0	0
+আখতারুজ্জমান	0	0.58	7	suffix	আসাদুজ্জমান	a kh t a r u j j a m a n	0	0
+আখনি	1	0.75	3	prefix	আখন্দ	a kh n i	0	0
+আখন্দের	1	0.86	6	suffix	খন্দের	a kh o nd e r	0	0
+আখোলা	1	0.80	4	suffix	খোলা	a kh O l a	1	1
+আখ্যা	1	0.80	4	suffix	ছাত্রিসংখ্যা	a k kh a	1	1
+আগস্ট	1	0.80	4	suffix	অগস্ট	a g O s T	0	0
+আগস্টের	1	0.71	5	suffix	কাইস্টের	a g O s T e r	0	0
+আগাকে	1	0.80	4	suffix	সোংগাকে	a g a k e	1	1
+আগাথা	1	0.80	4	suffix	গাথা	a g a th a	1	1
+আগামসিহ	0	0.57	4	prefix	আগামিকালও	a g a m o sh i h o	0	0
+আগামিতে	1	0.71	5	prefix	আগামিকালও	a g a m i t e	1	1
+আগি	0	0.67	2	prefix	আগামির	a g i	1	1
+আগুনকে	1	0.83	5	suffix	গুনকে	a g u n k e	1	1
+আগুনমুখা	0	0.50	4	suffix	মুখা	a g u n m u kh a	1	1
+আগুর	1	0.75	3	suffix	ডেংগুর	a g u r	1	1
+আগুরি	1	0.60	3	suffix	চেরুকুরি	a g u r i	1	1
+আগেভাগে	0	0.57	4	suffix	দুভাগে	a g e bh a g e	1	1
+আগের	1	1.00	4	prefix	আগেরটি	a g e r	1	1
+আগেরজন	1	0.67	4	prefix	আগেরটি	a g e r j o n	1	1
+আগোরি	1	0.60	3	suffix	মুনাফাখোরি	a g O r i	1	1
+আগ্রহটা	1	0.86	6	suffix	সংগ্রহটা	a gr O h O T a	1	1
+আঘন	0	0.67	2	prefix	আঘাতও	a gh o n	1	1
+আঘাতটা	1	0.67	4	prefix	আঘাতও	a gh a t T a	1	1
+আচরনও	1	1.00	5	prefix	আচরনও	a ch O r o n O	0	0
+আছরমুক্ত	1	0.75	6	suffix	আয়করমুক্ত	a chh o r m u kt O	0	0
+আছিম	1	0.75	3	suffix	কাছিম	a chh i m	1	1
+আছেনই	1	0.80	4	suffix	থাকছেনই	a chh e n i	1	1
+আছেনও	1	0.80	4	suffix	করেছেনও	a chh e n O	1	1
+আজনম	1	0.75	3	prefix	আজন্ম	a j o n m O	0	0
+আজবক	0	0.50	2	prefix	আজন্ম	a j b o k	1	1
+আজমপুর	1	0.83	5	suffix	মজমপুর	a j O m p u r	1	1
+আজল	0	0.67	2	prefix	আজমের	a j O l o	0	0
+আজহা	1	1.00	4	prefix	আজহারুল	a j h a	1	1
+আজাবের	1	0.83	5	suffix	হিজাবের	a j a b e r	1	1
+আজিকে	1	0.80	4	suffix	ডিআইজিকে	a j i k e	1	1
+আজিবনের	1	0.86	6	suffix	লেখকজিবনের	a j i b O n e r	0	0
+আজিমপুরের	1	0.78	7	suffix	কাশিমপুরের	a j i m p u r e r	1	1
+আজিমি	1	0.80	4	prefix	আজিম	a j i m i	1	1
+আজুমার	1	0.67	4	suffix	গুমার	a j u m a r	1	1
+আজ্ঞপ্ত	0	0.57	4	prefix	আজ্ঞা	a g g o p t O	0	0
+আজ্ঞাবহ	1	0.71	5	prefix	আজ্ঞা	a g g a b o h O	1	1
+আঞ্চলিক	0	0.43	3	suffix	লিকলিক	a nch O l i k	1	1
+আটগ্রাম	1	0.86	6	suffix	পাটগ্রাম	a T gr a m	1	1
+আটটিসহ	1	0.67	4	prefix	আটটির	a T T i sh o h O	1	1
+আটতলার	1	0.83	5	suffix	বটতলার	a T t o l a r	1	1
+আটলান্টিকে	1	0.70	7	prefix	আটলান্টা	a T l a n T i k e	1	1
+আটলান্টিকের	1	0.64	7	prefix	আটলান্টা	a T l a n T i k e r	1	1
+আটশট্টি	1	0.71	5	suffix	চোউশট্টি	a T sh O T T i	1	1
+আটসাট	1	0.60	3	suffix	পাকসাট	a T sh a T	1	1
+আটিসার	1	0.67	4	suffix	খিসার	a T i sh a r	1	1
+আঠুলে	1	0.60	3	suffix	টুলে	a Th u l e	1	1
+আতাতে	1	0.80	4	suffix	তাতে	a t a t e	1	1
+আতাতের	1	0.83	5	suffix	আঁতাতের	a t a t e r	1	1
+আতার্তুক	1	0.62	5	suffix	বর্তুক	a t a r t u k	1	1
+আতিকুর	1	0.67	4	prefix	আতিকের	a t i k u r	1	1
+আতিকুরের	1	0.75	6	suffix	সিদ্দিকুরের	a t i k u r e r	1	1
+আত্তিকৃত	1	0.88	7	suffix	নিশ্পত্তিকৃত	a tt i k r i t O	0	0
+আত্দপ্রকাশ	1	0.60	6	suffix	মতপ্রকাশ	a t t O pr O k a sh	0	0
+আত্মবিশ্বাসও	1	0.92	11	prefix	আত্মবিশ্বাস	a t t O b i sh sh a sh O	1	1
+আত্মবিশ্বাসকে	1	0.85	11	prefix	আত্মবিশ্বাস	a t t O b i sh sh a sh k e	1	1
+আথাল	1	0.75	3	suffix	থাল	a th a l	1	1
+আদত্ত	1	0.80	4	suffix	অদত্ত	a d O tt O	0	1
+আদদ	0	0.67	2	prefix	আদনানকে	a d O d	1	0
+আদনা	1	1.00	4	prefix	আদনানকে	a d n a	1	1
+আদবে	1	0.75	3	suffix	কাদবে	a d O b e	0	0
+আদমদিঘি	0	0.57	4	suffix	দিঘি	a d O m d i gh i	0	0
+আদর্শচ্যুত	1	0.70	7	suffix	কক্শচ্যুত	a d O r sh O ch u t O	0	1
+আদর্শেই	1	0.86	6	prefix	আদর্শে	a d O r sh e i	1	1
+আদলটি	1	0.80	4	suffix	দলটি	a d O l T i	1	1
+আদলতে	1	0.60	3	suffix	ডলতে	a d O l t e	0	1
+আদলেই	1	0.80	4	suffix	দলেই	a d O l e i	1	1
+আদাবর	1	0.60	3	prefix	আদাকুচি	a d a b o r	1	0
+আদালতগুলোতে	1	0.64	7	suffix	খাতগুলোতে	a d a l o t g u l O t e	1	1
+আদিতমারি	1	1.00	8	prefix	আদিতমারি	a d i t O m a r i	0	0
+আদিতে	1	0.80	4	prefix	আদিতমারি	a d i t e	1	1
+আদিবা	1	0.80	4	suffix	দিবা	a d i b a	1	1
+আদেখা	1	0.80	4	suffix	অদেখা	a d e kh a	1	1
+আদেশসমুহ	1	0.88	7	suffix	দেশসমুহ	a d e sh sh O m u h o	0	0
+আদেশের	1	0.83	5	suffix	দেশের	a d e sh e r	1	1
+আদ্রে	1	0.80	4	prefix	আদ্রতা	a d r e	1	1
+আধপাকা	1	0.67	4	suffix	গাছপাকা	a dh p a k a	1	1
+আধাঘন্টার	1	0.67	6	suffix	কর্মঘন্টার	a dh a gh o n T a r	1	1
+আধার	1	0.75	3	prefix	আধাবেলা	a dh a r	1	1
+আধিক্যে	1	0.71	5	suffix	চাকচিক্যে	a dh i k k e	1	1
+আধিজোইবিক	0	0.44	4	suffix	জইবিক	a dh i j O i b i k	1	1
+আধুত	1	0.75	3	suffix	ধুত	a dh u t O	0	0
+আধ্যাত্মিক	1	1.00	10	prefix	আধ্যাত্মিকতার	a d dh a t i k	0	0
+আনএন্ডিং	1	0.75	6	suffix	এন্ডিং	a n e n D i ng	1	1
+আনন	1	1.00	3	prefix	আনন্দ	a n O n	1	1
+আনন্দজজ্ঞে	0	0.50	5	prefix	আনন্দও	a n O nd O j o gg e	0	0
+আনন্দহিন	1	0.62	5	prefix	আনন্দমোহন	a n O nd O h i n	1	1
+আনফিট	1	0.60	3	suffix	ফিট	a n ph i T	1	1
+আনলিমা	1	0.83	5	prefix	আনলিমিটেড	a n l i m a	1	1
+আনসার	1	1.00	5	prefix	আনসারুল্লাহ	a n s a r	1	1
+আনসারি	1	0.83	5	prefix	আনসারুল্লাহ	a n s a r i	1	1
+আনাতোলি	0	0.57	4	suffix	বারতোলি	a n a t O l i	1	1
+আনানের	1	0.83	5	suffix	নানের	a n a n e r	1	1
+আনামুলের	1	0.88	7	suffix	এনামুলের	a n a m u l e r	1	1
+আনারও	1	0.80	4	prefix	আনারস	a n a r O	1	1
+আনিনি	1	0.80	4	suffix	পানিনি	a n i n i	1	1
+আনির	1	0.75	3	prefix	আনিত	a n i r	1	1
+আনিসুর	1	0.67	4	suffix	মোগাদিসুর	a n i s u r	1	1
+আনুরক্তি	1	0.62	5	suffix	বিরক্তি	a n u r O kt i	1	1
+আনুশ্ঠানিকতার	0	0.46	6	suffix	নান্দনিকতার	a n u sh Th a n i k o t a r	1	1
+আনেলকাকে	0	0.50	4	suffix	তারকাকে	a n e l k a k e	1	1
+আন্তজোগাজোগ	1	0.64	7	suffix	নোউজোগাজোগ	a nt O j O g a j O g	1	1
+আন্তরিকতাকে	0	0.55	6	suffix	সাংবাদিকতাকে	a nt O r i k o t a k e	1	1
+আন্দোলনেও	1	0.89	8	prefix	আন্দোলনে	a nd O l O n e O	0	1
+আন্দ্রেই	1	0.88	7	prefix	আন্দ্রে	a ndr e i	1	1
+আন্বিক্ষিকি	0	0.45	5	suffix	বার্শিকি	a n n i kkh i k i	1	1
+আপটন	1	0.75	3	suffix	ক্ল্যাপটন	a p T o n	1	1
+আপডেটেড	1	0.71	5	suffix	ডেটেড	a p D e T e D	1	1
+আপত্কালিন	1	0.78	7	suffix	তত্কালিন	a p O t k a l i n	1	1
+আপনজনে	1	1.00	6	prefix	আপনজনের	a p O n j o n e	0	1
+আপাং	1	0.75	3	prefix	আপা	a p a ng	1	1
+আপাদের	1	0.83	5	suffix	শেরপাদের	a p a d e r	1	1
+আপিলকারি	1	0.75	6	suffix	মিছিলকারি	a p i l k a r i	1	1
+আপিসে	1	0.80	4	suffix	পিসে	a p i s e	1	1
+আপেক্ষিকতাবাদ	0	0.38	5	suffix	বিচ্ছিন্নতাবাদ	a p e kkh i k o t a b a d	1	1
+আপোশ	1	1.00	4	prefix	আপোশহিন	a p O sh	1	1
+আপোস	1	0.75	3	prefix	আপোশহিন	a p O sh	1	1
+আপ্পু	1	0.80	4	suffix	পাপ্পু	a p p u	1	1
+আপ্রান	1	0.83	5	suffix	অন্তঃপ্রান	a pr a n	1	1
+আফগানজুদ্ধে	1	0.64	7	suffix	জনজুদ্ধে	a ph g a n j u d dh e	1	1
+আফজাল	1	0.60	3	suffix	গজাল	a ph j a l	1	1
+আফজালকে	0	0.57	4	suffix	মহাপরিচালকে	a ph j a l k e	1	1
+আফতাবউদ্দিন	1	0.82	9	suffix	মাহতাবউদ্দিন	a ph t a b u d d i n	1	1
+আফসানার	1	0.71	5	suffix	রোখসানার	a ph s a n a r	1	1
+আফার	1	0.75	3	suffix	অফার	a ph a r	1	1
+আফুসি	1	0.60	3	suffix	ঠুসি	a ph u sh i	1	1
+আফ্রিকাও	1	0.88	7	prefix	আফ্রিকা	a ph r i k a O	1	1
+আফ্রিকাগামি	1	0.64	7	prefix	আফ্রিকা	a ph r i k a g a m i	1	1
+আবগারি	1	0.67	4	suffix	পরহেজগারি	a b g a r i	1	1
+আবদু	1	1.00	4	prefix	আবদুল্লাহপুর	a b d u	1	1
+আবদুল্লাপুর	1	0.73	8	prefix	আবদুল্লাহপুর	a b d u l l a p u r	1	1
+আবনুস	1	0.60	3	suffix	ইউনুস	a b n u s	0	0
+আবর্জনার	1	0.88	7	prefix	আবর্জনা	a b O r j o n a r	0	0
+জাকিরকে	1	0.71	5	prefix	জাকিরের	j a k i r k e	1	1
+জাগন্ত	1	0.67	4	suffix	দিগন্ত	j a g O nt O	0	0
+জাগরন	1	1.00	5	prefix	জাগরনে	j a g O r o n	0	0
+জাগল	1	0.75	3	prefix	জাগরনের	j a g l O	0	0
+জাগাচ্ছে	1	0.88	7	suffix	লাগাচ্ছে	j a g a ch chh e	1	1
+জাগেন	1	0.80	4	prefix	জাগে	j a g e n	1	1
+জাজমেন্ট	1	0.75	6	suffix	লজমেন্ট	j a j m e n T	1	1
+জাজেস	1	0.80	4	suffix	নাজেস	j a j e s	1	1
+জাতিগতভাবে	1	0.80	8	suffix	পদ্ধতিগতভাবে	j a t i g o t O bh a b e	1	1
+জাতিগুলোর	1	0.89	8	suffix	জন্ত্রপাতিগুলোর	j a t i g u l O r	1	1
+জাতের	1	1.00	5	suffix	উন্নতজাতের	j a t e r	1	1
+জাত্রাকালে	1	0.70	7	prefix	জাত্রাকে	j a tr a k a l e	1	1
+জাত্রাশিল্প	1	1.00	11	prefix	জাত্রাশিল্পি	j a tr a sh i l p O	1	1
+জাদেজাকে	1	0.62	5	suffix	রেজাকে	j a d e j a k e	1	1
+জানটা	1	0.80	4	prefix	জানটি	j a n T a	1	1
+জানতেও	1	0.83	5	prefix	জানতে	j a n t e O	1	1
+জানলে	1	1.00	5	prefix	জানলেও	j a n l e	1	1
+জানানোটা	1	0.62	5	suffix	পোউছানোটা	j a n a n O T a	1	1
+জানালেও	1	0.86	6	prefix	জানালে	j a n a l e O	1	1
+জান্নাতুন	1	0.78	7	prefix	জান্নাতির	j a nn a t u n	1	1
+জাপানকে	1	0.71	5	prefix	জাপানি	j a p a n k e	1	1
+জাপানের	1	0.86	6	suffix	পোলাপানের	j a p a n e r	1	1
+জাফরুল্লাহ	1	0.70	7	suffix	নসরুল্লাহ	j a ph O r u l l a h	0	0
+জাফরুল্লাহর	1	0.64	7	suffix	সলিমুল্লাহর	j a ph O r u l l a r	0	0
+জাবেদ	1	0.80	4	prefix	জাবেই	j a b e d	1	1
+জাভেদকে	0	0.57	4	suffix	আবেদকে	j a bh e d k e	1	1
+জামতলার	1	0.71	5	suffix	ধর্মতলার	j a m t o l a r	1	1
+জামদানির	1	0.88	7	prefix	জামদানি	j a m d a n i r	1	1
+জামালপুরে	1	0.67	6	suffix	গোপালপুরে	j a m a l p u r e	1	1
+জামিনজোগ্য	1	0.70	7	suffix	রিনজোগ্য	j a m i n j O g g O	1	1
+জামিলা	1	0.83	5	suffix	কামিলা	j a m i l a	1	1
+জামের	1	1.00	5	suffix	নিজামের	j a m e r	1	1
+জাম্পিং	1	0.86	6	suffix	স্টাম্পিং	j a mp i ng	1	1
+জাম্বুরিতে	1	0.70	7	prefix	জাম্বুরা	j a mb u r i t e	1	1
+জারদারিই	1	0.88	7	prefix	জারদারি	j a r d a r i i	1	1
+জারাকে	1	0.83	5	suffix	বেচারাকে	j a r a k e	1	1
+জারিন	1	0.80	4	prefix	জারিগানের	j a r i n	1	1
+জার্নালের	1	0.89	8	prefix	জার্নালে	j a r n a l e r	1	1
+জার্বিস	0	0.57	4	prefix	জার্নালে	j a r b i s	1	1
+জালশুকা	0	0.57	4	suffix	শুকা	j a l sh u k a	1	1
+জালালাবাদের	1	0.73	8	suffix	ফয়সালাবাদের	j a l a l a b a d e r	1	1
+জালালের	1	1.00	7	suffix	শাহজালালের	j a l a l e r	1	1
+জাহরা	1	0.80	4	suffix	বাদশাহরা	j a h r a	1	1
+জাহাজের	1	1.00	7	suffix	জুদ্ধজাহাজের	j a h a j e r	1	1
+জাহিরুল	1	0.71	5	suffix	জহিরুল	j a h i r u l	1	1
+জিইডি	1	1.00	5	suffix	এলজিইডি	j i i D i	1	1
+জিইডির	1	1.00	6	suffix	এলজিইডির	j i i D i r	1	1
+জিউসের	1	0.83	5	suffix	ম্যাথিউসের	j i u s e r	1	1
+জিএইচএসএ	0	0.38	3	prefix	জিএসপি	j i e i ch e s e	1	1
+জিওনি	1	0.80	4	suffix	দেখিওনি	j i O n i	1	1
+জিঘাংসার	1	0.62	5	suffix	মিমাংসার	j i gh a ng sh a r	1	1
+জিঘৎসা	0	0.50	3	suffix	বিবৎসা	j i gh O t sh a	0	0
+জিটুজি	1	0.67	4	suffix	টুজি	j i T u j i	1	1
+জিতি	1	0.75	3	prefix	জিতলাম	j i t i	1	1
+জিতেই	1	1.00	5	suffix	ইংরেজিতেই	j i t e i	1	1
+জিতেও	1	1.00	5	suffix	বেনগাজিতেও	j i t e O	1	1
+জিনতলা	1	0.83	5	suffix	তিনতলা	j i n t o l a	1	1
+জিনম	1	0.75	3	prefix	জিনবিজ্ঞানি	j i n O m	0	0
+জিনারদি	0	0.57	4	prefix	জিনা	j i n a r d i	1	1
+জিনিসগুলোর	1	0.70	7	suffix	অফিসগুলোর	j i n i sh g u l O r	1	1
+জিন্দাবাজারের	1	0.62	8	suffix	রাজাবাজারের	j i nd a b a j a r e r	1	1
+জিপসাম	0	0.50	3	prefix	জিপার	j i p s a m	1	1
+জিপিএ	1	1.00	5	prefix	জিপিএর	j i p i e	1	1
+জিবদের	1	0.83	5	prefix	জিবদেহে	j i b d e r	1	1
+জিবনজুদ্ধ	1	0.67	6	suffix	জনজুদ্ধ	j i b O n j u d dh O	0	0
+জিবনবাজি	1	0.62	5	prefix	জিবনবোধ	j i b O n b a j i	0	0
+জিববইচিত্র্যে	1	0.77	10	suffix	বইচিত্র্যে	j i b O b O i ch i t r e	0	0
+জিবানুনাশক	1	1.00	10	prefix	জিবানুনাশক	j i b a n u n a sh O k	0	0
+জিবাশ্মটি	0	0.44	4	prefix	জিবানুর	j i b a sh sh O T i	0	0
+জিবি	1	1.00	4	prefix	জিবিকা	j i b i	1	1
+জিবিপিএস	1	0.75	6	suffix	এমবিপিএস	j i b i p i e s	1	1
+জিবুতি	1	1.00	6	prefix	জিবুতির	j i b u t i	1	1
+জিভ	1	1.00	3	prefix	জিভে	j i bh	1	1
+জিমন্যাস্টিকস	0	0.54	7	suffix	থার্মোপ্লাস্টিকস	j i m n A s T i k s	0	0
+জিম্মিদশা	0	0.44	4	suffix	বন্দিদশা	j i mm i d o sh a	1	0
+জিরাব	1	0.80	4	prefix	জিরা	j i r a b O	0	0
+জিরোতে	1	0.83	5	suffix	সিরোতে	j i r O t e	1	1
+জিলকদ	1	0.60	3	prefix	জিলা	j i l k o d	1	1
+জিলবার্তো	1	0.67	6	suffix	রবার্তো	j i l b a r t O	1	1
+জিলানির	1	0.86	6	prefix	জিলানি	j i l a n i r	1	1
+জিল্লার	1	0.86	6	suffix	কুমিল্লার	j i l l a r	1	1
+জিসিই	1	0.80	4	suffix	এনটিসিই	j i s i i	1	1
+জিসিএম	1	0.67	4	suffix	এমএমসিএম	j i s i e m	1	1
+জিহাদি	1	0.83	5	prefix	জিহাদকে	j i h a d i	1	1
+জিৎ	1	1.00	3	suffix	জগজিৎ	j i t	1	1
+জুইকে	1	0.80	4	suffix	দুইকে	j u i k e	1	1
+জুজুর	1	0.80	4	prefix	জুজুধান	j u j u r	1	1
+জুটিকে	1	0.83	5	suffix	ছুটিকে	j u T i k e	1	1
+জুদ্ধশিশু	1	0.67	6	prefix	জুদ্ধশেশে	j u d dh O sh i sh u	1	1
+জুনভিত্তিতে	1	0.73	8	suffix	বানিজ্যিকভিত্তিতে	j u n bh i tt i t e	0	1
+জুনাপিউ	0	0.43	3	prefix	জুনকে	j u n a p i u	1	1
+জুনিপার	1	0.71	5	suffix	নিপার	j u n i p a r	1	1
+জুবকটিকে	1	0.88	7	suffix	যুবকটিকে	j u b O k T i k e	0	0
+জুবাইদার	1	0.62	5	suffix	নাইদার	j u b a i d a r	1	1
+জুবার	1	0.80	4	prefix	জুবান	j u b a r	1	1
+জুবিন	1	0.80	4	prefix	জুবিকে	j u b i n	1	1
+জুভদের	1	0.67	4	suffix	কনজারভেটিভদের	j u bh d e r	0	0
+জুভরা	1	0.60	3	prefix	জুভেন্টাসকে	j u bh O r a	0	0
+জুভেন্টাস	1	1.00	9	prefix	জুভেন্টাসকে	j u bh e n T a s	1	1
+জুমঘরে	1	0.67	4	suffix	হিমঘরে	j u m gh o r e	1	1
+জুরে	1	1.00	4	suffix	বাজুরে	j u r e	1	1
+জুল	1	1.00	3	prefix	জুলমাৎ	j u l	1	1
+জুলকারনাইনকে	0	0.42	5	suffix	ভ্যালেন্টাইনকে	j u l k a r n a i n k e	1	1
+জুলফি	1	0.80	4	suffix	কুলফি	j u l ph i	1	1
+জুলফিকার	1	0.62	5	suffix	বেনফিকার	j u l ph i k a r	1	1
+জুস	1	1.00	3	prefix	জুসার	j u s	1	1
+জুহরি	1	0.60	3	prefix	জুহি	j u h r i	1	1
+জেকস	1	0.75	3	prefix	জেকে	j e k s	1	1
+জেটিঘাটে	1	0.62	5	suffix	ফেরিঘাটে	j e T i gh a T e	1	1
+জেডু	1	0.75	3	prefix	জেডিসির	j e D u	1	1
+জেতানোর	1	0.71	5	suffix	মাতানোর	j e t a n O r	1	1
+জেদ্দার	1	0.86	6	prefix	জেদ্দা	j e d d a r	1	1
+জেবি	1	1.00	4	prefix	জেবিআইসি	j e b i	1	1
+জেমসের	1	0.83	5	suffix	গেমসের	j e m s e r	1	1
+জেরার	1	1.00	5	prefix	জেরার্ডদের	j e r a r	1	1
+জেরিনা	1	0.83	5	prefix	জেরিন	j e r i n a	1	1
+জেরোনিমোর	0	0.44	4	prefix	জেরোমের	j e r O n i m O r	1	1
+জেরোম	1	1.00	5	prefix	জেরোমের	j e r O m	1	1
+জেলেকে	1	0.83	5	suffix	ছেলেকে	j e l e k e	1	1
+জেলেরা	1	0.83	5	prefix	জেলের	j e l e r a	1	1
+জোইনকাঠি	1	0.62	5	suffix	সুজনকাঠি	j O i n k a Th i	1	1
+জোইনা	1	0.60	3	prefix	জোই	j O i n a	1	1
+জোগানকারি	1	0.67	6	suffix	অভিজানকারি	j O g a n k a r i	1	1
+জোগাল	1	0.80	4	prefix	জোগার	j O g a l	1	1
+জোটবদ্ধভাবে	1	0.73	8	suffix	সংঘবদ্ধভাবে	j O T b o d dh O bh a b e	1	1
+জোটেরই	1	0.67	4	suffix	ক্রিকেটেরই	j O T e r i	1	1
+জোতদার	1	0.83	5	suffix	পোতদার	j O t d a r	1	1
+জোনাল	1	0.80	4	prefix	জোনাকি	j O n a l	1	1
+জোনের	1	1.00	5	suffix	ইউরোজোনের	j O n e r	1	1
+জোবেদা	1	0.67	4	prefix	জোবেরা	j O b e d a	1	1
+জোব্বা	1	0.67	4	suffix	ডিব্বা	j O b b a	1	1
+জোরপুর্বক	1	0.67	6	suffix	ধোইর্যধারনপুর্বক	j O r p u r b O k	0	0
+জোরাজুরির	0	0.56	5	suffix	দিনমজুরির	j O r a j u r i r	1	1
+জোহা	1	1.00	4	prefix	জোহান	j O h a	1	1
+জোহানেস	1	0.71	5	prefix	জোহান	j O h a n e s	1	1
+জ্ঞানকোশ	1	0.75	6	prefix	জ্ঞানকে	g A n k O sh	1	0
+জ্ঞানশুন্য	1	1.00	10	prefix	জ্ঞানশুন্য	g A n sh u n n O	1	1
+জ্বলতাছে	1	0.75	6	suffix	বলতাছে	j o l t a chh e	0	0
+জ্বলদগ্নি	0	0.56	5	suffix	জমদগ্নি	j o l O d O g n i	0	0
+জ্বালানির	1	0.78	7	prefix	জ্বালানোর	j a l a n i r	1	1
+জ্বালে	1	0.83	5	prefix	জ্বালালে	j a l e	1	1
+জ্যাকবকে	1	0.62	5	prefix	জ্যাকেটের	j A k O b k e	0	0
+জ্যাজ	1	0.80	4	prefix	জ্যাকেটের	j A j	1	1
+জ্যেশ্ঠতম	1	0.67	6	suffix	শ্রেশ্ঠতম	j e sh Th O t o m O	0	0
+জ্যেশ্ঠদের	1	1.00	10	suffix	বয়োজ্যেশ্ঠদের	j e sh Th O d e r	0	0
+জ্যোতির্বিদ	0	0.55	6	prefix	জ্যোতিশি	j O t i r b i d	1	1
+জ্যোতিশি	1	1.00	8	prefix	জ্যোতিশি	j O t i sh i	1	1
+ঝকঝক	1	1.00	4	prefix	ঝকঝকে	jh o k jh o k	1	1
+ঝকমারি	1	0.83	5	suffix	রকমারি	jh o k m a r i	1	1
+ঝপাঝপ	0	0.20	1	prefix	ঝন্টু	jh o p a jh o p	1	1
+ঝমাঝম	0	0.40	2	prefix	ঝমঝম	jh o m a jh o m	1	1
+ঝম্পন	1	0.80	4	suffix	ভুকম্পন	jh o mp o n	0	1
+ঝরতি	1	0.75	3	suffix	জরতি	jh O r t i	1	1
+ঝরার	1	0.75	3	prefix	ঝরাচ্ছে	jh o r a r	1	1
+ঝরেছে	1	0.80	4	prefix	ঝরেছিল	jh O r e chh e	1	1
+ঝরো	0	0.67	2	prefix	ঝরেছিল	jh o r O	1	1
+ঝলঝল	0	0.50	2	prefix	ঝলকানিতে	jh o l jh o l	0	1
+ঝলমলে	1	0.60	3	suffix	জমলে	jh o l m o l e	1	1
+ঝাউচরে	0	0.50	3	suffix	চরে	jh a u ch o r e	1	0
+ঝাউবাগানে	1	0.67	6	suffix	আমবাগানে	jh a u b a g a n e	1	1
+ঝাজর	1	0.75	3	suffix	গাজর	jh a j o r	0	0
+ঝান্ডা	1	0.83	5	suffix	প্রোপাগান্ডা	jh a n D a	1	1
+ঝাপতাল	0	0.50	3	prefix	ঝাপটাতে	jh a p t a l	1	1
+ঝামেলামুক্ত	0	0.55	6	suffix	কারামুক্ত	jh a m e l a m u kt O	1	1
+ঝামেলার	1	0.71	5	suffix	বৃক্শমেলার	jh a m e l a r	1	1
+ঝালকাঠিতে	1	0.67	6	suffix	মাপকাঠিতে	jh a l O k a Th i t e	0	0
+ঝিঝিপোকা	1	0.62	5	suffix	গুটিপোকা	jh i jh i p O k a	1	1
+ঝুকিপুর্নভাবে	1	0.77	10	suffix	শান্তিপুর্নভাবে	jh u k i p u r n O bh a b e	0	0
+ঝুমা	1	0.75	3	prefix	ঝুম	jh u m a	1	1
+ঝুর	1	1.00	3	suffix	বিঝুর	jh u r	1	1
+ঝুরা	1	0.75	3	suffix	মঞ্জুরা	jh u r a	1	1
+ঝেং	0	0.67	2	suffix	জেং	jh e ng	1	1
+ঝোকের	1	0.80	4	suffix	মাপজোকের	jh O k e r	1	1
+ঝোর	1	1.00	3	suffix	অঝোর	jh O r	1	1
+টংগস	1	0.75	3	suffix	ট্যাংগস	T o ng g s	0	1
+টংদোকান	1	0.71	5	suffix	দোকান	T o ng d O k a n	1	1
+টকশো	1	0.75	3	suffix	একশো	T o k sh O	1	1
+টক্সিক	1	0.83	5	suffix	ম্যেক্সিক	T o k s i k	1	0
+টগর	0	0.67	2	prefix	টগবগে	T o g O r	1	1
+টপকাতে	1	0.67	4	prefix	টপকানোর	T o p k a t e	1	1
+টপকানো	1	1.00	6	prefix	টপকানোর	T o p k a n O	1	1
+টপকে	1	0.75	3	prefix	টপকানোর	T O p k e	0	0
+টপকোডার	1	0.71	5	suffix	কোডার	T o p k O D a r	1	1
+টবে	1	1.00	3	suffix	কাটবে	T o b e	1	1
+টমক	0	0.67	2	prefix	টমেটো	T o m O k	1	1
+টমকে	1	0.75	3	suffix	জমজমকে	T o m k e	1	1
+টমসন	1	0.75	3	suffix	থমসন	T o m s o n	1	1
+টমাসের	1	0.83	5	suffix	একমাসের	T o m a sh e r	0	0
+টমিগান	1	0.67	4	suffix	কবিগান	T O m i g a n	0	1
+টর্নেডোতে	1	0.78	7	prefix	টর্নেডো	T o r n e D O t e	1	1
+টলিউডে	1	0.83	5	suffix	বলিউডে	T o l i u D e	1	1
+টহলও	1	0.75	3	prefix	টহলে	T o h O l O	1	1
+টহলের	1	0.80	4	prefix	টহলে	T o h O l e r	1	1
+টাংগন	1	1.00	5	suffix	ক্রিকেটাংগন	T a ng g o n	1	1
+টাংগা	1	0.80	4	suffix	চাংগা	T a ng g a	1	1
+টাংানো	1	0.83	5	suffix	ভাংানো	T a ng a n O	0	0
+টাইগারদের	1	0.67	6	suffix	ব্লগারদের	T a i g a r d e r	1	1
+টাইগারপাস	0	0.56	5	suffix	ওভারপাস	T a i g a r p a s	1	1
+টাইজেন	0	0.50	3	suffix	জেন	T a i j e n	1	1
+টাইজেনচালিত	0	0.55	6	suffix	শ্যালোইঞ্জিনচালিত	T a i j e n ch a l i t O	1	1
+টাইটান	0	0.50	3	suffix	টান	T a i T a n	1	1
+টাইটানের	1	0.62	5	suffix	ম্যানহাটানের	T a i T a n e r	1	1
+টাইডাই	0	0.50	3	suffix	ডাই	T a i D a i	1	1
+টাইপরাইটার	1	0.60	6	suffix	রাইটার	T a i p r a i T a r	1	1
+টাইপিং	1	0.83	5	suffix	পাইপিং	T a i p i ng	1	1
+টাইব্রেকার	1	0.70	7	suffix	ব্রেকার	T a i br e k a r	1	1
+টাইব্রেকারে	1	0.73	8	suffix	ব্রেকারে	T a i br e k a r e	1	1
+টাইমস্	0	0.50	3	suffix	শামস্	T a i m s	0	0
+টাইমারটি	1	0.62	5	suffix	ট্রান্সফরমারটি	T a i m a r T i	1	1
+টাকাগুলো	1	0.88	7	suffix	চাকাগুলো	T a k a g u l O	1	1
+টাটা	1	1.00	4	suffix	কাটাটা	T a T a	1	1
+টানতেই	1	0.83	5	suffix	মানতেই	T a n t e i	1	1
+টানাটানির	0	0.44	4	prefix	টানা	T a n a T a n i r	1	1
+টাফি	1	0.75	3	suffix	ম্যাকাফি	T a ph i	1	1
+টামা	1	0.75	3	suffix	পায়জামা	T a m a	1	1
+টারবাইনের	1	0.67	6	suffix	বাইনের	T a r b a i n e r	1	1
+টারল	1	0.75	3	prefix	টার	T a r o l	0	0
+টার্মিনালের	0	0.45	5	suffix	ইন্টারন্যাশনালের	T a r m i n a l e r	1	1
+টালমাটাল	0	0.50	4	suffix	ফাটাল	T a l m a T a l	1	1
+টালিউডের	1	0.88	7	suffix	ঢালিউডের	T a l i u D e r	1	1
+টাল্লোর	0	0.57	4	suffix	উডেনফ্লোর	T a l l O r	1	1
+টাস্কফোর্সে	1	0.91	10	prefix	টাস্কফোর্স	T a s k ph O r s e	0	0
+টিইইউএস	0	0.57	4	suffix	ইউএস	T i i i u e s	1	0
+টিএনসি	1	0.83	5	suffix	ডিএনসি	T i e n s i	1	1
+টিএসসি	1	0.83	5	suffix	ডিএসসি	T i e s s i	1	1
+টিএসসিতে	1	0.88	7	suffix	পিএসসিতে	T i e s s i t e	1	1
+টিকচিহ্ন	1	0.75	6	suffix	স্মারকচিহ্ন	T i k ch i n n O	1	1
+টিকিটগুলো	1	0.67	6	suffix	ইউনিটগুলো	T i k i T g u l O	1	1
+টিকিটিও	1	0.71	5	prefix	টিকিট কাউন্টার	T i k i T i O	1	1
+টিকেও	1	1.00	5	suffix	এটিকেও	T i k e O	1	1
+টিচার্স	1	0.86	6	suffix	রিচার্স	T i ch a r s	1	1
+টিজার	1	0.80	4	suffix	বেনকিজার	T i j a r	1	1
+টিটিপির	1	0.71	5	suffix	ইটিপির	T i T i p i r	1	1
+টিতে	1	1.00	4	suffix	ঘাঁটিতে	T i t e	1	1
+টিনাশে	1	0.83	5	suffix	তিনাশে	T i n a sh e	1	1
+টিন্ডিশ	1	0.86	6	suffix	ডিন্ডিশ	T i n D i sh	1	1
+টিপতে	1	0.60	3	prefix	টিপটিপ	T i p t e	1	1
+টিবির	1	1.00	5	suffix	এমটিবির	T i b i r	1	1
+টিমটিমে	0	0.43	3	prefix	টিম	T i m T i m e	1	1
+টিলাকে	1	0.83	5	suffix	মিথিলাকে	T i l a k e	1	1
+টিলারের	1	0.86	6	suffix	ডিলারের	T i l a r e r	1	1
+অলজ্জ	1	0.80	4	suffix	ত্যক্তলজ্জ	o l o j j O	1	1
+অশংক	1	0.75	3	suffix	সশংক	o sh o ng k O	1	1
+অশান্ত	1	1.00	6	prefix	অশান্তি	o sh a nt O	1	1
+অসামঞ্জস্য	1	0.90	9	suffix	সামঞ্জস্য	o sh a m O n j O sh sh O	0	0
+অস্পৃশ্ট	1	0.88	7	suffix	সংস্পৃশ্ট	o s p ri sh T O	1	1
+অহমবোধের	1	0.75	6	suffix	দেশাত্মবোধের	o h O m b O dh e r	1	1
+অহমে	0	0.50	2	prefix	অহন	o h O m e	1	1
+অহরহই	1	0.60	3	suffix	সংগ্রহই	o h O r o h O i	0	0
+আইআইসিটি	1	0.75	6	suffix	সিআইসিটি	a i a i s i T i	1	1
+আইএমএফে	0	0.43	3	suffix	বিআইএফএফে	a i e m e ph e	1	1
+আইকনের	1	0.83	5	suffix	নাইকনের	a i k o n e r	1	1
+আইনচ্যুত	1	0.88	7	suffix	লাইনচ্যুত	a i n ch u t O	1	1
+আইনসম্মত	1	0.75	6	suffix	বিজ্ঞানসম্মত	a i n sh o mm O t O	0	1
+আইনেরই	1	0.67	4	suffix	জনেরই	a i n e r i	1	1
+আইভরিকোস্টও	0	0.45	5	suffix	পোস্টও	a i bh o r i k O s T O	0	0
+আইস	1	1.00	3	prefix	আইসিইউ	a i s	1	1
+আইসা	1	0.75	3	prefix	আইসিইউ	a i sh a	1	1
+আকারেই	1	0.83	5	prefix	আকারের	a k a r e i	1	1
+আকৃতিগত	1	0.86	6	suffix	প্রকৃতিগত	a k r i t i g o t O	0	0
+আক্রোশমুলক	0	0.50	5	suffix	বিদ্বেশমুলক	a k r O sh m u l O k	0	0
+আগ্রহিদের	1	0.67	6	prefix	আগ্রহি	a g r O h i d e r	0	0
+আচ্ছিন্ন	1	0.88	7	suffix	অচ্ছিন্ন	a ch chh i n n O	0	0
+আজাব	1	0.75	3	prefix	আজাদের	a j a b	1	1
+আটকরা	1	0.80	4	suffix	পর্যটকরা	a T O k r a	0	1
+আটবার	1	0.60	3	suffix	বুঝবার	a T b a r	1	1
+আতংকজনক	1	0.71	5	suffix	কলংকজনক	a t O ng k O j o n O k	0	1
+আতু	0	0.67	2	prefix	আতিফ	a t u	1	1
+আদল	0	0.67	2	prefix	আদর্শে	a d O l	1	1
+আদান	1	0.75	3	prefix	আদাকুচি	a d a n	1	1
+আদালতেই	1	0.71	5	prefix	আদালতসহ	a d a l o t e i	1	0
+আধুনিককালে	1	0.60	6	suffix	সাম্প্রতিককালে	a dh u n i k k a l e	1	1
+আনবেন	1	0.80	4	suffix	জানবেন	a n b e n	1	1
+আনমনা	1	0.80	4	suffix	সংকির্নমনা	a n m o n a	1	1
+আনাগোনার	1	0.62	5	suffix	গোনার	a n a g O n a r	1	1
+আনাচে	1	0.80	4	prefix	আনাচকানাচে	a n a ch e	1	1
+আনারসের	1	0.71	5	prefix	আনারস	a n a r o sh e r	0	0
+আনুকুল্য	1	1.00	8	prefix	আনুকুল্য	a n u k u l l O	1	1
+আনুগত্যই	0	0.50	4	suffix	সত্যই	a n u g o t t O i	0	0
+আপগ্রেডেশন	0	0.40	4	suffix	অক্সিডেশন	a p g r e D e sh o n	0	0
+আপরুচি	1	0.67	4	suffix	রুচি	a p r u ch i	1	1
+আপাদমস্তক	0	0.56	5	suffix	মস্তক	a p a d O m o st O k	0	0
+আফগানিস্তানের	1	0.69	9	suffix	তুর্কমেনিস্তানের	a ph g a n i st a n e r	1	1
+আফিলের	1	0.83	5	suffix	ফিলের	a ph i l e r	1	1
+আশখ্যাত	1	0.71	5	suffix	নোবেলখ্যাত	a sh kh kh A t O	0	0
+জাগবে	1	0.80	4	suffix	লাগবে	j a g b e	1	1
+জাগরনের	1	1.00	7	prefix	জাগরনের	j a g O r O n e r	0	0
+জাচ্ছিলো	1	0.88	7	prefix	জাচ্ছিলেন	j a ch chh i l O	1	1
+জাজিম	1	0.80	4	prefix	জাজিরাতুল	j a j i m	1	1
+জাটি	1	1.00	4	suffix	দরজাটি	j a T i	1	1
+জানতামই	0	0.57	4	prefix	জানতে	j a n t a m i	1	1
+জাবর	1	0.75	3	prefix	জাবনিক	j a b o r	0	1
+জারিতে	1	1.00	6	suffix	নামজারিতে	j a r i t e	1	1
+জিআর	1	1.00	4	suffix	পিজিআর	j i a r	1	1
+জিএসএ	1	0.80	4	prefix	জিএসপি	j i e s e	1	1
+জিএসবির	1	0.86	6	suffix	ডিএসবির	j i e s b i r	1	1
+জিওগ্রাফি	1	1.00	9	prefix	জিওগ্রাফিক	j i O g r a ph i	0	0
+জিওফফ্রে	0	0.50	4	suffix	উইনফ্রে	j i O ph o ph r e	0	0
+জিওভান্নি	0	0.56	5	suffix	পান্নি	j i O bh a n n i	0	0
+জিতলে	1	0.80	4	prefix	জিতলাম	j i t l e	1	0
+জিমেইল	1	0.67	4	suffix	বাংলামেইল	j i m e i l	1	1
+জির্ন	1	1.00	5	suffix	অজির্ন	j i r n O	1	1
+জুপ্পি	1	0.83	5	suffix	কুপ্পি	j u p p i	1	1
+জুরালি	1	0.83	5	suffix	মুরালি	j u r a l i	1	1
+জুলেখা	1	1.00	6	prefix	জুলেখার	j u l e kh a	1	1
+জেকেউ	1	0.80	4	prefix	জেকে	j e k e u	1	1
+জেরার্ড	1	1.00	7	prefix	জেরার্ডদের	j e r a r D	1	1
+জোউনজিবনের	1	0.80	8	prefix	জোউনজিবন	j O u n O j i b O n e r	0	0
+ঝঞ্ঝনা	1	0.67	4	prefix	ঝঞ্ঝাট	jh o n jh o n a	0	1
+ঝরনাকে	1	0.83	5	suffix	প্রচারনাকে	jh o r n a k e	0	0
+ঝাজরাচকি	0	0.50	4	suffix	কাচকি	jh a j r a ch O k i	0	0
+ঝাট্	0	0.50	2	prefix	ঝাঁপ দেওয়া	jh a T	1	1
+ঝাপ	1	1.00	3	prefix	ঝাপটা	jh a p	1	1
+ঝাপান	1	0.80	4	suffix	ছাপান	jh a p a n O	0	0
+টপসে	1	1.00	4	prefix	টপসের	T o p s e	1	0
+টলা	1	1.00	3	prefix	টলারেন্সে	T o l a	1	1
+টাংান	1	0.80	4	suffix	ভাংান	T a ng g a n O	0	0
+টাইলসের	1	0.86	6	suffix	পাইলসের	T a i l s e r	1	1
+টানাও	1	0.80	4	prefix	টানা	T a n a O	1	1
+টার্গেট	0	0.57	4	prefix	টার্ন	T a r g e T	1	1
+টালবাহানা	1	0.89	8	suffix	তালবাহানা	T a l b a h a n a	1	1
+টালাটালি	1	0.62	5	suffix	বাটালি	T a l a T a l i	1	1
+টিঅ্যান্ডটি	1	1.00	11	suffix	পিটিঅ্যান্ডটি	T i A n D T i	0	0
+টিআইবির	1	0.86	6	suffix	পিআইবির	T i a i b i r	1	1
+টিউবসের	0	0.57	4	suffix	বসের	T i u b s e r	1	1
+টিউবার	1	0.83	5	suffix	কিউবার	T i u b a r	1	1
+টিও	1	1.00	3	suffix	আংটিও	T i O	1	1
+টিশার্ট	1	0.71	5	suffix	লালশার্ট	T i sh a r T	0	1

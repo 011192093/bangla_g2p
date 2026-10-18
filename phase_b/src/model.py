@@ -18,6 +18,7 @@ This is intentionally small — a few hundred thousand parameters —
 appropriate for a ~2,000-word dataset. Scale up once the lexicon grows.
 """
 
+import math
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
@@ -145,7 +146,20 @@ class Seq2SeqG2P(nn.Module):
     @torch.no_grad()
     def greedy_decode(self, input_ids, input_lens, register_ids,
                        sos_id, eos_id, max_len=30):
-        """Inference: no teacher forcing, greedy argmax decoding."""
+        """
+        Inference: no teacher forcing, greedy argmax decoding.
+
+        Returns (results, confidences):
+          results:     list[list[int]], one token-id list per batch item
+          confidences: list[float], one score per batch item in [0, 1] --
+                       the geometric mean of the softmax probability the
+                       model assigned to each token it actually chose
+                       (including the EOS step). This is NOT a calibrated
+                       "percent correct" -- small GRU models are often
+                       overconfident on wrong predictions -- treat it as a
+                       relative signal (this word vs. that word), not an
+                       absolute probability.
+        """
         self.eval()
         batch_size = input_ids.size(0)
         encoder_outputs, hidden_cat = self.encoder(input_ids, input_lens)
@@ -155,16 +169,22 @@ class Seq2SeqG2P(nn.Module):
         dec_input = torch.full((batch_size,), sos_id, dtype=torch.long,
                                 device=input_ids.device)
         results = [[] for _ in range(batch_size)]
+        log_probs = [[] for _ in range(batch_size)]
         finished = [False] * batch_size
 
         for _ in range(max_len):
             logits, hidden, _ = self.decoder.forward_step(
                 dec_input, hidden, encoder_outputs, mask, register_ids
             )
+            probs = F.softmax(logits, dim=1)
             top1 = logits.argmax(1)
+            chosen_probs = probs.gather(1, top1.unsqueeze(1)).squeeze(1)  # (batch,)
+
             for i in range(batch_size):
                 if not finished[i]:
                     tok = top1[i].item()
+                    # clamp away from exactly 0 so log() never blows up
+                    log_probs[i].append(torch.log(chosen_probs[i].clamp_min(1e-12)).item())
                     if tok == eos_id:
                         finished[i] = True
                     else:
@@ -173,4 +193,8 @@ class Seq2SeqG2P(nn.Module):
             if all(finished):
                 break
 
-        return results
+        confidences = [
+            math.exp(sum(lp) / len(lp)) if lp else 0.0
+            for lp in log_probs
+        ]
+        return results, confidences

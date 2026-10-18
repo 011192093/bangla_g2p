@@ -7,11 +7,14 @@ import sys
 import torch
 
 sys.path.insert(0, os.path.dirname(__file__))
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "..", "src"))
 from data import encode_word, EOS, PAD, SOS
 from predict import load_model
+from normalizer import compose_nukta
 
 
 def predict_both(model, vocabs, word, register, device, beam_width=5):
+    word = compose_nukta(word)
     input_stoi = vocabs["input_stoi"]
     output_itos = {i: token for token, i in vocabs["output_stoi"].items()}
     register_stoi = vocabs["register_stoi"]
@@ -27,7 +30,7 @@ def predict_both(model, vocabs, word, register, device, beam_width=5):
     eos_id = vocabs["output_stoi"][EOS]
 
     with torch.no_grad():
-        greedy_result = model.greedy_decode(
+        greedy_result, _greedy_confidences = model.greedy_decode(
             input_ids, input_lens, register_ids, sos_id, eos_id
         )
         beam_result = model.beam_search_decode(

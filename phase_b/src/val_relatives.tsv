@@ -1,0 +1,3617 @@
+word	has_relative	overlap	shared_chars	side	closest_train_word	gold	transformer_ok	gru_ok
+দপ্তরেও	1	0.86	6	prefix	দপ্তরেই	d o p t O r e O	1	1
+সঞ্চারনের	1	0.78	7	prefix	সঞ্চারন	sh o nch a r o n e r	1	1
+নির্বাচকরা	1	0.80	8	prefix	নির্বাচকমন্ডলির	n i r b a ch O k r a	0	1
+কপার	1	1.00	4	prefix	কপারের	k o p a r	1	1
+বরফঢাকা	0	0.57	4	suffix	ঢাকা	b o r O ph Dh a k a	1	1
+একানব্বইয়ে	1	1.00	10	prefix	একানব্বইয়ের	E k a n O b b O i y e	1	0
+পোকাটি	1	0.83	5	suffix	কেঠোকাটি	p O k a T i	1	1
+জননিরাপত্তাবিশয়ক	1	0.88	14	suffix	নিরাপত্তাবিশয়ক	j o n o n i r a p o tt a b i sh o y O k	1	0
+মন্তব্যেও	1	0.89	8	prefix	মন্তব্যেই	m o nt o b b e O	1	0
+শইলকুপা	1	1.00	7	prefix	শইলকুপার	sh O i l O k u p a	0	0
+মুরাদের	1	0.86	6	suffix	ত্রিপুরাদের	m u r a d e r	1	1
+কনসালটিং	1	0.75	6	prefix	কনসালটেটিভ	k o n s a l T i ng	1	1
+স্বরাশ্ট্রমন্ত্রিরা	1	1.00	19	prefix	স্বরাশ্ট্রমন্ত্রিরা	sh o r a sh T r O m O nt ri r a	0	1
+লাভসহ	1	0.60	3	prefix	লাভলেস	l a bh sh o h O	1	1
+লেমুয়া	1	0.67	4	prefix	লেমুছড়ি	l e m u y a	1	1
+মুসলমানরাও	1	0.90	9	prefix	মুসলমানরাই	m u sh o l m a n r a O	1	0
+পাতব	1	0.75	3	prefix	পাতন	p a t b o	0	0
+বরাংগ	1	1.00	5	prefix	বরাংগনা	b o r a ng g O	1	1
+সহ	0	1.00	2	prefix	সহউপাচার্য	sh o h O	1	1
+ইয়াদুল	1	0.83	5	suffix	জাওয়াদুল	i y a d u l	1	1
+অভিবাসিদেরই	1	0.91	10	prefix	অভিবাসিদের	O bh i b a sh i d e r O i	0	0
+পারচেস	1	0.83	5	prefix	পারচেজিং	p a r ch e s	0	0
+অনভুতি	1	0.67	4	suffix	ভুতি	o n O bh u t i	1	1
+প্রিয়রকে	1	0.75	6	prefix	প্রিয়র	pr i y o r k e	1	1
+নির্বাহিদের	1	1.00	11	prefix	নির্বাহিদের	n i r b a h i d e r	1	1
+জাবের	1	1.00	5	suffix	হিজাবের	j a b e r	1	1
+পরিনেয়	1	0.83	5	prefix	পরিনেতা	p O r i n e y O	1	1
+আমাদেরকে	1	1.00	8	prefix	আমাদেরকেই	a m a d e r k e	1	1
+সেলেকাওদের	1	0.70	7	prefix	সেলেকাওরা	s e l e k a O d e r	1	1
+চাইনা	1	0.80	4	prefix	চাইন	ch a i n a	1	1
+পাটনার	1	0.83	5	prefix	পাটনা	p a T n a r	1	1
+ক্যাথির	1	0.86	6	prefix	ক্যাথিকে	k A th i r	1	1
+দুর্নিতিসংক্রান্ত	1	0.76	13	suffix	নিতিসংক্রান্ত	d u r n i t i sh o ng kr a nt O	1	1
+উদারীকরণের	1	1.00	10	prefix	উদারিকরনের	u d a r i k o r O n e r	1	1
+জসিম	1	1.00	4	prefix	জসিমউদদিন	j O sh i m	1	1
+চান্দ্রা	1	1.00	8	prefix	চান্দ্রায়ন	ch a ndr o r a	0	0
+উগ্রবাদীদের	1	1.00	11	prefix	উগ্রবাদিদের	u gr O b a d i d e r	1	1
+সচকিত	1	0.80	4	suffix	হতচকিত	sh o ch O k i t O	1	1
+পাচের	1	0.80	4	prefix	পাচেকের	p a ch e r	1	1
+প্রেমজ	1	1.00	6	prefix	প্রেমজি	pr e m O j	0	1
+বুলগেরিয়া	1	1.00	9	prefix	বুলগেরিয়াকে	b u l g e r i a	0	0
+ব্লার	1	0.80	4	prefix	ব্লাডেড	bl a r	1	1
+বিনায়কের	1	0.88	7	suffix	অধিনায়কের	b i n a y O k e r	1	0
+জাপানি ভাষা	0	0.55	6	prefix	জাপানি	j a p a n i | bh a sh a	1	1
+ছায়েদ	1	1.00	5	prefix	ছায়েদুল	chh a y e d	1	1
+পাহাড়ও	1	0.83	5	prefix	পাহাড়	p a h a r O	1	1
+থ্রিজিতে	1	0.75	6	prefix	থ্রিজি	th r i j i t e	1	1
+সেসি	1	0.75	3	prefix	সেসময়	s e s i	1	1
+সিমান্তপথে	1	0.90	9	prefix	সিমান্তপথ	sh i m a nt O p o th e	0	0
+উদধি	1	0.75	3	suffix	দধি	u d O dh i	0	0
+বিএমএ	1	1.00	5	prefix	বিএমএক্স	b i e m e	1	1
+প্রতিটিই	1	0.88	7	prefix	প্রতিটি	pr O t i T i i	1	1
+অভিজোগকেন্দ্র	1	1.00	13	prefix	অভিজোগকেন্দ্রে	O bh i j O g k e ndr O	1	1
+বিমানবন্দরটি	1	1.00	12	prefix	বিমানবন্দরটির	b i m a n b o nd O r T i	1	1
+চালগুলো	1	0.86	6	suffix	খালগুলো	ch a l g u l O	1	1
+নিধির	1	1.00	5	prefix	নিধিরাম	n i dh i r	1	1
+শিল্পবর্জ্য	1	1.00	11	prefix	শিল্পবর্জ্যে	sh i l p o b o r j j O	0	0
+জনপ্রতিনিধিসহ	1	0.85	11	prefix	জনপ্রতিনিধিরাও	j o n O pr O t i n i dh i sh o h O	0	1
+কতটুক	1	1.00	5	prefix	কতটুকু	k o t o T u k	0	0
+রাবিয়া	1	1.00	6	suffix	আরাবিয়া	r a b i y a	1	1
+অনে	1	1.00	3	prefix	অনেক	o n e	1	1
+চালিয়েছিলেন	1	0.91	10	suffix	পালিয়েছিলেন	ch a l i y e chh i l e n	1	1
+তানাকা	1	1.00	6	prefix	তানাকার	t a n a k a	1	1
+কুলাসেকারার	1	0.91	10	prefix	কুলাসেকারাকে	k u l a sh e k a r a r	1	1
+বসন্তকালে	1	1.00	9	prefix	বসন্তকালের	b o sh O nt O k a l e	1	1
+দির্ঘতম	1	1.00	7	prefix	দির্ঘতম	d i r gh O t o m O	1	1
+অতিসম্প্রতি	1	0.73	8	suffix	সুন্দরসম্প্রতি	O t i sh o m p r O t i	1	1
+নাজিবুল্লাহ	1	1.00	11	prefix	নাজিবুল্লাহর	n a j i b u l l a h	1	1
+মাচাং	1	0.80	4	prefix	মাচা	m a ch a ng	1	1
+ভর্তিপ্রক্রিয়ার	1	0.93	14	prefix	ভর্তিপ্রক্রিয়া	bh O r t i pr O k ri y a r	0	0
+গণসংবর্ধনা	1	1.00	10	prefix	গনসংবর্ধনা	g o n O sh o ng b o r dh O n a	1	1
+জাত্রাবিরতির	1	0.92	11	prefix	জাত্রাবিরতিতে	j a tr a b i r o t i r	1	1
+সিপ্রংয়ের	1	0.67	6	prefix	সিপ্রং	sh i pr O ng y e r	1	1
+শুরুটাকে	1	0.75	6	prefix	শুরুটাও	sh u r u T a k e	1	1
+প্রথমবারেরমতো	1	0.92	12	prefix	প্রথমবারেরমত	pr O th O m b a r e r m o t O	1	0
+সমন্বিত	1	1.00	7	prefix	সমন্বিতভাবে	sh o m O n n i t O	1	1
+প্রারম্ভ	1	1.00	8	prefix	প্রারম্ভিক	pr a r o m bh O	1	0
+ম্যান্ডেটপ্রাপ্ত	0	0.56	9	prefix	ম্যান্ডেট	m A n D e T pr a p t O	1	1
+জাদবরা	1	0.67	4	prefix	জাদবপুর	j a d o b r a	0	0
+থেরাপিস্ট	1	1.00	9	suffix	ফিজিওথেরাপিস্ট	th e r a p i s T	1	1
+ড্যাস	1	1.00	5	prefix	ড্যাসিং	D A s	1	1
+হার্শালি	1	0.75	6	suffix	হর্শালি	h a r sh a l i	1	1
+মির্চি	1	0.67	4	prefix	মির্জাই	m i r ch i	1	1
+ডেভিডের	1	0.71	5	prefix	ডেভিডকে	D e bh i D e r	1	1
+শহরগুলোকে	1	0.78	7	prefix	শহরগুলোও	sh o h o r g u l O k e	1	0
+মার্টের	1	1.00	7	suffix	স্মার্টের	m a r T e r	1	1
+হাঁকা	1	0.80	4	prefix	হাঁকে	h a~ k a	1	1
+ফেরদোউসের	1	0.78	7	prefix	ফেরদোউসির	ph e r d O u s e r	1	1
+কুন্দ	1	1.00	5	prefix	কুন্দন	k u nd O	1	1
+গিন্নিরা	1	0.75	6	prefix	গিন্নি	g i nn i r a	1	1
+সাকিবও	1	0.83	5	prefix	সাকিবই	sh a k i b O	1	0
+সচিবরা	1	0.67	4	prefix	সচিবগন	sh O ch i b r a	1	1
+পটুয়াখালিসহ	1	0.82	9	prefix	পটুয়াখালির	p o T u y a kh a l i sh o h O	1	1
+অন্যমনস্ক	0	0.56	5	prefix	অন্যমাত্রা	O n n O m o n O s k O	1	0
+রেসিডেনশিয়াল	1	1.00	12	suffix	প্রেসিডেনশিয়াল	r e sh i D e n sh i y a l	0	0
+পুর্নদিবস	1	1.00	9	prefix	পুর্নদিবস	p u r n O d i b o sh	1	1
+রিলাক্স	1	1.00	7	prefix	রিলাক্সড	r i l a k s	1	1
+ট্যাকলে	1	0.86	6	prefix	ট্যাকল	T A k l e	1	1
+ভিসা	1	1.00	4	prefix	ভিসাই	bh i s a	1	1
+গুহাটি	1	1.00	6	prefix	গুহাটির	g u h a T i	1	1
+কলেজটিতে	1	0.75	6	prefix	কলেজটিকে	k o l e j T i t e	1	1
+মানমাত্রা	1	1.00	9	prefix	মানমাত্রার	m a n m a tr a	1	1
+নাসির	1	1.00	5	prefix	নাসিরই	n a s i r	1	1
+মেক	1	1.00	3	prefix	মেকং	m e k	1	1
+পরিশুদ্ধতার	1	0.73	8	prefix	পরিশুদ্ধ	p O r i sh u d dh o t a r	0	1
+গবেশনাটির	1	1.00	9	prefix	গবেশনাটির	g o b e sh o n a T i r	1	1
+পৃশ্ঠাজুড়ে	1	0.60	6	prefix	পৃশ্ঠাগুলোতে	p ri sh Th a j u r e	1	1
+তোজিরাকর্ন	0	0.50	5	suffix	ঘন্টাকর্ন	t O j i r a k o r n O	1	1
+গুঞ্জ	1	1.00	5	prefix	গুঞ্জন	g u nj O	1	1
+তোরাও	1	1.00	5	suffix	রেস্তোরাও	t O r a O	1	1
+কর্মেই	1	0.83	5	prefix	কর্মে	k o r m e i	1	1
+শান্তিরক্ষা	1	1.00	11	prefix	শান্তিরক্শার	sh a nt i r o kkh a	1	1
+সম্পদের	1	1.00	7	prefix	সম্পদেরও	sh o mp O d e r	1	1
+থিং	1	1.00	3	prefix	থিংক	th i ng	1	1
+চাকমার	1	1.00	6	prefix	চাকমারকুল	ch a k m a r	1	1
+ইকরার	1	0.80	4	prefix	ইকরামের	i k r a r	1	1
+টয়োটার	1	0.67	4	suffix	মিনেসোটার	T o y O T a r	1	1
+ইশার	1	1.00	4	prefix	ইশারা	i sh a r	1	1
+সিভিতে	1	0.83	5	suffix	সিসিটিভিতে	s i bh i t e	1	0
+স্বদেশকে	1	0.75	6	prefix	স্বদেশ	sh o d e sh k e	1	1
+ট্রেনেই	1	0.86	6	prefix	ট্রেনে	T r e n e i	1	1
+নেরপা	1	0.80	4	suffix	শেরপা	n e r p a	1	0
+হট্ট	1	1.00	4	prefix	হট্টগোল	h o T T O	1	1
+আমানতকারীদের	1	1.00	12	prefix	আমানতকারিদের	a m a n O t k a r i d e r	0	1
+সুচিত্রার	1	0.89	8	prefix	সুচিত্রাদির	sh u ch i tr a r	1	1
+রাইনো	1	1.00	5	prefix	রাইনোপ্লাস্টি	r a i n O	1	1
+করেইনি	1	0.83	5	suffix	পারেইনি	k o r e i n i	1	1
+শলাকা	1	1.00	5	prefix	শলাকার	sh o l a k a	1	1
+উন্নয়নেই	1	0.88	7	prefix	উন্নয়নে	u nn o y o n e i	1	1
+চাদরাত	1	1.00	6	prefix	চাদরাতে	ch a d r a t	1	1
+জেএক্স	1	0.67	4	suffix	সিএসসিএক্স	j e e k s	1	1
+পুতুলটি	1	0.71	5	prefix	পুতুলগুলো	p u t u l T i	1	1
+পরাহত	1	1.00	5	suffix	সুদুরপরাহত	p o r a h o t O	1	1
+ট্যাক্সিক্যাবে	1	1.00	14	prefix	ট্যাক্সিক্যাবের	T A k s i k A b e	1	1
+এগিয়েই	1	0.83	5	prefix	এগিয়েও	e g i y e i	1	1
+শিক্ষাহিন	1	0.67	6	prefix	শিক্শাস্তরে	sh i kkh a h i n	1	1
+গোড়ালিতে	1	0.75	6	prefix	গোড়ালিকে	g O r a l i t e	1	1
+সর্বজ্ঞ	1	0.71	5	prefix	সর্বজেশ্ঠ	sh o r b O g g O	1	1
+বালদো	1	0.80	4	suffix	রোনালদো	b a l d O	1	1
+শয়ন	1	1.00	3	prefix	শয়নকক্শ	sh o y O n	1	1
+সামু	1	1.00	4	prefix	সামুদ	sh a m u	1	1
+কুটে	1	1.00	4	suffix	তিতকুটে	k u T e	1	1
+বন্যপ্রানি	1	1.00	10	prefix	বন্যপ্রানি	b O n n O pr a n i	1	0
+প্রার্থীতা	1	1.00	10	prefix	প্রার্থিতা	pr a r th i t a	1	1
+যাত্রাও	1	0.86	6	prefix	যাত্রাদলের	j a tr a O	1	1
+চরিত্রটাও	1	0.89	8	prefix	চরিত্রটা	ch O r i tr O T a O	1	1
+লোককে	1	1.00	5	prefix	লোককেও	l O k k e	1	1
+পিকেট	1	1.00	5	prefix	পিকেটার	p i k e T	1	1
+ভোমরা	1	1.00	5	suffix	প্রানভোমরা	bh O m r a	1	1
+লারাম	1	1.00	5	suffix	খেলারাম	l a r a m	1	1
+বায়না	1	1.00	5	prefix	বায়নানামা	b a y n a	1	1
+মনোরথে	1	0.83	5	prefix	মনোরথ	m O n O r o th e	1	0
+মহাখালিগামি	1	0.82	9	suffix	পটুয়াখালিগামি	m o h a kh a l i g a m i	1	1
+ভ্যালেন্টাইনের	1	0.86	12	prefix	ভ্যালেন্টাইনস	bh A l e n T a i n e r	1	1
+বাপ্তিস্মা	0	0.50	5	prefix	বাপ্তা	b a p t i s m a	0	0
+দূর্গ	1	1.00	5	prefix	দুর্গ	d u r g O	1	1
+সাহারা	1	1.00	6	prefix	সাহারান	sh a h a r a	1	1
+স্বাস্থ্যপরীক্ষা	1	1.00	16	prefix	স্বাস্থ্যপরিক্শা	sh a s th O p O r i kkh a	1	0
+অমিমাংসিতভাবে	1	0.69	9	prefix	অমিমাংসিতই	O m i m a ng sh i t o bh a b e	0	0
+দোকানপাটের	1	0.90	9	prefix	দোকানপাটে	d O k a n p a T e r	1	1
+সহযোগীরা	1	0.75	6	prefix	সহযোগিদের	sh o h O j O g i r a	1	1
+নাতিকে	1	0.83	5	suffix	তাতিকে	n a t i k e	1	1
+শংখিনি	1	0.67	4	suffix	দুঃখিনি	kh O ng kh i n i	0	0
+মির্জাপুরে	1	1.00	10	prefix	মির্জাপুরের	m i r j a p u r e	1	1
+কম্বিনেশন	1	1.00	9	prefix	কম্বিনেশনের	k o mb i n e sh o n	1	1
+ধরুন	1	0.75	3	prefix	ধরুক	dh O r u n	1	1
+কামালকে	1	0.86	6	suffix	গামালকে	k a m a l k e	1	1
+পেরিফেরাল	0	0.56	5	prefix	পেরিফাইটন	p e r i ph e r a l	1	1
+চুঙা	0	0.50	2	prefix	চুক্তিস্বাক্শর	ch u ng a	1	1
+শাসনকার্যে	1	0.90	9	prefix	শাসনকার্য	sh a sh O n k a r j e	0	0
+লেখালেখিও	1	0.89	8	prefix	লেখালেখি	l e kh a l e kh i O	1	1
+মোউলবাদকে	1	0.78	7	prefix	মোউলবাদ	m O u l o b a d k e	1	1
+নোউপথনির্ভর	1	0.64	7	suffix	মুখস্থনির্ভর	n O u p o th n i r bh o r	1	1
+গাটে	1	1.00	4	prefix	গাটের	g a T e	1	1
+দিনটিতেই	1	0.88	7	prefix	দিনটিতে	d i n T i t e i	1	1
+বঞ্চন	1	1.00	5	prefix	বঞ্চনা	b o nch o n	0	0
+কার্ডিওলজি	1	1.00	10	prefix	কার্ডিওলজির	k a r D i O l o j i	1	0
+সংবহ	1	1.00	4	prefix	সংবহন	sh o ng b o h O	1	1
+তাপস	1	1.00	4	prefix	তাপসকে	t a p O sh	1	0
+ভোপালের	1	0.86	6	suffix	গোপালের	bh O p a l e r	1	1
+কানু	1	1.00	4	prefix	কানুতোশ	k a n u	1	1
+চাদর	1	1.00	4	prefix	চাদরও	ch a d O r	1	1
+গাজিউর	1	1.00	6	prefix	গাজিউরের	g a j i u r	1	1
+কোরামের	1	0.86	6	suffix	মিজোরামের	k O r a m e r	1	1
+ভানুয়াটুর	1	0.67	6	prefix	ভানুয়ারা	bh a n u a T u r	0	0
+জমায়েত	1	1.00	6	prefix	জমায়েতকে	j o m a y e t	1	1
+জানবার	1	0.83	5	prefix	জানবাহন	j a n b a r	1	1
+নাত	1	1.00	3	prefix	নাতনি	n a t	1	1
+আয়োজনই	1	0.83	5	prefix	আয়োজন	a y O j o n i	1	1
+কষ্টের	1	1.00	6	prefix	কশ্টের	k o shT e r	1	1
+নিরংকুশ	1	1.00	7	prefix	নিরংকুশভাবে	n i r O ng k u sh	0	0
+রাধামাধবপুর	1	0.64	7	suffix	মাধবপুর	r a dh a m a dh o b p u r	1	1
+সাড়াই	1	0.80	4	prefix	সাড়া	sh a r a i	1	1
+লব্ধপ্রতিশ্ঠ	1	0.67	8	suffix	অপ্রতিশ্ঠ	l o b dh o pr O t i sh Th O	0	0
+সংস্কৃতিকে	1	0.90	9	prefix	সংস্কৃতিকর্মিসহ	sh o ng s k ri t i k e	1	1
+স্পেলিং	1	0.71	5	prefix	স্পেলটা	s p e l i ng	1	0
+নেটওয়ার্কগুলোর	1	0.93	13	prefix	নেটওয়ার্কগুলো	n e T o O y a r k g u l O r	1	1
+গোষ্ঠীতে	1	1.00	8	prefix	গোশ্ঠিতে	g O shTh i t e	1	1
+হেফাজতকর্মিরা	1	0.85	11	prefix	হেফাজতকর্মিদের	h e ph a j t k r m i r a	0	0
+হুইপ	1	1.00	4	prefix	হুইপের	h u i p	1	1
+দোশাশ্রিত	1	0.67	6	suffix	দেবাশ্রিত	d O sh a s r i t O	1	0
+নিষ্কাশনের	1	1.00	10	prefix	নিশ্কাশনের	n i sh k a sh o n e r	1	1
+চলছিল	1	1.00	5	prefix	চলছিলেন	ch O l chh i l O	1	1
+বাসনাপুর্ন	1	0.70	7	suffix	প্রতারনাপুর্ন	b a sh o n a p u r n o	0	0
+দপ্পন	1	0.80	4	prefix	দপ্প	d o p p o	0	0
+বিনিয়োগনিতি	1	1.00	11	prefix	বিনিয়োগনিতির	b i n i y O g n i t i	1	1
+নাফিস	1	1.00	5	prefix	নাফিস	n a ph i sh	1	1
+সিতি	1	0.75	3	prefix	সিতারামপুর	sh i t i	1	1
+সখি	1	1.00	3	prefix	সখি	sh O kh i	1	1
+মায়াবতি	1	1.00	7	prefix	মায়াবতিকে	m a y a b o t i	1	1
+এফবিআইয়ের	1	0.78	7	suffix	বিআইয়ের	e ph b i a i y e r	1	1
+অঞ্জনি	1	1.00	6	prefix	অঞ্জনিকা	o nj O n i	1	1
+সিজনে	1	1.00	5	prefix	সিজনের	sh i j O n e	0	0
+গ্রামবাসিরা	1	0.91	10	prefix	গ্রামবাসির	gr a m b a sh i r a	1	1
+টোয়াইলাইট	1	0.67	6	suffix	হাইলাইট	T O y a i l a i T	1	1
+সাদুল্লাপুর	1	0.73	8	prefix	সাদুল্লা	sh a d u l l a p u r	1	0
+মোজাহেদ	1	0.86	6	prefix	মোজাহের	m O j a h e d	1	1
+শত্রু	1	1.00	5	prefix	শত্রুই	sh O tr u	1	1
+কার্যকরের	1	0.89	8	prefix	কার্যকরে	k a r j O k o r e r	1	1
+দাদখাই	1	0.83	5	prefix	দাদখানি	d a d kh a i	1	1
+অতিথিপরায়ন	1	0.60	6	suffix	বিস্মৃতিপরায়ন	O t i th i p o r a y o n	1	0
+পেলেগ	1	1.00	5	prefix	পেলেগ্রিনি	p e l e g	1	1
+ডিসেম্বরে	1	1.00	9	prefix	ডিসেম্বরেই	D i s e mb o r e	1	1
+তামান্নার	1	0.89	8	prefix	তামান্নাকে	t a m a nn a r	1	1
+রেকর্ড	1	1.00	6	prefix	রেকর্ডই	r e k O r D	0	1
+লটবহর	1	0.60	3	suffix	শুল্কবহর	l o T b o h O r	0	0
+ফুলেরতলে	1	0.62	5	prefix	ফুলের	ph u l e r t o l e	1	1
+অক্টাকোর	1	0.62	5	prefix	অক্টা	o k T a k O r	1	1
+মোস্তাফিজার	1	0.82	9	prefix	মোস্তাফিজকে	m O st a ph i j a r	1	1
+মরিচ্যা	0	0.57	4	prefix	মরিচের	m o r i ch ch a	0	0
+উপশান্ত	1	0.71	5	suffix	ইশান্ত	u p O sh a nt O	1	1
+উদ্ভূত	1	1.00	6	prefix	উদ্ভুত	u d bh u t O	1	0
+কার্লোস	1	1.00	7	prefix	কার্লোসের	k a r l O s	1	1
+সোউধে	1	1.00	5	prefix	সোউধের	sh O u dh e	1	1
+নইশকালিন	1	0.75	6	suffix	অবকাশকালিন	n O i sh O k a l i n	1	1
+সিপা	1	1.00	4	prefix	সিপাই	sh i p a	1	1
+সাফল্যজনক	1	1.00	9	prefix	সাফল্যজনকভাবে	sh a ph o l l o j o n o k	1	0
+মার্টিন	1	1.00	7	prefix	মার্টিনকে	m a r T i n	1	1
+টেকনাফসহ	1	0.75	6	prefix	টেকনাফ	T e k n a ph sh o h O	1	1
+রুপায়ন	1	1.00	6	prefix	রুপায়নে	r u p a y O n	0	0
+শতকটি	1	1.00	5	prefix	শতকটির	sh o t O k T i	1	1
+ইয়র্কারস	1	0.88	7	prefix	ইয়র্কার	i y o r k a r sh o	0	0
+মহাখালি	1	1.00	7	prefix	মহাখালিতে	m o h a kh a l i	1	1
+ডিরেকশন	1	0.71	5	prefix	ডিরেক্ট	D i r e k sh o n	1	1
+পলিটিক্যান	1	0.90	9	prefix	পলিটিক্যাল	p o l i T i k A n	1	1
+কাজামের	1	0.86	6	prefix	কাজামে	k a j a m e r	1	1
+হচ্ছেন	1	1.00	6	prefix	হচ্ছেনা	h O ch chh e n	1	1
+প্রশাসনকে	1	1.00	9	prefix	প্রশাসনকেই	pr O sh a sh o n k e	1	1
+কানেও	1	1.00	5	suffix	দোকানেও	k a n e O	1	1
+স্পশ্টরুপে	1	0.60	6	prefix	স্পশ্টভাশি	s p o sh T o r u p e	1	0
+মডেলভেদে	1	0.62	5	suffix	অঞ্চলভেদে	m o D e l bh e d e	1	1
+উচ্চাভিলাশিই	1	0.92	11	prefix	উচ্চাভিলাশি	u ch ch a bh i l a sh i i	1	1
+পিসিসি	1	1.00	6	prefix	পিসিসির	p i s i s i	1	1
+নুদুস	1	1.00	5	suffix	নাদুসনুদুস	n u d u sh	1	1
+উপন্যাসটির	1	0.90	9	prefix	উপন্যাসটিতে	u p O n n a sh T i r	1	1
+গুরুত্বারোপ	1	0.64	7	prefix	গুরুত্বহিন	g u r u tt a r O p	1	1
+শ্রমজিবি	1	1.00	8	prefix	শ্রমজিবিদের	s r O m o j i b i	1	1
+জইন্তা	1	1.00	6	prefix	জইন্তাপুর	j O i nt a	1	1
+অভ্যাসটি	1	0.88	7	prefix	অভ্যাসটাই	o b bh a sh T i	1	1
+নাসিরুল্লাহ	1	0.73	8	suffix	বশিরুল্লাহ	n a s i r u l l a h	1	1
+বাকিটাও	1	0.86	6	prefix	বাকিটা	b a k i T a O	1	1
+লুপ্তি	1	1.00	6	suffix	অবলুপ্তি	l u p t i	1	1
+ফাটাফাটি	0	0.50	4	prefix	ফাটানোর	ph a T a ph a T i	1	1
+বাফেট	1	1.00	5	prefix	বাফেটের	b a ph e T	1	1
+মানবাধিকারগুলো	1	0.71	10	prefix	মানবাধিকারকে	m a n O b a dh i k a r g u l O	1	1
+মকবুলের	1	0.86	6	suffix	কবুলের	m o k b u l e r	1	1
+ফোমেন্ট	1	0.86	6	suffix	মোমেন্ট	ph O m e n T	1	1
+দেশেই	1	1.00	5	suffix	প্রদেশেই	d e sh e i	1	1
+দিবসগুলোতে	1	0.70	7	suffix	হাউসগুলোতে	d i b o sh g u l O t e	1	1
+মিশনগুলোতে	1	0.80	8	prefix	মিশনগুলোকে	m i sh o n g u l O t e	1	1
+বিইএ	1	1.00	4	prefix	বিইএন	b i i e	1	1
+সন্দ্বিপ	1	1.00	8	prefix	সন্দ্বিপে	sh o n d i p	0	1
+রওনাও	1	0.80	4	prefix	রওনা	r o O n a O	1	1
+নিশিদ্ধও	1	0.88	7	prefix	নিশিদ্ধই	n i sh i d dh o O	1	1
+প্রনালিতে	1	1.00	9	suffix	কার্যপ্রনালিতে	pr O n a l i t e	1	1
+ভাগেরই	1	1.00	6	suffix	বিভাগেরই	bh a g e r i	1	1
+সেচজন্ত্র	1	1.00	9	prefix	সেচজন্ত্রে	sh e ch j O n t r O	0	0
+সংলাপ	1	1.00	5	prefix	সংলাপ বলা	sh o ng l a p	1	1
+আস্তে	1	1.00	5	prefix	আস্তে চলো।	a st e	1	1
+ধর্মাধিকারি	1	0.91	10	prefix	ধর্মাধিকার	dh o r m a dh i k a r i	1	1
+মোয়া	1	1.00	4	prefix	মোয়াজ্জাম	m O y a	1	1
+কইও	0	0.67	2	prefix	কই	k o i O	0	0
+আমতলা	1	1.00	5	prefix	আমতলায়	a m t o l a	1	1
+তত্ত্বাবধায়নে	1	0.85	11	prefix	তত্ত্বাবধায়কসহ	t o t t a b o dh a y o n e	1	1
+বিয়েকে	1	0.67	4	prefix	বিয়েও	b i y e k e	1	1
+ঘিরেই	1	0.80	4	prefix	ঘিরে	gh i r e i	1	1
+দ্বন্দ্ব	1	1.00	8	prefix	দ্বন্দ্বই	d o n d O	1	1
+পতিতকে	1	0.83	5	suffix	অতিতকে	p o t i t o k e	0	0
+প্যারাস্যুট	1	0.64	7	prefix	প্যারাসুটের	p A r a s u T	0	0
+ক্যারোলাইনা	1	1.00	11	prefix	ক্যারোলাইনার	k A r O l a i n a	1	1
+কোউসুম্ভ	1	0.62	5	prefix	কোউসুলি	k O u sh u m bh O	1	1
+খানাভিত্তিক	1	0.82	9	suffix	গবেশনাভিত্তিক	kh a n a bh i tt i k	1	1
+স্বচক্ষে	1	0.62	5	suffix	চর্মচক্শে	sh o ch O kkh e	0	0
+কিডনির	1	0.83	5	prefix	কিডনিদাতার	k i D n i r	1	1
+গোরস্তান	1	1.00	8	prefix	গোরস্তানে	g O r o st a n	0	0
+রতনে	1	1.00	4	prefix	রতনের	r o t o n e	0	0
+চাশকৃত	1	0.67	4	prefix	চাশকে	ch a sh k ri t O	1	1
+কারখানায়ও	1	0.78	7	prefix	কারখানাসহ	k a r kh a n a y O	1	1
+মুর্মুর	1	0.86	6	prefix	মুর্মু	m u r m u r	1	1
+সাজিয়েছি	1	1.00	8	prefix	সাজিয়েছিল	sh a j i y e chh i	1	1
+নাটকই	1	0.80	4	prefix	নাটক	n a T O k i	1	1
+উত্পাদনক্ষমতার	1	0.93	13	prefix	উত্পাদনক্শমতা	u t p a d o n kh o m o t a r	1	0
+দন্ডা	1	1.00	5	prefix	দন্ডাঘাত	d o n D a	1	1
+ব্লাটারের	1	0.78	7	prefix	ব্লাটারকে	bl a T a r e r	1	1
+মকর্দমা	1	0.71	5	suffix	নর্দমা	m o k o r d o m a	1	1
+সিরিয়াস	1	1.00	7	prefix	সিরিয়াসলি	sh i r i y a sh	1	1
+ইসলামপন্থীরা	1	1.00	12	prefix	ইসলামপন্থিরা	i s l a m p O n th i r a	1	1
+স্তরটিকে	1	0.75	6	prefix	স্তরটি	st o r T i k e	1	1
+সুবিরের	1	0.71	5	prefix	সুবির	sh u b i r e r	1	1
+পেরেইরা	1	0.71	5	prefix	পেরেই	p e r e i r a	1	1
+সওদাগরসহ	1	0.75	6	prefix	সওদাগরপাড়ার	sh o u d a g o r sh o h O	0	1
+গাইছি	1	1.00	5	prefix	গাইছিল	g a i chh i	1	1
+মোহনগঞ্জ	1	1.00	8	prefix	মোহনগঞ্জে	m O h O n g o nj	1	1
+ভনের	1	1.00	4	suffix	ডেভনের	bh o n e r	1	1
+অজথাই	1	0.80	4	prefix	অজথা	o j O th a i	1	1
+ইন্সপেকশন	1	0.78	7	prefix	ইন্সপেক্টর	i n s p e k sh o n	1	1
+কলহ	1	1.00	3	prefix	কলহপ্রবন	k o l O h O	0	0
+পদত্যাগপত্রটি	1	0.85	11	prefix	পদত্যাগপত্র	p o d o t A g p o tr O T i	1	1
+গেহ	1	1.00	3	prefix	গেহু	g e h O	1	0
+শিশুকেই	1	0.86	6	prefix	শিশুকে	sh i sh u k e i	1	1
+প্রতিবেশী	1	1.00	9	prefix	প্রতিবেশি	pr O t i b e sh i	1	1
+সোনাগাছিতে	1	0.80	8	prefix	সোনাগাছি	sh O n a g a chh i t e	1	1
+লোপাট	1	1.00	5	prefix	লোপাটের	l O p a T	1	1
+সরকারসমর্থক	0	0.55	6	prefix	সরকারসচিব	sh o r k a r sh o sh o m o r th o k o	0	0
+খালফান	0	0.50	3	prefix	খালপাড়ের	kh a l ph a n	1	1
+উত্তোলনজোগ্য	0	0.58	7	prefix	উত্তোলনকে	u tt O l o n j O g g O	1	1
+ইউজার	1	1.00	5	prefix	ইউজারনেম	i u j a r	1	1
+সোবার্সদের	1	0.70	7	prefix	সোবার্স	s O b a r s o d e r	0	0
+কুমকুম	1	1.00	6	prefix	কুমকুমকে	k u m k u m	1	1
+অকুলিন	1	0.83	5	suffix	কুলিন	o k u l i n o	0	0
+পরুশ	1	0.75	3	prefix	পরুন	p O r u sh	1	1
+এঞ্জেলস	1	0.86	6	prefix	এঞ্জেল	e nj e l o sh	0	0
+অনুত্পাদনশিল	1	0.75	9	suffix	উত্পাদনশিল	O n u t p a d o n sh i l	1	0
+শিবালয়	1	1.00	6	prefix	শিবালয়ে	sh i b a l o y	1	1
+শ্যাকরা	1	0.86	6	suffix	ড্যাকরা	sh A k r a	1	1
+র‍্যাদা	1	0.71	5	prefix	র‍্যাপার	r o j a d a	0	0
+ওয়েজবোর্ড	1	1.00	9	prefix	ওয়েজবোর্ডের	O y e j b O r D	1	1
+অগ্রহায়ণ	1	1.00	8	prefix	অগ্রহায়ন	o gr O h a y O n	0	1
+তোর	1	1.00	3	prefix	তোরই	t O r	1	1
+পাঠিকা	1	0.67	4	prefix	পাঠিয়ে	p a Th i k a	1	1
+ভটচাজ্যির	0	0.44	4	prefix	ভটচার্য্যি	bh o T ch a r j i r o p u th i	0	0
+অভিশংসনের	1	0.78	7	prefix	অভিশংসন	O bh i sh o ng sh o n e r	1	0
+গিজার	1	0.80	4	suffix	বেনকিজার	g i j a r	1	1
+গাওয়ানোর	1	0.88	7	prefix	গাওয়ানো	g a O y a n O r	1	1
+ঢ্যাপসা	1	0.86	6	suffix	ভ্যাপসা	Dh A p sh a	1	1
+সিনড্রোমে	1	0.89	8	prefix	সিনড্রোম	s i n D r O m e	1	1
+ফানুস	1	0.60	3	prefix	ফানি	ph a n u sh	1	1
+জোগাবে	1	0.83	5	suffix	ভোগাবে	j O g a b e	1	1
+কাড়েন	1	1.00	5	prefix	কাড়েনি	k a r e n	1	1
+সোমালিয়ান	1	0.89	8	prefix	সোমালিয়া	s O m a l i y a n	1	1
+সবাইও	1	0.80	4	prefix	সবাই মিলে কাজে হাত লাগাল।	sh o b a i O	1	1
+মন্তব্যধর্মি	0	0.58	7	prefix	মন্তব্যটা	m o nt o b b o dh o r m i	1	0
+বিলেতের	1	0.86	6	prefix	বিলেতে	b i l e t e r	1	1
+সুপেয়পানি	0	0.56	5	prefix	সুপেয়	sh u p e y p a n i	0	1
+পত্রিকায়	1	1.00	8	prefix	পত্রিকায়ই	p O tr i k a y	1	0
+গন্ধোপজিবি	1	0.60	6	suffix	পরভাগ্যোপজিবি	g o ndh O p o j i b i	0	0
+বনেধর	1	0.80	4	prefix	বনেধ	b o n e dh o r	1	1
+ভাইভার	1	0.83	5	prefix	ভাইভা	bh a i bh a r	1	1
+উকো	1	1.00	3	suffix	ইউকো	u k O	1	1
+ব্যালোল	1	0.71	5	prefix	ব্যালেস্টিক	b A l O l	1	1
+ওয়েকলিন	0	0.57	4	prefix	ওয়েক	O y e k l i n	1	1
+শিফটে	1	1.00	5	prefix	শিফটের	sh i ph T e	1	1
+চিরায়মানা	0	0.56	5	prefix	চিরায়ত	ch i r a y O m a n a	0	0
+কৃমিনাশক	0	0.50	4	prefix	কৃমি	k ri m i n a sh O k	1	1
+নিতিনির্ধারনে	1	1.00	13	prefix	নিতিনির্ধারনের	n i t i n i r dh a r O n e	0	1
+তোইখন	1	0.60	3	prefix	তোইক্শ্ন্য	t O i kh o n	1	1
+খেলাত	1	1.00	5	prefix	খেলাতে	kh E l a t O	0	0
+অতি	1	1.00	3	prefix	অতি লোভে তাঁতি নশ্ট।	O t i	1	1
+উন্নতকরন	1	0.62	5	prefix	উন্নত	u nn o t k o r O n	0	0
+সাহিত্যভান্ডারকে	0	0.56	9	suffix	ভান্ডারকে	sh a h i t t o bh a n D a r e	0	0
+জুত	1	1.00	3	prefix	জুততে	j u t	1	1
+চেশ্টানো	1	0.75	6	prefix	চেশ্টাতেও	ch e sh T a n O	1	1
+রুপার্ট	1	0.86	6	prefix	রুপার্ড	r u p a r T	1	1
+জথার্থই	1	0.86	6	prefix	জথার্থ	j o th a r th O i	0	0
+সংকটেই	1	0.83	5	prefix	সংকটে	sh o ng k o T e i	1	1
+মেলামেশা	1	1.00	8	prefix	মেলামেশায়	m e l a m e sh a	1	1
+প্রত্নতত্ত্বের	1	0.86	12	prefix	প্রত্নতত্ত্ববিদেরা	pr O t n t o t t e r	0	0
+নিচে	1	1.00	4	prefix	নিচেই	n i ch e	1	1
+অনাপত্তিপত্রটি	1	1.00	14	suffix	পুনঃঅনাপত্তিপত্রটি	o n a p o tt i p o tr O T i	0	0
+ভেংেছেন	1	0.86	6	prefix	ভেংেছেই	bh e ng g e chh e n	1	1
+জাঠা	1	0.75	3	suffix	তেকাঠা	j a Th a	1	1
+বাজালেন	1	0.86	6	prefix	বাজালে	b a j a l e n	1	1
+শিক্ষকতা	1	1.00	8	prefix	শিক্শকতাও	sh i kkh o k o t a	1	0
+জনিয়েছেন	1	0.88	7	suffix	নিয়েছেন	j o n i y e chh e n	1	1
+খেলাধুলাকে	1	0.80	8	prefix	খেলাধুলাও	kh E l a dh u l a k e	1	1
+তুলছে	1	1.00	5	prefix	তুলছেন	t u l chh e	1	1
+স্থাপত্যকলার	1	0.92	11	prefix	স্থাপত্যকলা	sth a p O t t O k o l a r	0	1
+প্রাজাপত্য	0	0.50	5	prefix	প্রাজন	pr a j a p O t t O	1	1
+নুরুদ্দিন	1	1.00	9	prefix	নুরুদ্দিনপুর	n u r u d d i n	1	1
+বিকেএমইএ	1	1.00	8	prefix	বিকেএমইএকে	b i k e e m i e	1	1
+পরেশ	1	0.75	3	prefix	পরেরবার	p o r e sh	1	1
+রামা	1	1.00	4	prefix	রামাদান	r a m a	1	1
+পন্ডিতের	1	1.00	8	prefix	পন্ডিতেরা	p O n D i t e r	1	1
+বুনট	1	0.75	3	prefix	বুনছেন	b u n o T	1	1
+একাদশেই	1	0.86	6	prefix	একাদশে	E k a d o sh e i	1	1
+প্রাইভেটাইজেশন	0	0.57	8	prefix	প্রাইভেটকারের	pr a i bh e T a i j e sh o n	1	1
+তানজিমা	1	0.86	6	prefix	তানজিম	t a n j i m a	1	1
+আঁধারে	1	0.83	5	prefix	আঁধারিতে	a~ dh a r e	1	1
+কৃত্তিম	1	0.86	6	prefix	কৃত্তিবাস	k ri tt i m	1	1
+এটিঅ্যান্ডটি	1	0.92	11	suffix	পিটিঅ্যান্ডটি	e T i A n D T i	0	0
+ঢোলা	1	1.00	4	prefix	ঢোলাই	Dh O l a	1	1
+উত্তেজনাময়	1	0.80	8	prefix	উত্তেজনাপুর্ন	u tt e j o n a m o y	1	0
+টেস্টটাও	1	0.88	7	prefix	টেস্টটাই	T e sh T T a O	1	1
+সওদাগরের	1	0.75	6	prefix	সওদাগরপাড়ার	sh O u d a g o r e r	0	0
+ইস্যুও	1	0.83	5	prefix	ইস্যুই	i sh u O	1	1
+মুসেভেনি	0	0.38	3	prefix	মুসুল্লিদের	m u sh e bh e n i	1	1
+ডেকান	1	1.00	5	prefix	ডেকানের	D e k a n	1	1
+শিক্ষাব্যবস্থাকে	1	0.88	14	prefix	শিক্শাব্যবস্থা	sh i kkh a b A b O sth a k e	1	1
+শিল্পনিতিকে	1	0.82	9	prefix	শিল্পনিতি	sh i l p o n i t i k e	1	1
+কার্যদিবসেও	1	0.91	10	prefix	কার্যদিবসেই	k a r j o d i b o sh e O	0	0
+দাবিটি	1	0.83	5	prefix	দাবিটা	d a b i T i	1	1
+বদলেও	1	0.80	4	prefix	বদলে	b a d O l e O	0	0
+আইনটির	1	0.83	5	suffix	লাইনটির	a i n T i r	1	1
+ইন্দ্রিয়	1	1.00	8	prefix	ইন্দ্রিয়পরায়নতা	i ndr i y O	1	1
+ইনসিওরেন্স	1	0.70	7	suffix	ইনশিওরেন্স	i n s i O r e n s	1	1
+বায়ার্স	1	0.86	6	prefix	বায়ার্নের	b a y a r s	1	1
+টুইনমস	1	0.67	4	prefix	টুইন	T u i n m o s	0	1
+লোনলি	1	0.80	4	suffix	রোনলি	l O n l i	1	1
+লাইনসের	1	1.00	7	suffix	এয়ারলাইনসের	l a i n sh e r	1	1
+হাম্পটি	1	0.86	6	suffix	ক্যাম্পটি	h a mp T i	1	1
+নির্বাচনই	1	0.89	8	prefix	নির্বাচন	n i r b a ch O n i	0	0
+ফলিয়েছেন	1	0.88	7	suffix	চালিয়েছেন	ph o l i y e chh e n	1	1
+প্রতিক	1	1.00	6	prefix	প্রতিকও	pr O t i k	1	1
+কৃতিত্বে	1	1.00	8	prefix	কৃতিত্বের	k ri t i tt e	1	1
+এলাকায়	1	1.00	6	prefix	এলাকায়ই	e l a k a y	1	1
+এডাব	1	1.00	4	prefix	এডাবের	e D a b	1	1
+বিশ্বসাহিত্যের	1	0.86	12	prefix	বিশ্বসাহিত্য	b i sh sh O sh a h i t t e r	1	0
+অবোইরিতা	1	0.88	7	suffix	বোইরিতা	o b O i r i t a	1	1
+একসময়	1	1.00	5	prefix	একসময়কার	E k sh o m o y	1	1
+রইছ	1	1.00	3	prefix	রইছি	r O i chh	0	0
+চালকদেরও	1	0.88	7	prefix	চালকদের	ch a l o k d e r O	0	1
+রিসোর্টের	1	0.89	8	prefix	রিসোর্টে	r i s O r T e r	1	1
+নেতৃত্বশুন্য	1	1.00	12	prefix	নেতৃত্বশুন্য	n e t ri tt O sh u n n O	1	1
+পাকিজা	1	0.67	4	prefix	পাকি	p a k i j a	1	1
+সাজিয়েছিলাম	1	0.82	9	prefix	সাজিয়েছিল	sh a j i y e chh i l a m	1	1
+এনেছিস	1	0.83	5	prefix	এনেছিলেন	e n e chh i sh	1	1
+কলংকশ	1	0.80	4	prefix	কলংকময়	k o l O ng k o sh	0	0
+মহেশচন্দ্র	1	0.80	8	suffix	নরেশচন্দ্র	m o h e sh ch o ndr O	1	1
+ধর্মবাদি	1	0.75	6	suffix	দ্ব্যাত্মবাদি	dh o r m O b a d i	1	1
+গোছাচ্ছেন	1	0.67	6	suffix	চাচ্ছেন	g O chh a ch chh e n	1	1
+লাবন্যর	1	0.86	6	prefix	লাবন্যকে	l a b O n n O r	0	1
+মঞ্চে	1	1.00	5	prefix	মঞ্চেই	m o nch e	1	1
+গড়মাটি	1	0.67	4	suffix	বোমাটি	g o r m a T i	1	1
+কল্পনার	1	1.00	7	suffix	জল্পনাকল্পনার	k o l p O n a r	1	1
+সাড়ম্বরে	1	1.00	8	prefix	সাড়ম্বরেই	sh a r O mb o r e	1	1
+সৃশ্টিকর্ম	1	1.00	10	prefix	সৃশ্টিকর্মের	sh ri sh T i k o r m O	1	1
+অনুস্বাক্ষর	1	1.00	11	prefix	অনুস্বাক্শরিত	O n u sh a kkh o r	0	0
+ভাংনকবলিত	1	1.00	9	prefix	ভাংনকবলিতদের	bh a ng n k o b o l i t O	0	0
+ভুয়েস	1	0.60	3	prefix	ভুয়িশ্ঠ	bh u y e sh	1	1
+ক্যাটের	1	0.86	6	prefix	ক্যাটেগরির	k A T e r	1	1
+একেছিল	1	1.00	6	prefix	একেছিলেন	e k e chh i l O	1	1
+সার্চে	1	1.00	6	prefix	সার্চের	s a r ch e	1	1
+ছুড়লেন	1	0.83	5	prefix	ছুড়লে	chh u r l e n	1	1
+বর্নবইশম্যের	1	0.83	10	prefix	বর্নবইশম্য	b o r n O b O i sh o m m e r	1	1
+শাহদিন	1	0.67	4	prefix	শাহদাত্	sh a h d i n	1	1
+আলবদররা	1	0.71	5	prefix	আলবদরদের	a l b o d O r r a	1	0
+ক্রোউঞ্চ	1	0.62	5	prefix	ক্রোউর্য	kr O u nch O	1	1
+মাধুক	1	1.00	5	prefix	মাধুকরি	m a dh u k	1	1
+ইউনিক	1	1.00	5	prefix	ইউনিকোড	i u n i k	1	1
+ওয়ারেছি	1	0.86	6	prefix	ওয়ারেছ	O y a r e chh i	1	1
+আলোটি	1	0.80	4	prefix	আলোটাও	a l O T i	1	1
+বুধবার	1	1.00	6	prefix	বুধবারই	b u dh b a r	1	1
+রবার্টকে	1	0.88	7	suffix	গিলবার্টকে	r o b a r T k e	1	1
+প্রজোজকও	1	0.88	7	prefix	প্রজোজক	pr O j O j o k O	1	1
+চিনিসহ	1	0.83	5	prefix	চিনিস	ch i n i sh o h O	1	1
+সারাটি	1	0.83	5	prefix	সারাটা	sh a r a T i	1	1
+ডলের	1	1.00	4	suffix	সিডলের	D o l e r	1	1
+কনফারেন্সিংয়ের	1	0.79	11	prefix	কনফারেন্সিং	k o n ph a r e n s i ng y e r	1	1
+পারছিল	1	1.00	6	prefix	পারছিলাম	p a r chh i l O	1	1
+তাড়াইলের	1	0.88	7	prefix	তাড়াইলে	t a r a i l e r	1	1
+মাঝমাঠ	1	1.00	6	prefix	মাঝমাঠও	m a jh m a Th	1	1
+নোটিশকে	1	0.71	5	prefix	নোটিশও	n O T i sh k e	1	1
+পরীক্ষক	1	1.00	7	prefix	পরিক্শক	p O r i kkh o k	1	1
+লেকচার	1	1.00	6	prefix	লেকচারার	l e k ch a r	1	1
+কারাদন্ডও	1	0.89	8	prefix	কারাদন্ড	k a r a d o n D O	0	1
+দেন্ত	1	0.80	4	prefix	দেন্ডারা	d e nt O	1	1
+মরুকরন	1	1.00	6	prefix	মরুকরন	m O r u k o r O n	1	1
+অন্তরা	1	1.00	6	prefix	অন্তরাত্মা	o nt O r a	1	1
+উপহ্রদ	1	0.67	4	suffix	হ্রদ	u p O h r O d	1	1
+তাহেরও	1	1.00	6	suffix	সপ্তাহেরও	t a h e r O	1	1
+ওশেনিয়া	1	1.00	7	prefix	ওশেনিয়ান	O sh e n i y a	1	1
+মোবারকই	1	0.86	6	prefix	মোবারক	m O b a r o k i	1	1
+বিএ	1	1.00	3	prefix	বিএআইসি	b i e	1	1
+পর্নোচিত্র	0	0.50	5	prefix	পর্নোগ্রাফির	p o r n O ch i tr O	1	1
+কল্পনাতে	1	1.00	8	prefix	কল্পনাতেই	k o l p o n a t e	0	0
+সংবাদপত্রগুলো	1	1.00	13	prefix	সংবাদপত্রগুলোই	sh o ng b a d p o tr O g u l O	1	1
+প্রত্যাশামতো	1	1.00	12	prefix	প্রত্যাশামতোই	pr O t t a sh a m o t O	1	1
+কুতর্ক	1	0.67	4	suffix	তর্কবিতর্ক	k u t o r k O	1	1
+টুর্নামেন্ট	1	1.00	11	prefix	টুর্নামেন্টই	T u r n a m e n T	1	1
+পোর্ট্রেটটি	1	0.82	9	prefix	পোর্ট্রেট	p O r T r e T T i	1	1
+কারখানায়	1	1.00	8	suffix	পোশাককারখানায়	k a r kh a n a y	1	1
+কাটগোয়ার	0	0.50	4	suffix	রাজখোয়ার	k a T g O y a r	1	1
+তোমার পাসওয়ার্ড মনে আছে?	0	0.29	7	prefix	তোমার প্রিয় খাবার কি?	t O m a r | p a s O y a r D | m O n e | a chh e	0	0
+নিয়মতান্ত্রিক	1	1.00	13	prefix	নিয়মতান্ত্রিকতা	n i y o m t a n t r i k	1	1
+ভারতবাসির	1	0.89	8	prefix	ভারতবাসিকে	bh a r o t b a sh i r	0	1
+তামিমেরও	1	0.88	7	prefix	তামিমের	t a m i m e r O	1	1
+তইরিকৃত	1	0.71	5	prefix	তইরিকে	t O i r i k ri t O	0	1
+উদঘাটিত	1	0.86	6	suffix	অনুদঘাটিত	u d gh a T i t O	1	1
+ভোগি	1	1.00	4	prefix	ভোগিরাই	bh O g i	1	1
+পরমানুকেন্দ্রে	1	0.93	13	prefix	পরমানুকেন্দ্র	p o r o m a n u k e ndr e	1	1
+আমরাই	1	0.80	4	prefix	আমরা সবাই একসাথে থাকি।	a m r a i	1	1
+দৃশ্যগুলোর	1	0.90	9	prefix	দৃশ্যগুলোতে	d ri sh sh o g u l O r	0	0
+বেড়িবাধের	1	0.89	8	prefix	বেড়িবাধে	b e r i b a dh e r	1	1
+শেয়ারিং	1	1.00	7	prefix	শেয়ারিংয়ের	sh e y a r i ng	1	1
+বিশাদগ্রস্ত	1	1.00	11	prefix	বিশাদগ্রস্ত	b i sh a d gr O st O	1	1
+এহতেশামুল	1	0.78	7	prefix	এহতেশামকে	e h t e sh a m u l	1	1
+বাইতুল	1	0.83	5	prefix	বাইতুর	b a i t u l	1	1
+তত্সহ	1	0.80	4	prefix	তত্সম	t o t sh o h O	1	1
+বাড়াসহ	1	0.83	5	suffix	ভাড়াসহ	b a r a sh o h O	1	1
+পত্রিকাতেও	1	1.00	10	suffix	পত্রপত্রিকাতেও	p O tr i k a t e O	1	1
+মাকসুম	1	0.83	5	prefix	মাকসুদের	m a k sh u m	1	1
+বক্ষ্যমান	1	0.67	6	suffix	পরিদৃশ্যমান	b O kkh O m a n	0	0
+ক্ষেপণাস্ত্রটি	1	1.00	14	prefix	ক্শেপনাস্ত্রটি	kh e p O n a s t r O T i	0	1
+মেরাপির	1	0.86	6	prefix	মেরাপি	m e r a p i r	1	1
+কশিত	1	1.00	4	suffix	বিকশিত	k O sh i t O	1	1
+প্রদানকে	1	1.00	8	prefix	প্রদানকেন্দ্র	pr O d a n k e	1	1
+নজরটা	1	0.60	3	prefix	নজরকাড়া	n o j o r T a	0	0
+গালাগালের	1	0.78	7	prefix	গালাগালির	g a l a g a l e r	1	1
+অভিলশিত	1	0.71	5	prefix	অভিলশনিয়	O bh i l e sh i t O	0	0
+এলকার	1	0.80	4	suffix	লকার	e l a k a r	0	0
+নিমগন	1	0.80	4	prefix	নিমগাছ	n i m g o n	1	0
+সমা	1	1.00	3	prefix	সমাংশ	sh o m a	1	1
+একপক্ষিয়	1	0.75	6	prefix	একপক্শ	E k p o kkh i y O	0	0
+চর্বন	1	0.80	4	prefix	চর্ব	ch o r b O n	1	1
+রিফ্রাক্টরিজ	0	0.42	5	prefix	রিফ্রেশ	r i ph a r k T o r i j	0	0
+অমানবিকভাবে	1	0.91	10	suffix	মানবিকভাবে	o m a n O b i k bh a b e	1	0
+ভাটিতে	1	0.83	5	suffix	বাটিতে	bh a T i t e	1	1
+লভ্যতা	1	1.00	6	suffix	সহজলভ্যতা	l o b bh o t a	0	0
+কালজয়ি	1	0.67	4	suffix	ট্রেবলজয়ি	k a l j o y i	1	1
+নি	0	1.00	2	prefix	নিংগড়ান	n i	1	1
+চরানন্দ	1	0.86	6	suffix	অক্শরানন্দ	ch o r a n o nd O	1	1
+শামলা	1	1.00	5	prefix	শামলাপুর	sh a m l a	1	1
+অতিদারিদ্র্য	1	0.75	9	suffix	দারিদ্র্য	O t i d a r i d r O	1	1
+ক্যাম্পাসগুলোতে	1	0.60	9	prefix	ক্যাম্পাসকে	k A mp a s g u l O t e	1	1
+ফকিরাপুল	1	1.00	8	prefix	ফকিরাপুলের	ph O k i r a p u l	1	1
+ব্রুকস	1	1.00	6	prefix	ব্রুকসকে	br u k s	1	1
+ড্রাগের	1	0.86	6	suffix	প্রাগের	D r a g e r	1	1
+পাবেল	1	0.80	4	prefix	পাবেনই	p a b e l	1	1
+রাজ্যকে	1	1.00	7	suffix	জুক্তরাজ্যকে	r a j j O k e	1	1
+কন্ট্রোলাররা	1	0.83	10	prefix	কন্ট্রোলারদের	k o n T r O l a r r a	1	1
+ভালভাবেই	1	0.88	7	prefix	ভালভাবে	bh a l O bh a b e i	0	0
+ভাভিক	1	0.80	4	suffix	রেইকিয়াভিক	bh a bh i k	1	1
+ঘরচাপা	1	0.67	4	suffix	স্বর্নচাপা	gh o r ch a p a	1	1
+করপোরেশনসহ	1	0.80	8	prefix	করপোরেশনগুলোর	k o r p O r e sh O n sh o h O	0	0
+মহাবিপদে	1	0.75	6	prefix	মহাবিপন্ন	m o h a b i p o d e	1	1
+ডলক	0	0.67	2	prefix	ডল	D o l O k	1	1
+বহুকোশি	0	0.57	4	prefix	বহুকালের	b O h u k O sh i	1	1
+উচ্চতাবিশিশ্ট	1	0.69	9	suffix	সত্তাবিশিশ্ট	u ch ch O t a b i sh i sh T O	1	1
+আদ্রতার	1	0.86	6	prefix	আদ্রতা	a d r O t a r	1	1
+বিদ্যুকেন্দ্রের	1	0.93	14	prefix	বিদ্যুকেন্দ্রে	b i d d u t k e ndr e r	1	1
+নিরিক্ষাব্যবস্থা	1	0.88	14	suffix	পরিক্শাব্যবস্থা	n i r i kkh a b A b O sth a	1	1
+সালেংকো	0	0.57	4	prefix	সালে	sh a l e sh k O	0	0
+একনায়কতন্ত্রের	1	0.86	12	prefix	একনায়কতন্ত্রি	E k n a y O k t o n t r e r	1	1
+একশেশ	1	0.60	3	prefix	একশিরা	E k sh e sh	1	1
+বানিজ্যও	1	0.88	7	prefix	বানিজ্যই	b a n i j j O O	0	1
+আলোতেই	1	0.83	5	prefix	আলোতে	a l O t e i	1	1
+কাহারোল	1	0.86	6	prefix	কাহারো	k a h a r O l	1	1
+কবাডি	1	0.80	4	suffix	বাডি	k o b a D i	1	1
+সাহসিরা	1	0.71	5	prefix	সাহসিদের	sh a h o sh i r a	0	0
+একই	1	1.00	3	prefix	একইতি	e k i	0	0
+শোলতে	1	1.00	5	prefix	শোলতে	sh O l O t e	0	0
+তায়জুল	1	0.83	5	suffix	ফায়জুল	t a y o j u l	0	0
+গৃঞ্জন	1	0.67	4	suffix	ভুঞ্জন	g r i n j o n	0	0
+দরখ্ত	1	0.60	3	prefix	দরখি	d o r o kh t O	1	0
+এমডিরা	1	0.83	5	prefix	এমডির	e m D i r a	1	1
+গোয়েন্দা	1	1.00	8	prefix	গোয়েন্দাকে	g O y e nd a	1	1
+বসাতে	1	1.00	5	prefix	বসাতেন	b o sh a t e	1	1
+বোর্ডগুলো	1	1.00	9	prefix	বোর্ডগুলোতেও	b O r D g u l O	1	1
+নরবলি	1	0.60	3	prefix	নরবার্ট	n o r O b O l i	0	0
+তোইলংগ	1	1.00	6	prefix	তোইলংগা	t O i l o ng g O	1	1
+ভয়রো	1	0.75	3	suffix	কায়রো	bh o y r O	1	1
+বিভাগেরও	1	0.88	7	prefix	বিভাগেরই	b i bh a g e r O	1	1
+মাছটা	1	1.00	5	prefix	মাছটার	m a chh T a	1	1
+ব্রাজিলিয়ানদের	1	0.79	11	prefix	ব্রাজিলিয়ানরা	br a j i l i y a n d e r	1	1
+ওয়ানম্যান	1	0.78	7	suffix	সানম্যান	O y a n m A n	1	1
+লালসাহিন	1	0.62	5	prefix	লালসালুতে	l a l sh a h i n	1	1
+হটেছে	1	0.80	4	suffix	চটেছে	h O T e chh e	1	1
+ভানুমতি	1	1.00	7	prefix	ভানুমতির	bh a n u m o t i	0	1
+প্রমাদ	1	1.00	6	suffix	অপ্রমাদ	pr O m a d	1	1
+রুপে	1	1.00	4	prefix	রুপে	r u p e	1	1
+পারিপার্শ্বিক	1	1.00	13	prefix	পারিপার্শ্বিকতা	p a r i p a r sh i k	1	1
+চিন্তিত	1	1.00	7	suffix	বিচিন্তিত	ch i nt i t O	1	1
+আলোচনাটি	1	0.88	7	prefix	আলোচনাটাই	a l O ch O n a T i	0	1
+বুয়াজিজির	1	0.89	8	prefix	বুয়াজিজি	b u y a j i j i r	1	1
+বিশ্বের	1	1.00	7	prefix	বিশ্বেরই	b i sh sh e r	1	1
+নিয়্যা	1	0.83	5	suffix	দিয়্যা	n i y a	1	1
+বিরউত্তম	1	0.62	5	suffix	উত্তম	b i r u tt o m	1	0
+বস্তিঘরে	1	1.00	8	prefix	বস্তিঘরের	b o st i gh o r e	0	1
+ভাতায়	1	0.80	4	prefix	ভাতাসি	bh a t a y	1	1
+জলদাসের	1	0.71	5	prefix	জলদাস	j o l O d a sh e r	0	0
+গবেশনারত	1	0.88	7	prefix	গবেশনার	g o b e sh o n a r o t o	1	0
+কলারে	1	1.00	5	prefix	কলারের	k o l a r e	1	1
+নদিবেশ্টিত	1	0.80	8	suffix	পরিবেশ্টিত	n O d i b e sh T i t O	0	1
+শাহরিয়ারও	1	0.89	8	prefix	শাহরিয়ার	sh a h r i y a r O	1	1
+দুর্বোধ্যতা	1	0.82	9	prefix	দুর্বোধ্য	d u r b O d dh o t a	0	0
+প্রতিমন্ত্রিকে	1	0.86	12	prefix	প্রতিমন্ত্রিও	pr O t i m O nt ri k e	0	1
+ডুম	1	1.00	3	prefix	ডুমকি	D u m	1	1
+অচেশ্ট	1	0.83	5	suffix	চেশ্ট	o ch e sh T O	1	1
+বিএনসিসির	1	0.89	8	prefix	বিএনসিসিআইয়ের	b i e n s i s i r	1	1
+কবিতাংশের	1	0.89	8	prefix	কবিতাংশে	k O b i t a ng sh e r	1	1
+কারেন্সি	1	0.88	7	suffix	ট্রান্সপারেন্সি	k a r e n s i	1	1
+ব্রুনাইতে	1	0.78	7	prefix	ব্রুনাই	br u n a i t e	1	1
+আড্ডাবাজি	0	0.56	5	prefix	আড্ডাটা	a D D a b a j i	1	1
+কাতলসহ	1	0.67	4	prefix	কাতল	k a t o l sh o h O	1	1
+রাফিন	1	1.00	5	prefix	রাফিনকে	r a ph i n	1	1
+প্রসুন	1	1.00	6	prefix	প্রসুনের	pr O sh u n	1	1
+ইটপাটকেলে	1	1.00	9	prefix	ইটপাটকেলের	i T p a T k e l e	1	1
+কনসুলার	1	0.86	6	suffix	পেনিনসুলার	k o n s u l a r	1	1
+গাড়িবহরে	1	1.00	8	prefix	গাড়িবহরের	g a r i b o h o r e	1	1
+ব্যালাস্ট	1	1.00	9	prefix	ব্যালাস্টিক	b A l a sh T	1	1
+আমানের	1	0.83	5	suffix	মানের	a m a n e r	1	1
+পরজিবির	1	0.86	6	prefix	পরজিবি	p o r O j i b i r	0	1
+সংস্থাগুলোতেও	1	0.92	12	prefix	সংস্থাগুলোতে	sh o ng sth a g u l O t e O	1	1
+মারিয়া	1	1.00	6	prefix	মারিয়াকে	m a r i y a	1	1
+ওরামের	1	0.83	5	suffix	আরামের	O r a m e r	1	1
+উইল	1	1.00	3	prefix	উইলকক্স	u i l	1	1
+হাতিমারা	1	0.62	5	suffix	চরলাঠিমারা	h a t i m a r a	1	1
+আয়বোইশম্য	1	0.78	7	suffix	মজুরিবোইশম্য	a y b oi sh o m m O	0	0
+প্রজননকাল	1	0.78	7	prefix	প্রজননকেন্দ্র	pr O j o n o n k a l	1	0
+মহাদেশটির	1	0.67	6	prefix	মহাদেশকে	m o h a d e sh T i r	1	1
+হৃত্বিকের	1	0.78	7	prefix	হৃত্বিক	r i t t i k e r	1	1
+সঞ্চয়পত্রকে	1	0.82	9	prefix	সঞ্চয়পত্রই	sh o nch o y o p o tr O k e	1	0
+ক্লাসিক্যাল	1	0.73	8	suffix	ক্ল্যাসিক্যাল	kl a s i k a l	0	0
+বাতাসেই	1	0.86	6	prefix	বাতাসে	b a t a sh e i	1	1
+চেহারা	1	1.00	6	prefix	চেহারাই	ch e h a r a	1	1
+সেবাদানের	1	0.89	8	prefix	সেবাদানে	sh e b a d a n e r	1	1
+দৃশ্টিশক্তির	1	0.92	11	prefix	দৃশ্টিশক্তিও	d ri sh T i sh O kt i r	1	0
+পেয়াজ	1	1.00	5	prefix	পেয়াজকুচি	p e y a j	1	1
+সাজেশনস	1	0.71	5	suffix	অর্গানাইজেশনস	sh a j e sh o n o sh	0	0
+শহিদনগর	0	0.57	4	prefix	শহিদদের	sh o h i d n o g O r	0	1
+ক্যাপসিকামের	1	0.83	10	prefix	ক্যাপসিকাম	k A p s i k a m e r	1	1
+কশিয়ে	1	0.80	4	suffix	বিশিয়ে	k o sh i y e	1	1
+সুস্থধারার	0	0.50	5	prefix	সুস্থতার	sh u sth o dh a r a r	0	0
+একরপ্রতি	1	0.75	6	suffix	হেক্টরপ্রতি	e k O r pr O t i	0	0
+প্রশংসাও	1	0.88	7	prefix	প্রশংসাই	pr O sh O ng sh a O	0	0
+রবিনহোও	1	0.86	6	prefix	রবিনহো	r o b i n h O O	1	1
+মোকামিয়া	1	0.62	5	prefix	মোকামতলা	m O k a m i y a	1	1
+ডিআইআইটির	1	0.89	8	prefix	ডিআইআইটি	D i a i a i T i r	1	1
+মুছে	1	1.00	4	suffix	ধুয়েমুছে	m u chh e	1	1
+সদস্যসচিব	1	1.00	9	prefix	সদস্যসচিবের	sh o d O sh sh O sh O ch i b	0	1
+মওন	0	0.67	2	prefix	মওদুদের	m o O n	1	1
+পক্ষান্তরে	1	0.90	9	prefix	পক্শান্তর	p o kkh a nt o r e	1	1
+ছাদেক	1	1.00	5	prefix	ছাদেকুল	chh a d e k	1	1
+মাহন্দ্রে	1	0.67	6	suffix	আন্দ্রে	m a h e ndr O	0	0
+সংখ্যালঘিশ্ঠ	1	1.00	12	prefix	সংখ্যালঘিশ্ঠের	sh o ng kh a l o gh i sh Th O	0	0
+সার্ষপ	1	0.67	4	prefix	সার্ভেয়ারকে	sh a r sh O p	0	0
+পরিহসি	1	0.67	4	prefix	পরিহরা	p O r i h O sh i	1	0
+সংবিধানসংক্রান্ত	1	0.88	14	suffix	বিধানসংক্রান্ত	sh o ng b i dh a n sh o ng kr a nt O	1	1
+হংকার	1	1.00	5	suffix	অহংকার	h o ng k a r	1	1
+সাহাবউদ্দিনের	1	0.85	11	prefix	সাহাবউদ্দিনকে	s a h a b u d d i n e r	0	0
+ত্রিপলিতে	1	0.67	6	prefix	ত্রিপল	tr i p o l i t e	0	0
+ফ্রিজটি	1	0.86	6	suffix	ব্রিজটি	ph r i j T i	1	1
+মিশাতে	1	0.67	4	prefix	মিশানো	m i sh a t e	1	1
+ফিউশন	1	1.00	5	prefix	ফিউশনধর্মি	ph i u sh o n	1	1
+মোঃ	0	0.67	2	prefix	মোংলা	m O h a m m o d	0	0
+কোনালের	1	0.71	5	prefix	কোনাল	k O n a l e r	1	1
+মেরিডিয়ান	1	0.67	6	suffix	উইকিপিডিয়ান	m e r i D i y a n	1	1
+ঢুকার	1	0.80	4	prefix	ঢুকানোর	Dh u k a r	1	1
+উল্লম্ব	1	0.86	6	prefix	উল্লম্ফনের	u l l o mb O	1	1
+লোকদের	1	1.00	6	prefix	লোকদেরও	l O k d e r	1	1
+থামতেও	1	0.83	5	prefix	থামতেই	th a m t e O	1	1
+সারাদিনের	1	0.89	8	prefix	সারাদিনে	sh a r a d i n e r	1	1
+জমদগ্নির	1	0.88	7	prefix	জমদগ্নি	j o m o d o g n i r	0	0
+জনশক্তির	1	0.88	7	prefix	জনশক্তিতে	j o n O sh O kt i r	1	1
+এক্সের	1	1.00	6	suffix	স্পেসএক্সের	e k s e r	1	1
+মেয়রপ্রার্থি	1	0.75	9	suffix	বিচারপ্রার্থি	m e y o r pr a r th i	1	1
+স্বত্বাধিকারি	1	1.00	13	prefix	স্বত্বাধিকারি	sh o tt a dh i k a r i	1	1
+বোটার	1	0.80	4	prefix	বোটানিক্যাল	b O T a r	1	1
+পরিপন্থি	1	1.00	8	suffix	অপরিপন্থি	p O r i p O n th i	1	1
+কল্পবিজ্ঞান	1	1.00	11	prefix	কল্পবিজ্ঞানের	k o l p O b i g g a n	1	1
+ক্লোরাইড	1	0.88	7	suffix	ফ্লোরাইড	kl O r a i D	1	1
+বাণিজ্যসচিব	1	1.00	11	prefix	বানিজ্যসচিব	b a n i j j O sh O ch i b	1	1
+ইশিকা	1	0.80	4	suffix	আশিকা	i sh i k a	1	1
+মিসরাত	1	1.00	6	prefix	মিসরাতা	m i sh o r a t	0	0
+রিকশারোহি	1	0.67	6	prefix	রিকশার	r i k sh a r O h i	1	1
+সিঞ্চন	1	0.83	5	prefix	সিঞ্চিত	sh i nch o n	1	1
+কারাদন্ডের	1	0.90	9	prefix	কারাদন্ডে	k a r a d o n D e r	1	1
+শিলিগুড়ির	1	0.89	8	prefix	শিলিগুড়িতে	sh i l i g u r i r	1	1
+কোস্টের	1	0.86	6	prefix	কোস্টে	k O sh T e r	1	1
+মুল্যবোধকেই	1	0.91	10	prefix	মুল্যবোধকে	m u l l O b O dh k e i	1	0
+মানাস	1	0.80	4	prefix	মানাল	m a n a sh	1	1
+নেহরু	1	1.00	5	prefix	নেহরুকে	n e h r u	1	1
+শিরোনামহিনের	1	1.00	12	prefix	শিরোনামহিনের	sh i r O n a m h i n e r	1	1
+ওড়ে	1	1.00	3	prefix	ওড়েনি	O r e	1	1
+বালাজি	1	0.83	5	suffix	ভালাজি	b a l a j i	1	1
+ইরান	1	1.00	4	prefix	ইরানও	i r a n	1	1
+পূর্বপুরুষের	1	1.00	12	prefix	পুর্বপুরুশের	p u r b O p u r u sh e r	1	1
+পর্বতমালায়	1	0.90	9	prefix	পর্বতমালার	p o r b o t m a l a y	1	1
+সমভুমি	1	1.00	6	prefix	সমভুমি	sh o m O bh u m i	1	1
+ছাবাল	1	0.80	4	suffix	নাবাল	chh a b a l	1	1
+পটপরিবর্তনে	1	1.00	11	prefix	পটপরিবর্তনের	p o T p o r i b o r t o n e	1	0
+মতিলাল	1	0.83	5	suffix	কান্তিলাল	m O t i l a l	1	1
+মঞ্জুলি	1	0.86	6	prefix	মঞ্জুলা	m o nj u l i	0	1
+বন্দে	1	1.00	5	prefix	বন্দেগি	b o nd e	1	1
+এক্সচেঞ্জেই	1	0.91	10	prefix	এক্সচেঞ্জে	e k s ch e nj e i	1	1
+শিরিনের	1	1.00	7	suffix	কৃশিরিনের	sh i r i n e r	1	1
+রাইফেলটা	1	0.88	7	prefix	রাইফেলটি	r a i ph e l T a	1	1
+ধি	0	1.00	2	prefix	ধিক	dh i	1	1
+টেহা	1	0.75	3	suffix	ফাতেহা	T e h a	1	1
+পানাই	1	1.00	5	suffix	ধানাইপানাই	p a n a i	1	1
+এয়ারলাইনস	1	1.00	9	prefix	এয়ারলাইনসকে	e a r l a i n s	0	0
+মিশার	1	0.80	4	prefix	মিশানো	m i sh a r	1	1
+ফোনও	1	1.00	4	suffix	স্মার্টফোনও	ph O n O	1	1
+হকিং	1	1.00	4	prefix	হকিংকে	h o k i ng	1	1
+শাস্তিদান	1	1.00	9	prefix	শাস্তিদানে	sh a st i d a n	1	1
+পরিবারবর্গ	1	1.00	10	prefix	পরিবারবর্গের	p O r i b a r b o r g O	1	1
+দেশটাই	1	0.83	5	prefix	দেশটা	d e sh T a i	1	1
+উদ্দিনও	1	1.00	7	suffix	মহিউদ্দিনও	u d d i n O	1	1
+কোমরপানিতে	1	0.60	6	suffix	মাঝপানিতে	k O m o r p a n i t e	1	0
+রক্তস্রাব	1	0.78	7	prefix	রক্তস্রোত	r o kt O s r a b	0	0
+বিশ্লেশকেরাও	1	0.92	11	prefix	বিশ্লেশকেরাই	b i s l e sh o k e r a O	1	0
+গোয়েন্দাগিরির	1	0.92	12	prefix	গোয়েন্দাগিরি	g O y e nd a g i r i r o	0	0
+রাস্তাগুলোকে	1	0.83	10	prefix	রাস্তাগুলো	r a st a g u l O k e	1	1
+কোলোচ্চিনি	0	0.40	4	prefix	কোলো	k O l O ch ch i n i	1	1
+স্বজনপ্রিতির	1	1.00	12	prefix	স্বজনপ্রিতির	sh o j o n pr i t i r	1	1
+প্রাচিরঘেরা	1	0.64	7	prefix	প্রাচির	pr a ch i r gh e r a	1	1
+মুক্তমনার	1	0.89	8	prefix	মুক্তমনা	m u kt O m o n a r	0	0
+মোতায়েনেরও	1	0.90	9	prefix	মোতায়েনের	m O t a y e n e r O	1	1
+তইলচিত্র	1	0.88	7	suffix	তোইলচিত্র	t O i l O ch i tr O	0	0
+সিদরাতুল	1	1.00	8	prefix	সিদরাতুল–মুনতাহা	sh i d r a t u l	1	1
+আগামী বছর	0	0.56	5	prefix	আগামিকালও	a g a m i | b o chh O r	1	1
+নেইমাররা	1	0.75	6	prefix	নেইমারবিহিন	n e i m a r r a	1	1
+লন্ডনগামি	0	0.56	5	prefix	লন্ডনকে	l o n D o n g a m i	1	1
+খাংগারা	1	0.71	5	suffix	সিংগারা	kh a ng g a r a	1	1
+ক্লোরিন	1	1.00	7	prefix	ক্লোরিনের	kl O r i n	1	1
+নক্ষত্র	1	1.00	7	prefix	নক্শত্রকে	n o kkh o tr O	1	1
+লোকও	1	1.00	4	prefix	লোকওইতিহ্য	l O k O	1	1
+বিসমিল্লাহির	1	0.83	10	prefix	বিসমিল্লাহর	b i sh m i l l a h i r	1	1
+চয়নিকা	1	0.67	4	suffix	গুয়ের্নিকা	ch o y o n i k a	0	0
+এখানে বসো।	0	0.50	5	prefix	এখানে	e kh a n e | b o sh O	1	0
+দেশত্যাগের	1	0.90	9	prefix	দেশত্যাগে	d e sh t A g e r	1	1
+মৃগিরোগ	0	0.57	4	prefix	মৃগি	m ri g i r O g	1	1
+ছিদ্দিকি	1	0.88	7	prefix	ছিদ্দিকাকে	chh i d d i k i	1	1
+মেলামেশার	1	0.89	8	prefix	মেলামেশায়	m e l a m e sh a r	1	1
+পশ্চিমবঙ্গের	1	0.83	10	prefix	পশ্চিমবঙ্গ	p O sh ch i m b O ngg e r	0	0
+লানুফের	1	0.86	6	prefix	লানুফে	l a n u ph e r	1	1
+জখম	1	1.00	3	prefix	জখমস্থলে	j o kh o m	0	0
+মহাব্যবস্থাপককে	1	0.87	13	prefix	মহাব্যবস্থাপক	m o h a b A b O sth a p o k k e	1	0
+আফগানরা	0	0.57	4	suffix	খানরা	a ph g a n r a	1	1
+গেমারকে	1	0.71	5	prefix	গেমার	g e m a r k e	1	1
+কল্যানমন্ত্রি	1	1.00	13	suffix	সমাজকল্যানমন্ত্রি	k o l l a n m O n t r i	1	0
+সম্পা	1	1.00	5	prefix	সম্পাত	sh o mp a	1	1
+ধরিছিল	1	0.67	4	suffix	শান্তিমিছিল	dh o r i chh i l o	0	0
+হ্যারিস	1	1.00	7	prefix	হ্যারিসন	h A r i s	1	1
+কারয়িতা	1	0.86	6	suffix	বারয়িতা	k a r O y i t a	0	0
+শিল্পিরাও	1	0.89	8	prefix	শিল্পিরাই	sh i l p i r a O	1	1
+গোলগাল	1	0.83	5	prefix	গোলগার	g O l g a l	1	1
+যুক্তরাজ্যের	1	0.92	11	suffix	জুক্তরাজ্যের	j u kt O r a j j e r	0	1
+ক্যারোলিনার	1	0.91	10	prefix	ক্যারোলিনা	k A r O l i n a r	1	1
+গার্দিওলাকে	1	0.82	9	prefix	গার্দিওলাও	g a r d i O l a k e	1	1
+লাইব্রেরিতে	1	0.82	9	prefix	লাইব্রেরিটি	l a i br e r i t e	1	1
+কুড়বা	1	0.60	3	prefix	কুড়চি	k u r O b a	0	0
+আস্তিন	1	0.83	5	prefix	আস্তিক	a st i n	1	1
+দুঃখটা	1	1.00	6	prefix	দুঃখটাও	d u k kh O T a	1	1
+নতুনত্বের	1	0.78	7	prefix	নতুনত্ব	n O t u n o tt e r	1	1
+বাঘাইছড়িতে	1	0.80	8	prefix	বাঘাইছড়ি	b a gh a i chh o r i t e	1	1
+অনুদিত	1	0.83	5	prefix	অনুদিন	O n u d i t O	1	1
+স্থায়িত্বকাল	1	0.75	9	prefix	স্থায়িত্বও	sth a y i tt O k a l	0	1
+উৎপতন	1	0.80	4	prefix	উৎপত্তি	u t p o t O n	1	1
+কোটেশন	1	0.83	5	prefix	কোটেশ্বর	k O T e sh o n	1	1
+এলাকাবাসিদের	1	0.83	10	suffix	ঢাকাবাসিদের	e l a k a b a s i d e r	0	0
+চালতা	1	0.80	4	prefix	চালতেতলা	ch a l t a	1	1
+তইমুর	1	0.80	4	suffix	ইমুর	t O i m u r	1	1
+স্থলভাগের	1	0.89	8	prefix	স্থলভাগে	sth o l O bh a g e r	0	0
+মধুমালতি	1	0.62	5	prefix	মধুমাস	m o dh u m a l o t i	0	0
+ভ্রুন	1	1.00	5	prefix	ভ্রুন	bh r u n	1	1
+প্রিজারভেটিভ	1	0.67	8	suffix	কনজারভেটিভ	p ri j a r bh e T i bh	0	1
+নিসৃশ্ট	1	0.86	6	suffix	বিসৃশ্ট	n i sh sh ri sh T O	0	0
+ব্র্যাডেন	1	0.89	8	prefix	ব্র্যাডের	b r A D e n	1	1
+করেছি	1	1.00	5	prefix	করেছিল	k O r e chh i	1	1
+চালিয়েছে	1	1.00	8	prefix	চালিয়েছেন	ch a l i y e chh e	1	1
+পাওনার	1	0.83	5	prefix	পাওনাদারের	p a O n a r	1	1
+ব্যাবিলনের	1	0.80	8	prefix	ব্যাবিলন	b A b i l o n e r	1	1
+ডাম্পটি	1	0.86	6	suffix	পাম্পটি	D a mp T i	1	1
+কশার	1	1.00	4	prefix	কশার	k o sh a r	1	1
+শুনছিল	1	1.00	6	prefix	শুনছিলাম	sh u n chh i l O	1	0
+তিমুর	1	1.00	5	prefix	তিমুরিজ	t i m u r	1	1
+তল	0	1.00	2	prefix	তলক	t o l	1	1
+বাহিনিকেই	1	0.89	8	prefix	বাহিনিকে	b a h i n i k e i	1	1
+ঘিয়ের	1	0.80	4	prefix	ঘিয়ে	gh i y e r	1	1
+থিম্পুতে	1	0.75	6	prefix	থিম্পু	th i mp u t e	1	1
+শাগুফা	0	0.50	3	prefix	শাগরেদ	sh a g u ph a	1	1
+বরাদ্দবিহিন	0	0.55	6	prefix	বরাদ্দপ্রাপ্তদের	b o r a d d O b i h i n	1	1
+প্রি-মার্কেট	0	0.58	7	suffix	মার্কেট	p ri m a r k e T	0	1
+ন্যানোর	1	0.86	6	prefix	ন্যানোমিটারের	n A n O r	1	1
+অর্জনে	1	1.00	6	prefix	অর্জনেই	o r j O n e	1	1
+মুলতানে	1	1.00	7	prefix	মুলতানের	m u l t a n e	1	1
+গোয়ালন্দ	1	1.00	8	prefix	গোয়ালন্দঘাট	g O y a l o nd O	1	1
+দির্ঘায়ু	1	1.00	8	prefix	দির্ঘায়ুর	d i r gh a y u	1	1
+সার্ক	1	1.00	5	prefix	সার্ককে	sh a r k	0	1
+সমাধানকে	1	0.88	7	prefix	সমাধানকল্পে	sh o m a dh a n k e	1	1
+মানভাশাকে	1	0.78	7	prefix	মানভাশা	m a n bh a sh a k e	1	1
+নদিবাহিত	1	0.75	6	suffix	অতিবাহিত	n o d i b a h i t O	0	0
+অন্তর্ভুক্ত	1	1.00	11	prefix	অন্তর্ভুক্তি	o nt O r bh u kt O	1	1
+তুন্ন	1	0.80	4	prefix	তুন্ডিল	t u nn O	1	1
+এমেক্স	1	0.83	5	suffix	ক্লাইমেক্স	e m e k s	1	1
+সবিস্ময়	1	1.00	7	prefix	সবিস্ময়ে	sh o b i sh sh o y	1	0
+ঘরবাড়িগুলো	1	0.80	8	suffix	বাড়িগুলো	gh o r b a r i g u l O	1	1
+মেনল্যান্ড	1	0.80	8	suffix	গ্রিনল্যান্ড	m e n l A n D	1	1
+চুম	1	1.00	3	prefix	চুমকি	ch u m	1	1
+বেলাবতে	1	0.71	5	prefix	বেলাব	b e l a b o t e	1	1
+মেহসুদকে	1	0.75	6	prefix	মেহসুদ	m e h sh u d k e	1	1
+ওয়েবসাইটসহ	1	0.80	8	prefix	ওয়েবসাইটটির	O y e b s a i T sh o h O	1	1
+পোউছায়	1	0.83	5	prefix	পোউছালেন	p O u chh a y	1	1
+পরিবেশদুশনকারি	1	0.71	10	prefix	পরিবেশদুশন	p O r i b e sh d u sh o n k a r i	1	0
+শ্রেনিতে	1	1.00	8	prefix	শ্রেনিতেই	s r e n i t e	1	1
+নিরজ	1	1.00	4	prefix	নিরজন	n i r O j	0	0
+দুপুর	1	1.00	5	prefix	দুপুরবেলা	d u p u r	1	1
+গেন্দা	1	0.83	5	prefix	গেন্দুক	g e nd a	1	1
+ইন্দিবর	1	0.71	5	prefix	ইন্দিরা	i nd i b o r	1	1
+ছাকা	1	0.75	3	prefix	ছাকনি	chh a k a	1	1
+রেখাকে	1	0.83	5	suffix	দেখাকে	r e kh a k e	1	1
+সংক্রামক	1	1.00	8	prefix	সংক্রামক রোগ	sh o ng kr a m O k	1	0
+নিশ্ক্রিয়কারি	1	0.77	10	prefix	নিশ্ক্রিয়করন	n i sh k r i y o k a r i	1	0
+ইজারাসংক্রান্ত	1	0.79	11	suffix	করাসংক্রান্ত	i j a r a sh o ng kr a nt O	1	1
+বাসন	1	1.00	4	prefix	বাসনকোসনের	b a sh O n	1	1
+আবিদের	1	0.83	5	suffix	কবিদের	a b i d e r	1	1
+পার্কটির	1	0.88	7	prefix	পার্কটিতে	p a r k T i r	1	1
+অপ্রতিভ	1	0.86	6	prefix	অপ্রতিবিধেয়	o pr O t i bh O	0	0
+রাশিকে	1	0.83	5	suffix	অভিবাসনপ্রত্যাশিকে	r a sh i k e	1	1
+পরিদর্শনের	1	0.90	9	prefix	পরিদর্শনেও	p O r i d o r sh O n e r	1	1
+ওপরতলার	1	0.86	6	prefix	ওপরতলা	O p o r t o l a r	1	1
+জেলাতেও	1	1.00	7	suffix	উপজেলাতেও	j e l a t e O	1	1
+জনস্বার্থেই	1	0.91	10	prefix	জনস্বার্থে	j o n o sh a r th e i	1	1
+জুগোপজোগি	1	1.00	9	prefix	জুগোপজোগিকরন	j u g O p O j O g i	0	1
+মনুশ্যবাহি	1	0.70	7	prefix	মনুশ্যবর্জ্য	m O n u sh sh O b a h i	0	0
+কোহিনুরের	1	0.78	7	prefix	কোহিনুর	k O h i n u r e r	1	1
+পেপ্যাল	1	0.71	5	suffix	মিউনিসিপ্যাল	p e p a l	0	0
+লন্ডনের	1	0.86	6	prefix	লন্ডনেও	l o n D O n e r	0	0
+নিমিশেই	1	0.86	6	prefix	নিমিশে	n i m i sh e i	1	1
+জনসমর্থিত	1	0.78	7	prefix	জনসমর্থনের	j o n o sh o m o r th i t O	0	0
+ব্লু	1	1.00	4	prefix	ব্লুজ	bl u	1	1
+গুন্ডাপান্ডা	0	0.58	7	prefix	গুন্ডাপ্পা	g u n D a p a n D a	1	1
+পাসের	1	1.00	5	suffix	বাইপাসের	p a s e r	1	1
+বিচ্ছু	1	1.00	6	prefix	বিচ্ছুরন	b i ch chh u	1	1
+গনপদত্যাগের	1	0.82	9	prefix	গনপদত্যাগ	g o n O p o d o t e y a g e r	0	0
+বিসিএলের	1	0.88	7	prefix	বিসিএলে	b i s i e l e r	1	1
+দামেই	1	0.80	4	prefix	দামে	d a m e i	1	1
+ভাশনে	1	1.00	5	prefix	ভাশনে	bh a sh o n e	1	1
+সংগিতপরিচালক	1	0.92	11	prefix	সংগিতপরিচালনা	sh o ng g i t p o r i ch a l o k	0	0
+লিটু	1	0.75	3	prefix	লিটারেসি	l i T u	1	1
+ইউনিয়নসহ	1	0.75	6	prefix	ইউনিয়নভুক্ত	i u n i y o n sh o h O	1	1
+উল্টোটি	1	0.86	6	prefix	উল্টোটাও	u l T O T i	1	1
+চোখরাংানি	1	0.67	6	suffix	রাংানি	ch O kh r a ng g a n i	1	1
+দেখাল	1	1.00	5	prefix	দেখালাম	d E kh a l O	0	0
+প্রাথমিক চিকিৎসা	0	0.50	8	prefix	প্রাথমিকভাবে	pr a th O m i k | ch i k i t sh a	1	0
+লাইনে	1	1.00	5	prefix	লাইনেই	l a i n e	1	1
+এসএআইসি	1	0.71	5	suffix	বিএআইসি	e s e a i s i	1	1
+সুনন্দ	1	1.00	6	prefix	সুনন্দা	sh u n o nd O	1	1
+দাগড়া	1	0.80	4	suffix	ঘাগড়া	d a g r a	1	1
+মানবজাতি	1	1.00	8	prefix	মানবজাতিকে	m a n O b j a t i	1	1
+পোলিশ	1	0.80	4	prefix	পোলিওমুক্ত	p O l i sh	1	1
+স্বাস্থ্যে	1	1.00	10	prefix	স্বাস্থ্যের	sh a s th e	1	1
+কামিজও	1	0.83	5	prefix	কামিজ	k a m i j O	1	1
+উন্নয়নবিরোধি	1	0.67	8	prefix	উন্নয়নবিশয়ক	u nn o y o n b i r O dh i	1	1
+ঘূর্ণির	1	1.00	7	prefix	ঘুর্নির	gh u r n i r	1	1
+সাগরবক্ষের	1	0.90	9	prefix	সাগরবক্শে	sh a g o r b o kkh e r	0	1
+রক্তনালীর	1	1.00	9	prefix	রক্তনালির	r o kt O n a l i r	1	1
+সমাজভিত্তিক	1	0.73	8	suffix	কুইজভিত্তিক	sh o m a j bh i tt i k	1	1
+ফসলও	1	0.75	3	prefix	ফসলই	ph o sh O l O	0	0
+ইলিয়টগঞ্জে	1	0.90	9	prefix	ইলিয়টগঞ্জ	i l i y o T g o nj e	1	1
+পরিস্থিতিতেও	1	0.92	11	prefix	পরিস্থিতিতেই	p O r i sth i t i t e O	1	1
+নেথা	1	0.75	3	suffix	জেথা	n e th a	1	0
+এএনপি	1	1.00	5	prefix	এএনপির	e e n p i	1	1
+থাকলেন	1	0.83	5	prefix	থাকলেও	th a k l e n	1	1
+মিলাদুন্নবি	1	1.00	11	prefix	মিলাদুন্নবি	m i l a d u nn o b i	1	1
+ব্রাউনি	1	1.00	7	prefix	ব্রাউনিং	br a u n i	1	1
+মালেমার	0	0.57	4	prefix	মালেনের	m a l e m a r	1	1
+বিলাওয়াল	1	0.62	5	suffix	রাওয়াল	b i l a O y a l	1	1
+দিপালি	1	1.00	6	prefix	দিপালিকে	d i p a l i	1	1
+মিসড	1	1.00	4	prefix	মিসড কল	m i s D	1	1
+রক্তপাত	1	1.00	7	prefix	রক্তপাতও	r o kt O p a t	1	1
+পারসেন্ট	1	0.62	5	prefix	পারসেক	p a r s e n T	1	1
+মোর্তুজা	1	0.75	6	suffix	মর্তুজা	m O r t u j a	1	1
+বুদ্ধমুর্তির	1	0.92	11	prefix	বুদ্ধমুর্তি	b u d dh o m u r t i r	0	1
+ছিটকিনি	1	0.86	6	suffix	শিটকিনি	chh i T k i n i	1	1
+গতরের	1	0.80	4	prefix	গতরে	g o t o r e r	0	0
+ক্রমওয়েলের	1	0.80	8	prefix	ক্রমওয়েল	kr O m O y e l e r	1	0
+ডেটাবেজের	1	0.78	7	prefix	ডেটাবেজ	D e T a b e j e r	1	1
+শোউরি	1	1.00	5	suffix	ক্শোউরি	sh O u r i	1	1
+ধর্ষনে	1	1.00	6	prefix	ধর্শনে	dh o r sh O n e	1	1
+রাদামেল	0	0.57	4	prefix	রাদা	r a d a m e l	1	1
+জুদ্ধক্ষেত্রে	1	1.00	13	prefix	জুদ্ধক্শেত্রেই	j u d dh O kh e tr e	1	1
+সিআরএফ	1	0.67	4	prefix	সিআরইএর	s i a r e ph	1	0
+শিক্ষাপ্রতিশ্ঠানগুলোতে	1	1.00	22	prefix	শিক্শাপ্রতিশ্ঠানগুলোতেও	sh i kkh a pr O t i sh Th a n g u l O t e	1	1
+দেশবাসিসহ	1	0.78	7	prefix	দেশবাসির	d e sh b a sh i sh o h O	1	1
+নীরা	1	1.00	4	prefix	নিরা	n i r a	1	1
+পৃশ্ঠপোশকের	1	1.00	11	prefix	পৃশ্ঠপোশকেরা	p ri sh Th o p O sh o k e r	1	1
+কাদছ	1	1.00	4	prefix	কাদছি	k a d chh o	0	0
+থেই	1	1.00	3	prefix	থেইকা	th e i	1	1
+মজনুল	1	1.00	5	prefix	মজনুলের	m o j n u l	0	0
+গিনসবার্গকে	1	0.82	9	prefix	গিনসবার্গ	g i n s b a r g o k e	0	0
+ট্যালেন্টপুলে	1	0.92	12	prefix	ট্যালেন্টপুল	T A l e n T p u l e	1	1
+কানাই	1	1.00	5	prefix	কানাইখালি	k a n a i	1	1
+কিবোর্ডের	1	0.89	8	prefix	কিবোর্ডে	k i b O r D e r	1	1
+আমিন	1	1.00	4	prefix	আমিনও	a m i n	1	1
+ভিটেবাড়ি	1	1.00	8	prefix	ভিটেবাড়িতে	bh i T e b a r i	1	1
+পিএইচডির	1	1.00	8	prefix	পিএইচডিরত	p i e i ch D i r	1	1
+বর্জনও	1	0.83	5	prefix	বর্জনই	b o r j o n O	0	0
+দুর্যোগবিশয়ক	1	0.67	8	prefix	দুর্যোগব্যবস্থাপনা	d u r j O g b i sh o y O k	1	0
+উদ্ভিজ্জ	1	0.62	5	prefix	উদ্ভিদ	u d bh i j j O	1	1
+বক্সমাহমুদ	1	0.60	6	suffix	মাহমুদ	b o k s m a h m u d	1	1
+বাক্সটা	1	0.86	6	prefix	বাক্সটি	b a k s O T a	0	0
+দোদুল্যমানতার	1	0.92	12	prefix	দোদুল্যমানতা	d O d u l l o m a n o t a r	0	1
+ভরকেন্দ্র	1	0.89	8	suffix	নগরকেন্দ্র	bh o r k e ndr O	1	1
+ইয়াহু	1	1.00	5	prefix	ইয়াহুকে	i y a h u	1	1
+কিঅ	1	1.00	3	prefix	কিঅঁ	k i o	0	0
+পথচারীদের	1	1.00	9	prefix	পথচারিদের	p o th O ch a r i d e r	1	1
+ফেদেছিলেন	1	0.89	8	suffix	কেদেছিলেন	ph e d e chh i l e n	1	1
+রহস্যটি	1	0.86	6	prefix	রহস্যটা	r o h o sh sh o T i	0	0
+ব্লিচ	1	1.00	5	prefix	ব্লিচিং	bl i ch	1	1
+ওন	0	1.00	2	prefix	ওনলি	O n	1	1
+ঘোড়াটি	1	1.00	6	prefix	ঘোড়াটিকে	gh O r a T i	1	1
+দধিচি	1	0.60	3	prefix	দধি	d O dh i ch i	1	1
+পার্বত্যচুক্তির	1	0.93	14	prefix	পার্বত্যচুক্তি	p a r b o t t o ch u kt i r	1	0
+চানকা	1	1.00	5	prefix	চানকানো	ch a n k a	1	1
+মাহমুদউল্লাহরা	1	0.93	13	prefix	মাহমুদউল্লাহরও	m a h m u d u l l a h r a	1	1
+দক্ষিণারঞ্জনের	1	1.00	14	prefix	দক্শিনারঞ্জনের	d O kkh i n a r o nj O n e r	0	1
+ল্যাপটপেও	1	0.89	8	prefix	ল্যাপটপেই	l A p T o p e O	1	1
+কেতাবি	1	0.83	5	prefix	কেতাব	k e t a b i	1	1
+ইশ্বরগঞ্জে	1	1.00	10	prefix	ইশ্বরগঞ্জে	i sh sh o r g o nj e	1	1
+সেলও	1	1.00	4	suffix	রাসেলও	sh e l O	1	1
+বার্নিকাট	1	1.00	9	prefix	বার্নিকাটকে	b a r n i k a T	1	1
+প্রানশক্তির	1	1.00	11	prefix	প্রানশক্তির	pr a n sh O kt i r	1	1
+ঢাকামুখি	1	0.62	5	prefix	ঢাকামেডিকেল	Dh a k a m u kh i	1	1
+শোলোই	1	0.80	4	prefix	শোলোআনাই	sh O l O i	1	1
+অবকাশের	1	0.86	6	prefix	অবকাশে	o b O k a sh e r	1	1
+কবাট	1	1.00	4	prefix	কবাটের	k o b a T	1	1
+নিরাপদ	1	1.00	6	prefix	নিরাপদই	n i r a p o d	1	1
+সিকিউ,	1	0.83	5	prefix	সিকিউরড	sh i k i u r	0	0
+রক্ষনাবেক্ষনসহ	1	0.86	12	prefix	রক্শনাবেক্শনকারি	r o kkh o n a b e kkh o n sh o h O	1	1
+তালতলায়	1	0.86	6	prefix	তালতলার	t a l t o l a y	1	1
+আকাশি	1	0.80	4	prefix	আকাশমনি	a k a sh i	1	1
+রাজরাজেশ্বরি	1	0.92	11	prefix	রাজরাজেশ্বর	r a j r a j e sh sh o r i	1	1
+ছড়ালেও	1	0.83	5	prefix	ছড়ালে	chh o r a l e O	1	1
+লিংগভিত্তিক	1	0.82	9	suffix	অংগভিত্তিক	l i ng g o bh i tt i k	1	0
+ঘুরাতে	1	0.67	4	prefix	ঘুরাই	gh u r a t e	1	1
+শাহাদাত্	1	0.88	7	prefix	শাহাদাতের	sh a h a d a t	1	1
+জোগাজোগমাধ্যম	1	0.62	8	prefix	জোগাজোগমন্ত্রিসহ	j O g a j O g m a d d o m	0	0
+বিলাপ	1	1.00	5	prefix	বিলাপি	b i l a p	1	1
+কর্তা	1	1.00	5	prefix	কর্তাকে	k o r t a	1	1
+সাহাবুদ্দিনকে	1	0.92	12	suffix	শাহাবুদ্দিনকে	sh a h a b u d d i n k e	1	1
+মালিককেই	1	0.88	7	prefix	মালিককেও	m a l i k k e i	1	1
+ডটা	1	1.00	3	prefix	ডটার	D o T a	1	1
+সংবাদপত্রেও	1	0.91	10	prefix	সংবাদপত্রেই	sh o ng b a d p o tr o O	0	0
+ট্রেসকোথিকের	1	0.83	10	prefix	ট্রেসকোথিক	T r e s k O th i k e r	1	1
+বিশ্বরোড	1	1.00	8	prefix	বিশ্বরোডে	b i sh sh O r O D	1	1
+এমারল্ড	1	0.71	5	suffix	হ্যারল্ড	e m a r l D	0	0
+রাজগাড়	1	0.83	5	prefix	রাজগামি	r a j g a r	1	1
+কন্দলি	1	0.83	5	prefix	কন্দল	k o nd O l i	1	1
+সারাবিশ্ব	1	1.00	9	prefix	সারাবিশ্বে	sh a r a b i sh sh O	1	1
+স্বাস্থ্যসেবাকেন্দ্র	1	0.75	15	prefix	স্বাস্থ্যসেবাকে	sh a s th O sh e b a k e ndr O	1	0
+শশধর	1	0.75	3	suffix	বংশধর	sh o sh dh o r	0	1
+দুর্বারগতি	1	0.70	7	prefix	দুর্বার	d u r b a r g o t i	1	0
+থামাব	1	1.00	5	prefix	থামাবে	th a m a b O	1	1
+প্রসেসর	1	1.00	7	prefix	প্রসেসরগুলো	pr O s e s o r	1	1
+সোসিয়েদাদের	1	0.64	7	suffix	রোয়েদাদের	s O s i y e d a d e r	1	1
+বাশখালিসহ	1	0.78	7	prefix	বাশখালিতে	b a sh kh a l i sh o h O	1	1
+ডাইয়িং	0	0.50	3	prefix	ডাইসের	D a i y i ng	1	1
+ছোটগল্প	1	1.00	7	prefix	ছোটগল্পকার	chh O T O g o l p O	1	1
+আলোড়ন	1	1.00	5	prefix	আলোড়নের	a l O r o n	1	0
+আর্সেনালের	1	0.90	9	prefix	আর্সেনালে	a r s e n a l e r	1	1
+নিহিলিস্ট	0	0.56	5	suffix	সোশালিস্ট	n i h i l i s T o	0	0
+ইতিহাস	1	1.00	6	prefix	ইতিহাসই	i t i h a sh	1	1
+পুষ্টিগুণে	1	1.00	10	prefix	পুশ্টিগুনে	p u shT i g u n e	1	1
+নির্দেশসহ	1	0.78	7	prefix	নির্দেশমতো	n i r d e sh sh o h O	1	1
+খেলাতেও	1	0.86	6	prefix	খেলাতেই	kh E l a t e O	1	1
+জথাসময়	1	1.00	6	prefix	জথাসময়েই	j o th a sh o m o y	1	1
+বাকপ্রতিবন্ধী	1	1.00	13	prefix	বাকপ্রতিবন্ধিরাও	b a k pr O t i b O ndh i	1	1
+প্রতিবন্ধিরা	1	1.00	12	prefix	প্রতিবন্ধিরাও	pr O t i b O ndh i r a	1	1
+সদৃশ	1	1.00	4	suffix	পুকুরসদৃশ	sh o d ri sh	0	0
+শরবতও	1	0.80	4	prefix	শরবত	sh o r b O t O	0	0
+বললা	1	1.00	4	prefix	বললাম	b o l l a	0	1
+সিয়াওবো	1	1.00	7	prefix	সিয়াওবোর	sh i y a O b O	1	1
+চিল্লা	1	1.00	6	prefix	চিল্লাপাল্লা	ch i l l a	1	1
+দাশগুপ্তের	1	0.80	8	prefix	দাশগুপ্তর	d a sh g u p t e r	1	1
+নোউকাটিতে	1	0.78	7	prefix	নোউকাটিকে	n O u k a T i t e	1	1
+মিশমাক	0	0.50	3	prefix	মিশবে	m i sh o m a k	0	0
+প্যাথলজিক্যাল	1	0.62	8	prefix	প্যাথলজি	p A th O l o j i k A l	0	0
+ধৃতাস্ত্র	1	0.67	6	suffix	জুদ্ধাস্ত্র	dh ri t a s t r O	1	1
+বিকেএসপিতে	1	0.80	8	prefix	বিকেএসপি	b i k e e s p i t e	1	1
+লাগামহিন	1	1.00	8	prefix	লাগামহিন	l a g a m h i n	1	1
+সৎকার্য	1	0.71	5	prefix	সৎকারের	sh o t k a r j O	1	1
+পড়তেও	1	0.80	4	prefix	পড়তেই	p O r t e O	1	1
+ক্রেজি	1	0.83	5	prefix	ক্রেজার	kr e j i	1	1
+শুধিতে	1	0.67	4	prefix	শুধি	sh u dh i t e	1	1
+হলেতো	1	1.00	5	suffix	তাহলেতো	h O l e t O	1	1
+খাসপুকুর	1	0.62	5	suffix	বাশপুকুর	kh a sh p u k u r	1	1
+বিনি	1	1.00	4	prefix	বিনিঃশেশ	b i n i	1	1
+পিএনএস	1	0.83	5	suffix	এভরিডিএনএস	p i e n e s	1	1
+হোল	1	1.00	3	prefix	হোলসিম	h O l	1	1
+অধিবিন্না	0	0.56	5	prefix	অধিবিদ্যাসংক্রান্ত	O dh i b i nn a	1	1
+রেকর্ডসে	1	1.00	8	prefix	রেকর্ডসের	r e k O r D s e	0	0
+নেসেল	1	0.80	4	prefix	নেসেসিটি	n e sh e l	1	1
+লপরচপর	0	0.33	2	prefix	লপটানো	l o p O r ch o p O r	1	0
+রায়কা	1	1.00	5	prefix	রায়কালি	r a y k a	1	1
+অভিজানকালে	1	0.80	8	prefix	অভিজানকারিরা	O bh i j a n k a l e	1	1
+নাগপুর	1	1.00	6	prefix	নাগপুরে	n a g p u r	1	1
+মন্ত্রে	1	1.00	7	prefix	মন্ত্রেই	m o n t r e	1	1
+বায়ার্ন	1	1.00	7	prefix	বায়ার্নকে	b a y a r n	1	1
+নোটিশ	1	1.00	5	prefix	নোটিশও	n O T i sh	1	1
+রেজিস্ট্রেশনবিহীন	1	0.71	12	prefix	রেজিস্ট্রেশন	r e j i sh T r e sh o n b i h i n	1	0
+মুমিন	1	1.00	5	prefix	মুমিনকে	m u m i n	1	1
+চুক্তিমুল্য	1	1.00	11	prefix	চুক্তিমুল্যের	ch u kt i m u l l O	1	1
+উপসেবক	1	0.83	5	prefix	উপসেবা	u p O sh e b O k	0	1
+সাবেরুল	1	0.71	5	prefix	সাবেরি	sh a b e r u l	1	1
+সশব্দে	1	0.83	5	prefix	সশব্দ	sh o sh o b d e	1	1
+কিনেছেন	1	0.86	6	prefix	কিনেছে	k i n e chh e n	1	1
+বানিজ্যিকভাবে	1	0.77	10	prefix	বানিজ্যিকভিত্তিতে	b a n i j j i k bh a b e	1	1
+পরপিড়ন	1	0.83	5	prefix	পরপিড়ক	p o r p i r O n	0	0
+লুক্সেমবার্গ	1	1.00	12	prefix	লুক্সেমবার্গে	l u k s e m b a r g	1	1
+পুর্ববর্তি	1	1.00	10	prefix	পুর্ববর্তি	p u r b O b O r t i	1	0
+রক্তস্বল্পতা	1	0.67	8	suffix	শিক্শকস্বল্পতা	r o kt O sh o l p O t a	0	0
+ইলেকট্রনের	1	0.80	8	prefix	ইলেকট্রনিক্সে	i l e k T r O n e r	1	1
+উইকেটকে	1	1.00	7	prefix	উইকেটকেই	u i k e T k e	1	1
+ভবনধস	1	1.00	5	prefix	ভবনধসের	bh o b o n dh o sh	0	0
+চাননা	1	0.80	4	prefix	চাননি	ch a n n a	1	1
+হামলাকারিও	1	0.90	9	prefix	হামলাকারি	h a m l a k a r i O	1	1
+স্বর্গিয়	1	0.75	6	prefix	স্বর্গসুখ	sh o r g i y O	1	1
+দুদ্দাড়	0	0.43	3	prefix	দুদেশের	d u d d a r	1	1
+চ্যাপ্টার	1	1.00	9	prefix	চ্যাপ্টারের	ch A p T a r	1	1
+বর্ষজিবি	1	1.00	8	prefix	বর্শজিবি	b o r sh O j i b i	1	1
+উচ্চমার্গিয়	0	0.55	6	prefix	উচ্চমানের	u ch ch O m a r g i y O	1	1
+বাজরা	1	1.00	5	suffix	দখলবাজরা	b a j r a	1	1
+পালাতেও	1	0.86	6	prefix	পালাতে	p a l a t e O	1	1
+উপপদ	1	0.75	3	prefix	উপপথ	u p O p o d	1	1
+ভালোবাসে	1	1.00	8	prefix	ভালোবাসেন	bh a l O b a sh e	1	1
+নগদ	1	1.00	3	prefix	নগদান	n o g O d	1	1
+কমপ্লিশন	1	0.75	6	prefix	কমপ্লিট	k o m p l i sh o n	1	1
+স্ক্লেরেনকাইমা	0	0.57	8	suffix	প্যারেনকাইমা	s k l e r e n k a i m a	0	0
+রুমেনিগে	0	0.50	4	prefix	রুমেও	r u m e n i g e	1	1
+শাংলা	1	0.80	4	prefix	শাংল	sh a ng l a	1	1
+ফাহাদ	1	1.00	5	prefix	ফাহাদকে	ph a h a d	1	1
+কুনাল	1	1.00	5	prefix	কুনালের	k u n a l	1	1
+তারকারাও	1	0.88	7	prefix	তারকারাই	t a r O k a r a O	1	0
+করিমও	1	0.80	4	prefix	করিমউল্লাহ	k O r i m O	1	1
+স্যালভো	1	0.71	5	prefix	স্যালনের	s A l bh O	1	1
+ফাজিলপুর	1	0.62	5	prefix	ফাজিল	ph a j i l p u r	1	1
+প্রবসিত	0	0.57	4	prefix	প্রবলের	pr O b O sh i t O	1	1
+শ্রেনিভেদে	1	0.70	7	prefix	শ্রেনিভুক্ত	s r e n i bh e d e	1	1
+অনুধাবনমুলক	1	0.64	7	prefix	অনুধাবনজোগ্য	O n u dh a b O n m u l o k	0	1
+কংগ্রেশনাল	1	0.60	6	prefix	কংগ্রেস	k o ng gr e sh o n a l	1	1
+জবন	1	1.00	3	prefix	জবনিকা	j o b O n	1	1
+মেধাতালিকা	1	1.00	10	prefix	মেধাতালিকার	m e dh a t a l i k a	1	1
+পংকিলতা	0	0.57	4	suffix	জটিলতা	p o ng k i l o t a	1	0
+মিন্টুকে	1	0.88	7	suffix	পিন্টুকে	m i n T u k e	1	1
+রিপিল	1	0.80	4	prefix	রিপিটার	r i p i l	1	1
+ব্যবসাসহ	1	0.88	7	prefix	ব্যবসাসফল	b A b sh a sh o h O	1	0
+ডিজাইনটা	1	0.88	7	prefix	ডিজাইনটি	D i j a i n T a	1	1
+রুবাইয়াৎ	1	0.88	7	prefix	রুবাইয়াত	r u b a i y a t	1	1
+শিরার	1	1.00	5	suffix	সাতক্শিরার	sh i r a r	1	1
+পায়খানার	1	0.88	7	prefix	পায়খানা	p a y kh a n a r	1	0
+নাল	1	1.00	3	prefix	নালতা	n a l	1	1
+উল্লে	1	1.00	5	prefix	উল্লেখ	u l l e	1	1
+লাঠিসোটাসহ	1	0.80	8	prefix	লাঠিসোটা	l a Th i sh O T a sh o h O	1	1
+বলাহক	1	0.80	4	suffix	কুলাহক	b O l a h o k	0	0
+কাচামালের	1	0.78	7	prefix	কাচামালসহ	k a ch a m a l e r	1	1
+রুশদিকে	1	0.71	5	prefix	রুশদি	r u sh d i k e	1	1
+নিবন্ধক	1	1.00	7	prefix	নিবন্ধককে	n i b o ndh O k	1	1
+বর্তমানে	1	1.00	8	prefix	বর্তমানেও	b o r t O m a n e	1	1
+ঘটিয়েছেন	1	0.88	7	prefix	ঘটিয়েছে	gh o T i y e chh e n	0	0
+বন্যাকবলিত	1	0.60	6	prefix	বন্যাকে	b O n n a k o b O l i t O	0	0
+প্রতিমন্ত্রিরা	1	1.00	14	prefix	প্রতিমন্ত্রিরা	pr O t i m O nt ri r a	0	1
+বাঙলা	1	0.60	3	prefix	বাঙালি	b a ng l a	1	1
+মেঘমুক্ত	1	0.62	5	suffix	রোগমুক্ত	m e gh m u kt O	1	1
+ঘোড়াগুলো	1	1.00	8	prefix	ঘোড়াগুলোকে	gh O r a g u l O	1	1
+ইতার	1	1.00	4	suffix	রুইতার	i t a r	1	1
+হুবহু	1	0.60	3	suffix	নবহু	h u b O h u	0	0
+রহঃ	0	0.67	2	prefix	রহ	r o h o h	0	0
+এনকেফালাইটিসে	1	0.92	12	prefix	এনকেফালাইটিস	e n k e ph a l a i T i s e	1	1
+ঘন্টার	1	1.00	6	prefix	ঘন্টারও	gh o n T a r	1	1
+চলবেন	1	0.80	4	prefix	চলবেই	ch O l b e n	1	1
+হুইলার	1	0.67	4	prefix	হুইলস	h u i l a r	1	1
+তিহড়ি	1	0.60	3	prefix	তিহারি	t i h r i	1	0
+অঞ্জন	1	1.00	5	prefix	অঞ্জনস	o nj o n	0	1
+ভুগবেন	1	0.83	5	prefix	ভুগবে	bh u g b e n	1	1
+দেশবাসিকে	1	1.00	9	prefix	দেশবাসিকেই	d e sh b a sh i k e	1	1
+বিত্তা	1	0.83	5	prefix	বিত্তহিন	b i tt a	1	1
+ইকারুসের	1	0.62	5	suffix	ক্রুসের	i k a r u sh e r	1	1
+সুখেন	1	1.00	5	prefix	সুখেন্দু	sh u kh e n	1	1
+নাকালিয়া	1	0.75	6	suffix	কালিয়া	n a k a l i y a	1	1
+উপস্থাপনা	1	1.00	9	prefix	উপস্থাপনাও	u p O sth a p O n a	1	1
+ওয়েলেসলি	1	0.62	5	prefix	ওয়েলেগেদারার	O y e l e s l i	1	1
+জইশ্ঠ্য	1	0.71	5	suffix	ওউশ্ঠ্য	j O i sh Th O	1	1
+সংকেতের	1	0.86	6	prefix	সংকেতে	sh o ng k e t e r	1	1
+স্পিকারও	1	0.88	7	prefix	স্পিকারই	s p i k a r O	1	0
+কালকেরটিশহ	1	0.60	6	prefix	কালকের	k a l k e r T i sh o h o	1	0
+স্বয়ংচালিত	0	0.50	5	prefix	স্বয়ংক্রিয়ভাবেই	sh o y O ng ch a l i t O	0	0
+সোমালি	1	1.00	6	prefix	সোমালিয়	s O m a l i	1	1
+শালকেতে	1	0.71	5	prefix	শালকে	sh a l k e t e	1	1
+ছিন্ন	1	1.00	5	prefix	ছিন্নপত্রাবলি	chh i nn O	1	1
+জংগির	1	1.00	5	prefix	জংগিরা	j o ng g i r	1	1
+পাসকোড	1	0.83	5	prefix	পাসকো	p a s k O D	1	1
+হিরো	1	1.00	4	prefix	হিরোইন	h i r O	1	1
+অমানুষিক	1	1.00	8	prefix	অমানুশিক	o m a n u sh i k	1	1
+মামলায়ও	1	0.86	6	prefix	মামলায়ই	m a m o l a y O	0	0
+অনাবশ্য	1	1.00	7	prefix	অনাবশ্যক	o n a b o sh sh O	0	1
+কর্মিকেও	1	0.88	7	prefix	কর্মিকে	k O r m i k e O	1	1
+তিনশো	1	0.80	4	prefix	তিনশর	t i n sh O	1	1
+গুলবাহার	1	0.62	5	prefix	গুলবার	g u l b a h a r	1	1
+লোকজনকেও	1	0.88	7	prefix	লোকজনকে	l O k j o n k e O	1	1
+বাদবাকিদের	1	0.70	7	prefix	বাদবাকি	b a d b a k i d e r	1	1
+বোচা	1	1.00	4	prefix	বোচাগঞ্জ	b O ch a	1	1
+আলোকচিত্রির	1	1.00	11	prefix	আলোকচিত্রির	a l O k ch i tr i r	1	1
+লিংগুইসাইড	1	0.60	6	suffix	সুইসাইড	l i ng g u i sh a i D	1	1
+প্যারাগ্রাফ	1	1.00	11	prefix	প্যারাগ্রাফের	p A r a gr a ph	1	1
+প্রত্যাদেশ	1	0.70	7	prefix	প্রত্যাঘাত	pr O t t a d e sh	1	1
+অবাস্তব	1	1.00	7	prefix	অবাস্তবায়িত	o b a st o b	1	0
+ঘাতুক	1	0.80	4	suffix	দাতুক	gh a t u k	1	1
+মোসাদ্দেক	1	0.78	7	prefix	মোসাদ্দিকুর	m O s a d d e k	1	1
+বচ্চনরা	1	0.71	5	prefix	বচ্চনদের	b o ch ch o n r a	0	1
+ভাড়াটিয়ারা	1	0.90	9	prefix	ভাড়াটিয়ার	bh a r a T i y a r a	1	1
+আমলে	1	1.00	4	prefix	আমলেই	a m O l e	0	0
+কম্পিউটার্সের	1	0.92	12	prefix	কম্পিউটার্সে	k o mp i u T a r s e r	1	1
+মধ্যস্থলে	1	0.78	7	prefix	মধ্যস্থতায়	m O d dh O sth o l e	1	1
+৬৭	0	0.00	0	prefix		sh a t sh O T T i	0	0
+শোনাবে	1	1.00	6	prefix	শোনাবেন	sh O n a b e	1	1
+ফিল্ডিংই	1	0.88	7	prefix	ফিল্ডিং	ph i l D i ng i	1	1
+আদর্শগতভাবে	1	0.64	7	suffix	পরিবেশগতভাবে	a d O r sh O g o t O bh a b e	1	1
+নিগদ	1	0.75	3	prefix	নিগন্থ	n i g o d	1	1
+আভুতল	1	0.80	4	suffix	ভুতল	a bh o bh u t o l	0	0
+জমাবে	1	1.00	5	prefix	জমাবেন	j o m a b e	1	1
+ইন্তেজাম	1	0.88	7	suffix	এন্তেজাম	i nt e j a m	1	1
+বাগ্যুদ্ধে	1	0.90	9	prefix	বাগ্যুদ্ধ	b a g g u d dh e	1	1
+নির্ভরশীল	1	1.00	9	prefix	নির্ভরশিল	n i r bh o r sh i l	1	1
+ভবনও	1	0.75	3	prefix	ভবনই	bh o b O n O	1	1
+বলুন	1	0.75	3	prefix	বলুক	b O l u n	1	1
+বাসায়ই	1	0.83	5	prefix	বাসায়	b a sh a y i	1	1
+সংশ্লিশ্টতায়	1	0.92	11	prefix	সংশ্লিশ্টতার	sh o ng s l o sh T o t a y	0	0
+জাচ্ছ	1	1.00	5	prefix	জাচ্ছি	j a ch chh O	1	1
+ব্রিজেত্তে	1	0.60	6	prefix	ব্রিজে	br i j e tt e	1	0
+পুনর্বহালের	1	0.91	10	prefix	পুনর্বহালে	p u n O r b o h a l e r	0	0
+রইলই	1	0.75	3	prefix	রইল	r O i l o i	1	0
+গিরিগিটি	0	0.50	4	prefix	গিরিকে	g i r g i T i	0	0
+কাচামাল	1	1.00	7	prefix	কাচামালসহ	k a ch a m a l	1	1
+রবিউল	1	1.00	5	prefix	রবিউলকে	r O b i u l	1	1
+ইতিমনির	1	0.86	6	prefix	ইতিমনি	i t i m o n i r	1	0
+প্রানসংহারি	0	0.55	6	prefix	প্রানসঞ্চার	pr a n sh o ng h a r i	1	1
+ক্যাসপারস্কির	1	0.92	12	prefix	ক্যাসপারস্কি	k A s p a r o sh k i r	0	0
+বাক্যকে	1	0.71	5	prefix	বাক্যও	b a k k O k e	1	1
+বিএসএনএলের	0	0.50	5	prefix	বিএসএফ	b i e s e n e l e r	1	1
+ডুম্বুর	0	0.43	3	prefix	ডুমো	D u mb u r	1	1
+ধইর্য্য	1	1.00	7	prefix	ধইর্য্যের	dh O i r j O	1	1
+মউরলা	1	0.60	3	prefix	মউর	m o u r o l a	0	0
+হাথুরুসিংহের	1	0.92	11	prefix	হাথুরুসিংহে	h a th u r u sh i ng h e r	1	1
+দোইবি	1	0.80	4	prefix	দোইবাৎ	d O i b i	1	1
+বিরতিটা	1	0.71	5	prefix	বিরতিই	b i r o t i T a	1	0
+তেজা	1	1.00	4	prefix	তেজাব	t e j a	1	1
+গুয়েন	1	0.80	4	prefix	গুয়েতেমালা	g u y e n	1	1
+নব্বই	1	1.00	5	prefix	নব্বইয়ে	n O b b O i	0	0
+নাহা	1	1.00	4	prefix	নাহাদা	n a h a	1	1
+নিম্নাঞ্চল	1	1.00	10	prefix	নিম্নাঞ্চলে	n i m n a nch o l	1	1
+প্রতিসারন	1	0.89	8	prefix	প্রতিসারি	pr O t i sh a r O n	1	1
+প্লজেন	1	1.00	6	prefix	প্লজেনের	p l o j e n	1	1
+স্বদেশী	1	1.00	7	prefix	স্বদেশি	sh o d e sh i	1	1
+ফকিরেরপুলে	1	1.00	10	prefix	ফকিরেরপুলের	ph o k i r e r p u l e	1	1
+ফিচারগুলোর	1	0.90	9	prefix	ফিচারগুলো	ph i ch a r g u l O r	1	1
+ভিটেমাটি	1	1.00	8	prefix	ভিটেমাটিছাড়া	bh i T e m a T i	1	1
+শানকি	1	0.60	3	prefix	শানতলা	sh a n k i	1	1
+নিচোর	1	0.80	4	prefix	নিচোল	n i ch O r	1	1
+ক্ষনিকালয়	1	0.78	7	prefix	ক্শনিকা	kh o n i k a l o y o	0	0
+মাঠগুলোকে	1	0.78	7	prefix	মাঠগুলো	m a Th g u l O k e	1	1
+ভড়কানো	1	0.83	5	suffix	হড়কানো	bh o r k a n O	1	0
+সার্কুলেশন	1	0.70	7	prefix	সার্কুলারের	sh a r k u l e sh o n	1	1
+লালদীঘির	1	1.00	8	prefix	লালদিঘির	l a l d i gh i r	1	1
+স্ত্রিরা	1	1.00	8	prefix	স্ত্রিরাও	s t r i r a	1	1
+চারে	1	1.00	4	prefix	চারেক	ch a r e	1	1
+ফোপর–দালাল	0	0.50	5	suffix	দালাল	ph O p O r d a l a l	0	0
+কাফকোতে	1	0.71	5	prefix	কাফকো	k a ph k O t e	1	1
+ম্যালেরিয়া	1	1.00	10	prefix	ম্যালেরিয়ার	m A l e r i y a	1	1
+সরলে	1	0.75	3	prefix	সরলিকৃত	sh o r o l e	0	1
+এগিয়ে	1	1.00	5	prefix	এগিয়েও	e g i y e	1	1
+আলবার্তো	1	0.75	6	prefix	আলবার্টা	a l b a r t O	1	1
+ইউআইএসসি	1	1.00	8	prefix	ইউআইএসসিতে	i u a i e s s i	1	1
+কিডনিকে	1	0.71	5	prefix	কিডনিও	k i D n i k e	1	1
+চন্দনাইশ	1	1.00	8	prefix	চন্দনাইশের	ch o nd O n a i sh	1	1
+ক্ষেত্রিপাড়া	1	0.67	8	prefix	ক্শেত্রি	kh e tr i p a r a	1	1
+এনসিসি	1	1.00	6	prefix	এনসিসিবিএল	e n s i s i	1	1
+ভালোবাসলে	1	1.00	9	prefix	ভালোবাসলেই	bh a l O b a sh l e	1	1
+গায়কি	1	1.00	5	prefix	গায়কিতে	g a y O k i	1	0
+বিএমপির	1	1.00	7	suffix	সিডব্লিউবিএমপির	b i e m p i r	1	1
+অনুসন্ধিৎসু	1	0.91	10	prefix	অনুসন্ধিৎসা	O n u sh O ndh i t sh u	0	1
+শহিদুল্লাহর	1	0.91	10	prefix	শহিদুল্লাহ	sh O h i d u l l a r	0	0
+হাইম	1	1.00	4	prefix	হাইমচর	h a i m	1	1
+আশু	1	1.00	3	prefix	আশুক	a sh u	1	1
+প্রথমও	1	0.83	5	prefix	প্রথমইনিংস	pr O th O m O	1	1
+বিভগের	0	0.50	3	prefix	বিভক্তির	b i bh o g e r	1	1
+বাংলাওয়াশ	1	0.67	6	prefix	বাংলাও	b a ng l a O y a sh	1	1
+ভর্তব্য	1	0.86	6	suffix	ধর্তব্য	bh o r t O b b O	1	1
+বিধেয়	1	1.00	5	prefix	বিধেয়ক	b i dh e y O	1	1
+রুলের	1	1.00	5	suffix	খাইরুলের	r u l e r	1	1
+বিপর্যস্ততার	1	0.75	9	prefix	বিপর্যস্ত	b i p o r j o st o t a r	1	0
+দিবাকর	1	1.00	6	prefix	দিবাকরের	d i b a k o r	1	0
+স্নায়ুজুদ্ধ	1	1.00	11	prefix	স্নায়ুজুদ্ধের	sn a y u j u d dh O	1	1
+কর্মপরিবেশ	1	1.00	10	prefix	কর্মপরিবেশের	k o r m O p O r i b e sh	1	1
+সাবির	1	1.00	5	prefix	সাবিরা	sh a b i r	1	1
+র্যাফেল	1	0.71	5	prefix	র্যাফল	r A ph e l	1	1
+মালয়েশিয়া	1	1.00	9	prefix	মালয়েশিয়াকে	m a l O y e sh i a	0	0
+অবশিশ্টাংশ	1	1.00	10	prefix	অবশিশ্টাংশ	o b o sh i sh T a ng sh O	0	0
+চালতার	1	0.83	5	suffix	বিশালতার	ch a l t a r	1	1
+প্ল্যান	1	1.00	7	prefix	প্ল্যানড	p l A n	1	1
+সইয়দ	1	1.00	4	prefix	সইয়দপুর	sh O i O d	0	0
+চিং	1	1.00	3	prefix	চিংফোর্ড	ch i ng	1	1
+কাঁটাতার	1	0.62	5	prefix	কাঁটাবন	k a~ T a t a r	1	1
+মহিপুরের	1	0.75	6	prefix	মহিপুর	m o h i p u r e r	0	0
+মেথডিস্ট	1	0.62	5	suffix	বুড্ডিস্ট	m e th D i s T	1	1
+গোলপাতার	1	0.88	7	prefix	গোলপাতাগাছ	g O l p a t a r	1	1
+ফ্রিল্যান্সিংয়ে	1	1.00	15	prefix	ফ্রিল্যান্সিংয়ের	ph r i l A n s i ng y e	1	1
+সানচেজের	1	0.75	6	prefix	সানচেজরা	sh a n ch e j e r	1	1
+অনুপজুক্ত	1	0.67	6	suffix	জথোপজুক্ত	o n u p O j u kt O	0	0
+নিমেষে	1	1.00	6	prefix	নিমেশে	n i m e sh e	1	1
+ধারনাটিই	1	0.88	7	prefix	ধারনাটি	dh a r o n a T i i	1	1
+জুবাদের	1	0.86	6	suffix	বস্তুবাদের	j u b o d e r	0	0
+গ্যালে	1	0.83	5	prefix	গ্যালিলিও	g A l e	1	1
+পেরেরা	1	1.00	6	prefix	পেরেরাকে	p e r e r a	1	1
+দিশাহিন	1	0.71	5	suffix	ভাশাহিন	d i sh a h i n	1	1
+মতদ্বোইধতার	1	0.91	10	prefix	মতদ্বোইধতা	m o t o d O i dh o t a r	1	0
+ইটিপি	1	1.00	5	prefix	ইটিপির	i T i p i	1	1
+আরাম	1	1.00	4	prefix	আরামকো	a r a m	1	1
+ডাউট	1	0.75	3	prefix	ডাউকি	D a u T	1	1
+স্থানটি	1	1.00	7	prefix	স্থানটিই	sth a n T i	1	1
+চিকিৎসাবিজ্ঞানিরাও	1	0.94	17	prefix	চিকিৎসাবিজ্ঞানিরা	ch i k i t sh a b i g g a n i r a O	1	1
+কাদিরগঞ্জ	1	0.67	6	suffix	নাজিরগঞ্জ	k a d i r g o nj	1	1
+নিজেকেও	1	0.86	6	prefix	নিজেকেই	n i j e k e O	1	1
+প্রচলনে	1	1.00	7	prefix	প্রচলনের	pr O ch o l o n e	0	0
+সহিসালামাত	1	0.80	8	prefix	সহিসালামতে	sh O h i sh a l a m o t	0	0
+জুবমোইত্রির	1	0.91	10	prefix	জুবমোইত্রি	j u b o m O i tr i	0	0
+নেতৃত্বও	1	0.88	7	prefix	নেতৃত্বই	n e t ri tt O O	0	1
+লুচির	1	0.80	4	prefix	লুচি	l u ch i r	1	1
+সহমর্মি	1	1.00	7	prefix	সহমর্মিতা	sh o h O m O r m i	1	1
+জথেশ্ট	1	1.00	6	prefix	জথেশ্টই	j o th e sh T O	1	1
+ভোউমিকের	1	0.75	6	prefix	ভোউমিককে	bh O u m i k e r	1	1
+গতিরোধকে	1	1.00	8	prefix	গতিরোধকের	g o t i r O dh k e	0	1
+ফুকুশিমা	1	1.00	8	prefix	ফুকুশিমার	ph u k u sh i m a	1	1
+বাধটিতে	1	0.71	5	prefix	বাধটি	b a dh T i t e	1	1
+হারতে	1	1.00	5	prefix	হারতেই	h a r t e	1	1
+হিউ	1	1.00	3	prefix	হিউজ	h i u	1	1
+কন্দর	1	1.00	5	prefix	কন্দর্প	k o nd o r	0	0
+এভারেডি	1	0.71	5	prefix	এভারেজ	e bh a r e D i	1	1
+লুম	1	1.00	3	prefix	লুমিনেসেন্ট	l u m	1	1
+ফোরামেও	1	0.86	6	prefix	ফোরামে	ph O r a m e O	1	1
+মানবজাতির	1	0.89	8	prefix	মানবজাতিকে	m a n O b j a t i r	1	1
+পিসিআই	1	0.83	5	suffix	বিসিআই	p i s i a i	1	1
+আমরা	1	1.00	4	prefix	আমরা আগামিকাল বাজারে যাব।	a m r a	1	1
+বলপেন	1	1.00	5	prefix	বলপেনের	b o l p e n	1	0
+বংগভংগ	1	1.00	6	prefix	বংগভংগবিরোধি	b o ng g O bh o ng g o	0	0
+জন্মরহস্য	0	0.56	5	suffix	জিবনরহস্য	j o n m O r o h o sh sh O	0	0
+চালবাজ	1	1.00	6	prefix	চালবাজি	ch a l b a j	1	1
+তারিকের	1	0.86	6	suffix	গ্রন্থাগারিকের	t a r i k e r	1	1
+কেনেননি	1	0.71	5	prefix	কেনেন	k e n e n n i	1	1
+বর্ষসেরার	1	0.89	8	prefix	বর্শসেরা	b o r sh O sh e r a r	1	1
+শুকিয়েছে	1	0.75	6	prefix	শুকিয়ে	sh u k i y e chh e	1	1
+শফিকুল্লাহ	1	0.60	6	prefix	শফিকুলের	sh o ph i k u l l a h	1	1
+আমলযোগ্য	1	0.75	6	suffix	শিথিলযোগ্য	a m O l j O g g O	0	1
+এসকোবার	0	0.57	4	prefix	এসকোয়্যার	e s k O b a r	1	1
+যাত্রাপথের	1	0.90	9	suffix	জাত্রাপথের	j a tr a p o th e r	1	1
+প্রেরনাদাতা	1	0.82	9	prefix	প্রেরনাদায়ি	pr e r o n a d a t a	0	0
+সমাজতন্ত্রকে	1	0.83	10	prefix	সমাজতন্ত্রও	sh o m a j t o n t r O k e	1	1
+কুরচাভা	1	1.00	7	prefix	কুরচাভার	k u r ch a bh a	1	1
+প্রতিহতের	1	0.78	7	prefix	প্রতিহত	pr O t i h o t e r	1	1
+রিকভারি	1	1.00	7	prefix	রিকভারির	r i k o bh a r i	0	0
+চেন্নাইতে	1	0.78	7	prefix	চেন্নাইকে	ch e nn a i t e	1	1
+বিপরিতার্থক	0	0.55	6	prefix	বিপরিতমুখি	b i p o r i t a r th o k	1	1
+দুবেলা	1	0.83	5	suffix	রুবেলা	d u b e l a	1	1
+যথেষ্ঠ	1	0.83	5	suffix	জথেশ্ঠ	j o th e shTh O	1	1
+বিভাজনমুলক	1	0.60	6	prefix	বিভাজনটা	b i bh a j o n m u l o k	1	0
+দাবায়	1	1.00	5	prefix	দাবায়া	d a b a y	1	1
+ঊষ্ণ	1	1.00	4	prefix	উশ্ন	u sh n O	1	1
+খেলিয়েই	1	0.86	6	prefix	খেলিয়েছে	kh e l i y e i	1	1
+কাচামালে	1	0.88	7	prefix	কাচামালসহ	k a ch a m a l e	1	1
+শেডটি	1	0.80	4	suffix	হেডটি	sh e D T i	1	1
+আসিস	1	0.75	3	prefix	আসিলেন	a sh i sh	1	1
+গোকর্ন	1	0.67	4	suffix	বেবিকর্ন	g O k o r n O	1	1
+ইসপার	1	0.80	4	suffix	প্রসপার	i sh p a r	1	1
+বারোমাসি	0	0.50	4	prefix	বারোবাজারের	b a r O m a sh i	1	1
+অভিব্যক্তিতে	1	0.83	10	prefix	অভিব্যক্তিটি	O bh i b e kt i t e	1	1
+রিফাতের	1	0.86	6	suffix	সিফাতের	r i ph a t e r	1	1
+অবহিত	1	1.00	5	prefix	অবহিতকরন	o b O h i t O	1	1
+ডাকব্যবস্থার	1	0.92	11	prefix	ডাকব্যবস্থা	D a k b A b O sth a r	1	1
+কমন্স	1	1.00	5	prefix	কমন্সে	k o m O n s	1	1
+বোঝার	1	1.00	5	prefix	বোঝারও	b O jh a r	1	1
+ব্রেড	1	1.00	5	prefix	ব্রেডের	br e D	1	1
+অখেলোয়াড়সুলভ	1	0.92	11	suffix	খেলোয়াড়সুলভ	o kh e l O y a r sh u l o bh	1	1
+জাসনে	1	0.80	4	suffix	উচ্চাসনে	j a sh n e	0	0
+শাওয়ারের	1	0.88	7	suffix	ফ্লাওয়ারের	sh a O y a r e r	1	1
+সরছে	1	0.75	3	prefix	সরছিল	sh O r chh e	1	0
+পরিশুশ্ক	1	0.75	6	suffix	বিশুশ্ক	p O r i sh u sh k O	1	1
+তাড়াহুড়োর	1	0.89	8	prefix	তাড়াহুড়ো	t a r a h u r O r	1	1
+নকশাগুলো	1	0.88	7	suffix	রিকশাগুলো	n o k sh a g u l O	1	1
+উচ্চকন্ঠে	1	1.00	9	prefix	উচ্চকন্ঠে	u ch ch O k o n Th e	1	1
+ডেনিং	1	1.00	5	prefix	ডেনিংয়ের	D e n i ng	1	1
+হোম	1	1.00	3	prefix	হোমনা	h O m	1	1
+সিনথেটিকস	1	0.89	8	prefix	সিনথেটিক	s i n th e T i k s	1	1
+রং করা	1	0.67	4	suffix	সময় নশ্ট করা	r o ng | k o r a	1	1
+স্মার্ফ	1	0.86	6	prefix	স্মার্ত	s m a r ph	1	1
+কোমেরসান্ত	0	0.50	5	suffix	সান্ত	k O m e r sh a nt O	1	1
+তিনভাবে	1	0.86	6	suffix	কঠিনভাবে	t i n bh a b e	1	1
+সমুদ্রবন্দরটি	1	0.85	11	prefix	সমুদ্রবন্দরগুলোকে	sh O m u d r O b o nd O r T i	1	0
+এমআইডি	1	0.67	4	prefix	এমআইটির	e m a i D i	1	1
+পলক	1	1.00	3	prefix	পলকা	p o l O k	1	1
+পাটোয়ারিকে	1	0.80	8	prefix	পাটোয়ারি	p a T O y a r i k e	1	1
+সাম্প্রতি	1	1.00	9	prefix	সাম্প্রতিক	sh a m p r O t i	1	1
+সিএসএম	1	0.83	5	prefix	সিএসএফের	s i e s e m	1	0
+আমদানিও	1	0.86	6	prefix	আমদানি	a m d a n i O	1	1
+পটকাবাজি	1	0.88	7	suffix	ফটকাবাজি	p o T k a b a j i	1	1
+উপকারি	1	1.00	6	prefix	উপকারিতা	u p O k a r i	1	1
+রোহিংগাকে	1	0.78	7	prefix	রোহিংগা	r O h i ng g a k e	1	1
+প্রমপান	0	0.57	4	prefix	প্রমদানাথ	pr O m o p a n	0	0
+খসলত	1	0.75	3	prefix	খসল	k o sh l o t	0	0
+মন্তা	1	1.00	5	prefix	মন্তাজ	m o nt a	1	1
+ব্লগারস	1	0.86	6	prefix	ব্লগাররা	bl o g a r s	1	1
+পুনঃতদন্ত	0	0.56	5	prefix	পুনঃতফসিল	p u n o t o d o nt O	0	1
+পদাশ্রিত	1	0.75	6	prefix	পদাশ্রয়	p o d a s r i t O	1	1
+কাঠবোঝাই	1	0.62	5	suffix	সিমেন্টবোঝাই	k a Th b O jh a i	1	1
+নিকারের	1	0.86	6	suffix	প্রবেশাধিকারের	n i k a r e r	1	1
+শরিয়তসম্মত	0	0.50	5	prefix	শরিয়তপুরের	sh o r i y o t sh o mm o t o	0	0
+কিংডমে	1	1.00	6	prefix	কিংডমের	k i ng D O m e	0	0
+সামন্তবাদি	1	0.90	9	prefix	সামন্তবাদ	sh a m o nt o b a d i	1	1
+জনগনতান্ত্রিক	1	0.85	11	suffix	অগনতান্ত্রিক	j o n o g o n t a n t r i k	1	0
+স্যাটেলাইটভিত্তিক	0	0.59	10	prefix	স্যাটেলাইটটি	s A T e l a i T bh i tt i k	1	1
+রাজপ্রমুখ	1	0.67	6	prefix	রাজপ্রসাদ	r a j pr O m u kh	1	1
+স্বায়ত্ত্বশাসন	0	0.57	8	prefix	স্বায়ত্তিকরন	sh a y O t t O sh a sh O n	0	0
+মঞ্জুরকে	1	0.75	6	prefix	মঞ্জুরও	m O nj u r k e	1	0
+কারার	1	1.00	5	prefix	কারারক্শক	k a r a r	1	1
+আর্নেস্ট	1	0.88	7	prefix	আর্নেস্তো	a r n e sh T	1	1
+শিল্পাচার্যের	1	0.85	11	prefix	শিল্পাচার্য	sh i l p a ch a r j e r	1	1
+ইএমই	1	1.00	4	prefix	ইএমইটি	i e m i	1	1
+গাদের	1	1.00	5	suffix	মালিংগাদের	g a d e r	1	1
+তিস্তার	1	1.00	7	suffix	বাতিস্তার	t i st a r	1	1
+হলিউডের	1	0.86	6	prefix	হলিউডে	h o l i u D e r	1	1
+তদন্তনাধিন	0	0.50	5	prefix	তদন্তদলের	t o d o nt o n a dh i n	0	0
+লেগেছিলেন	1	0.78	7	prefix	লেগেছিল	l e g e chh i l e n	1	1
+তথ্যপ্রজুক্তিশিল্পের	1	0.80	16	prefix	তথ্যপ্রজুক্তিশিল	t o t th O pr O j u kt i sh i l p e r	1	0
+বর্ধন	1	1.00	5	prefix	বর্ধনশিল	b o r dh O n	1	1
+ফরিয়াদ	1	1.00	6	prefix	ফরিয়াদি	ph o r i y a d	1	1
+দোরোকা	1	0.67	4	prefix	দোরোন	d O r O k a	1	1
+ধিরেন	1	1.00	5	prefix	ধিরেন্দ্র	dh i r e n	1	1
+কালাপানিয়া	1	0.80	8	prefix	কালাপানি	k a l a p a n i y a	1	1
+সমিতিও	1	0.83	5	prefix	সমিতিই	sh O m i t i O	0	0
+বসবাসের	1	0.86	6	prefix	বসবাসে	b o sh O b a sh e r	1	1
+ছেলেধরার	1	0.88	7	prefix	ছেলেধরা	chh e l e dh o r a r	1	1
+নির্জন	1	1.00	6	prefix	নির্জনতা	n i r j o n	1	1
+উপকমিশনারকে	1	0.82	9	prefix	উপকমিশনার	u p O k o m i sh o n a r k e	1	1
+সবকিছুই	1	0.86	6	prefix	সবকিছু	sh o b k i chh u i	1	1
+সংস্কৃতিসেবিরা	1	0.86	12	prefix	সংস্কৃতিসেবিদের	sh o ng s k ri t i sh e b i r a	1	1
+করিলেও	1	0.83	5	prefix	করিলে	k O r i l e O	1	1
+আরা	1	1.00	3	prefix	আরাংগো	a r a	1	1
+সিয়াওবোকে	1	0.78	7	prefix	সিয়াওবোর	sh i y a O b O k e	1	1
+সাজেশন	1	0.67	4	prefix	সাজের	s a j e sh o n	1	1
+দৃশ্যকে	1	0.86	6	prefix	দৃশ্যকল্পের	d r i sh sh o k e	0	0
+কংকনা	1	0.80	4	prefix	কংকন	k o ng k o n a	1	0
+কাঠামোটির	1	0.89	8	prefix	কাঠামোটি	k a Th a m O T i r	1	1
+গল্পটিতে	1	0.88	7	suffix	প্রকল্পটিতে	g o l p O T i t e	1	1
+মোজেজা	1	0.67	4	prefix	মোজেনা	m O j e j a	1	1
+প্রতিবেশ	1	1.00	8	prefix	প্রতিবেশগত	pr O t i b e sh	1	1
+কেশব	1	1.00	4	prefix	কেশবচন্দ্র	k e sh o b	1	1
+ভুমিই	1	0.80	4	prefix	ভুমি	bh u m i i	1	1
+বুধবারও	1	0.86	6	prefix	বুধবারই	b u dh b a r O	1	1
+উত্সবে	1	0.83	5	prefix	উত্সবসহ	u t sh o b e	1	1
+দশাবতার	1	0.71	5	suffix	ধর্মাবতার	d o sh a b O t a r	0	0
+প্রচারে	1	1.00	7	prefix	প্রচারেই	pr O ch a r e	1	1
+বেখরচা	1	0.67	4	suffix	খরচা	b e kh o r o ch	0	0
+আহট	0	0.67	2	prefix	আহজাব	a h o T	1	1
+রেদওয়ানুলের	1	0.82	9	prefix	রেদওয়ানুল	r e d o O y a n u l e r	0	0
+গ্যাস্ট্রিকজনিত	1	0.73	11	prefix	গ্যাস্ট্রিক	g A sh T r i k j O n i t O	1	0
+দেউলিয়া	1	1.00	7	prefix	দেউলিয়াত্ব	d e u l i y a	1	1
+বেতাগিতে	1	0.75	6	prefix	বেতাগি	b e t a g i t e	1	1
+গবেট	1	0.75	3	prefix	গবেশক	g o b e T	1	1
+হামেদ	1	1.00	5	suffix	আহামেদ	h a m e d	1	1
+শিক্ষকদেরও	1	0.90	9	prefix	শিক্শকদেরই	sh i kkh o k d e r O	1	1
+রক্তকণিকার	1	1.00	10	prefix	রক্তকনিকার	r o kt O k O n i k a r	1	1
+স্বেচ্ছাচারিতার	1	0.93	14	prefix	স্বেচ্ছাচারিতাকে	sh e ch chh a ch a r i t a r	1	1
+মাঝখানের	1	0.88	7	prefix	মাঝখানেই	m a jh kh a n e r	1	1
+অভংগুর	1	0.83	5	suffix	ভংগুর	o bh O ng g u r	0	1
+বসাক	1	1.00	4	prefix	বসাকে	b o sh a k	1	1
+মুল্যসাশ্রয়ি	0	0.58	7	suffix	সাশ্রয়ি	m u l l O sh a s r O y i	1	0
+দরিদ্রকে	1	0.75	6	prefix	দরিদ্র	d r O i d r o k e	0	0
+উপাচার্যও	1	0.89	8	prefix	উপাচার্য	u p a ch a r j o O	1	0
+রিনখেলাপি	1	1.00	9	prefix	রিনখেলাপিদের	r i n kh e l a p i	1	1
+স্বচ্ছভাবে	1	0.70	7	suffix	জথেচ্ছভাবে	sh o ch chh O bh a b e	0	1
+ধারনসহ	1	1.00	6	suffix	নির্ধারনসহ	dh a r O n a sh o h O	0	0
+মধুমতি	1	1.00	6	prefix	মধুমতির	m O dh u m O t i	1	0
+বিক্রমানায়েকে	1	0.69	9	suffix	রমানায়েকে	b i kr O m a n a y e k e	1	1
+স্টেডিয়ামেও	1	0.91	10	prefix	স্টেডিয়ামেই	s T e D i y a m e O	1	0
+ধরনায়	1	0.80	4	prefix	ধরনা	dh o r n a y	0	0
+ইশ্বরচন্দ্র	1	0.64	7	suffix	গোউরচন্দ্র	i sh sh o r ch o ndr O	1	1
+অবস্থারও	1	0.88	7	prefix	অবস্থারই	o b O sth a r o O	0	0
+ত্রিতা	1	1.00	6	suffix	দির্ঘসুত্রিতা	tr i t a	1	1
+এমিলির	1	0.83	5	prefix	এমিলিকে	e m i l i r	1	1
+মেমোরেন্ডাম	0	0.45	5	prefix	মেমোরিয়ালের	m e m O r e n D a m	1	1
+সরিশাবাটা	1	0.78	7	prefix	সরিশাবাড়ি	sh o r i sh a b a T a	1	1
+মহাপরিচালককেও	1	0.92	12	prefix	মহাপরিচালককে	m o h a p o r i ch a l o k k e O	1	0
+ধনাত্মক	1	0.86	6	suffix	বর্ননাত্মক	dh o n a t t O k	0	0
+সুসার	1	1.00	5	prefix	সুসারিত	sh u sh a r	1	1
+প্রিয়ার	1	0.86	6	prefix	প্রিয়াকে	pr i y a r	1	1
+মাল্টিন্যাশনাল	0	0.57	8	suffix	ইন্টারন্যাশনাল	m a l T i n a sh n a l	0	0
+সুধিনবাবু	1	1.00	9	prefix	সুধিনবাবুর	sh u dh i n b a b u	1	1
+ডিইউসিইসিপির	0	0.42	5	suffix	মিসিসিপির	D i i u s i i s i p i r	1	1
+স্টকের	1	0.83	5	prefix	স্টকে	s T o k e r	1	0
+রোগিকে	1	1.00	6	prefix	রোগিকে	r O g i k e	1	1
+সঞ্জিত	1	1.00	6	prefix	সঞ্জিত্	sh O nj i t O	1	1
+সিএবি	1	1.00	5	prefix	সিএবির	s i e b i	1	0
+রালেগাও	0	0.43	3	prefix	রালফ	r a l e g a O	1	1
+পরিপালনের	1	0.89	8	prefix	পরিপালনে	p O r i p a l o n e r	0	0
+উত্তরাধিকার	1	1.00	11	prefix	উত্তরাধিকারকে	u tt O r a dh i k a r	1	1
+ছিনতাইকারির	1	1.00	11	prefix	ছিনতাইকারিরা	chh i n t a i k a r i r	1	1
+আঁকিবুঁকি	0	0.44	4	suffix	উঁকিঝুঁকি	a~ k i b u~ k i	1	1
+ঘুমাতেও	1	0.86	6	prefix	ঘুমাতেই	gh u m a t e O	1	1
+ভেনিসে	1	1.00	6	prefix	ভেনিসের	bh e n i s e	1	1
+পেছাব	1	0.80	4	prefix	পেছানোয়	p e chh a b o	0	0
+ইসরায়েলেরই	1	0.90	9	prefix	ইসরায়েলের	i s r a y e l e r i	1	1
+লভ্যাংশসহ	1	0.78	7	prefix	লভ্যাংশও	l o b bh a ng sh o sh o h O	1	1
+মিরাজুলের	1	0.78	7	prefix	মিরাজুলকে	m i r a j u l e r	1	1
+অনুমানকে	1	0.75	6	prefix	অনুমানও	O n u m a n k e	1	1
+উত্পাদক	1	1.00	7	prefix	উত্পাদকদের	u t p a d o k	0	1
+বড়বা	1	1.00	4	prefix	বড়বাইশদিয়া	b o r O b a	0	0
+প্যাটেলদের	1	0.70	7	prefix	প্যাটেলকে	p A T e l d e r	1	1
+পপসম্রাটের	1	0.80	8	prefix	পপসম্রাটকে	p o p sh o m r a T e r	1	1
+সমভাবে	1	0.83	5	prefix	সমভাব	sh o m O bh a b e	1	1
+খালিসা	1	0.83	5	prefix	খালিসপুর	kh a l i sh	0	0
+ফিলিপিনোরা	1	0.80	8	prefix	ফিলিপিনো	ph i l i p i n O r a	1	1
+সেগুলোর	1	1.00	7	prefix	সেগুলোরই	sh e g u l O r	1	1
+ব্যানবেইস	0	0.56	5	prefix	ব্যানানা	b A n b e i s	1	0
+মিলেছিল	1	0.71	5	prefix	মিলেছে	m i l e chh i l O	1	0
+সংসারে	1	1.00	6	prefix	সংসারেই	sh o ng sh a r e	1	1
+মুদ্রাকে	1	0.88	7	prefix	মুদ্রাক্শরিক	m u d r a k e	1	1
+বিমাতাসুলভ	1	0.60	6	prefix	বিমাতা	b i m a t a sh u l o bh	1	1
+কুচকিকন্ঠা	0	0.50	5	prefix	কুচকি	k u ch k i k o n Th a	1	0
+ডিএসএলআর	1	0.75	6	prefix	ডিএসএল	D i e s e l a r	1	1
+আবৃত্তিসহ	1	0.89	8	suffix	বৃত্তিসহ	a b r i tt i sh o h O	0	1
+চাতুর্যের	1	0.78	7	prefix	চাতুর্য	ch a t u r j e r	1	1
+মেজাজে	1	1.00	6	prefix	মেজাজেই	m e j a j e	1	1
+বেসরকারিগুলোর	1	0.62	8	prefix	বেসরকারিকরনের	b e sh o r k a r i g u l O	0	0
+এমসিএইচ	1	1.00	7	suffix	ডিএমসিএইচ	e m s i e i ch	1	1
+বিবি	1	1.00	4	prefix	বিবিআনা	b i b i	1	1
+ঘাটতিতে	1	0.71	5	prefix	ঘাটতিটা	gh a T t i t e	1	1
+ডুকরা	1	0.80	4	prefix	ডুকরে	D u k r a	1	1
+প্রতিরুপ	1	0.88	7	prefix	প্রতিরুদ্ধ	pr O t i r u p	1	1
+উপলক্ষটি	1	0.88	7	prefix	উপলক্শটা	u p O l o kkh o T i	1	0
+দোকানদার	1	1.00	8	prefix	দোকানদারকে	d O k a n d a r	1	1
+আলয়ের	1	0.80	4	suffix	লয়ের	a l o y e r	1	1
+সুতাও	1	0.80	4	prefix	সুতাই	sh u t a O	1	1
+সফদর	1	0.75	3	prefix	সফদার	sh o ph d o r	1	0
+উপজ্ঞা	1	0.67	4	suffix	আজ্ঞা	u p O g g a	1	1
+গিন্সবার্গ	1	1.00	10	prefix	গিন্সবার্গের	g i n s o b a r g o	0	0
+বেলমুক্তা	1	0.67	6	suffix	মুক্তা	b e l m u kt a	1	1
+সালাহউদ্দিনকে	1	0.85	11	prefix	সালাহউদ্দিন	s a l a u d d i n k e	0	0
+মাচু	1	1.00	4	prefix	মাচুপিচু	m a ch u	1	1
+বেগমই	1	0.80	4	prefix	বেগমও	b e g o m i	1	1
+মনিহার	1	1.00	6	prefix	মনিহারি	m o n i h a r	0	0
+নির্বাচনেই	1	1.00	10	suffix	উপনির্বাচনেই	n i r b a ch o n e i	1	1
+স্কার্টে	1	1.00	8	prefix	স্কার্টের	s k a r T e	1	0
+লাহা	1	1.00	4	prefix	লাহান	l a h a	1	1
+কবিরাও	1	0.83	5	prefix	কবিরা	k O b i r a O	1	1
+ডেলাওয়ার	1	0.88	7	suffix	দেলাওয়ার	D e l a O y a r	1	1
+আড়ি	1	1.00	3	prefix	আড়িখোলা	a r i	1	1
+ভলো	0	0.67	2	prefix	ভলিবলে	bh a l O	0	0
+পারতন্ত্র্য	1	0.73	8	suffix	স্বাতন্ত্র্য	p a r O t o nt r O	0	0
+কেউর	1	0.75	3	prefix	কেউবা	k e u r	1	1
+ভোউগলিক	0	0.57	4	prefix	ভোউগোলিক	bh O u g O l i k	1	1
+নাসিরুজ্জামান	1	0.77	10	suffix	দিলিরুজ্জামান	n a s i r u j j a m a n	1	1
+অধিবেশনকক্ষে	1	1.00	12	prefix	অধিবেশনকক্শের	O dh i b e sh O n k o kkh e	1	1
+দরবৃদ্ধির	1	0.89	8	suffix	প্রবৃদ্ধির	d o r b ri d dh i r	1	1
+রাজঘাটে	1	0.86	6	prefix	রাজঘাটা	r a j gh a T e	1	1
+মোগাদিশু	1	0.75	6	prefix	মোগাদিসু	m O g a d i sh u	1	1
+সরিৎ	1	0.75	3	prefix	সরিসৃপের	sh O r i t	1	1
+দোহন	1	1.00	4	suffix	দুধ দোহন	d O h O n	1	1
+সিথি	1	1.00	4	prefix	সিথিতে	sh i th i	1	1
+জনপ্রশাসনকে	1	0.82	9	prefix	জনপ্রশাসন	j o n o pr O sh a sh o n k e	1	0
+ডির্ক	1	0.80	4	suffix	কির্ক	D i r k	1	1
+সওজ	1	1.00	3	prefix	সওজকে	sh o O j	1	0
+রেজিস্ট্রেশনবিহিন	1	0.71	12	prefix	রেজিস্ট্রেশন	r e j i sh T r e sh o n b i h i n	1	1
+ঘাটতিই	1	0.83	5	prefix	ঘাটতি	gh a T t i i	1	1
+বাওয়ের	1	1.00	6	suffix	বিলবাওয়ের	b a O y e r	1	1
+পশ্চিম	1	1.00	6	prefix	পশ্চিমকে	p O sh ch i m	1	1
+গুনাবলিতে	1	0.78	7	prefix	গুনাবলিও	g u n a b O l i t e	1	0
+শিয়াভোনে	0	0.50	4	prefix	শিয়ান	sh i y a bh O n e	1	1
+প্লেসিংয়ে	1	0.78	7	prefix	প্লেসিং	p l e s i ng y e	1	0
+স্বল্পতার	1	1.00	9	suffix	শিক্শকস্বল্পতার	sh o l p O t a r	1	1
+ক্ষেতে	1	1.00	6	prefix	ক্শেতের	kh e t e	1	1
+হাউছি	1	1.00	5	prefix	হাউছিদের	h a u chh i	1	1
+স্পটলাইট	0	0.50	4	prefix	স্পটগুলোতে	s p o T l a i T	1	0
+পরিচিতিমুলক	1	0.64	7	prefix	পরিচিতিতে	p O r i ch i t i m u l O k	0	1
+প্রেমারা	1	0.75	6	prefix	প্রেমানন্দ	pr e m a r a	1	1
+দিল	1	1.00	3	prefix	দিলওয়ালে	d i l	1	1
+চুড়ান্তকৃত	1	0.80	8	prefix	চুড়ান্তকরনের	ch u r a nt o k ri t o	1	0
+মানানো	1	1.00	6	prefix	মানানোর	m a n a n O	1	1
+কানুরামপুর	1	0.60	6	suffix	শ্রিরামপুর	k a n u r a m p u r	1	1
+ব্যাটেল	1	1.00	7	prefix	ব্যাটেলশিপ	b A T e l	1	1
+সিদ্ধান্তহিনতা	1	1.00	14	prefix	সিদ্ধান্তহিনতার	sh i d dh a nt o h i n o t a	1	1
+ইনকাদের	1	0.86	6	suffix	মেনকাদের	i n k a d e r	1	1
+মামলাভুক্ত	1	0.60	6	suffix	ইজারাভুক্ত	m a m o l a bh u kt O	0	0
+পুরস্কৃতও	1	0.89	8	prefix	পুরস্কৃতই	p u r o s k ri t o O	0	1
+ফাইনালসহ	1	0.88	7	prefix	ফাইনালস	ph a i n a l sh o h O	1	1
+বিআইডিএস	1	1.00	8	prefix	বিআইডিএসের	b i a i D i e s	1	1
+শোও	0	0.67	2	prefix	শোউলা	sh O O	1	1
+খালেদাকে	1	0.75	6	prefix	খালেদা	kh a l e d a k e	1	1
+ভস	0	1.00	2	prefix	ভসভস	bh o sh	1	1
+ভুসির	1	0.80	4	prefix	ভুসিমুজি	bh u sh i r	1	1
+মানুশে	1	1.00	6	prefix	মানুশে	m a n u sh e	1	1
+বোনরা	1	0.60	3	prefix	বোনম্যারো	b O n r a	1	1
+ব্যাপারটিরই	1	0.91	10	prefix	ব্যাপারটির	b A p a r T i r i	1	1
+বাকিটা	1	1.00	6	prefix	বাকিটা	b a k i T a	1	1
+তেমনভাবে	1	1.00	8	prefix	তেমনভাবেই	t A m O n bh a b e	0	0
+মিন্টুর	1	0.86	6	prefix	মিন্টু	m i n T u r	1	1
+শিখেছ	1	1.00	5	prefix	শিখেছি	sh i kh e chh o	0	0
+লেবরেটরি	1	0.75	6	suffix	ল্যাবরেটরি	l e b r e T O r i	0	1
+স্তনিত	1	0.67	4	prefix	স্তনাগ্র	st o n i t O	0	0
+চইত্রে	1	1.00	6	prefix	চইত্রের	ch O i tr e	1	1
+পানির বিল	0	0.56	5	prefix	পানির	p a n i r | b i l	1	1
+সত্যজিত্	1	0.88	7	prefix	সত্যজিতের	sh o t t o j i t	0	1
+গোরখোদক	0	0.57	4	prefix	গোরখ	g O r kh O d o k	1	1
+ঘুরতাম	1	0.67	4	prefix	ঘুরত	gh u r t a m	1	1
+স্পিনবান্ধব	1	0.64	7	suffix	জনবান্ধব	s p i n b a ndh o b	1	0
+কেড়েছিল	1	1.00	7	prefix	কেড়েছিলেন	k e r e chh i l o	1	1
+বোইচিত্র্যও	1	0.91	10	prefix	বোইচিত্র্য	b O i ch i t r O O	1	1
+শাস্তর	1	0.83	5	prefix	শাস্তা	sh a st O r	1	0
+ইয়াকুবুজ্জামান	0	0.57	8	suffix	লুৎফুজ্জামান	i y a k u b u j j a m a n	1	1
+ক্রিস্টাল	1	1.00	9	prefix	ক্রিস্টালের	k ri sh T A l	0	0
+চেহেল	1	1.00	5	prefix	চেহেলগাজি	ch e h e l	1	1
+প্রনয়ন	1	1.00	6	prefix	প্রনয়নই	pr O n o y o n	1	1
+চোউদ্দগ্রামে	1	1.00	12	prefix	চোউদ্দগ্রামের	ch O u d d o gr a m e	1	1
+অত্যুশ্ন	1	0.62	5	prefix	অত্যুজ্জ্বল	O t t u sh n O	1	1
+মোনালিসার	1	0.89	8	prefix	মোনালিসা	m O n a l i sh a r	1	1
+বাধও	1	1.00	4	suffix	বেড়িবাধও	b a dh O	1	1
+দোজখের	1	0.83	5	prefix	দোজখে	d O j O kh e r	1	1
+গল্ফার	1	0.67	4	prefix	গল্ফ	g o l ph a r	1	1
+সুলেইমানের	1	0.80	8	prefix	সুলেইমানকে	sh u l e i m a n e r	1	1
+ছাতিয়ান	1	0.86	6	prefix	ছাতিয়া	chh a t i y a n	1	1
+শিল্পরুপ	1	0.75	6	prefix	শিল্পরিন	sh i l p o r u p	0	1
+বিবাদ	1	1.00	5	prefix	বিবাদি	b i b a d	1	1
+ক্রিকেটারকেই	1	0.92	11	prefix	ক্রিকেটারকে	k ri k e T a r k e i	1	1
+ব্যবসায়ে	1	1.00	8	prefix	ব্যবসায়ের	b A b o sh a y e	0	0
+ভেয়ান	1	0.80	4	suffix	বেয়ান	bh e y a n	1	1
+প্রকাশ	1	1.00	6	prefix	প্রকাশই	pr O k a sh	1	1
+নারিনেত্রিদের	1	0.77	10	prefix	নারিনেত্রি	n a r i n e tr i d e r	1	1
+গাদ্দাফিপন্থি	1	0.62	8	prefix	গাদ্দাফিকেও	g a d d a ph i p O n th i	1	1
+ভাবমর্যাদা	1	0.70	7	suffix	মানমর্যাদা	bh a b m o r j a d a	1	1
+জগে	1	1.00	3	prefix	জগেক	j o g e	1	1
+জোউবরাজ্য	1	0.67	6	suffix	স্বরাজ্য	j O u b O r a j j O	0	0
+ক্যাম্পগুলো	1	1.00	11	prefix	ক্যাম্পগুলোতে	k A mp g u l O	1	1
+ইস্যুমুল্য	1	0.60	6	suffix	বহুমুল্য	i sh u m u l l O	1	1
+কোলঘেশে	1	0.71	5	suffix	দেয়ালঘেশে	k O l gh e sh e	1	1
+ম্যাজম্যাজ	0	0.50	5	prefix	ম্যাজিক	m A j m A j	1	1
+সমাপ্ত	1	1.00	6	prefix	সমাপ্তি	sh o m a p t O	1	1
+স্প্লিন্টারের	1	0.85	11	prefix	স্প্লিন্টারগুলো	s p o l i n T a r e r	1	0
+বাধবেই	1	0.83	5	prefix	বাধবে	b a dh b e i	1	1
+বাঘার	1	1.00	5	prefix	বাঘারপাড়া	b a gh a r	1	1
+শফিক	1	1.00	4	prefix	শফিকও	sh O ph i k	1	1
+নতুনবাজার	1	0.67	6	suffix	রিনবাজার	n O t u n b a j a r	1	1
+মাস্টারকে	1	1.00	9	suffix	স্টেশনমাস্টারকে	m a sh T a r k e	1	1
+মেজবানে	1	1.00	7	prefix	মেজবানের	m e j b a n e	1	1
+রাজপুত্তুর	1	0.70	7	prefix	রাজপুত্র	r a j p u tt u r	1	1
+সিলিংয়ে	1	1.00	7	prefix	সিলিংয়ের	sh i n i ng y e	0	0
+সহজভাবে	1	1.00	7	prefix	সহজভাবেই	sh o h O j bh a b e	0	1
+কাজটিই	1	0.83	5	prefix	কাজটি	k a j T i i	1	1
+শম্পার	1	0.83	5	prefix	শম্পা	sh o mp a r	1	1
+গিটারের	1	0.86	6	prefix	গিটারে	g i T a r e r	1	1
+কুকুরটাকে	1	0.78	7	prefix	কুকুরটাও	k u k u r T a k e	1	1
+শ্রেনিভুক্তরা	1	0.85	11	prefix	শ্রেনিভুক্ত	s r e n i bh u kt O r a	0	1
+কিবা	1	0.75	3	prefix	কিবলা	k i b a	1	1
+পুত্রা	1	0.83	5	prefix	পুত্রসহ	p u tr a	1	1
+গোলেও	1	1.00	5	suffix	এগোলেও	g O l e O	1	1
+অপরিপক্ক	1	0.88	7	prefix	অপরিপক্ব	o p O r i p o k k O	1	1
+পেটিট	1	0.80	4	prefix	পেটি	p e T i T	1	1
+কলিজিয়াম	1	0.75	6	suffix	সিজিয়াম	k o l i j i y a m	1	1
+সাংবাদিকই	1	0.89	8	prefix	সাংবাদিক	sh a ng b a d i k i	1	1
+কনফিউজড	0	0.57	4	prefix	কনফিগার	k o n ph i u j D	1	1
+মোল্লারহাট	1	1.00	10	prefix	মোল্লারহাটের	m O l l a r h a T	1	1
+ময়দানে	1	1.00	6	prefix	ময়দানেই	m o y d a n e	1	1
+সচিবদের	1	1.00	7	suffix	স্বরাশ্ট্রসচিবদের	sh O ch i b d e r	1	1
+বাজপেয়	1	1.00	6	prefix	বাজপেয়ি	b a j p e y O	1	1
+হঠাৎই	1	0.80	4	prefix	হঠাৎ	h o Th a t i	1	1
+প্রভাবকে	1	1.00	8	prefix	প্রভাবকের	pr O bh a b k e	1	1
+ওয়েইন	1	1.00	5	prefix	ওয়েইনবাম	O y e i n	1	1
+অর্থহীনের	1	1.00	9	prefix	অর্থহিনের	o r th O h i n e r	1	1
+প্রিভেনশন	1	0.78	7	prefix	প্রিভেনটিভ	pr i bh e n sh o n	1	0
+বিবিকে	1	0.83	5	prefix	বিবিক্ত	b i b i k e	1	1
+চ্যাম্পিয়নশিপে	1	1.00	14	prefix	চ্যাম্পিয়নশিপেই	ch A mp i y o n sh i p e	1	1
+বিতৃশ্ন	1	1.00	7	prefix	বিতৃশ্না	b i t r i sh n O	0	0
+ব্যবসাপ্রতিশ্ঠান	1	1.00	16	prefix	ব্যবসাপ্রতিশ্ঠানও	b A b sh a pr O t i sh Th a n	1	1
+পাচুরিয়া	1	1.00	8	prefix	পাচুরিয়ায়	p a ch u r i y a	1	1
+শোহিনি	1	0.83	5	suffix	রোহিনি	sh O h i n i	1	1
+রিসার্স	1	0.86	6	prefix	রিসার্চের	r i sh a r s	0	0
+ক্ষেত	1	1.00	5	prefix	ক্শেতমজুর	kh e t	0	1
+সেতুটি	1	1.00	6	prefix	সেতুটিও	sh e t u T i	1	1
+নির্বুদ্ধিতা	1	1.00	12	prefix	নির্বুদ্ধিতার	n i r b u d dh i t a	1	1
+ফলাটি	1	0.80	4	suffix	নিচতলাটি	ph o l a T i	1	1
+আসরও	1	0.75	3	prefix	আসরই	a sh o r O	0	1
+তৃতিয়বারের	1	0.90	9	prefix	তৃতিয়বারে	t ri t i y O b a r e r	1	0
+কমিশনও	1	0.83	5	prefix	কমিশনই	k o m i sh O n O	0	0
+খর্পর	1	0.80	4	suffix	কর্পর	kh o r p O r	0	1
+মেসবাহুল	1	0.75	6	prefix	মেসবাহউদ্দিন	m e sh b a h u l o	0	0
+রিক্থ	1	0.80	4	prefix	রিক্তার	r i k th O	1	0
+ক্ষুদ	1	1.00	5	prefix	ক্শুদিরাম	kh u d o	0	0
+হোলের	1	1.00	5	suffix	ব্ল্যাকহোলের	h O l e r	1	1
+মিরেজ	1	0.80	4	prefix	মিরের	m i r e j	1	1
+অনুপার্জিত	1	0.70	7	suffix	উপার্জিত	O n u p a r j i t O	1	1
+সমাধানটা	1	0.88	7	prefix	সমাধানটি	sh o m a dh a n T a	1	1
+পুনঃখনন	1	1.00	7	prefix	পুনঃখননে	p u n O kh o n O n	0	0
+বেনো	1	0.75	3	prefix	বেনেরপোতা	b e n O	1	1
+কাজু	1	1.00	4	prefix	কাজুও	k a j u	1	1
+টেরে	1	1.00	4	prefix	টেরেন্স	T e r e	1	1
+ভিগি	1	0.75	3	prefix	ভিগো	bh i g i	1	1
+ঘোরা	1	1.00	4	prefix	ঘোরাঘুরি	gh O r a	1	1
+খুরুশকুল	0	0.50	4	suffix	ইশকুল	kh u r u k u l	0	0
+জিনিই	1	0.80	4	prefix	জিনি	j i n i i	1	1
+তেশরা	1	0.80	4	suffix	বেশরা	t e sh O r a	0	0
+তা	0	1.00	2	prefix	তাঁকেসহ	t a	1	1
+ইনফরমাল	1	0.86	6	prefix	ইনফরমার	i n ph o r m a l	1	1
+উত্তরদাতাদের	1	0.75	9	prefix	উত্তরদাতাই	u tt O r d a t a d e r	1	1
+প্রনয়নেরও	1	0.89	8	prefix	প্রনয়নের	pr O n o y o n e r O	1	0
+প্রিমিয়ামের	1	0.91	10	prefix	প্রিমিয়ামে	pr i m i y a m e r	1	1
+তর্কু	1	0.80	4	prefix	তর্কাতর্কির	t O r k u	1	1
+স্থানান্তরের	1	0.92	11	prefix	স্থানান্তরে	sth a n a nt o r e r	1	1
+তারাবিহর	1	0.88	7	prefix	তারাবিহ	t a r a b i h r	0	0
+শ্মশানঘাটে	1	0.90	9	prefix	শ্মশানঘাট	sh o sh a n gh a T e	1	1
+ভেরেন্ডির	1	0.89	8	prefix	ভেরেন্ডি	bh e r e n D i r	1	1
+ডেমোক্রেট	1	1.00	9	prefix	ডেমোক্রেটিক	D e m O kr e T	1	1
+ম্যাচের	1	1.00	7	prefix	ম্যাচেরই	m A ch e r	1	1
+ঘাট	1	1.00	3	prefix	ঘাটই	gh a T	1	1
+ভারসাম্যহীন	1	1.00	11	prefix	ভারসাম্যহিন	bh a r sh a m m O h i n	1	1
+মনোপলি	0	0.50	3	prefix	মনোনয়নের	m O n O p O l i	1	0
+বাকেরগঞ্জ	1	1.00	9	prefix	বাকেরগঞ্জে	b a k e r g o nj	1	1
+মোজান	1	0.80	4	prefix	মোজাদ্দেদ	m O j a	0	0
+খেলিয়ে	1	1.00	6	prefix	খেলিয়েছে	kh e l i y e	1	1
+দইন্যদশা	1	1.00	8	prefix	দইন্যদশার	d O i n n O d o sh a	1	1
+নগরজিবনে	1	0.88	7	prefix	নগরজিবন	n o g O r j i b o n e	0	1
+অটিজমের	1	0.86	6	prefix	অটিজমে	O T i j O m e r	0	0
+মুচমুচ	1	1.00	6	prefix	মুচমুচে	m u ch m u ch	1	1
+ছিড়ে	1	1.00	4	prefix	ছিড়েখুড়ে	chh i r e	1	1
+ফিটনেসবিহিন	0	0.55	6	prefix	ফিটনেসই	ph i T n e s b i h i n	1	1
+পড়েছিলেন	1	0.88	7	suffix	গড়েছিলেন	p O r e chh i l e n	1	1
+শ্রিধাম	1	0.71	5	prefix	শ্রিধরপুর	s r i dh a m	1	0
+র্যাডিক্যাল	1	0.64	7	prefix	র্যাডিকেল	r A D i k A l	1	1
+মঞ্জির	1	0.83	5	prefix	মঞ্জিমা	m O nj i r	1	1
+দার্দুর	1	0.71	5	suffix	দর্দুর	d a r d u r	1	1
+প্রিয়জনের	1	1.00	9	prefix	প্রিয়জনেরা	pr i y o j o n e r	1	1
+চিড়িয়াখানা	1	1.00	10	prefix	চিড়িয়াখানাগুলো	ch i r i y a kh a n a	1	1
+ইব্রা	1	1.00	5	prefix	ইব্রাহামপুর	i br a	1	1
+রোপয়িতা	0	0.57	4	suffix	জনয়িতা	r O p o y i t a	1	0
+পিথাগোরাসের	1	0.82	9	prefix	পিথাগোরাস	p i th a g O r a s e r	1	1
+সেনজেন	1	0.83	5	suffix	শেনজেন	sh e n j e n	0	0
+বন্ধুদের	1	1.00	8	prefix	বন্ধুদেরও	b O ndh u d e r	1	1
+অধিনস্ত	1	0.86	6	prefix	অধিনস্থ	O dh i n o st O	1	1
+ছদি	0	0.67	2	prefix	ছদমা	chh O d i	1	1
+দুশ্টামি	1	1.00	8	prefix	দুশ্টামি	d u sh T a m i	1	1
+প্রতিবাদস্বরুপ	1	0.64	9	prefix	প্রতিবাদসহ	pr O t i b a d sh r u p	0	0
+বিচারপ্রক্রিয়ায়	1	0.93	14	prefix	বিচারপ্রক্রিয়ার	b i ch a r pr O kr i y a y	1	1
+রিডারদের	1	0.88	7	suffix	লিডারদের	r i D a r d e r	1	1
+ইয়ান	1	1.00	4	prefix	ইয়ানত	i y a n	1	1
+প্রখ্যাপন	1	0.78	7	prefix	প্রখ্যাত	pr O k kh a p o n	0	0
+টুথপিক	1	0.67	4	prefix	টুথপেস্ট	T u th p i k	1	1
+অপ্রমানিত	1	0.89	8	suffix	প্রমানিত	o pr O m a n i t O	1	1
+রাজবন্দিরা	1	0.90	9	prefix	রাজবন্দির	r a j b O nd i r a	1	1
+প্রতিবেশব্যবস্থার	1	0.94	16	prefix	প্রতিবেশব্যবস্থা	pr O t i b e sh o b A b O sth a r	0	0
+জোশেফ	1	0.80	4	suffix	যোশেফ	j O sh e ph	1	1
+স্বাক্ষরের	1	1.00	10	suffix	অনুস্বাক্শরের	sh a kkh O r e r	0	0
+মুদ্রণ	1	1.00	6	prefix	মুদ্রন	m u d r O n	1	1
+আলেক	1	1.00	4	prefix	আলেকজান্ডার	a l e k	1	1
+সমরনায়ক	1	0.71	5	suffix	অগ্রনায়ক	sh o m O r n a y O k	0	0
+একঘন্টা	1	1.00	7	prefix	একঘন্টার	E k gh o n T a	1	1
+সদ্যপ্রয়াত	1	0.70	7	prefix	সদ্যপ্রনিত	sh o d d o pr O y a t o	0	0
+সুরঞ্জনকে	1	0.78	7	prefix	সুরঞ্জন	sh u r o nj O n k e	0	0
+জংগিবাদমুক্ত	0	0.58	7	prefix	জংগিবাদবিরোধি	j o ng g i b a d m u kt O	1	1
+বাসভবনের	1	0.88	7	prefix	বাসভবনেই	b a sh bh o b O n e r	1	1
+জত্নসহকারে	1	0.90	9	suffix	যত্নসহকারে	j o t n O sh o h O k a r e	1	0
+বাড়াব	1	1.00	5	prefix	বাড়াবাড়িই	b a r a b o	1	0
+মাদকতা	1	0.67	4	prefix	মাদকজাতিয়	m a d O k o t a	1	1
+তালিকাবদ্ধ	1	0.70	7	prefix	তালিকাবহির্ভুত	t a l i k a b o d dh O	1	1
+মেজেন্টা	1	0.75	6	suffix	ম্যাজেন্টা	m e j e n T a	1	1
+এতটুকুই	1	0.86	6	prefix	এতটুকু	e t O T u k u i	0	0
+ড্যামন	1	0.83	5	prefix	ড্যামটির	D A m o n	1	1
+নোইশকালিন	1	0.67	6	suffix	অবকাশকালিন	n O i sh o k a l i n	1	1
+স্পিনারদেরও	1	0.91	10	prefix	স্পিনারদেরই	s p i n a r d e r O	1	0
+কুমুদ	1	1.00	5	prefix	কুমুদিনি	k u m u d	1	1
+সক্ষম	1	1.00	5	prefix	সক্শমতা	sh o kkh O m	1	0
+জুদ্ধবিমানসহ	1	0.83	10	prefix	জুদ্ধবিমানবাহি	j u d dh O b i m a n sh o h O	1	1
+এএসএফের	1	0.86	6	suffix	এমএসএফের	e e s e ph e r	1	1
+রাজাকারেরাও	1	0.91	10	prefix	রাজাকারেরা	r a j a k a r e r a O	1	1
+শিক্ষাবর্ষেও	1	0.92	11	prefix	শিক্শাবর্শে	sh i kkh a b o r sh e O	1	1
+ওইকরাজ্য	1	0.62	5	suffix	সোউরাজ্য	O i k O r a j j O	0	0
+হাউজের	1	1.00	6	suffix	ওয়াইনহাউজের	h a u j e r	1	1
+আরটিএম	1	0.67	4	prefix	আরটিআই	a r T i e m	1	1
+অজয়	1	1.00	3	prefix	অজয়ের	o j o y	1	1
+পুজিবাদবিরোধি	1	0.77	10	suffix	জংগিবাদবিরোধি	p u j i b a d b i r O dh i	1	1
+কুপ্রস্তাব	1	0.80	8	suffix	দরপ্রস্তাব	k u pr O st a b	1	1
+স্পেনীয়	1	1.00	7	prefix	স্পেনিয়	s p e n i y O	1	0
+মিলোস	1	1.00	5	prefix	মিলোসেভিচের	m i l O sh	1	1
+সিডন্সকে	1	0.75	6	prefix	সিডন্সও	s i D o n s k e	1	0
+সিম্বল	1	0.67	4	prefix	সিম্ফোনি	sh i mb O l	0	0
+অতিদরিদ্রদের	1	0.75	9	prefix	অতিদরিদ্র	O t i d r O i d r o d e r	0	0
+রেন্টালের	1	0.89	8	suffix	ফান্ডামেন্টালের	r e n T a l e r	1	1
+মাঠুরি	0	0.50	3	prefix	মাঠান	m a Th u r i	1	1
+খেলারও	1	0.83	5	prefix	খেলারই	kh E l a r O	1	1
+সমুত্থান	1	1.00	8	suffix	সম্ভুয়সমুত্থান	sh O m u t th a n	1	1
+পোখরা	1	1.00	5	prefix	পোখরাজ	p O kh r a	1	1
+কালিপুজা	1	1.00	8	prefix	কালিপুজা	k a l i p u j a	1	1
+ভারসাম্যমুলক	1	0.67	8	prefix	ভারসাম্যপুর্ন	bh a r sh a m m O m u l O k	0	0
+রংমহল	1	0.60	3	prefix	রংমিস্ত্রি	r o ng m o h o l	1	1
+গুহাগুলো	1	0.62	5	suffix	মাদ্রাসাগুলো	g u h a g u l O	1	1
+ব্যাপকহারে	1	0.60	6	prefix	ব্যাপকসংখ্যক	b A p O k h a r e	0	1
+নির্বাচনপ্রক্রিয়া	0	0.59	10	suffix	গঠনপ্রক্রিয়া	n i r b a ch o n pr O kr i y a	1	1
+এতাদৃশ	1	0.83	5	suffix	তাদৃশ	e t a d ri sh	0	1
+আসতে	1	1.00	4	prefix	আসতেই	a sh t e	1	1
+পরিত্যাগ	1	1.00	8	prefix	পরিত্যাগের	p O r i t A g	1	1
+শুন্যগর্ভ	0	0.56	5	prefix	শুন্যকে	sh u n n o g o r bh O	0	0
+ব্লাশন	1	1.00	6	prefix	ব্লাশনের	bl a sh o n	0	1
+গুলতির	1	0.83	5	prefix	গুলতি	g u l t i r	1	1
+মৃত্তিকায়	1	0.89	8	prefix	মৃত্তিকাসম্পদ	m ri tt i k a y	1	1
+গৃহায়নমন্ত্রি	1	0.69	9	suffix	উন্নয়নমন্ত্রি	g ri h a y o n m O n t r i	1	0
+ইগল	1	1.00	3	prefix	ইগলুর	i g o l	1	1
+ক্লাসরুম	1	1.00	8	prefix	ক্লাসরুমগুলো	kl a sh r u m	1	1
+সোহবান	1	0.67	4	suffix	আহবান	s O h b a n	1	1
+চকলেটে	1	1.00	6	prefix	চকলেটের	ch o k l e T e	1	1
+পাথালি	1	1.00	6	suffix	দিঘালি–পাথালি	p a th a l i	1	1
+হইতেই	1	0.80	4	prefix	হইতে	h O i t e i	1	1
+উর্ধ্ব	1	1.00	6	prefix	উর্ধ্বগতি	u r dh O	1	1
+মুলুকে	1	1.00	6	prefix	মুলুকেও	m u l u k e	1	1
+পার্ষ্নি	1	0.75	6	prefix	পার্শ্ব	p a r sh n i	1	1
+কার্যে	1	1.00	6	prefix	কার্যের	k a r j e	1	1
+ধর্ম	1	1.00	4	prefix	ধর্মই	dh o r m O	1	1
+এজলাসে	1	1.00	6	prefix	এজলাসের	e j l a s e	1	1
+জন্ত্রাংশ	1	1.00	9	prefix	জন্ত্রাংশও	j o n t r a ng sh O	1	1
+জলরংের	1	0.83	5	suffix	তেলরংের	j o l o r o ng g e r	0	0
+বটমুলে	1	1.00	6	prefix	বটমুলের	b o T O m u l e	1	0
+লংগদুতে	1	0.71	5	prefix	লংগদু	l o ng g o d u t e	0	1
+ইনহেলার	1	0.71	5	suffix	অবহেলার	i n h e l a r	1	1
+ট্যুরিজমের	1	0.80	8	prefix	ট্যুরিজম	T u r i j o m e r	1	1
+ডাক্তাররাও	1	0.90	9	prefix	ডাক্তাররা	D a kt a r r a O	1	1
+উচ্ছিন্ন	1	0.88	7	suffix	অচ্ছিন্ন	u ch chh i nn O	1	1
+ভিকি	1	1.00	4	prefix	ভিকিংস	bh i k i	1	1
+প্রানিগুলোকে	1	0.83	10	prefix	প্রানিগুলো	pr a n i g u l O k e	1	1
+জাউয়াবাজার	1	0.70	7	suffix	নয়াবাজার	j a u y a b a j a r	1	1
+কোইলাস	1	1.00	6	prefix	কোইলাসটিলায়	k O i l a sh	0	0
+কালংড়া	0	0.50	3	prefix	কাল ঝড় হতে পারে।	k a l o n o ng r a	0	0
+প্রার্থিকে	1	1.00	10	prefix	প্রার্থিকে	pr a r th i k e	1	1
+নাইমেক্স	1	0.88	7	suffix	ক্লাইমেক্স	n a i m e k s	1	1
+সারেগামা	1	1.00	8	prefix	সারেগামাপা	sh a r e g a m a	1	1
+হেনেছেন	1	0.86	6	suffix	মেনেছেন	h e n e chh e n	1	1
+সাইফুলের	1	0.75	6	prefix	সাইফুলসহ	sh a i ph u l e r	1	1
+স্বাহা	1	0.83	5	suffix	অকৃতোদ্বাহা	sh a h a	1	1
+সতর্কসংকেতের	1	0.83	10	prefix	সতর্কসংকেতও	sh o t o r k o sh o k e t e r	0	0
+স্বোইরতন্ত্রি	1	0.92	12	prefix	স্বোইরতন্ত্রবিরোধি	sh O i r O t o n t r i	1	1
+রহমতুল্লাহর	1	0.91	10	prefix	রহমতুল্লাহ	r o h m o t u l l a r	0	0
+গার্নেট	1	0.71	5	prefix	গার্নারের	g a r n e T	1	1
+স্টাক্সনেট	0	0.40	4	prefix	স্টাইলের	s T a k s n e T	0	0
+প্রমানসহ	1	1.00	8	prefix	প্রমানসহ	pr O m a n sh o h O	1	1
+মোহসিনা	1	0.86	6	prefix	মোহসিন	m O h sh i n a	1	1
+সহজই	1	0.75	3	prefix	সহজ	sh o h O j i	0	0
+পাতালরেলে	1	1.00	9	prefix	পাতালরেলের	p a t a l r e l e	1	1
+থাইরয়েড	0	0.57	4	suffix	স্টেরয়েড	th a i r o y e D	1	1
+সচিবও	1	1.00	5	suffix	মহাসচিবও	sh O ch i b O	1	1
+নিরবধি	1	0.67	4	prefix	নিরবদ্য	n i r O b O dh i	0	1
+আপে	1	1.00	3	prefix	আপের	a p e	1	1
+আবিদা	1	1.00	5	prefix	আবিদার	a b i d a	1	1
+তড়িদ্বিক্ষন	1	0.64	7	prefix	তড়িদ্বিশ্লেশন	t O r i d b i kkh o n	0	1
+বেমালুম	1	0.71	5	suffix	সমালুম	b e m a l u m	1	1
+কোজাগর	1	0.67	4	suffix	উজাগর	k O j a g o r	0	1
+পালাজ্জোর	1	0.89	8	prefix	পালাজ্জো	p a l a j j O r	1	1
+অতিসংক্ষিপ্ত	1	0.75	9	suffix	সংক্শিপ্ত	O t i sh O ng kkh i p t O	0	0
+গাছা	1	1.00	4	prefix	গাছালি	g a chh a	1	1
+শান্তিভংগ	1	0.78	7	prefix	শান্তিভুশন	sh a nt i bh o ng g o	1	0
+দন্ত	1	1.00	4	prefix	দন্তক	d o nt O	1	1
+উচ্ছ্বাসে	1	1.00	9	prefix	উচ্ছ্বাসের	u ch chh a sh e	1	1
+মানুশও	1	1.00	6	prefix	মানুশও	m a n u sh O	1	1
+ভিভান	1	0.80	4	prefix	ভিভা	bh i bh a n	1	1
+মাহাথিরের	0	0.44	4	prefix	মাহাত্ম্যের	m a h a th i r e r	1	1
+কুড়ল	1	0.75	3	prefix	কুড়মুড়	k u r o l	0	1
+ইতিবাচকতা	1	0.89	8	suffix	নেতিবাচকতা	i t i b a ch o k o t a	1	0
+লনওয়াবো	0	0.43	3	suffix	বাসাবো	l o n O y a b O	1	1
+ক্রয়মুল্য	1	1.00	9	prefix	ক্রয়মুল্যের	kr o y o m u l l O	1	1
+নির্গমনে	1	1.00	8	prefix	নির্গমনের	n i r g o m o n e	0	0
+নোয়াম	1	1.00	5	prefix	নোয়ামি	n O y a m	1	1
+পরোয়ানায়	1	0.88	7	prefix	পরোয়ানার	p o r O y a n a y	1	1
+পিচঢালা	1	1.00	7	prefix	পিচঢালাই	p i ch Dh a l a	1	1
+ক্লু	1	1.00	4	prefix	ক্লুজনার	kl u	1	1
+বাছেরের	1	0.71	5	prefix	বাছের	b a chh e r e r	1	1
+মহাবোইরব	1	0.75	6	prefix	মহাবোইদ্য	m o h a bh O i r o b	0	0
+ওউকার	1	0.80	4	suffix	উকার	O u k a r	1	1
+মরছেন	1	0.80	4	prefix	মরছে	m o r chh e n	0	0
+নয়াপাড়ার	1	0.88	7	prefix	নয়াপাড়া	n o y a p a r a r	1	1
+ফিফটির	1	0.83	5	prefix	ফিফটিতে	ph i ph T i r	1	1
+কশ্ট	1	1.00	4	prefix	কশ্ট	k o sh T O	1	1
+প্রিয়ভাশিনির	1	0.92	11	prefix	প্রিয়ভাশিনি	pr i y O bh a sh i n i r	0	0
+ডাংপিটে	0	0.57	4	suffix	ককপিটে	D a ng p i T e	1	1
+খানাপুরি	1	0.62	5	prefix	খানাপিনার	kh a n a p u r i	1	1
+কবিত্বের	1	0.75	6	prefix	কবিত্ব	k O b i tt e r	1	1
+পাখিটি	1	1.00	6	prefix	পাখিটিও	p a kh i T i	1	1
+গুলিসহ	1	0.83	5	prefix	গুলিস্তান	g u l i sh o h O	1	1
+ড্যাফোডিলের	1	0.82	9	prefix	ড্যাফোডিল	D A ph O D i l e r	1	1
+ফেলতেও	1	0.83	5	prefix	ফেলতেই	ph e l t e O	1	1
+বর্ত্তুল	1	0.75	6	prefix	বর্ত্তিকা	b o r t o t u l	0	0
+পরিক্রমার	1	1.00	9	suffix	পথপরিক্রমার	p O r i kr O m a r	1	1
+জহিরুদ্দিনের	1	0.83	10	prefix	জহিরুদ্দিন	j o h i r u d d i n e r	1	1
+দূরে	1	1.00	4	prefix	দুরে	d u r e	1	1
+ঢোকায়	1	0.80	4	prefix	ঢোকালেন	Dh O k a y	1	1
+লাটভিয়া	1	1.00	7	prefix	লাটভিয়ার	l a T bh i y a	1	1
+জাত্রিসংখ্যা	1	0.92	11	suffix	ছাত্রিসংখ্যা	j a tr i sh o ng kh A	0	0
+গাইন	1	1.00	4	prefix	গাইনি	g a i n	1	1
+কর্তব্যে	1	1.00	8	prefix	কর্তব্যের	k O r t O b b e	0	0
+শ্যামলা	1	1.00	7	prefix	শ্যামলাল	sh A m l a	1	1
+যৌতুক	1	0.60	3	suffix	কুতুক	j ou t u k	1	1
+আবির্ভাব	1	1.00	8	prefix	আবির্ভাবে	a b i r bh a b	1	1
+হামবুর্গ	1	0.75	6	suffix	লুক্সেমবুর্গ	h a m b u r g	1	1
+বাসাটি	1	1.00	6	prefix	বাসাটিই	b a sh a T i	1	1
+রয়না	1	0.75	3	suffix	ময়না	r o y n a	1	0
+কলুশমুক্ত	1	0.67	6	suffix	বিশমুক্ত	k O l u sh m u kt O	1	0
+এক্সিয়েটা	0	0.56	5	prefix	এক্সিস	e k s i y e T a	1	1
+রিমে	1	1.00	4	prefix	রিমেইক	r i m e	1	1
+বিএনসি	1	1.00	6	prefix	বিএনসিসি	b i e n s i	1	1
+ফর্মুলায়	1	0.88	7	prefix	ফর্মুলার	ph o r m u l a y	1	1
+ডুকাকিস	0	0.57	4	suffix	থাকিস	D u k a k i s	1	1
+মরদ	1	1.00	3	prefix	মরদেহগুলো	m o r O d	1	1
+স্পর্ধা	1	1.00	7	prefix	স্পর্ধায়	s p o r dh a	1	0
+নাট্যকর্মির	1	1.00	11	prefix	নাট্যকর্মিরা	n a T T O k O r m i r	1	1
+লাগবেন	1	0.83	5	prefix	লাগবেই	l a g b e n	1	1
+স্থানস্বল্পতার	1	0.71	10	suffix	আসনস্বল্পতার	sth a n sh o l p o t a r	1	1
+জন্মজয়ন্তির	1	0.91	10	prefix	জন্মজয়ন্তি	j o n m O j o y o nt i r	1	0
+প্রোফাইলের	1	0.90	9	prefix	প্রোফাইলে	pr O ph a i l e r	1	1
+কুষ্ঠ	1	1.00	5	prefix	কুশ্ঠ	k u shTh O	1	1
+ওয়াগাহ	1	0.83	5	prefix	ওয়াগা	O y a g a h	1	1
+কিউই	1	1.00	4	prefix	কিউইদের	k i u i	1	1
+ঘুম	1	1.00	3	prefix	ঘুমই	gh u m	1	1
+বাসির	1	1.00	5	suffix	নারায়নগঞ্জবাসির	b a sh i r	1	0
+বিদ্যোপার্জন	0	0.58	7	suffix	অর্থোপার্জন	b i d d O p a r o j O n	0	0
+বিভ্রান্তিকর	1	0.83	10	prefix	বিভ্রান্তি	b i bh r a nt i k o r	1	1
+মার্কিনিকে	1	0.80	8	prefix	মার্কিনি	m a r k i n i k e	1	1
+তকমাটা	1	0.67	4	prefix	তকমা	t o k m a T a	1	1
+সালাদেও	1	0.86	6	prefix	সালাদে	sh a l a d e O	1	1
+দইয়ের	1	1.00	5	suffix	দরদইয়ের	d o i y e r	1	1
+ভদ্রলোককে	1	0.78	7	prefix	ভদ্রলোক	bh o d r O l O k k e	1	1
+হ্যাডিন	1	0.71	5	prefix	হ্যাডলি	h A D i n	1	1
+ইউরোভুক্ত	0	0.56	5	suffix	ডায়েরিভুক্ত	i u r O bh u kt O	1	1
+নির্যাতিতের	1	0.82	9	prefix	নির্যাতিতার	n i r j a t i t e r	1	1
+কিশোরদের	1	0.62	5	prefix	কিশোরটির	k i sh O r d e r	1	1
+অনাগত	1	0.80	4	prefix	অনাগম	o n a g o t O	1	1
+লসিত	1	1.00	4	suffix	উল্লসিত	l O sh i t O	1	1
+কাঁধের	1	0.67	4	prefix	কাঁধ ঝাঁকানো	k a~ dh e r	1	1
+খলক	0	0.67	2	prefix	খলই	kh o l o k	0	0
+কলেজজিবনে	1	1.00	9	prefix	কলেজজিবনের	k o l e j j i b o n e	1	1
+গানম্যানের	1	0.80	8	prefix	গানম্যান	g a n m A n e r	1	1
+পরিক্ষাটা	1	0.89	8	prefix	পরিক্শাটি	p O r i kkh a T a	1	1
+সুরক্ষা	1	1.00	7	prefix	সুরক্শাই	sh u r o kkh a	1	0
+নিশিন্দারা	1	0.80	8	prefix	নিশিন্দা	n i sh i nd a r a	1	1
+উড্ডয়নে	1	1.00	7	prefix	উড্ডয়নের	u D D o y o n e	1	1
+জুজ	1	1.00	3	prefix	জুজুধান	j u j	1	1
+পাখিগুলোর	1	0.89	8	prefix	পাখিগুলোকে	p a kh i g u l O r	1	1
+তুমি কয়টায় ঘুম থেকে ওঠ?	0	0.26	6	prefix	তুমি কোন ক্লাসে পড়?	t u m i | k o y T a y | gh u m | th e k e | O Th O	0	0
+শিল্পশ্রমিকেরা	1	0.79	11	prefix	শিল্পশ্রমিকদের	sh i l p o s r O m i k e r a	1	1
+বাইজিজি	1	0.71	5	prefix	বাইজি	b a i j i j i	1	1
+ইফ্ফাত	0	0.50	3	suffix	রেফাত	i ph ph a t	1	1
+নির্ঘোশ	1	1.00	7	suffix	বজ্রনির্ঘোশ	n i r gh O sh	1	1
+কমোডিটিজ	1	0.88	7	prefix	কমোডিটি	k o m O D i T i j	1	1
+সহিংসপুর্ন	0	0.50	5	prefix	সহিংসতায়	sh o h i ng sh o t a p u r n O	0	0
+গ্ল্যান্ড	1	1.00	9	prefix	গ্ল্যান্ডের	g l A n D	1	1
+অকেলাসিত	1	0.75	6	prefix	অকেলাস	o k e l a sh i t O	1	1
+খালেক	1	1.00	5	prefix	খালেককে	kh a l e k	1	1
+গ্রিশ্ম	1	1.00	7	prefix	গ্রিশ্ম	gr i sh sh O	1	1
+লুডুর	1	1.00	5	prefix	লুডুর গুটি	l u D u r	1	1
+অপরচুনিটি	0	0.56	5	suffix	তরুনিটি	o p O r ch u n i T i	1	1
+প্রতিবাদও	1	0.89	8	prefix	প্রতিবাদই	pr O t i b a d O	1	1
+কেওড়াগাছ	1	0.62	5	prefix	কেওড়া	k e O r a g a chh	1	1
+নিশেক	1	1.00	5	prefix	নিশেকের	n i sh e k	1	1
+আমেলা	1	0.80	4	suffix	মেলা	a m e l a	1	1
+রজবের	1	0.80	4	suffix	গজবের	r o j O b e r	1	1
+মাঝনদীতে	1	1.00	8	prefix	মাঝনদিতে	m a jh n O d i t e	1	1
+ব্যাটসম্যানদেরই	1	0.93	14	prefix	ব্যাটসম্যানদের	b A T s m A n d e r i	1	1
+কাটাননি	1	0.71	5	prefix	কাটান	k a T a n n i	1	1
+মালদা	1	1.00	5	prefix	মালদার	m a l d a	1	1
+কাদেরি	1	1.00	6	prefix	কাদেরিয়া	k a d e r i	1	1
+মনোভার	1	0.83	5	prefix	মনোভাবেরই	m O n O bh a r	1	0
+ত্রুটিগুলো	1	1.00	10	suffix	ভুলত্রুটিগুলো	tr u T i g u l O	1	1
+গুলিস্তানে	1	1.00	10	prefix	গুলিস্তানের	g u l i st a n e	1	1
+মিরিঞ্জা	0	0.50	4	prefix	মিরিক	m i r i nj a	1	1
+প্রকল্পকে	1	1.00	9	prefix	প্রকল্পকেই	pr O k o l p O k e	0	1
+প্রত্ন	1	1.00	6	prefix	প্রত্নতত্ত্ব	pr O t n O	1	1
+ভিটে	1	1.00	4	prefix	ভিটেছাড়া	bh i T e	1	1
+হোস্টেলে	1	1.00	8	prefix	হোস্টেলের	h O sh T e l e	1	1
+দিলশানকে	1	0.75	6	prefix	দিলশানও	d i l sh a n k e	1	1
+বাকগুলোর	1	0.88	7	prefix	বাকগুলোতে	b a k g u l O r	1	1
+পাল্টাধাওয়ায়	1	0.92	11	prefix	পাল্টাধাওয়ার	p a l T a dh a O y a y	1	1
+গোধুলিলগ্নে	0	0.55	6	prefix	গোধুলির	g O dh u l i l o g n e	1	1
+পতিতালয়ের	1	0.89	8	prefix	পতিতালয়ে	p o t i t a l o y e r	0	1
+সিমটির	1	0.83	5	prefix	সিমটি	s i m T i r	1	1
+মুহুরি	1	1.00	6	prefix	মুহুরিগঞ্জ	m u h u r i	1	1
+চ্যালেঞ্জ	1	1.00	9	prefix	চ্যালেঞ্জই	ch A l e nj	1	1
+চিংড়িচাশিরা	1	0.82	9	prefix	চিংড়িচাশিদের	ch i ng r i ch a sh i r a	1	1
+ওটামেন্ডি	0	0.56	5	suffix	বার্গেন্ডি	O T a m e n D i	1	1
+কানা	1	1.00	4	prefix	কানাইখালি	k a n a	1	1
+নগজদল	0	0.40	2	prefix	নগ	n o g o j d o l	0	0
+ট্যারা	1	0.83	5	prefix	ট্যারিফ	T A r a	1	1
+ফ্রেড	1	1.00	5	prefix	ফ্রেডারিক	ph r e D	1	1
+বুতাম	1	0.60	3	prefix	বুত	b u t a m	1	1
+ধানের	1	1.00	5	prefix	ধানেরই	dh a n e r	1	1
+পার্লামেন্টেও	1	0.92	12	prefix	পার্লামেন্টে	p a r l a m e n T e O	1	1
+প্রশান্তিতে	1	0.82	9	prefix	প্রশান্তি	pr O sh a nt i t e	1	1
+উঝটি	0	0.50	2	suffix	ধুর্জটি	u jh o T i	0	0
+লতিফা	1	0.80	4	prefix	লতিফসহ	l O t i ph a	1	1
+গোপনাংগে	1	0.88	7	prefix	গোপনাংগ	g O p o n a ng g e	1	1
+আবৃত্ত	1	1.00	6	prefix	আবৃত্তি	a b ri tt O	0	1
+প্রযুক্তিতে	1	0.82	9	prefix	প্রযুক্তিটি	pr O j u kt i t e	1	1
+সিএমআরআরসি	1	0.60	6	suffix	আরআরসি	s i e m a r a r s i	1	0
+মর্মবেদনা	1	1.00	9	prefix	মর্মবেদনার	m o r m o b e d o n a	0	0
+বিশ্রামরত	1	0.78	7	prefix	বিশ্রামটা	b i s r a m r o t o	1	0
+ফিলিংস	1	0.83	5	prefix	ফিলিং	ph i l i ng s	1	1
+উর্দি	1	1.00	5	prefix	উর্দিধারি	u r d i	1	1
+শিক্ষকশুন্য	0	0.55	6	prefix	শিক্শকরাজনিতি	sh i kkh o k sh u n n O	1	1
+বুন্ডানুন	0	0.44	4	prefix	বুন্দা	b u n D a n u n	1	1
+ছাৎ	0	0.67	2	prefix	ছালেহিয়া	chh a t	1	1
+পর্নোগ্রাফিতে	1	0.85	11	prefix	পর্নোগ্রাফি	p O r n O gr a ph i t e	0	0
+গ্রন্থের	1	1.00	8	suffix	ধর্মগ্রন্থের	gr O n th e r	1	1
+মিহিরকান্তি	1	0.64	7	suffix	তুশারকান্তি	m i h i r k a nt i	1	1
+ফুলগুলো	1	1.00	7	prefix	ফুলগুলোর	ph u l g u l O	1	1
+রাউন্ডেই	1	0.88	7	prefix	রাউন্ডে	r a u n D e i	1	1
+কালোজিরা	1	0.62	5	prefix	কালোজাম	k a l O j i r a	1	1
+কাস্টোডিয়ান	0	0.45	5	prefix	কাস্টিলান	k a sh T O D i y a n	1	1
+ই	0	1.00	1	prefix	ই-মেইল	i	1	1
+কথারই	1	0.80	4	prefix	কথার	k o th a r i	1	1
+কংগ্রেসের	1	0.89	8	prefix	কংগ্রেসে	k o ng gr e s e r	1	1
+ইসমাইলকে	1	0.75	6	prefix	ইসমাইল	i s m a i l k e	1	1
+সতর	1	1.00	3	prefix	সতর্ক	sh o t o r	0	1
+আভাস	1	1.00	4	prefix	আভাসই	a bh a sh	1	1
+শিখতাম	1	0.83	5	suffix	লিখতাম	sh i kh t a m	1	1
+ঘাড়েও	1	0.80	4	prefix	ঘাড়েই	gh a r e O	1	1
+ফ্লাডলাইটে	1	1.00	10	prefix	ফ্লাডলাইটের	ph l a D l a i T e	1	1
+মান্দাইল	1	0.88	7	suffix	নান্দাইল	m a nd a i l	1	1
+রানিকে	1	1.00	6	suffix	দুররানিকে	r a n i k e	1	1
+কন্ডিশনটা	1	0.78	7	prefix	কন্ডিশনকে	k o n D i sh o n T a	1	1
+দুমড়েমুচড়ে	0	0.50	5	prefix	দুমড়ে	d u m r e m u ch r e	0	0
+নিকিরি	1	0.67	4	prefix	নিকিনি	n i k i r i	1	1
+মরনফাদে	1	0.86	6	prefix	মরনফাদ	m o r o n ph a d e	1	0
+পগবার	1	0.80	4	prefix	পগবাকে	p o g b a r	1	1
+সেঞেরা	1	0.67	4	suffix	বিশেশজ্ঞেরা	s e nch e r a	1	0
+ইন্দ্রানি	1	0.78	7	prefix	ইন্দ্রাগার	i ndr a n i	1	1
+বালিয়াড়িতে	1	0.80	8	prefix	বালিয়াড়ি	b a l i y a r i t e	1	1
+জোগাজোগও	1	0.88	7	prefix	জোগাজোগই	j O g a j O g O	1	1
+ডিসপেনসারি	1	0.70	7	prefix	ডিসপেনসিংয়ের	D i sh p e n sh a r i	0	0
+পরমানুকেন্দ্রের	1	0.87	13	prefix	পরমানুকেন্দ্র	p o r o m a n u k e ndr e r	1	1
+বোল্ট	1	1.00	5	prefix	বোল্টও	b O l T	1	1
+সম্পদভিত্তিক	1	0.67	8	suffix	সংবাদভিত্তিক	sh o mp O d bh i tt i k o	0	0
+হত্যাকে	1	1.00	7	suffix	গনহত্যাকে	h O t t a k e	1	1
+শিশুটিও	1	0.86	6	prefix	শিশুটি	sh i sh u T i O	1	1
+সিংপুর	1	0.67	4	suffix	রংপুর	sh i ng p u r	1	1
+পর্বতচুড়া	1	1.00	9	prefix	পর্বতচুড়ায়	p o r b o t ch u r a	1	0
+পূর্বতন	1	1.00	7	prefix	পুর্বতন	p u r b O t o n O	1	0
+দুষ্কৃতীরা	1	1.00	10	prefix	দুশ্কৃতিরা	d u sh k ri t i r a	1	0
+ক্রয়সিমার	1	0.67	6	suffix	সময়সিমার	kr o y sh i m a r	0	0
+ফারিয়ানজু	1	0.67	6	prefix	ফারিয়া	ph a r i y a n j u	1	1
+পার্সির	1	0.86	6	prefix	পার্সিকে	p a r s i r	1	1
+ঘশামাজা	0	0.57	4	suffix	মাজা	gh o sh a m a j a	1	1
+এক্সচেঞ্জেস	1	0.91	10	prefix	এক্সচেঞ্জেরই	e k s ch e nj e s	1	1
+নাহুম	1	0.60	3	prefix	নাহিয়ানের	n a h u m	1	1
+ছাত্রমোইত্রির	1	0.92	12	prefix	ছাত্রমোইত্রি	chh a tr O m O i tr i r	1	1
+হরিদাস	1	1.00	6	prefix	হরিদাসের	h O r i d a sh	1	1
+ডিজাইন	1	1.00	6	prefix	ডিজাইনও	D i j a i n	1	1
+কান্দাহারের	1	0.91	10	prefix	কান্দাহারে	k a nd a h a r e r	1	1
+তয়ে	1	1.00	3	prefix	তয়ের	t o y e	1	1
+ব্র্যাডশ	1	0.88	7	prefix	ব্র্যাডলি	b r A D sh	1	1
+পেনা	1	1.00	4	prefix	পেনাং	p e n a	1	1
+পরিকল্পনাহিন	1	1.00	12	prefix	পরিকল্পনাহিনতার	p O r i k o l p o n a h i n	0	0
+বাংলাদেশেরও	1	0.91	10	prefix	বাংলাদেশেরই	b a ng l a d e sh e r O	1	1
+অন্যমনস্কভাবে	0	0.46	6	suffix	সতর্কভাবে	O n n O m o n o sh k o bh a b e	0	0
+অবরোধকারিদের	1	1.00	12	prefix	অবরোধকারিদের	o b O r O dh k a r i d e r	1	1
+সমর্থনিয়	1	0.75	6	prefix	সমর্থনসুচক	sh o m o r th o n i y O	0	0
+ছাত্রনেতার	1	1.00	10	prefix	ছাত্রনেতারা	chh a tr O n e t a r	1	1
+সাদের	1	1.00	5	suffix	আসাদের	sh a d e r	1	1
+সাসটেইনেবল	0	0.40	4	suffix	রিজনেবল	s a s T e i n e b O l	0	0
+অপভুবিন্দু	1	0.80	8	suffix	অনুভুবিন্দু	o p O bh u b i nd u	1	1
+রাইনহার্ট	1	1.00	9	prefix	রাইনহার্টের	r a i n o h a r T e	0	0
+করবেটা	1	0.67	4	prefix	করবেও	k o r b e T a	0	1
+রাশ্ট্রনেতা	1	1.00	11	prefix	রাশ্ট্রনেতাদের	r a sh T r O n e t a	1	1
+মহিয়সি	1	0.67	4	prefix	মহিয়ান	m o h i y O sh i	0	1
+পোর্ট	1	1.00	5	prefix	পোর্ট-অ-প্রিন্স	p O r T	1	1
+ফেটি	1	1.00	4	prefix	ফেটিয়ে	ph e T i	1	1
+প্রত্নস্থান	1	0.64	7	prefix	প্রত্নসামগ্রি	pr O t n sth a n o	0	0
+ইয়নের	1	0.80	4	suffix	আয়নের	i y o n e r	1	1
+রুচিসম্মতভাবে	1	0.69	9	prefix	রুচিসম্মত	r u ch i sh o m o m t o bh a b e	0	0
+সামাদের	1	0.86	6	suffix	ওলামাদের	sh a m a d e r	1	1
+এরিল্ড	1	0.83	5	suffix	গ্রিল্ড	e r i l D	1	1
+পহেলি	1	0.80	4	prefix	পহেলা বৈশাখ	p o h e l i	1	1
+সুহাগ	1	0.80	4	prefix	সুহা	sh u h a g	1	1
+অপোকৃত	0	0.50	3	prefix	অপোউরুশ	o p O k ri t O	0	0
+মুসক	1	1.00	4	prefix	মুসকদাতা	m u sh o k	1	1
+উপদ্রুত	1	0.71	5	prefix	উপদ্রবের	u p O d r u t O	1	1
+সাহেবকে	1	0.71	5	prefix	সাহেবও	sh a h e b k e	0	1
+জেএসডি	1	1.00	6	prefix	জেএসডির	j e e s D i	1	1
+ডিটেইল্ড	1	0.75	6	prefix	ডিটেইলড	D i T e i l D	1	1
+আশটে	1	0.75	3	suffix	শটে	a sh T e	1	1
+পাংশার	1	0.83	5	prefix	পাংশা	p a ng sh a r	1	1
+নিবর্তনমুলক	0	0.55	6	prefix	নিবর্ত	n i b o r t o n m u l o k	1	0
+ঢপ	0	1.00	2	suffix	বেঢপ	Dh o p	1	1
+রিনখেলাপির	1	0.90	9	prefix	রিনখেলাপিদের	r i n kh e l a p i r	1	1
+রিকনসিলিয়েশন	0	0.42	5	suffix	রিক্রিয়েশন	r i k o n sh i l i y e sh o n	1	1
+কাঙাল	1	0.60	3	prefix	কাঙ্ক্শিত	k a ng a l	1	1
+বাউডেন	1	0.67	4	suffix	উডেন	b a u D e n	1	1
+পেপার	1	1.00	5	prefix	পেপারওয়েট	p e p a r	1	1
+বিপর্যয়	1	1.00	7	prefix	বিপর্যয়ই	b i p o r j o y	1	1
+নাবিলের	1	0.86	6	suffix	কাবিলের	n a b i l e r	1	1
+বাজেটই	1	0.83	5	prefix	বাজেট	b a j e T i	1	1
+গরাদে	1	1.00	5	prefix	গরাদের	g o r a d e	1	1
+পশ্চিমবাংলার	0	0.58	7	prefix	পশ্চিমবঙ্গ	p O sh ch i m b a ng l a r	1	0
+হরমোনটি	1	1.00	7	prefix	হরমোনটির	h o r m O n T i	1	1
+ল্যান্ডফোনে	1	1.00	11	prefix	ল্যান্ডফোনের	l A n D ph O n	0	0
+পাথরটির	1	0.86	6	prefix	পাথরটিকে	p a th o r T i r	0	1
+পরিণীতির	1	1.00	8	prefix	পরিনিতির	p O r i n i t i r	1	1
+সুর্যতাপ	1	1.00	8	prefix	সুর্যতাপে	sh u r j O t a p	1	1
+অকৃতঘ্ন	0	0.57	4	prefix	অকৃতকার্যের	o k ri t O gh n O	1	1
+ঢাকাকেন্দ্রিক	1	1.00	13	prefix	ঢাকাকেন্দ্রিকতা	Dh a k a k e nd ri k	0	0
+খলিশ	1	1.00	4	prefix	খলিশাকান্দি	kh O l i sh	1	1
+ইইসিএস	1	0.83	5	suffix	ইসিএস	i i s i e s	1	1
+মিলেনি	1	1.00	6	prefix	মিলেনিয়াম	m i l e n i	1	1
+প্লাস্টিকপন্যের	1	0.60	9	prefix	প্লাস্টিক	p l a sh T i k p O n n e r	1	1
+কুটাভাস	0	0.57	4	prefix	কুটাগার	k u T a bh a sh	1	1
+পথিকেরা	1	0.86	6	prefix	পথিকের	p o th i k e r a	0	1
+হতাশই	1	0.80	4	prefix	হতাশ	h o t a sh i	1	1
+প্যারেন্টস	1	0.90	9	prefix	প্যারেন্ট	p A r e n T s	1	1
+হাল	1	1.00	3	prefix	হালং	h a l	1	1
+গোবিন্দাসি	1	0.70	7	prefix	গোবিন্দপুর	g O b i nd a sh i	1	1
+মগবাজারের	1	0.89	8	prefix	মগবাজারে	m o g b a j a r e r	1	1
+সহানুভুতিও	1	0.90	9	prefix	সহানুভুতি	sh o h a n u bh u t i O	1	1
+পর্যবেক্ষনকৃত	1	0.85	11	prefix	পর্যবেক্শনকারি	p o r j O b e kkh o n k ri t O	0	0
+আলফা	1	1.00	4	prefix	আলফাজ	a l ph a	1	1
+টোলমুক্ত	1	0.75	6	suffix	তেলমুক্ত	T O l m u kt O	1	1
+উচ্চস্তরের	1	0.90	9	prefix	উচ্চস্তরে	u ch ch O st o r e r	1	1
+বাক্যটি	1	1.00	7	prefix	বাক্যটিতে	b a k k O T i	1	1
+কারেক্ট	1	1.00	7	prefix	কারেক্টর	k a r e k T	1	1
+ওপেনারের	1	0.75	6	prefix	ওপেনাররা	O p e n a r e r	1	1
+ওডিআই	1	0.80	4	suffix	এইচডিআই	O D i a i	1	1
+অমি	1	1.00	3	prefix	অমিক্রন	O m i	1	1
+জন্মানোর	1	0.88	7	prefix	জন্মানো	j o n m a n O r	1	1
+ওয়েটিংয়ের	1	0.78	7	suffix	সেটিংয়ের	O y e T i ng y e r	1	1
+আলপনা	1	1.00	5	prefix	আলপনার	a l p O n a	0	1
+মৌচাক	1	0.60	3	suffix	বাচাক	m ou ch a k	1	1
+রত্নমের	0	0.57	4	prefix	রত্নভান্ডার	r o t n o m e r	0	1
+উদয়নের	1	0.67	4	prefix	উদয়ন	u d o y o n e r	1	0
+জনগনেরই	1	0.86	6	prefix	জনগনের	j o n o g o n e r i	1	1
+অর্নবকে	1	0.71	5	prefix	অর্নব	o r n O b k e	1	0
+বিশেন	1	0.80	4	prefix	বিশেকের	b i sh e n	1	1
+সিসিমপুরের	1	0.80	8	prefix	সিসিমপুর	sh i sh i m p u r e r	0	0
+নৃত্ত	1	0.80	4	prefix	নৃত্য	n ri tt O	1	1
+বাধাকপির	1	0.88	7	prefix	বাধাকপিতে	b a dh a k o p i r	1	1
+সংগঠনগুলো	1	1.00	9	prefix	সংগঠনগুলোও	sh o ng g o Th O n g u l O	1	1
+পারপাস	1	0.83	5	suffix	ওভারপাস	p a r p a sh	1	1
+পাদদেশে	1	1.00	7	prefix	পাদদেশের	p a d o d e sh e	0	0
+সহায়	1	1.00	4	prefix	সহায়ক	sh o h a y	1	1
+গোয়ার	1	1.00	5	prefix	গোয়ার্তুমি	g O y a r	1	1
+নিলেরা	1	0.83	5	prefix	নিলের	n i l e r a	1	1
+গ্যাগারিনের	1	0.82	9	prefix	গ্যাগারিন	g A g a r i n e r	1	1
+ডুবেছে	1	0.83	5	prefix	ডুবেছিল	D u b e chh e	1	1
+মমিন	1	1.00	4	prefix	মমিনকে	m O m i n	1	0
+উন্মাদনা	1	1.00	8	prefix	উন্মাদনাকে	u n m a d O n a	0	0
+ফ্লেক্সিবল	1	0.80	8	prefix	ফ্লেক্সিলোড	ph l e k s i b o l	1	1
+হাত্রা	1	0.83	5	suffix	অন্তর্যাত্রা	h a tr a	1	1
+প্রধানমন্ত্রিশেখ	1	0.88	14	prefix	প্রধানমন্ত্রিশাসিত	pr O dh a n m O nt ri sh e kh	0	0
+গবেশনাকারি	1	1.00	10	prefix	গবেশনাকারি	g o b e sh o n a k a r i	1	1
+একাদশের	1	0.86	6	prefix	একাদশেও	E k a d o sh e r	1	1
+গবেশনাকর্মটি	1	0.83	10	prefix	গবেশনাকর্ম	g o b e sh o n a k o r m o T i	1	1
+ইজারাবহির্ভুত	1	0.69	9	suffix	ক্শমতাবহির্ভুত	i j a r a b o h i r bh u t O	0	1
+কলোনী	1	1.00	5	prefix	কলোনি	k o l O n i	1	0
+রামবরন	1	0.67	4	prefix	রামবিলাস	r a m b o r o n	0	0
+সঙ্গীত	1	1.00	6	prefix	সঙ্গিতজ্ঞ	sh O ngg i t	0	0
+অংশগ্রহনকারিদের	1	0.80	12	prefix	অংশগ্রহনকারি	o ng sh O gr O h O n k a r i d e r	1	1
+খাবি	1	1.00	4	prefix	খাবিরুজ্জামান	kh a b i	1	1
+কারাকাসে	1	1.00	8	prefix	কারাকাসের	k a r a k a s e	1	1
+জুবশক্তি	1	1.00	8	prefix	জুবশক্তিকে	j u b o sh o kt i	1	1
+সিএমএইচে	1	1.00	8	prefix	সিএমএইচের	sh i e m e i ch e	1	1
+কুকবি	1	0.80	4	suffix	সুকবি	k u k O b i	0	0
+আবুদল	1	0.60	3	prefix	আবুতোরাব	a b u d o l	1	1
+সেবাকাজে	1	0.75	6	prefix	সেবাকার্যক্রম	sh e b a k a j e	1	1
+কোশ্চেন	1	0.71	5	suffix	কোয়েশ্চেন	k O sh ch e n	1	1
+আসাটাকে	1	0.71	5	prefix	আসাটাও	a sh a T a k e	1	1
+রেফারেন্সের	1	0.91	10	prefix	রেফারেন্সে	r e ph a r e n s e r	1	1
+শ্যামার	1	0.86	6	prefix	শ্যামাপুজা	sh A m a r	1	1
+শাসনপদ্ধতি	1	0.70	7	suffix	গঠনপদ্ধতি	sh a sh o n p o d dh o t i	1	0
+শিতাতপনিয়ন্ত্রন	1	0.93	14	prefix	শিতাতপনিয়ন্ত্রিত	sh i t a t o p n i y o n t r O n	0	0
+নেশাখোর	0	0.57	4	prefix	নেশাও	n e sh a kh O r	1	1
+কর্মক্ষেত্রেই	1	0.92	12	prefix	কর্মক্শেত্রে	k o r m O k k e tr e i	0	0
+সমপ্রান	1	0.86	6	suffix	ধর্মপ্রান	sh o m O pr a n o	0	0
+কললিস্ট	1	0.71	5	suffix	ফ্রেন্ডলিস্ট	k o l l i s T	1	0
+পুশব্যাক	1	0.75	6	suffix	ফ্ল্যাশব্যাক	p u sh b A k	1	1
+কোইশোরকে	1	0.88	7	prefix	কোইশোরকাল	k O i sh O r k e	1	1
+বাসনার	1	0.83	5	prefix	বাসনা	b a sh O n a r	0	1
+পশতু	1	1.00	4	prefix	পশতুন	p O sh t u	1	0
+গন্ধহিন	0	0.57	4	prefix	গন্ধর্ব	g o ndh O h i n	1	1
+টেস্টটিউব	1	0.78	7	prefix	টেস্টটি	T e sh T T i u b	1	1
+স্বার্থের	1	1.00	9	suffix	জনস্বার্থের	sh a r th e r	1	1
+যাবত	1	0.75	3	prefix	যাবেনই	j a b O t	1	0
+নেত্রকোনায়	1	0.90	9	prefix	নেত্রকোনাসহ	n e tr O k O n a y	1	1
+উৎখাতে	1	1.00	6	prefix	উৎখাতের	u t kh a t e	1	1
+গিয়াসকে	1	0.86	6	suffix	ইলিয়াসকে	g i y a sh k e	1	0
+সামিন	1	1.00	5	prefix	সামিনা	sh a m i n	1	1
+কঞ্জুমারস	1	0.67	6	suffix	কনজুমারস	k o nj u m a r s	1	1
+প্রণেতা	1	1.00	7	prefix	প্রনেতা	pr O n e t a	1	1
+সিওর	1	1.00	4	suffix	ডব্লিউসিওর	s i O r	1	1
+ব্যাপারটায়	1	0.90	9	prefix	ব্যাপারটার	b A p a r T a y	1	1
+পয়সায়	1	1.00	5	suffix	বিনাপয়সায়	p o y sh a y	1	1
+পরিবর্তনশীল	1	1.00	11	prefix	পরিবর্তনশিল	p O r i b o r t O n sh i l	1	1
+ঘামও	1	0.75	3	prefix	ঘামছেন	gh a m O	1	1
+পুর্বাংশ	1	1.00	8	prefix	পুর্বাংশকে	p u r b a ng sh O	1	1
+ব্যক্তিকেও	1	0.90	9	prefix	ব্যক্তিকেই	b e kt i k e O	1	1
+জাতায়াতের	1	0.89	8	prefix	জাতায়াতে	j a t a y a t e r	1	1
+সিমান্তেও	1	0.89	8	prefix	সিমান্তেই	sh i m a nt e O	1	1
+লিভ	1	1.00	3	prefix	লিভার	l i bh	1	1
+প্লাস্টিকপন্য	1	0.69	9	prefix	প্লাস্টিক	p l a sh T i k p O n n O	1	1
+ভাগ্যাকাশে	1	0.70	7	suffix	ফ্যাকাশে	bh a g g a k a sh e	1	1
+উপপতি	1	0.80	4	prefix	উপপত্তি	u p O p O t i	1	1
+মুজিবুরের	1	0.78	7	prefix	মুজিবুর	m u j i b u r e r	1	1
+কিপ	1	1.00	3	prefix	কিপলিংয়ের	k i p	1	1
+পুনরুত্থান	1	1.00	10	prefix	পুনরুত্থানে	p u n O r u t th a n	0	0
+নিয়ন্ত্রকের	1	0.82	9	prefix	নিয়ন্ত্রকসহ	n i y o n t r O k e r	1	1
+সিলভাকে	1	0.71	5	prefix	সিলভাও	sh i l bh a k e	1	1
+টে	0	1.00	2	prefix	টেংগরি	T e	1	1
+পুলি	1	1.00	4	prefix	পুলিত্জার	p u l i	1	1
+সাময়িকি	1	1.00	7	prefix	সাময়িকিটি	sh a m o y i k i	1	1
+তেলজুক্ত	1	0.62	5	suffix	সুপ্রজুক্ত	t e l j u kt O	1	1
+পররাশ্ট্রসচিবদের	1	0.88	14	suffix	স্বরাশ্ট্রসচিবদের	p o r o r a sh T r O sh O ch i b d e r	0	0
+উৎপাদনক্ষমতার	1	0.92	12	prefix	উৎপাদনক্শমতা	u t p a d o n kkh o m o t a r	0	0
+কালাচান	1	0.86	6	prefix	কালাচাদপুরের	k a l a ch a n	1	1
+সহযোগীর	1	0.86	6	prefix	সহযোগিদের	sh o h O j O g i r	1	1
+পোউছায়নি	1	0.62	5	prefix	পোউছালেন	p O u chh a y n i	1	1
+বিহনে	1	0.80	4	prefix	বিহন	b i h o n e	1	1
+সিদি	1	1.00	4	prefix	সিদিবে	sh i d i	1	1
+প্রনামি	1	0.86	6	prefix	প্রনাম	pr O n a m i	1	1
+শাখাও	1	1.00	5	prefix	শাখাওয়াত	sh a kh a O	1	1
+কোইফিয়ত	1	1.00	7	prefix	কোইফিয়তও	k O i ph i y o t	1	1
+সাঘাটা	1	1.00	6	prefix	সাঘাটার	sh a gh a T a	1	1
+আদিলকে	1	0.67	4	prefix	আদিলুর	a d i l k e	1	1
+মেধাহিন	1	0.71	5	suffix	দ্বিধাহিন	m e dh a h i n	1	1
+রত্নাকে	1	0.86	6	prefix	রত্নাকর	r o t n a k e	1	1
+কোয়ার্টার	1	1.00	9	prefix	কোয়ার্টারগার্ড	k O y a r T a r	1	1
+অবনতিসহ	1	0.71	5	prefix	অবনতিশিল	o b O n o t i sh o h O	1	0
+নারিবান্ধব	1	1.00	10	prefix	নারিবান্ধব	n a r i b a ndh o b	1	1
+ওয়াংগারির	1	0.89	8	prefix	ওয়াংগারি	O y a ng g a r i r o	0	0
+স্কুলছাত্র	1	1.00	10	prefix	স্কুলছাত্রকে	s k u l chh a tr O	1	0
+ত্রিনিদাদে	1	1.00	10	prefix	ত্রিনিদাদের	tr i n i d a d e	1	1
+হাতব্যাগে	1	0.89	8	prefix	হাতব্যাগ	h a t b A g e	1	1
+তোরনগুলো	1	0.75	6	suffix	কারনগুলো	t O r o n g u l O	1	0
+পেনিসিলিন	0	0.56	5	prefix	পেনিস	p e n i s i l i n	1	1
+নারকোটিক	0	0.50	4	prefix	নারকেলের	n a r k O T i k	1	1
+কাপুগেদারা	1	1.00	10	prefix	কাপুগেদারাকে	k a p u g e d a r a	1	1
+ওমেন	1	1.00	4	prefix	ওমেনস	O m e n	1	1
+মুলনিতি	1	1.00	7	prefix	মুলনিতিকে	m u l n i t i	1	1
+ঘর্ষক	1	0.80	4	prefix	ঘর্শন	gh o r sh O k	1	1
+কনফার্মিং	1	0.78	7	prefix	কনফার্ম	k o n ph a r m i ng	1	1
+নিয়ন্ত্রনকারি	1	1.00	13	prefix	নিয়ন্ত্রনকারিদের	n i y O n t r O n k a r i	0	0
+মোটাদাগে	0	0.50	4	prefix	মোটাতাজাকরনের	m O T a d a g e	1	1
+নাইমুর	1	0.83	5	prefix	নাইমুজ্জামান	n a i m u r	1	1
+শট্শাস্ত্র	1	0.70	7	suffix	চিকিৎসাশাস্ত্র	sh o T sh a s t r O	1	1
+বড়লোকদের	1	0.75	6	suffix	ভদ্রলোকদের	b o r o l O k d e r	1	1
+মালিককে	1	1.00	7	prefix	মালিককেও	m a l i k k e	1	1
+সমবায়	1	1.00	5	prefix	সমবায়ভিত্তিক	sh o m O b a y	0	0
+রোডম্যাপ	1	1.00	8	prefix	রোডম্যাপের	r O D m A p	1	1
+শান্তিরহাট	1	0.70	7	prefix	শান্তিরঞ্জন	sh a nt i r h a T	1	1
+সংস্কার	1	1.00	7	prefix	সংস্কারও	sh o ng sh k a r	1	1
+তথ্যপ্রজুক্তিবিদ	1	1.00	16	prefix	তথ্যপ্রজুক্তিবিদদের	t o t th O pr O j u kt i b i d	1	0
+পরবর্তিতে	1	0.78	7	prefix	পরবর্তিকালের	p o r o b o r t i t e	0	0
+চাইছি	1	1.00	5	prefix	চাইছিল	ch a i chh i	1	1
+খাস্তা	1	1.00	6	suffix	নাস্তাখাস্তা	kh a st a	1	1
+ডিয়েগো	1	1.00	6	prefix	ডিয়েগোর	D i y e g O	1	1
+ঘটক	1	1.00	3	prefix	ঘটকচর	gh o T O k	1	1
+কর্মশালাও	1	0.89	8	prefix	কর্মশালা	k o r m O sh a l a O	1	1
+দর্শনটা	1	1.00	7	prefix	দর্শনটাই	d o r sh o n T a	1	1
+কৃতিত্বকে	1	0.78	7	prefix	কৃতিত্বও	k ri t i tt o k e	1	0
+ভৃশ	1	1.00	3	prefix	ভৃশ্ট	bh ri sh	0	1
+থিয়েরি	1	0.67	4	prefix	থিয়েটারের	th i y e r i	1	1
+রেস্তরা	1	1.00	7	prefix	রেস্তরার	r e st o r a	0	1
+অবস্থানকারি	1	0.82	9	prefix	অবস্থানকাল	o b O sth a n k a r i	1	1
+কোচের	1	1.00	5	prefix	কোচেরই	k O ch e r	1	1
+বিআইডব্লিউটিসির	1	0.80	12	prefix	বিআইডব্লিউটিএয়ের	b i a i D a bl i u T i s i r	1	0
+গোলগড়ে	1	0.83	5	prefix	গোলগড়	g O l g o r e	1	1
+শোভাঞ্জন	1	0.62	5	suffix	দিপাঞ্জন	sh O bh a nj o n	1	1
+গনচিত্র	1	0.86	6	suffix	বিজ্ঞাপনচিত্র	g o n O ch i tr O	1	1
+গভিরভাবে	1	0.88	7	suffix	গম্ভিরভাবে	g o bh i r bh a b e	1	1
+বুড়িগোয়ালিনি	1	1.00	12	prefix	বুড়িগোয়ালিনির	b u r i g O y a l i n i	1	1
+হাউসফুল	0	0.57	4	prefix	হাউসটি	h a u s ph u l	1	1
+বৃত্ত	1	1.00	5	prefix	বৃত্তটা	b ri tt O	1	1
+কুইজের	1	0.83	5	prefix	কুইজে	k u i j e r	1	1
+নিতম্বের	1	0.75	6	prefix	নিতম্ব	n i t o mb e r	1	1
+অতৃপ্তি	1	1.00	7	prefix	অতৃপ্তিটা	o t r i p t i	1	1
+পোগলদিঘা	0	0.38	3	prefix	পোগোজ	p O g o l d i gh a	1	0
+ওজনের	1	0.80	4	prefix	ওজনেও	O j O n e r	1	1
+বলানোর	1	0.83	5	prefix	বলানো	b o l a n O r	1	1
+অনাপত্তিপত্র	1	1.00	12	prefix	অনাপত্তিপত্রের	o n a p O tt i p o tr O	1	1
+সবিন	1	1.00	4	prefix	সবিনয়	sh o b i n	0	1
+ডব্লুটিএ	1	0.62	5	prefix	ডব্লু	D o bl u T i e	1	1
+নিউল্যান্ডস	1	1.00	11	prefix	নিউল্যান্ডসে	n i u l A n D o s	0	0
+ইনকরপোরেট	1	1.00	9	prefix	ইনকরপোরেটেড	i n k o r p O r e T	1	1
+ওয়াহিদসহ	1	0.75	6	prefix	ওয়াহিদকে	O y a h i d sh o h O	1	1
+বইসমুহ	1	0.67	4	suffix	সমুহ	b O i sh O m u h O	1	1
+বিচ্ছিন্নতাবাদী	1	1.00	15	prefix	বিচ্ছিন্নতাবাদি	b i ch chh i nn O t a b a d i	1	1
+মাকনা	1	0.80	4	suffix	ঢাকনা	m a k n a	1	1
+প্রচন্ডতায়	1	0.90	9	prefix	প্রচন্ডতার	pr O ch o n D o t a y	1	1
+সাইডলাইনে	1	0.67	6	suffix	হার্ডলাইনে	s a i D l a i n e	1	1
+অর্ধাংগ	1	0.86	6	prefix	অর্ধাংশ	o r dh a ng g O	1	1
+দুশ্চরিত্রের	1	0.83	10	prefix	দুশ্চরিত্র	d u sh ch o r i tr e r	0	0
+এঁকেছেন	1	0.71	5	prefix	এঁকেছিলেন	e~ k e chh e n	1	1
+রিনগ্রহিতার	1	1.00	11	prefix	রিনগ্রহিতারা	r i n gr O h i t a r	1	1
+হ্রাসের	1	0.86	6	prefix	হ্রাসে	r a sh e r	1	1
+কমান্ড	1	1.00	6	prefix	কমান্ডার	k o m a n D	1	1
+জরাগ্রস্ত	1	0.78	7	suffix	সমস্যাগ্রস্ত	j o r a gr O st O	1	1
+নিরপরাধের	1	0.78	7	prefix	নিরপরাধি	n i r o p o r a dh e r	1	0
+অন্তর্দ্বন্দ্ব	1	1.00	14	prefix	অন্তর্দ্বন্দ্বে	o nt O r d o nd O	1	1
+যত্নে	1	1.00	5	suffix	অযত্নে	j o t n e	1	1
+আরসিডি	1	1.00	6	prefix	আরসিডিকে	a r s i D i	1	1
+জাত্রির	1	1.00	7	prefix	জাত্রিরা	j a tr i r	1	1
+সুর্যোদয়	1	1.00	8	prefix	সুর্যোদয়কে	sh u r j O d o y	1	1
+দাতনেখালি	0	0.56	5	suffix	মিঠেখালি	d a t n e kh a l i	1	1
+মেধ্য	1	0.60	3	prefix	মেধায়	m e d dh O	1	1
+ব্রাহ্মনের	1	0.80	8	prefix	ব্রাহ্মনবাড়িয়ায়	br a m m o n e r	1	0
+বিটপ	1	0.75	3	prefix	বিটন	b i T o p	1	1
+গ্যালিলিওর	1	0.90	9	prefix	গ্যালিলিও	g A l i l i O r	1	1
+দিক্ষক	1	0.83	5	prefix	দিক্শা	d i kkh o k	1	1
+জব্বারকে	1	0.75	6	prefix	জব্বার	j o b b a r k e	1	1
+সুশম	1	1.00	4	prefix	সুশমকরন	sh u sh o m	1	1
+উতাপিত	1	0.83	5	suffix	তাপিত	u t a p i t O	1	1
+মাধবপুরে	1	1.00	8	prefix	মাধবপুরের	m a dh o b p u r e	0	0
+আশরফ	1	0.75	3	prefix	আশরাফ	a sh r o ph	1	1
+কিরকিচ	1	0.83	5	suffix	খিরকিচ	k i r k i ch	1	1
+তাঁদেরও	1	0.86	6	prefix	তাঁদের	t a~ d e r O	1	1
+ইশ্বরদি	1	1.00	7	prefix	ইশ্বরদিতে	i sh sh O r d i	0	1
+অন্তর্বত্নি	1	0.64	7	prefix	অন্তর্বর্তি	o nt O r b O t n i	1	0
+মেমফিস	0	0.50	3	prefix	মেমনের	m e m ph i s	1	1
+হালে	1	1.00	4	prefix	হালের	h a l e	1	1
+ডেফ	1	1.00	3	prefix	ডেফকন	D e ph	1	1
+রিবেরি	1	1.00	6	prefix	রিবেরিই	r i b e r i	1	1
+ইউকে	1	1.00	4	prefix	ইউকেটে	i u k e	1	1
+ব্যান্ডউইডথ	1	0.82	9	prefix	ব্যান্ডউইথ	b A n D u i D th	0	0
+হারুনর	1	0.83	5	prefix	হারুনকে	h a r u n o r	1	1
+আসারও	1	0.80	4	prefix	আসারই	a sh a r O	1	1
+মোউচাকের	1	0.88	7	prefix	মোউচাকে	m O u ch a k e r	1	1
+নগরপিতার	1	0.88	7	prefix	নগরপিতা	n o g O r p i t a r	1	1
+বাচানোই	1	0.86	6	prefix	বাচানো	b a ch a n O i	1	1
+প্রত্যেকবার	1	0.73	8	prefix	প্রত্যেকদিন	pr O t t e k b a r	1	1
+গোলবার	1	1.00	6	prefix	গোলবারে	g O l b a r	1	1
+তসর	1	1.00	3	prefix	তসরিফ	t o sh O r	1	0
+বাজছে	1	1.00	5	prefix	বাজছেঃ	b a j chh e	1	1
+সর্বানন্দ	1	0.67	6	prefix	সর্বান্তঃকরনে	sh o r b a n o nd O	1	1
+হুইপড	1	0.80	4	prefix	হুইপের	h u i p D	0	1
+গাংনীর	1	1.00	6	prefix	গাংনির	g a ng n i r	1	1
+বিজতলা	1	1.00	6	prefix	বিজতলা	b i j t o l a	1	1
+শিল্পিরও	1	0.88	7	prefix	শিল্পিরই	sh i l p i r O	1	1
+ইলিউমঝিনোভের	1	0.83	10	prefix	ইলিউমঝিনোভ	i l i u m jh i n O bh e r	1	1
+প্রাতিষ্ঠানিক	1	1.00	13	prefix	প্রাতিশ্ঠানিক	pr a t i shTh a n i k	1	1
+দুঃখময়	1	0.83	5	prefix	দুঃখমুক্তিই	d u k kh O m o y	1	0
+বক্তব্যকেই	1	0.90	9	prefix	বক্তব্যকে	b o kt O b b O k e i	1	1
+বরাদ্দকারি	1	0.70	7	prefix	বরাদ্দকৃত	b o r a d d O k a r i	1	1
+রাদ্দা	1	0.67	4	prefix	রাদ্ধ	r a d d a	1	1
+ঘনত্বের	1	1.00	7	suffix	জনঘনত্বের	gh o n O tt e r	1	1
+অকৃশ্ট	1	0.83	5	prefix	অকৃশ্ন	o k ri sh T O	1	1
+ওভারব্রিজ	1	1.00	9	prefix	ওভারব্রিজে	O bh a r br i j	1	0
+চাহিদামাফিক	1	0.64	7	prefix	চাহিদামতো	ch a h i d a m a ph i k	1	1
+মোউসুমটাকে	1	0.80	8	prefix	মোউসুমটাই	m O u sh u m	0	0
+ফিউডাল	0	0.50	3	prefix	ফিউজ	ph i u D a l	1	1
+মার্কেলের	1	0.89	8	suffix	সার্কেলের	m a r k e l e r	1	1
+রিকন্সিলিয়েশন	0	0.38	5	prefix	রিকন্ডিশন্ড	r i k o n s i l i y e sh o n	1	1
+শুটিংয়ের	1	0.88	7	prefix	শুটিংয়ে	sh u T i ng y e r	1	1
+ভন্তে	1	1.00	5	prefix	ভন্তের	bh o nt e	1	1
+আসকারির	1	0.86	6	prefix	আসকারি	a sh k a r i r	1	1
+সত্তায়	1	0.83	5	prefix	সত্তার	sh o tt a y	1	1
+থারুরের	1	0.71	5	prefix	থারুর	th a r u r e r	1	1
+এনডিএফের	1	0.75	6	prefix	এনডিএফবি	e n D i e ph e r	1	1
+বুনে	1	1.00	4	prefix	বুনেছি	b u n e	1	1
+বিভিশন	1	0.83	5	prefix	বিভিশিকা	b i bh i sh o n	1	1
+স্টান্ট	1	1.00	7	prefix	স্টান্টবাজি	s T a n T	1	0
+বানিজ্যেও	1	0.89	8	prefix	বানিজ্যেই	b a n i j j e O	1	1
+জারিফ	1	0.80	4	prefix	জারিগানের	j a r i ph	1	1
+ভাংগানো	1	1.00	7	prefix	ভাংগানোর	bh a ng g a n O	1	1
+অভিজিত্	1	0.86	6	prefix	অভিজিতের	O bh i j i t	1	1
+সুলতানপুর	1	1.00	9	prefix	সুলতানপুরের	s u l t a n p u r	0	1
+ফজলের	1	0.80	4	prefix	ফজলে	ph o j O l e r	1	0
+কামরাংগিরচরে	1	1.00	12	prefix	কামরাংগিরচরের	k a m r a ng g i r o ch o r e	0	0
+আওয়াজ করা	0	0.44	4	suffix	সময় নশ্ট করা	a O y a j | k o r a	1	1
+পাশ্চাত্যমতে	1	0.75	9	prefix	পাশ্চাত্যবিরোধি	p a sh ch a t t O m o t e	0	0
+পেরেশানিতে	1	0.80	8	prefix	পেরেশানি	p e r e sh a n i t e	1	1
+ভাইয়েরও	1	0.86	6	prefix	ভাইয়ের	bh a i y e r O	1	1
+পুলিন্দ	1	0.71	5	prefix	পুলিন	p u l i nd O	1	1
+স্ল্যামের	1	0.78	7	prefix	স্ল্যাম	s l A m e r	1	0
+সরঞ্জামে	1	1.00	8	prefix	সরঞ্জামের	sh o r o nj a m e	0	0
+জনগননার	1	1.00	7	prefix	জনগননার	j o n O g o n O n a r	0	0
+বায়েক	1	0.80	4	prefix	বায়ে	b a y e k	1	1
+বিলিভ	1	0.80	4	prefix	বিলিপ্ত	b i l i bh	1	1
+ব্রিফকেসে	1	0.89	8	prefix	ব্রিফকেস	br i ph k e s e	1	1
+কলির	1	1.00	4	suffix	উইকলির	k O l i r	1	0
+সেচান	1	0.80	4	prefix	সেচা	sh e ch a n	1	1
+পথ্য	1	1.00	4	prefix	পথ্যে	p O t th O	1	1
+প্রবিধানে	1	0.89	8	prefix	প্রবিধানমালা	pr O b i dh a n e	1	1
+উদাহরনস্বরুপঃ	1	0.92	12	prefix	উদাহরনস্বরুপ	u d a h o r o n sh o r u p	0	1
+ভ্রমনকর	1	0.86	6	prefix	ভ্রমনকারি	bh r O m o n k o r	0	0
+তত্ত্বাবধায়কের	1	0.86	12	prefix	তত্ত্বাবধায়কসহ	t o t t a b o dh a y o k e r	1	1
+উপশ্রেনিতে	1	0.80	8	suffix	বিশয়শ্রেনিতে	u p O s r e n i t e	1	1
+কয়জনের	1	0.83	5	suffix	ছয়জনের	k o y O j O n e r	0	0
+রনদিভের	1	0.71	5	prefix	রনদিভকে	r o n d i bh e r	0	1
+শহুদুল	1	0.83	5	suffix	শাহুদুল	sh o h i d u l	0	0
+কোহলিও	1	0.83	5	prefix	কোহলি	k O h l i O	1	1
+শিকলবাহা	1	1.00	8	prefix	শিকলবাহায়	sh i k o l b a h a	1	1
+পরায়ন	1	1.00	5	suffix	প্রতিশোধপরায়ন	p o r a y O n	0	0
+সমাজতন্ত্রে	1	1.00	11	prefix	সমাজতন্ত্রের	sh o m a j t o n t r e	1	1
+নিপুনভাবে	1	1.00	9	suffix	সুনিপুনভাবে	n i p u n bh a b e	1	1
+মাখামাখা	1	0.88	7	prefix	মাখামাখি	m a kh a m a kh a	1	1
+জলাভুমির	1	1.00	8	prefix	জলাভুমির	j o l a bh u m i r	1	1
+মেয়েদেরও	1	1.00	8	suffix	ছেলেমেয়েদেরও	m e y e d e r O	1	1
+ইছা	1	1.00	3	prefix	ইছাখালি	i chh a	1	1
+উভয়বিধ	0	0.50	3	prefix	উভয়পক্শের	u bh o y b i dh	1	1
+আলোকপাত	0	0.57	4	prefix	আলোকন	a l O k p a t	1	1
+কুক্ষিগত	1	0.62	5	prefix	কুক্শনে	k u kkh i g o t O	1	1
+জাওয়ারও	1	0.86	6	prefix	জাওয়ারই	j a O y a r o O	0	0
+রংহিন	1	0.60	3	suffix	হিন	r o ng h i n	1	1
+আমি নাস্তা করে স্কুলে যাই।	1	0.62	16	suffix	আমরা বাসে করে স্কুলে যাই।	a m i | n a st a | k O r e | s k u l e | j a i	1	0
+সভাতেই	1	0.83	5	prefix	সভাতে	sh o bh a t e i	1	1
+চারজনের	1	0.86	6	prefix	চারজনে	ch a r j O n e r	0	0
+স্ক্র্যাচকার্ড	1	0.64	9	prefix	স্ক্র্যাচ	s kr A ch k a r D	1	0
+পরোপকারিতা	1	1.00	10	prefix	পরোপকারিতার	p o r O p o k a r i t a	0	0
+মোজাম্মেলের	1	0.82	9	prefix	মোজাম্মেলকে	m O j a mm e l e r	1	1
+পাটায়	1	0.80	4	prefix	পাটালি	p a T a y	1	1
+বিওসি	1	0.60	3	prefix	বিওপ্র	b i O s i	1	1
+পাখিটা	1	1.00	6	prefix	পাখিটাকে	p a kh i T a	1	1
+আরটিসি	1	1.00	6	prefix	আরটিসির	a r T i s i	1	1
+মিশ	1	1.00	3	prefix	মিশকাত	m i sh	1	1
+ত্রোইবিদ্য	0	0.50	5	prefix	ত্রোইগুন্য	tr O i b i d d O	0	1
+দেবতার	1	1.00	6	prefix	দেবতারা	d e b O t a r	1	1
+জুগোস্লাভিয়ায়	1	0.92	12	prefix	জুগোস্লাভিয়ার	j u g O s l o bh i y a y	0	0
+ব্যাপারটিকে	1	1.00	11	prefix	ব্যাপারটিকেই	b A p a r T i k e	1	1
+প্রক্রিয়াজাতকরন	1	1.00	15	prefix	প্রক্রিয়াজাতকরনে	pr O kr i y a j a t o k o r O n	0	0
+পুকুরপাড়ের	1	0.90	9	prefix	পুকুরপাড়ে	p u k u r p a r e r	1	1
+করপোরেশনকেও	1	0.91	10	prefix	করপোরেশনকে	k o r p O r e sh o n k e O	1	1
+লঞ্চটির	1	0.86	6	prefix	লঞ্চটিতে	l o nch T i r	1	1
+নেহাই	1	0.80	4	prefix	নেহা	n e h a i	1	1
+ওয়াটসনকে	1	0.75	6	prefix	ওয়াটসনও	O y a T s o n k e	1	1
+নর্তক	1	1.00	5	prefix	নর্তকি	n o r t O k	0	1
+তাওহিদের	1	0.75	6	prefix	তাওহিদা	t a O h i d e r	1	1
+গজনি	1	0.75	3	prefix	গজনভি	g o j n i	0	1
+এইটুকুই	1	0.86	6	prefix	এইটুকু	e i T u k u i	1	1
+ভারতবর্ষে	1	1.00	9	prefix	ভারতবর্শের	bh a r O t b o r sh e	1	1
+ওবামা	1	1.00	5	prefix	ওবামাই	O b a m a	1	1
+পারফরমেন্স	1	1.00	10	prefix	পারফরমেন্সই	p a r ph o r m e n s	1	1
+ত্যক্তবিরক্ত	0	0.50	6	prefix	ত্যক্ত	t A kt O b i r O kt O	0	0
+গলফ	1	1.00	3	prefix	গলফার	g o l ph	1	0
+প্লাটফরমে	1	0.89	8	prefix	প্লাটফরম	p l a T ph o r m e	1	1
+কান	1	1.00	3	prefix	কান দেওয়া	k a n	1	1
+রবিবারকে	1	0.75	6	prefix	রবিবারও	r O b i b a r k e	1	1
+উথাল	1	1.00	4	prefix	উথালপাথাল	u th a l	1	1
+উত্তরপাড়ার	1	0.90	9	prefix	উত্তরপাড়া	u tt O r p a r a r	1	1
+সামছুর	1	0.83	5	prefix	সামছুন্নাহার	sh a m chh u r	1	1
+মন্তব্যগুলোর	1	0.92	11	prefix	মন্তব্যগুলো	m o nt o b b o g u l O r	1	0
+প্রস্তুতিতে	1	1.00	11	prefix	প্রস্তুতিতেই	pr O st u t i t e	1	1
+মুসোলিনির	0	0.56	5	suffix	বুড়িগোয়ালিনির	m u sh O l i n i r	1	1
+উয়ার	1	1.00	4	suffix	নিউয়ার	u y a r	1	1
+গণপ্রতিনিধিত্ব	1	1.00	14	prefix	গনপ্রতিনিধিত্ব	g o n O pr O t i n i dh i tt O	1	1
+ফর্মার	1	1.00	6	suffix	পারফর্মার	ph o r m a r	1	1
+দইব	1	1.00	3	prefix	দইববানি	d O i b O	1	0
+পরপুরুশ	1	0.86	6	suffix	উত্তরপুরুশ	p o r p u r u sh	1	1
+র্যাশ	1	1.00	5	suffix	ক্র্যাশ	r A sh	1	1
+লাঠিয়ালেরা	1	0.90	9	prefix	লাঠিয়ালের	l a Th i y a l e r a	1	1
+সাগারাম	1	0.71	5	suffix	গংগারাম	sh a g a r a m	1	1
+শটগানটি	1	0.71	5	prefix	শটগান	sh o T g a n T i	1	1
+পরত্র	1	0.60	3	prefix	পরতো	p o r O tr O	1	1
+খাপচি	1	0.60	3	prefix	খাপ	kh a p ch i	1	1
+প্রকল্পভুক্ত	1	0.67	8	prefix	প্রকল্পভিত্তিক	pr O k o l p o bh u kt O	1	0
+কনিয়সি	1	0.67	4	prefix	কনিয়ান	k O n i y O sh i	0	0
+কিউরিদের	1	0.62	5	prefix	কিউরিং	k i u r i d e r	1	1
+রটেছে	1	0.80	4	prefix	রটেছিল	r O T e chh e	1	1
+কাবাকে	1	0.83	5	suffix	দাবাকে	k a b a k e	1	1
+নোউকাগুলো	1	1.00	9	prefix	নোউকাগুলোকে	n O u k a g u l O	1	1
+জগজিবন	1	0.67	4	prefix	জগজিত্	j o g o j i b o n	0	0
+দিনাজপুরে	1	1.00	9	prefix	দিনাজপুরের	d i n a j p u r e	1	1
+টুটা	1	1.00	4	prefix	টুটাং	T u T a	1	1
+ইওয়াতে	1	0.83	5	suffix	খাওয়াতে	i O y a t e	1	1
+ভগিরথ	1	0.60	3	prefix	ভগিনি	bh O g i r o th	0	0
+ভিন্টারস	1	0.62	5	suffix	রিপোর্টারস	bh i n T a r s	1	1
+দশরুপক	1	0.67	4	suffix	রুপক	d o sh o r u p o k	0	0
+ফিলিপসের	1	1.00	8	suffix	কনকোফিলিপসের	ph i l i p s e r	1	1
+পশ্চিমপাড়ার	1	0.91	10	prefix	পশ্চিমপাড়া	p o sh ch i m p a r a r	1	1
+ত্রানসামগ্রি	1	1.00	12	prefix	ত্রানসামগ্রির	tr a n sh a m O gr i	1	1
+প্রজনন	1	1.00	6	prefix	প্রজননকেন্দ্র	pr O j O n o n	1	0
+এডউইন	1	0.80	4	suffix	গডউইন	e D u i n	1	1
+বনরক্ষী	1	1.00	7	prefix	বনরক্শি	b o n r O kkh i	1	1
+কফের	1	0.75	3	suffix	বিআইজেএফের	k o ph e r	1	1
+ভিসাসহ	1	0.83	5	prefix	ভিসাসংক্রান্ত	bh i s a sh o h O	1	1
+আমি নতুন জামা কিনতে চাই।	0	0.17	4	prefix	আমি দোকান থেকে কিছু কিনব।	a m i | n O t u n | j a m a | k i n t e | ch a i	1	1
+জনমতে	1	1.00	5	prefix	জনমতের	j o n o m o t e	0	0
+কোউশলটির	1	0.88	7	prefix	কোউশলটিও	k O u sh o l T i r	1	1
+উদ্বমন	1	0.67	4	prefix	উদ্বন্ধন	u d b o m o n	0	0
+ওদেরও	1	0.80	4	prefix	ওদেরই	O d e r O	1	1
+কার্বনদুশন	1	0.60	6	prefix	কার্বন	k a r b O n d u sh o n	1	1
+যুক্তদের	1	0.88	7	suffix	অভিজুক্তদের	j u kt O d e r	0	1
+ছেলেটিই	1	0.86	6	prefix	ছেলেটি	chh e l e T i i	1	1
+ব্যক্তিগতভাবে	1	1.00	13	prefix	ব্যক্তিগতভাবেই	b e kt i g o t O bh a b e	1	1
+এডুকেশনে	1	1.00	8	prefix	এডুকেশনের	e D u k e sh o n e	1	1
+ভ্রংশ	1	1.00	5	suffix	অপভ্রংশ	bh r O ng sh O	1	1
+নিশা	1	1.00	4	prefix	নিশাকরের	n i sh a	1	1
+বেসবল	1	0.60	3	prefix	বেসনের	b e s b o l	1	0
+মিশ্টির	1	0.86	6	prefix	মিশ্টিমুখ	m i sh T i r	1	1
+নার্সারিতে	1	0.80	8	prefix	নার্সারি	n a r s a r i t e	1	1
+মনঃক্ষুন্ন	1	0.70	7	suffix	ক্শুন্ন	m o n O kh u nn O	0	0
+ট্রিট	1	1.00	5	prefix	ট্রিটমেন্ট	T r i T	1	1
+সারসহ	1	1.00	5	suffix	কাওসারসহ	sh a r sh o h O	1	1
+সম্মানটুকুও	1	0.91	10	prefix	সম্মানটুকু	sh o mm a n T u k u	0	0
+খেতখামার	1	1.00	8	prefix	খেতখামারে	kh e t kh a m a r	1	1
+সরবরাহকারি	1	1.00	10	prefix	সরবরাহকারিদের	sh o r b o r a h o k a r i	0	0
+ইটনের	1	0.80	4	suffix	ওয়াশিংটনের	i T o n e r	1	0
+রিচি	1	1.00	4	prefix	রিচিকে	r i ch i	1	1
+তুঝ	0	0.67	2	prefix	তুজুক	t u jh	1	1
+জনগোশ্ঠিতে	1	0.80	8	prefix	জনগোশ্ঠিগুলোর	j o n o g O sh Th i t e	1	1
+কয়টা	1	1.00	4	prefix	কয়টার	k o y T a	0	1
+বাসদ	1	0.75	3	prefix	বাসতের	b a sh O d	1	1
+দেশদ্রোহিতার	1	0.92	11	prefix	দেশদ্রোহিতা	d e sh d r O h i t a r	1	1
+সমপ্রদায়	1	1.00	8	prefix	সমপ্রদায়ভুক্ত	sh o m pr O d a y	1	1
+এসএসএর	1	0.83	5	prefix	এসএসএফের	e s e s e r	1	1
+অক্ষোভ	1	1.00	6	prefix	অক্শোভ্য	o kkh O bh	1	1
+পরিকর্মা	1	0.88	7	prefix	পরিকর্ম	p O r i k o r m a	1	1
+সমুদ্রবন্দরের	1	0.92	12	prefix	সমুদ্রবন্দরে	sh O m u d r O b o nd O r e r	1	0
+ভুদো	1	0.75	3	prefix	ভুদি	bh u d O	1	1
+মরকেলকে	1	0.71	5	prefix	মরকেল	m o r k e l k e	1	1
+বারনার্ড	1	0.62	5	prefix	বারনাবত	b a r n a r D	0	1
+নির্ভুলতা	1	1.00	9	prefix	নির্ভুলতার	n i r bh u l o t a	1	1
+মেয়াদিকরন	1	0.67	6	prefix	মেয়াদি	m e y a d i k o r O n	1	0
+বকরি	1	0.75	3	prefix	বকরা	b O k r i	1	0
+মিশা	1	1.00	4	prefix	মিশানো	m i sh a	1	1
+গতিহিন	1	0.83	5	suffix	অনুমতিহিন	g O t i h i n	1	1
+জশনে	1	0.75	3	suffix	সেকশনে	j o sh O n e	1	0
+মসজিদগুলোর	1	0.90	9	prefix	মসজিদগুলোতে	m O sh j i d g u l O r	1	0
+অনীহার	1	0.83	5	prefix	অনিহা	o n i h a r	1	1
+বাশের	1	0.80	4	prefix	বাশে	b a sh e r	1	1
+যুদ্ধকালে	1	0.89	8	suffix	মুক্তিজুদ্ধকালে	j u d dh O k a l e	1	1
+ছড়াৎ	1	0.75	3	prefix	ছড়ালেন	chh o r a t	1	1
+জাহাদের	1	0.86	6	suffix	তাহাদের	j a h a d e r	1	1
+ন্যায়বিচারে	1	1.00	11	prefix	ন্যায়বিচারের	n A y b i ch a r e	1	1
+দিগারি	1	0.67	4	suffix	তাগারি	d i g a r i	1	1
+অনুচ্ছেদের	1	1.00	10	prefix	অনুচ্ছেদেরও	O n u ch chh e d e r	1	1
+দিশি	1	0.75	3	prefix	দিশারি	d i sh i	1	1
+ভুমে	1	1.00	4	suffix	নিজভুমে	bh u m e	1	1
+উদারতার	1	0.86	6	prefix	উদারতাবাদের	u d a r o t a r	1	1
+ট্যাবু	1	0.83	5	prefix	ট্যাবলয়েডে	T A b u	1	1
+মসলার	1	1.00	5	suffix	গরমমসলার	m o sh l a r	1	1
+গেটিসবার্গ	1	0.60	6	suffix	এলসবার্গ	g e T i s b a r g	1	1
+কোউটাটি	1	0.71	5	prefix	কোউটা	k O u T a T i	1	1
+প্রানময়	1	0.71	5	prefix	প্রানভয়ে	pr a n O m o y	0	0
+বালা	1	1.00	4	prefix	বালাই	b a l a	1	1
+ওউপপত্তিক	0	0.56	5	suffix	ভিত্তিক	O u p O p O tt i k	1	1
+পারছেন	1	1.00	6	prefix	পারছেনা	p a r chh e n	1	1
+ডেসট্রাকশন	1	0.80	8	suffix	কন্সট্রাকশন	D e s T r a k sh o n	1	1
+রাউটারে	1	1.00	7	prefix	রাউটারের	r a u T a r e	1	1
+ভগত	1	1.00	3	prefix	ভগত্	bh o g o t	0	0
+দিবসকে	1	0.83	5	suffix	গিবসকে	d i b O sh k e	0	0
+এককাঠি	1	0.67	4	prefix	এককাট্টা	E k k a Th i	1	1
+ক্যালিফোর্নিয়ায়	1	0.93	14	prefix	ক্যালিফোর্নিয়ার	k A l i ph O r n i y a y	1	1
+কাতলাগাড়ি	1	0.67	6	suffix	দুবলাগাড়ি	k a t l a g a r i	1	1
+লিখনও	1	0.80	4	prefix	লিখন	l i kh o n o O	0	0
+কিরনমালার	1	0.89	8	prefix	কিরনমালা	k i r O n m a l a r	0	0
+রোমেলাকে	1	0.75	6	prefix	রোমেলা	r O m e l a k e	1	1
+বামফ্রন্টই	1	0.90	9	prefix	বামফ্রন্ট	b a m ph r O n T i	1	1
+অপরাধবোধ	1	1.00	8	prefix	অপরাধবোধে	o p O r a dh b O dh	1	1
+আসিবার	1	0.67	4	prefix	আসিব	a sh i b a r	1	1
+বলস্থিতি	1	0.75	6	suffix	অবস্থিতি	b o l O sth i t i	1	0
+পুরশ্কার	1	0.75	6	prefix	পুরশ্কৃত	p u r o sh k a r	0	0
+সরকারেরও	1	0.88	7	prefix	সরকারেরই	sh o r k a r e r O	1	1
+কম্পন	1	1.00	5	prefix	কম্পনকাল	k o mp O n	1	1
+সমাধিসোউধে	1	1.00	10	prefix	সমাধিসোউধের	sh o m a dh i sh O u dh e	1	1
+রক্তস্নাত	1	0.67	6	prefix	রক্তস্রোত	r o kt O sn a t O	1	0
+স্টাডি	1	1.00	6	prefix	স্টাডিজ	s T a D i	1	0
+বকশিগঞ্জ	1	0.75	6	suffix	শশিগঞ্জ	b O k sh i g o nj	1	0
+শউল	0	0.67	2	prefix	শউর	sh O u l	1	0
+চালকল	1	1.00	5	prefix	চালকলে	ch a l k o l	1	1
+বিদেশমন্ত্রি	1	0.75	9	suffix	পরিবেশমন্ত্রি	b i d e sh m O n t r i	1	0
+কোনোমতেই	1	0.88	7	prefix	কোনোমতে	k O n O m o t e i	1	1
+বাসদের	1	0.83	5	suffix	দাসদের	b a s d e r	0	1
+প্রগত	1	1.00	5	prefix	প্রগতি	pr O g o t O	1	1
+দেহবোমা	0	0.57	4	prefix	দেহব্যবসা	d e h o b O m a	0	0
+নিউমার্কেটে	1	1.00	11	prefix	নিউমার্কেটের	n i u m a r k e T e	1	1
+নিশিইয়ামা	0	0.56	5	suffix	এনাইয়ামা	n i sh i i y a m a	1	1
+রেকর্ডভুক্ত	0	0.55	6	prefix	রেকর্ডবুকে	r e k o r D bh u kt o	1	1
+পিরিতির	1	0.86	6	prefix	পিরিতি	p i r i t i r	1	1
+অনিমেশ	1	1.00	6	prefix	অনিমেশকে	o n i m e sh	1	1
+করনিয়ও	1	0.83	5	prefix	করনিয়	k o r O n i y O O	0	0
+বিআরটিসির	1	0.89	8	prefix	বিআরটিসিকে	b i a r T i s i r	1	1
+গায়েনের	1	0.86	6	suffix	মোতায়েনের	g a y e n e r	1	1
+মুজ্যাম্মিল	0	0.27	3	prefix	মুজেরি	m u j a mm i l	0	0
+পাল্য	1	0.80	4	prefix	পাল্প	p a l l O	1	1
+বিপদসংকুল	1	0.78	7	prefix	বিপদসংকেত	b i p o d sh o ng k u l	1	1
+কবীর	1	1.00	4	prefix	কবির	k O b i r	1	1
+গোর্খনাথ	1	0.62	5	prefix	গোর্খা	g O r kh O n a th	1	0
+কনভেনশন	1	1.00	7	prefix	কনভেনশনগুলো	k o n bh e n sh o n	1	1
+সুচিত্রা	1	1.00	8	prefix	সুচিত্রাকে	sh u ch i tr a	1	1
+দুবির্ষহ	0	0.38	3	prefix	দুবারের	d u r b i sh o h o	0	0
+মমিনের	1	0.83	5	suffix	জমিনের	m O m i n e r	1	0
+তির্থজাত্রিদের	1	0.79	11	prefix	তির্থজাত্রি	t i r th O j a tr i d e r	1	1
+জবাবেই	1	0.83	5	prefix	জবাবে	j o b a b e i	1	1
+কার্টুনে	1	1.00	8	prefix	কার্টুনের	k a r T u n e	1	1
+রাশ্ট্রদ্রোহিতার	1	0.94	15	prefix	রাশ্ট্রদ্রোহিতা	r a sh T r O d r O h i t a r	1	1
+সাম্প্রদায়িকতা	1	1.00	14	prefix	সাম্প্রদায়িকতাকে	sh a m p r O d a y i k o t a	1	1
+সিএসইকে	1	0.86	6	suffix	ডিএসইকে	s i e s i k e	1	0
+মিম্বার	1	0.71	5	suffix	সাম্বার	m i mb a r	1	1
+মোক্তার	1	1.00	7	prefix	মোক্তারকে	m O kt a r	1	1
+নায়িকাও	1	0.86	6	prefix	নায়িকাই	n a y i k a O	1	1
+জন্ত্রনাকে	1	0.90	9	prefix	জন্ত্রনাকাতর	j o n t r O n a k e	1	1
+তেলসম্পদ	1	0.62	5	prefix	তেলসমৃদ্ধ	t e l sh o mp O d	1	1
+কোং	1	1.00	3	prefix	কোংকন	k O ng	1	1
+বারডেমে	1	1.00	7	prefix	বারডেমের	b a r D e m e	1	1
+রুপগঞ্জ	1	1.00	7	prefix	রুপগঞ্জে	r u p g o nj	1	1
+অপ্রাপ্তবয়স্ক	1	1.00	13	prefix	অপ্রাপ্তবয়স্কদের	o pr a p t o b o y o sh k o	0	0
+সংখ্যাই	1	1.00	7	suffix	জনসংখ্যাই	sh o ng kh a i	1	1
+সংশোধনে	1	1.00	7	prefix	সংশোধনেও	sh o ng sh O dh O n e	0	1
+খোশগল্প	1	1.00	7	prefix	খোশগল্পে	kh O sh g o l p O	1	1
+পাইজ	1	1.00	4	prefix	পাইজাম	p a i j	1	1
+পুরুশও	1	0.83	5	prefix	পুরুশই	p u r u sh O	1	1
+শিল্পরিনের	1	0.80	8	prefix	শিল্পরিন	sh i l p o r i n e r	0	0
+সুবিদবাজারে	1	0.91	10	prefix	সুবিদবাজার	sh u b i d b a j a r e	1	1
+অত্যাবশ্যক	1	1.00	10	prefix	অত্যাবশ্যকভাবে	O t t a b o sh sh O k	0	0
+নিগমন	1	0.80	4	prefix	নিগম	n i g o m O n	1	1
+নেতাও	1	1.00	5	suffix	অভিনেতাও	n e t a O	1	1
+সাধ্বস	1	0.83	5	prefix	সাধ্বি	sh a d dh O sh	0	1
+চ্যুত	1	1.00	5	prefix	চ্যুতি	ch u t O	1	1
+রিহার্সাল	1	0.78	7	prefix	রিহার্সেল	r i h a r sh a l	1	1
+সিরাজুলের	1	0.78	7	prefix	সিরাজুলকে	sh i r a j u l e r	1	1
+বিলবাসি	1	1.00	7	prefix	বিলবাসির	b i l b a sh i	1	1
+অনাদর	1	0.80	4	prefix	অনাদায়	o n a d O r	0	0
+জথাসময়ে	1	1.00	7	prefix	জথাসময়েই	j o th a sh O m o y e	0	0
+ড্রেক্সলার	0	0.50	5	prefix	ড্রেক	D r e k s l a r	1	1
+বিচারহিনতার	1	0.91	10	prefix	বিচারহিনতা	b i ch a r h i n o t a r	1	1
+চিন্তায়	1	1.00	7	prefix	চিন্তায়ও	ch i nt a y	1	1
+শাহাজান	1	0.86	6	prefix	শাহাজাদা	sh a h a j a n	1	1
+খন্ডটি	1	1.00	6	suffix	ভুখন্ডটি	kh o n D o T i	0	0
+পাচার	1	1.00	5	prefix	পাচারকাজে	p a ch a r	1	1
+শ্রেয়ার	1	0.86	6	prefix	শ্রেয়া	s r e y a r	1	1
+নাসিমের	1	0.86	6	prefix	নাসিমেন্তো	n a sh i m e r	1	1
+ধোপদুরস্ত	1	0.67	6	suffix	দুরস্ত	dh O p d u r o st O	1	0
+তৃতিয়বার	1	1.00	8	prefix	তৃতিয়বারে	t ri t i y O b a r	1	0
+দুরত্বও	1	0.86	6	prefix	দুরত্বই	d u r O tt O O	0	0
+ভুইমালি	0	0.57	4	suffix	এজমালি	bh u i m a l i	1	1
+সংশোধনসহ	1	0.88	7	prefix	সংশোধনসংক্রান্ত	sh o ng sh O dh o n sh o h O	1	1
+ফেব্রিক্সের	1	0.91	10	prefix	ফেব্রিক্সে	ph e br i k s e r	1	1
+মুদ্রাগুলোর	1	0.91	10	prefix	মুদ্রাগুলো	m u d r a g u l O r	1	1
+শফিপুর	1	0.83	5	suffix	সফিপুর	sh O ph i p u r	1	1
+রেসিপিতে	1	0.75	6	prefix	রেসিপিটি	r e s i p i t e	1	1
+ইয়ুন	1	1.00	4	prefix	ইয়ুনহাপ	i y u n	1	1
+শেখাচ্ছেন	1	0.89	8	prefix	শেখাচ্ছে	sh e kh a ch chh e n	1	1
+নিলফামারিতে	1	0.82	9	prefix	নিলফামারি	n i l ph a m a r i t e	1	1
+জলও	1	1.00	3	prefix	জলওয়া	j o l O	1	1
+রুজির	1	1.00	5	suffix	রুটিরুজির	r u j i r	1	1
+মামুরে	1	0.83	5	prefix	মামুরায়	m a m u r e	1	1
+আবেগই	1	0.80	4	prefix	আবেগ	a b e g i	1	1
+বিবিএফ	1	1.00	6	prefix	বিবিএফের	b i b i e ph	1	1
+মিন্নাত	1	0.86	6	suffix	জিন্নাত	m i nn a t	1	1
+মহাবিপর্যয়	1	1.00	10	prefix	মহাবিপর্যয়ের	m o h a b i p o r j o y	1	1
+সুপ্রিম	1	1.00	7	prefix	সুপ্রিমকোর্ট	sh u pr i m	1	1
+ড্রিউ	1	0.80	4	prefix	ড্রিংয়ের	D r i u	1	1
+থ্যাচার	1	1.00	7	prefix	থ্যাচারের	th A ch a r	1	1
+গঠনসংক্রান্ত	1	0.83	10	suffix	বন্টনসংক্রান্ত	g o Th o n sh o ng kr a nt O	1	1
+লিংকনের	1	0.71	5	prefix	লিংকন	l i ng k o n e r	1	1
+ভবানিপুরে	1	0.89	8	prefix	ভবানিপুর	bh o b a n i p u r e	1	1
+এমএমসি	1	1.00	6	prefix	এমএমসিএফ	e m e m s i	1	1
+পাশবিকতা	1	1.00	8	prefix	পাশবিকতার	p a sh O b i k o t a	1	0
+সংবাদটির	1	0.88	7	prefix	সংবাদটিতে	sh o ng b a d T i r	1	1
+তর–জল	1	0.60	3	prefix	তর–তম	j o r j o l	0	0
+ইজি	1	1.00	3	prefix	ইজিএম	i j i	1	1
+জমিদারি	1	1.00	7	prefix	জমিদারিতে	j O m i d a r i	1	1
+সিপাইকে	1	0.71	5	prefix	সিপাই	sh i p a i k e	1	1
+গরদ	1	1.00	3	prefix	গরদান	g o r O d	1	1
+কিয়ামত	1	1.00	6	prefix	কিয়ামতের	k i y a m o t	1	0
+মেনস	1	1.00	4	prefix	মেনসা	m e n s	0	0
+রুজুর	1	0.80	4	prefix	রুজু	r u j u r	1	1
+ফটোকপির	1	0.86	6	prefix	ফটোকপিও	ph o T O k O p i r	0	0
+প্রতিনিধিত্বমুলক	1	1.00	16	suffix	জনপ্রতিনিধিত্বমুলক	pr O t i n i dh i tt O m u l o k	0	0
+ভেনাসের	1	0.71	5	prefix	ভেনাসকে	bh e n a s e r	1	1
+দুয়ো	1	1.00	4	prefix	দুয়োধ্বনি	d u y O	1	1
+খালাসের	1	0.86	6	prefix	খালাসে	kh a l a sh e r	1	1
+সংশ্লিষ্ঠ	1	1.00	9	prefix	সংশ্লিশ্ঠ	sh o ng s l i shTh O	1	0
+কিছুদিনের	1	0.89	8	prefix	কিছুদিনে	k i chh u d i n e r	1	1
+দ্বিপচর	1	1.00	7	prefix	দ্বিপচরগুলোতে	d i p ch o r	1	1
+হন্তদন্ত	1	0.62	5	suffix	ময়নাতদন্ত	h o nt O d o nt O	1	0
+খেলাগাড়ি	1	0.88	7	suffix	ঠেলাগাড়ি	kh E l a g a r i	1	1
+নিশারুল	1	0.71	5	prefix	নিশার	n i sh a r u l	1	1
+ছুরিটি	1	0.83	5	prefix	ছুরিটা	chh u r i T i	1	1
+চড়ে	1	1.00	3	prefix	চড়েই	ch o r e	1	1
+উত্তরগুলো	1	0.78	7	suffix	দপ্তরগুলো	u tt O r g u l O	1	1
+এসএমএস	1	1.00	6	prefix	এসএমএসে	e s e m e s	1	1
+দেখাতাম	1	0.71	5	prefix	দেখাত	d e kh a t a m	0	0
+গোলাবারুদের	1	0.82	9	prefix	গোলাবারুদশহ	g O l a b a r u d e r	1	1
+তথ্যপ্রজুক্তি	1	1.00	13	prefix	তথ্যপ্রজুক্তিকে	t O t th O pr O j u kt i	0	1
+ঘানাই	1	0.80	4	prefix	ঘানা	gh a n a i	1	1
+গাংগুলির	1	0.88	7	prefix	গাংগুলিকে	g a ng g u l i r	1	1
+তাহেরপুরে	1	0.89	8	prefix	তাহেরপুর	t a h e r p u r e	1	1
+বিশোধক	1	0.83	5	prefix	বিশোধন	b i sh O dh o k	0	0
+কাসেমশহ	1	0.71	5	prefix	কাসেমকে	k a sh e m sh o h o	1	1
+রসিকতার	1	0.86	6	prefix	রসিকতাও	r O sh i k o t a r	1	0
+স্যারের	1	1.00	7	prefix	স্যারেরা	s A r e r	1	1
+রাজস্থানে	1	1.00	9	prefix	রাজস্থানের	r a j sth a n e	0	1
+সাফসুতরো	0	0.38	3	prefix	সাফল্যেরই	sh a ph sh u t r O	1	1
+খামেনের	1	1.00	7	suffix	তুতেনখামেনের	kh a m e n e r	1	1
+দেশিনি	1	1.00	6	suffix	বিদেশিনি	d e n i n i	0	0
+তেলআবিব	0	0.57	4	suffix	আবিব	t e l a b i b	1	1
+ঢাপা	1	0.75	3	suffix	জাপা	Dh a p a	1	1
+হচ্ছে	1	1.00	5	prefix	হচ্ছেই	h O ch chh e	1	1
+অংকটাও	1	0.83	5	prefix	অংকটা	o ng k o T a O	0	1
+দর্শিত	1	1.00	6	suffix	প্রদর্শিত	d o r sh i t O	0	0
+পায়েই	1	1.00	5	suffix	উপায়েই	p a y e i	1	1
+গোশ্ঠিও	1	1.00	7	suffix	জনগোশ্ঠিও	g O sh Th i O	1	1
+এজেন্ডার	1	0.88	7	prefix	এজেন্ডা	e j e n D a r	1	1
+খাদ্যদ্রব্যশহ	1	0.85	11	prefix	খাদ্যদ্রব্য	kh a d d O d r O b b o sh o h o	0	0
+বিক্রমের	1	0.88	7	prefix	বিক্রমে	b i kr O m e r	1	1
+গনশুনানিতে	1	0.80	8	prefix	গনশুনানি	g o n O sh u n a n i t e	1	1
+কনজুমার	1	1.00	7	prefix	কনজুমারস	k O n j u m a r	0	0
+ওয়েদারলির	1	0.67	6	prefix	ওয়েদারপ্রুফ	O y e d a r o l i r	0	0
+সুসম্পন্ন	1	0.78	7	suffix	বিচারবুদ্ধিসম্পন্ন	sh u sh o mp O nn O	1	1
+অধ্যশন	1	0.67	4	prefix	অধ্যবসায়ের	o d dh O sh o n	1	1
+তৃনমূল	1	1.00	6	prefix	তৃনমুল	t ri n O m u l	1	1
+ফ্লোটের	1	0.71	5	prefix	ফ্লোটিলায়	ph l O T e r	1	1
+আরএমএ	1	1.00	5	prefix	আরএমএস	a r e m e	1	1
+তেলে	1	1.00	4	prefix	তেলেংগানা	t e l e	1	1
+ওয়েবকে	1	0.83	5	prefix	ওয়েবক্যাম	O y e b k e	1	1
+বিনির্মুক্ত	1	0.82	9	suffix	নির্মুক্ত	b i n i r m u kt O	1	1
+হকিকত	1	1.00	5	suffix	হালহকিকত	h O k i k o t	1	1
+তত্ত্বে	1	1.00	7	prefix	তত্ত্বের	t o t t e	1	1
+গনমাধ্যমকর্মিরা	1	0.87	13	prefix	গনমাধ্যমকর্মিদের	g o n O m a d dh o m k O r m i r a	1	1
+চাপায়	1	1.00	5	suffix	ট্রাকচাপায়	ch a p a y	1	1
+ক্রয়চুক্তির	1	0.91	10	prefix	ক্রয়চুক্তি	kr o y o ch u kt i r	0	0
+করপোরেশনের	1	1.00	10	prefix	করপোরেশনেরও	k o r p O r e sh o n e r	1	1
+অনুশ্ঠানপ্রধান	0	0.57	8	prefix	অনুশ্ঠানটির	O n u sh Th a n pr O dh a n	1	1
+জনসনরা	1	0.67	4	prefix	জনসনকে	j o n s o n r a	1	1
+শাহিনুজ্জামান	1	0.77	10	suffix	আমিনুজ্জামান	sh a h i n u j j a m a n	1	1
+কারজোগে	1	0.86	6	suffix	হেলিকপ্টারজোগে	k a r j O g e	1	1
+রাহাতের	1	0.71	5	prefix	রাহাতকে	r a h a t e r	1	1
+দিবে	1	1.00	4	prefix	দিবেন	d i b e	1	1
+বিশ্বকাপজুড়ে	1	0.75	9	prefix	বিশ্বকাপজয়ি	b i sh sh O k a p j u r e	1	0
+সিনড্রোমের	1	0.80	8	prefix	সিনড্রোম	s i n D r O m e r	1	1
+ব্যর্থ	1	1.00	6	prefix	ব্যর্থই	b A r th O	1	1
+গম্বুজ	1	1.00	6	prefix	গম্বুজটি	g o mb u j	0	0
+প্রসেসরে	1	1.00	8	prefix	প্রসেসরের	pr O sh e sh o r e	1	1
+সারকারখানায়	1	0.91	10	prefix	সারকারখানার	sh a r k a r kh a n a y	1	0
+অপুপ	1	0.75	3	prefix	অপুচ্ছ	O p u p o	0	0
+শিখন্ডি	1	0.71	5	suffix	খন্ডি	sh i kh o n D i	1	1
+বাছেতকে	1	0.71	5	prefix	বাছেত	b a chh e t k e	1	1
+গ্রেনেডটি	1	0.78	7	prefix	গ্রেনেড	gr e n e D T i	1	1
+নতুনের	1	1.00	6	prefix	নতুনেরা	n O t u n e r	1	1
+কোরানে	1	1.00	6	prefix	কোরানের	k O r a n e	1	1
+বাটলারের	1	0.75	6	prefix	বাটলারকে	b a T l a r e r	1	1
+পদকটি	1	0.80	4	prefix	পদকটা	p o d O k T i	1	0
+বোইশিশ্ট্যজুক্ত	1	0.67	10	prefix	বোইশিশ্ট্যগুলোর	b O i sh i sh T o j u kt O	1	1
+গৃহকর্ত্রির	1	0.91	10	prefix	গৃহকর্ত্রি	g ri h o k o r t ri r	0	0
+বোইশাখির	1	1.00	8	suffix	কালবোইশাখির	b O i sh a kh i r	1	1
+হিলারি	1	1.00	6	prefix	হিলারিকে	h i l a r i	1	1
+বিচারপ্রার্থিদের	1	0.81	13	prefix	বিচারপ্রার্থি	b i ch a r pr a r th i d e r	1	1
+মনিকর্নিকা	1	0.60	6	suffix	বর্নিকা	m O n i k O r n i k a	0	1
+এরশাদকেও	1	0.88	7	prefix	এরশাদকে	e r sh a d k e O	1	1
+জাওয়ামাত্রই	1	0.91	10	prefix	জাওয়ামাত্র	j a O y a m a tr O i	1	1
+চেয়ারম্যানদের	1	0.85	11	suffix	ফায়ারম্যানদের	ch e y a r m A n d e r	1	1
+মজুদদারেরা	1	0.90	9	prefix	মজুদদারের	m o j u d d a r e r a	1	1
+জেলারের	1	0.86	6	suffix	ত্রিয়াবেলারের	j e l a r e r	1	1
+গংগাচড়ার	1	0.88	7	prefix	গংগাচড়া	g o ng g a ch o r a r	1	1
+ব্যাথা	1	1.00	6	prefix	ব্যাথার	b A th a	1	1
+গর্ব	1	1.00	4	prefix	গর্বও	g o r b O	1	1
+বরাবরে	1	1.00	6	prefix	বরাবরের	b o r a b O r e	1	0
+ফাউলে	1	1.00	5	prefix	ফাউলের	ph a u l e	1	1
+বামাবর্ত	1	0.62	5	suffix	ঘুর্নাবর্ত	b a b a b o r t O	0	0
+উশর	1	1.00	3	prefix	উশর	u sh o r	1	1
+এমএনপি	1	0.67	4	prefix	এমএনএস	e m e n p i	1	1
+বিক্রিয়াবিশেশ	1	0.62	8	prefix	বিক্রিয়া	b i kr i a b i sh e sh	0	0
+গুড়িয়ে	1	0.83	5	prefix	গুড়িয়া	g u r i y e	1	1
+উপার্জক	1	0.86	6	prefix	উপার্জন	u p a r j o k	1	1
+রহিজ	1	0.75	3	prefix	রহিতকরন	r o h i j	0	0
+ব্রাইস	1	0.83	5	prefix	ব্রাইডালের	br a i s	1	1
+বাধ্যবাধকতা	1	1.00	11	prefix	বাধ্যবাধকতাও	b a d dh O b a dh O k o t a	0	1
+কোনের	1	1.00	5	suffix	পাড়ুকোনের	k O n e r	1	1
+কিউবেলার	1	0.62	5	suffix	বেলার	k i u b e l a r	1	1
+চুক্তি	1	1.00	6	prefix	চুক্তিই	ch u kt i	1	1
+প্রথাসিদ্ধ	0	0.50	5	prefix	প্রথারই	pr O th a sh i d dh O	1	1
+কারাবন্দিরা	1	0.91	10	prefix	কারাবন্দির	k a r a b O nd i r a	1	1
+যুবক	1	1.00	4	prefix	যুবককে	j u b o k	1	1
+ব্যাপাদন	1	0.75	6	prefix	ব্যাপা	b A p a d O n	0	1
+উশুতে	1	0.80	4	suffix	শুতে	u sh u t e	1	1
+গবেশনাপত্র	1	1.00	10	prefix	গবেশনাপত্রও	g o b e sh o n a p o tr O	1	1
+মাহিলাড়া	0	0.50	4	prefix	মাহিরা	m a h i l a r a	1	1
+স্টিমরোলার	0	0.50	5	prefix	স্টিম	s T i m r O l a r	1	0
+নিকেলের	1	0.86	6	suffix	মেডিকেলের	n i k e l e r	1	1
+বাঘারপাড়ার	1	0.90	9	prefix	বাঘারপাড়া	b a gh a b a r a r	0	0
+খোট্টাপাড়া	1	0.60	6	prefix	খোট্টাই	kh O T T a p a r a	1	1
+ক্যাবারে	1	0.62	5	prefix	ক্যাবলের	k A b a r e	1	1
+বিমল	1	1.00	4	prefix	বিমলকে	b i m o l	1	1
+সকালের	1	0.83	5	prefix	সকালেও	sh o k a l e r	1	1
+ফেসপ্যাক	1	0.62	5	suffix	মাস্টারপ্যাক	ph e s p A k	1	1
+মুন্সিগঞ্জ	1	1.00	10	prefix	মুন্সিগঞ্জে	m u n s i g o nj	1	1
+অননুভবনিয়	0	0.56	5	prefix	অননুভুতপুর্ব	o n O n u bh o b O n i y O	1	1
+অপরজন	1	1.00	5	prefix	অপরজনকে	o p O r j o n	0	1
+মিছিলের	1	1.00	7	suffix	গনমিছিলের	m i chh i l e r	1	1
+সান্ত্বনাই	1	0.90	9	prefix	সান্ত্বনা	sh a nt o n a i	1	0
+ভারতবিরোধিতার	1	0.92	12	prefix	ভারতবিরোধিতা	bh a r o t b i r O dh i t a r	1	1
+শোয়ারি	1	1.00	6	suffix	আশোয়ারি	sh O y a r i	1	1
+বিশময়	1	0.80	4	prefix	বিশমোশ্নদের	b i sh m o y	1	1
+বিরহ	1	1.00	4	prefix	বিরহের	b i r o h O	1	1
+দমনের	1	0.80	4	prefix	দমনেও	d o m O n e r	1	0
+লে	0	1.00	2	prefix	লেংচা	l e	1	1
+ভবানিপুরের	1	0.80	8	prefix	ভবানিপুর	bh o b a n i p u r e r	1	1
+ম্যানেজারকে	1	0.82	9	prefix	ম্যানেজার	m A n e j a r k e	1	1
+মিউজিয়াম	1	1.00	8	prefix	মিউজিয়ামে	m i u j i y a m	1	1
+মরদেহবাহি	0	0.56	5	prefix	মরদেহটি	m o r o d e h b a h i	0	0
+ক্রোগার	1	0.71	5	suffix	বড়দারোগার	kr O g a r	1	1
+বিশ্বভ্রমনে	1	1.00	11	prefix	বিশ্বভ্রমনের	b i sh sh O bh r O m o n e	0	0
+তাহিরা	1	0.83	5	prefix	তাহিরপুর	t a h i r a	1	1
+চাকরিজিবিদের	1	1.00	12	prefix	চাকরিজিবিদের	ch a k r i j i b i d e r	1	1
+গ্যাংস্টার	0	0.50	5	prefix	গ্যাংরানি	g A ng sh T a r	1	1
+জাতিগোষ্ঠীকে	1	0.67	8	suffix	মানবগোশ্ঠিকে	j a t i g O shTh i k e	1	1
+জেদিন	1	1.00	5	prefix	জেদিনই	j e d i n	1	1
+ইন্ডিয়া	1	1.00	7	prefix	ইন্ডিয়াকে	i n D i y a	1	1
+আবলতাবল	0	0.57	4	suffix	দন্তাবল	a b O l t a b O l	0	1
+ডাড়ুকা	0	0.50	3	prefix	ডাড়িকা	D a r u k a	1	1
+ব্যাধিতে	1	1.00	8	suffix	রোগব্যাধিতে	b A dh i t e	1	1
+চোরাচালানী	1	1.00	10	prefix	চোরাচালানি	ch O r a ch a l a n i	1	1
+রুড়মুল	0	0.50	3	prefix	রুড়তা	r u r O m u l	0	0
+স্বকর্মসংস্থান	1	1.00	14	prefix	স্বকর্মসংস্থানের	sh o k o r m o sh o ng sth a n	1	1
+সুবেশ	1	0.80	4	prefix	সুবেদারের	sh u b e sh	1	1
+মাহমুদার	1	0.88	7	prefix	মাহমুদাকে	m a h m u d a r	1	1
+পররাশ্ট্রবিশয়ক	1	0.64	9	prefix	পররাশ্ট্রনিতির	p o r o r a sh T r O b i sh o y O k	1	0
+ট্যাস	1	1.00	5	prefix	ট্যাসট্যাস	T A s	1	1
+বোরাক	1	1.00	5	prefix	বোরাকে	b O r a k	1	1
+সার্জনসহ	1	0.75	6	prefix	সার্জনরা	sh a r j o n sh o h O	1	1
+স্ট্রেচিং	1	0.78	7	prefix	স্ট্রেচারে	s T r e ch i ng	1	0
+সেনুসসিকে	1	0.78	7	prefix	সেনুসসি	s e n u s s i k e	1	1
+জোগাজোগমন্ত্রির	1	1.00	15	suffix	টেলিজোগাজোগমন্ত্রির	j O g a j O g m O n t r i r	1	0
+থ্রিপিসের	1	0.78	7	prefix	থ্রিপিস	th r i p i s e r	1	1
+রাশ্ট্রবিজ্ঞানে	1	1.00	15	prefix	রাশ্ট্রবিজ্ঞানের	r a sh T r O b i g g a n e	1	1
+নকশা	1	1.00	4	prefix	নকশাই	n o k sh a	1	1
+বিস্ফোরকসহ	1	0.80	8	prefix	বিস্ফোরকভর্তি	b i sh ph O r O k sh o h O	0	0
+পান্ডুলিপিটা	1	0.92	11	prefix	পান্ডুলিপিটি	p a n D u l i p i T a	1	0
+দহিয়াল	1	0.67	4	suffix	কন্ট্রোভার্সিয়াল	d o h i y a l	1	1
+লিফ্ট	1	0.80	4	suffix	গিফ্ট	l i ph T	1	1
+রিকেলমের	1	0.88	7	prefix	রিকেলমেকে	r i k e l m e r	1	1
+একখানি	1	0.83	5	prefix	একখান	E k kh a n i	1	1
+পঞ্চাগ্নি	0	0.56	5	prefix	পঞ্চাংগ	p o nch a g n i	1	1
+খেলছিলাম	1	0.75	6	prefix	খেলছিল	kh e l chh i l a m	1	1
+পাণ্ডের	1	0.86	6	prefix	পান্ডে	p a n D e r	1	1
+একপাশে	1	1.00	6	prefix	একপাশের	E k p a sh e	1	1
+স্বল্পকালিন	1	1.00	11	prefix	স্বল্পকালিন	sh o l p O k a l i n	0	1
+ফেউ	1	1.00	3	prefix	ফেউয়ের	ph e u	1	1
+ডাকঘর	1	1.00	5	prefix	ডাকঘরগুলোতে	D a k gh o r	1	1
+মদনমোহন	1	0.71	5	suffix	মনমোহন	m o d o n m O h o n	0	0
+ভিক্ষাবৃত্তি	1	1.00	12	prefix	ভিক্শাবৃত্তিতে	bh i kkh a b ri tt i	1	1
+ককপিট	1	1.00	5	prefix	ককপিটে	k o k p i T	1	1
+ছেলেদেরই	1	0.88	7	prefix	ছেলেদের	chh e l e d e r i	1	1
+মিলব্যারাক	1	1.00	10	prefix	মিলব্যারাকে	m i l b e r a k	0	0
+জনপ্রিয়ও	1	0.88	7	prefix	জনপ্রিয়	j o n o pr i y o O	1	0
+জছু	0	0.67	2	suffix	কছু	j O chh u	1	1
+কম্পোজিশনের	1	0.91	10	prefix	কম্পোজিশনে	k o mp O j i sh o n e r	1	1
+তল্প	1	1.00	4	prefix	তল্পিতল্পা	t o l p O	1	1
+প্রাইজমানির	1	0.91	10	prefix	প্রাইজমানি	pr a i j m a n i r	1	1
+ভাপসা	1	0.80	4	suffix	ভ্যাপসা	bh a p sh a	1	1
+পর্যটনকেন্দ্রে	1	0.93	13	prefix	পর্যটনকেন্দ্র	p o r j O T o n k e ndr e	0	0
+রোজগার	1	1.00	6	prefix	রোজগারে	r O j g a r	1	1
+রাশিগতভাবেই	1	0.73	8	suffix	ব্যক্তিগতভাবেই	r a sh i g o t o bh a b e i	1	1
+গোলটেবিলের	1	0.90	9	prefix	গোলটেবিলে	g O l T e b i l e r	1	1
+জানজটের	1	0.86	6	prefix	জানজটে	j a n j o T e r	1	1
+ছায়াপথে	1	1.00	7	prefix	ছায়াপথের	chh a y a p o th e	1	1
+দুর্ভিক্ষে	1	1.00	10	prefix	দুর্ভিক্শের	d u r bh i kkh e	1	1
+কাটাজুক্ত	1	0.67	6	suffix	চাকাজুক্ত	k a T a j u kt O	1	1
+সমাজে	1	1.00	5	prefix	সমাজেই	sh o m a j e	1	1
+বিজ্ঞানিরাও	1	0.91	10	prefix	বিজ্ঞানিরা নতুন একটি গ্রহ আবিশ্কার করেছেন।	b i g g a n i r a O	1	1
+কালারফুল	1	0.62	5	prefix	কালার	k a l a r ph u l	1	1
+অগ্রদুত	1	1.00	7	prefix	অগ্রদুত	o gr O d u t	0	1
+রোমানদের	1	0.75	6	suffix	মেহমানদের	r O m a n d e r	1	1
+কলা	1	1.00	3	prefix	কলাই	k o l a	1	1
+বার্জিন	1	0.86	6	suffix	ভার্জিন	b a r j i n	1	1
+অংশেও	1	0.80	4	prefix	অংশেই	o ng sh e O	1	1
+মিটারে	1	1.00	6	suffix	বর্গমিটারে	m i T a r e	1	1
+দুর্ভোগের	1	1.00	9	suffix	জনদুর্ভোগের	d u r bh O g e r	1	1
+গোশ্ঠিগুলোর	1	1.00	11	suffix	জনগোশ্ঠিগুলোর	g O sh Th i g u l O r	1	1
+গাড়িচালককে	1	0.80	8	prefix	গাড়িচালকও	g a r i ch a l o k k e	1	1
+খলিলি	1	0.80	4	prefix	খলিলপুর	kh O l i l i	1	1
+তুল্যমুল্য	1	0.70	7	suffix	দ্রব্যমুল্য	t u l l O m u l l O	1	1
+স্বচ্ছল	1	1.00	7	prefix	স্বচ্ছলতা	sh o ch chh o l	1	1
+নসিমনে	1	1.00	6	prefix	নসিমনের	n o sh i m o n e	1	0
+নিয়োগের	1	1.00	7	prefix	নিয়োগেরও	n i y O g e r	1	1
+ব্রুক	1	1.00	5	prefix	ব্রুকলিন	br u k	1	1
+চোউকির	1	0.83	5	prefix	চোউকিদারের	ch O u k i r	1	1
+তাবারেজ	1	1.00	7	prefix	তাবারেজের	t a b a r e j	1	1
+বাবেলের	1	0.86	6	suffix	ইসাবেলের	b a b e l e r	1	1
+ছিঃ	0	0.67	2	prefix	ছি	chh o	0	0
+ভার্মার	1	0.86	6	prefix	ভার্মাকে	bh a r m a r	1	1
+রাখতাম	1	0.67	4	prefix	রাখত	r a kh t a m	1	1
+ভুলভ্রান্তি	1	1.00	11	prefix	ভুলভ্রান্তির	bh u l bh r a nt i	1	1
+সংগতিও	1	0.83	5	prefix	সংগতি	sh o ng g o t i O	1	1
+সতর্কতা	1	1.00	7	prefix	সতর্কতাও	sh o t O r k o t a	0	0
+ভোসলে	1	1.00	5	prefix	ভোসলের	bh O sh l e	1	1
+বাইব্যাক	1	1.00	8	prefix	বাইব্যাকের	b a i b A k	0	1
+ঘানুচি	1	1.00	6	prefix	ঘানুচির	gh a n u ch i	1	1
+কামিজের	1	0.86	6	prefix	কামিজে	k a m i j e r	1	1
+ওয়েবসাইটির	1	0.80	8	prefix	ওয়েবসাইটটির	O y e b s a i T i r	1	1
+পাগলামি	1	1.00	7	prefix	পাগলামির	p a g l a m i	1	1
+মাখানো	1	1.00	6	prefix	মাখানোর	m a kh a n O	1	1
+হাসাতে	1	0.83	5	suffix	বারাসাতে	h a sh a t e	1	1
+উল্লাহ্	1	1.00	7	prefix	উল্লাহ্র	u l l a h	1	1
+সময়ক্ষেপনের	1	0.82	9	prefix	সময়ক্শেপন	sh o m o y kkh e p o n e r	1	1
+অনারে	1	1.00	5	prefix	অনারেবল	o n a r e	1	1
+ক্যাথলিক	1	1.00	8	prefix	ক্যাথলিকদের	k A th O l i k	0	1
+শিলাবৃষ্টি	1	1.00	10	prefix	শিলাবৃশ্টি	sh i l a b ri shT i	1	0
+চম্পট	1	0.80	4	prefix	চম্পকার	ch o mp o T	0	1
+হামামার	1	0.71	5	suffix	মামার	h a m a m a r	1	1
+জংগিগোশ্ঠিকে	1	0.83	10	prefix	জংগিগোশ্ঠি	j o ng g i g O sh Th i k e	1	1
+খাদের	1	0.80	4	prefix	খাদেমকে	kh a d e r	1	1
+তর্কিত	1	1.00	6	suffix	অতর্কিত	t o r k i t O	0	0
+বৃষ্টি	1	1.00	6	prefix	বৃশ্টি	b ri shT i	1	1
+খন্দকারসহ	1	0.78	7	prefix	খন্দকারকে	kh o nd O k a r sh o h O	1	1
+কাটারও	1	0.83	5	prefix	কাটার	k a T a r O	1	1
+বেতাল	1	1.00	5	suffix	ভোগবেতাল	b e t a l	1	1
+ডাইরেকশনাল	1	0.80	8	prefix	ডাইরেকশন	D a i r e k sh o n a l	1	1
+টোপলা	1	0.60	3	prefix	টোপর	T O p l a	1	1
+হেলেদুলে	0	0.50	4	prefix	হেলে	h e l e d u l e	1	1
+সমুন্দর	1	0.86	6	prefix	সমুন্দ	sh o m u nd o r	0	0
+ভাশ্যে	1	1.00	6	prefix	ভাশ্যের	bh a sh sh e	1	1
+পংকিল	1	0.60	3	prefix	পংকা	p O ng k i l	1	1
+ঘশাঘশি	0	0.50	3	prefix	ঘশা	gh o sh a gh O sh i	1	0
+মন্টে	1	1.00	5	prefix	মন্টেনিগ্রো	m o n T e	1	1
+শুটকিতে	1	0.71	5	prefix	শুটকি	sh u T k i t e	1	0
+এসএসএল	1	1.00	6	prefix	এসএসএলের	e s e s e l	1	0
+আলোকস্বল্পতা	1	1.00	12	prefix	আলোকস্বল্পতার	a l O k sh o l p o t a	1	1
+অশেষ	1	0.75	3	suffix	বিনিঃশেশ	o sh e sh	1	1
+আয়োজনে	1	1.00	6	prefix	আয়োজনেই	a y O j o n e	1	1
+রাশ্ট্রভাশা	1	1.00	11	prefix	রাশ্ট্রভাশার	r a sh T r O bh a sh a	1	1
+পাচজনে	1	1.00	6	prefix	পাচজনের	p a ch j O n e	0	0
+মক	0	1.00	2	prefix	মকছুদ	m o k	1	1
+সাবস্ক্রাইব	1	0.73	8	prefix	সাবস্ক্রিপশন	s a b s kr a i b	0	0
+রোজদার	1	0.67	4	suffix	সিজদার	r O j d a r	1	1
+জলি	1	1.00	3	prefix	জলিকে	j o l i	0	0
+উজান	1	1.00	4	prefix	উজানচর	u j a n	1	1
+লোয়াজিমা	1	0.75	6	suffix	নওয়াজিমা	l O y a j i m a	1	1
+রাসিকের	1	0.86	6	suffix	ক্ল্যাসিকের	r a sh i k e r	1	1
+বন্ধুপরায়ন	1	0.60	6	prefix	বন্ধুপ্রতিম	b O ndh u p o r a y o n	1	1
+হলুদে	1	1.00	5	prefix	হলুদের	h O l u d e	1	1
+হেঁটেছি	0	0.57	4	suffix	ছুটেছি	h e~ T e chh i	1	1
+এমপিথ্রি	0	0.50	4	prefix	এমপিকে	e m p i th r i	1	1
+গোকুল	1	1.00	5	prefix	গোকুলে	g O k u l	1	1
+পশ্চাত্তাপ	1	0.70	7	prefix	পশ্চাত্পদ	p o sh ch a tt a p	1	1
+কাকি	1	1.00	4	prefix	কাকিনা	k a k i	1	1
+অরুচি	1	1.00	5	prefix	অরুচিকর	o r u ch i	0	1
+রডিক	1	1.00	4	suffix	নরডিক	r o D i k	1	1
+গাদাগাদি	1	0.62	5	suffix	বয়রাগাদি	g a d a g a d i	1	1
+ঘানাইয়ান	1	0.62	5	suffix	রাইয়ান	gh a n a i y a n	1	1
+দাগহিন	1	1.00	6	prefix	দাগহিন	d a g h i n	1	1
+সাদিপুর	1	0.86	6	suffix	কাদিপুর	sh a d i p u r	1	0
+দোর	1	1.00	3	prefix	দোরগোড়ার	d O r	1	1
+সিএমও	1	0.80	4	prefix	সিএমএস	s i e m O	1	0
+পুরোটুকু	1	0.62	5	prefix	পুরোটায়	p u r O T u k u	1	1
+বাজেয়াপ্ত	1	1.00	9	prefix	বাজেয়াপ্তের	b a j e y a p t O	1	1
+ফতোয়াকে	1	0.71	5	prefix	ফতোয়া	ph o t O y a k e	1	1
+সুব্রতকে	1	0.75	6	prefix	সুব্রত	sh u br O t o k e	0	1
+সুন্দরবনে	1	1.00	9	prefix	সুন্দরবনের	sh u nd O r b o n e	1	1
+নেস্ত–নাবুদ	0	0.45	5	prefix	নেস্তা	n e st o n a b u d	1	0
+এদেরকে	1	0.83	5	suffix	তাঁদেরকে	e d e r k e	1	1
+কোম্পানিগুলি	1	0.92	11	prefix	কোম্পানিগুলো	k O mp a n i g u l i	1	1
+বহুলাংশেই	1	0.89	8	prefix	বহুলাংশে	b o h u l a ng sh e i	0	0
+ক্যালিস	1	1.00	7	prefix	ক্যালিসকে	k A l i s	1	1
+প্রত্যেকটিই	1	0.91	10	prefix	প্রত্যেকটি	pr O t t e k T i i	1	1
+চন্দনবাইশা	0	0.50	5	prefix	চন্দনপুরায়	ch o nd O n b a i sh a	1	1
+ক্যাডারকে	1	0.78	7	prefix	ক্যাডার	k A D a r k e	1	1
+আঘাতে	1	0.80	4	prefix	আঘাতও	a gh a t e	1	1
+মেরিলের	1	0.71	5	prefix	মেরিলিন	m e r i l e r	1	1
+বালু	1	1.00	4	prefix	বালুকনা	b a l u	1	1
+স্ব	1	1.00	3	prefix	স্বঃ	sh O	0	0
+পাড়াগায়ে	1	1.00	8	suffix	অজপাড়াগায়ে	p a r a g a y e	1	1
+সংস্কৃতি	1	1.00	8	prefix	সংস্কৃতিই	sh o ng s k ri t i	1	1
+স্নাতকেরা	1	0.89	8	prefix	স্নাতকের	sn a t o k e r a	0	1
+বাড়াবাড়ি	1	1.00	8	prefix	বাড়াবাড়িই	b a r a b a r i	1	1
+ঠাকুরগাও	1	1.00	8	prefix	ঠাকুরগাওয়ে	Th a k u r g a O	1	1
+সুমনই	1	0.80	4	prefix	সুমন	sh u m o n o i	0	0
+ডিস্টার্ব	0	0.56	5	prefix	ডিস্টিংশনসহ	D i sh T a r b	0	1
+মুগধ	1	0.75	3	prefix	মুগদায়	m u g dh o	1	0
+নলো	0	0.67	2	prefix	নলের	n o l O	1	1
+সেদিনও	1	0.83	5	prefix	সেদিনই	sh e d i n O	1	1
+চেশ্টাই	1	1.00	7	suffix	অপচেশ্টাই	ch e sh T a i	1	1
+রহিত	1	1.00	4	prefix	রহিতকরন	r O h i t O	1	1
+নিলসন	1	0.80	4	prefix	নিলস	n i l s o n	1	1
+অগো	1	1.00	3	prefix	অগোউন	o g O	1	1
+উদ্যোক্তা	1	1.00	9	prefix	উদ্যোক্তাই	u d d O kt a	1	1
+তাকসিন	1	0.83	5	prefix	তাকসিম	t a k sh i n	1	1
+ডিলাররাও	1	0.88	7	prefix	ডিলাররা	D i l a r r a O	1	1
+রোউপ্যময়	1	0.88	7	prefix	রোউপ্যমুল্যে	r O u p p O m o y	0	1
+ঘৃশ্ট	1	1.00	5	suffix	সংঘৃশ্ট	gh ri sh T O	1	1
+রং	0	1.00	2	prefix	রং তুলি	r o ng	1	1
+রাজুসহ	1	0.67	4	prefix	রাজুর	r a j u sh o h O	1	1
+শেবাগের	1	1.00	7	prefix	শেবাগেরই	sh e b a g e r	1	1
+মেছোবাঘ	1	0.71	5	prefix	মেছোবিড়াল	m e chh O b a gh	1	1
+কিংস	1	1.00	4	prefix	কিংসকে	k i ng s	1	1
+জুক্তিজুক্ত	0	0.55	6	prefix	জুক্তিগ্রাহ্য	j u kt i j u kt O	1	1
+তথ্যচিত্রটি	1	1.00	11	prefix	তথ্যচিত্রটির	t O t th O ch i tr O T i	0	0
+মাগান	1	0.80	4	prefix	মাগার	m a g a n	1	1
+বোলিংটাও	1	0.88	7	prefix	বোলিংটা	b O l i ng T a O	1	1
+আমানতের	1	0.86	6	prefix	আমানতে	a m a n O t e r	0	0
+এমএনএ	1	1.00	5	prefix	এমএনএস	e m e n e	1	1
+মুড়কির	1	0.83	5	prefix	মুড়কি	m u r k i r	1	1
+উপার্জনকারিদের	1	0.79	11	prefix	উপার্জনকারি	u p a r j o n k a r i d e r	1	1
+মাহেন্দ্রক্ষনের	1	0.93	14	prefix	মাহেন্দ্রক্শনে	m a h e ndr O k k o n e r	0	0
+মধ্যমে	1	1.00	6	prefix	মধ্যমেয়াদি	m O d dh o m e	0	0
+গার্ডে	1	1.00	6	prefix	গার্ডেন	g a r D e	1	1
+আর্মিদের	1	0.88	7	suffix	সমাজকর্মিদের	a r m i d e r	1	1
+শ্রেনিগত	1	1.00	8	prefix	শ্রেনিগত	s r e n i g o t O	1	1
+ক্ষমতায়নে	1	1.00	9	prefix	ক্শমতায়নের	kh o m O t a y O n e	0	1
+সুজিৎ	1	0.80	4	prefix	সুজির	sh u j i	0	0
+বাগ্মি	1	0.67	4	prefix	বাগ্ডম্বর	b i g m i	0	0
+মওরো	1	1.00	4	prefix	মওরোকে	m o O r O	1	1
+করুক	1	0.75	3	prefix	করুন	k O r u k	1	1
+জনশূন্য	1	1.00	7	prefix	জনশুন্য	j o n O sh u n n O	1	1
+ব্যবহারেই	1	0.89	8	prefix	ব্যবহারে	b A b O h a r e i	1	1
+বিনেয়	1	1.00	5	suffix	দুর্বিনেয়	b i n e y O	1	1
+চমকের	1	1.00	5	suffix	বিদ্যুচ্চমকের	ch o m O k e r	1	1
+মনোবৃত্তি	1	1.00	9	prefix	মনোবৃত্তির	m O n O b ri tt i	1	0
+ই-মেইলের	1	0.75	6	prefix	ই-মেইল	i m e i l e r	1	1
+ড্যাংগা	1	0.86	6	suffix	ব্যাংগা	D A ng g a	1	1
+অপশ্রুতি	1	0.75	6	suffix	জনশ্রুতি	o p O s r u t i	1	1
+কাউন্ট	1	1.00	6	prefix	কাউন্টডাউন	k a u n T	1	1
+স্বস্তি	1	1.00	7	prefix	স্বস্তিই	sh O st i	1	1
+ছেনোরা	1	1.00	6	prefix	ছেনোরার	chh e n O r a	1	1
+নাইকোর	1	0.83	5	prefix	নাইকোকে	n a i k O r	1	1
+বাত্সরিক	0	0.50	4	prefix	বাত্রা	b a t sh o r i k	0	0
+দলের	1	1.00	4	prefix	দলেরই	d O l e r	0	0
+হামার	1	1.00	5	prefix	হামারা	h a m a r	1	1
+দুজনই	1	0.80	4	prefix	দুজন	d u j O n i	0	0
+পরিকল্পনাও	1	1.00	10	suffix	কর্মপরিকল্পনাও	p O r i k o l p O n a O	1	1
+বসংকুল	1	0.83	5	suffix	সংকটসংকুল	b o sh o ng k u l	1	0
+ফ্লাইট	1	1.00	6	prefix	ফ্লাইটগুলো	ph l a i T	1	1
+কিনুন	1	0.60	3	prefix	কিনিয়া	k i n u n	1	1
+গানটাই	1	0.83	5	prefix	গানটা	g a n T a i	1	1
+তামদারি	0	0.57	4	suffix	দোকানদারি	t a m d a r i	1	1
+মুকাভিনয়	1	1.00	8	prefix	মুকাভিনয়কর্মিদের	m u k a bh i n o y	1	1
+নেউছয়	1	0.60	3	prefix	নেউগি	n e u chh o y	1	1
+মাতাতে	1	0.83	5	suffix	কলকাতাতে	m a t a t e	1	1
+শরবতে	1	1.00	5	prefix	শরবতের	sh o r b o t e	1	1
+খাবারের	1	1.00	7	suffix	জলখাবারের	kh a b a r e r	1	1
+ত্রাবুলাস	0	0.44	4	prefix	ত্রানের	tr a b u l a sh	1	1
+দাতে	1	1.00	4	prefix	দাতেও	d a t e	1	1
+হায়ন	1	1.00	4	suffix	অগ্রহায়ন	h a y O n	1	1
+দো	0	1.00	2	prefix	দোআশ	d O	1	1
+ভিয়েনা	1	1.00	6	prefix	ভিয়েনার	bh i y e n a	1	1
+কুপনেও	1	0.83	5	prefix	কুপনে	k u p o n e O	1	1
+আব্দুর	1	0.83	5	prefix	আব্দুন	a b d u r	1	1
+দুলহান	1	1.00	6	prefix	দুলহানিয়া	d u l h a n	1	1
+কাপাকাপি	0	0.50	4	prefix	কাপাইকাপ	k a p a k a p i	1	1
+খর্বকারি	1	0.75	6	prefix	খর্বকায়	kh o r b O k a r i	1	1
+লুড়া	1	0.75	3	prefix	লুড়িআ	l u r a	1	1
+খাঁজে	1	0.80	4	prefix	খাঁজকাটা	kh a~ j e	1	1
+ওসিসহ	1	0.80	4	prefix	ওসিসি	O s i sh o h O	1	1
+ওরস্যালাইন	1	1.00	10	prefix	ওরস্যালাইনসহ	O r s A l a i n	1	0
+নিলাচলে	1	1.00	7	prefix	নিলাচলে	n i l a ch o l e	1	1
+বারটন	1	0.80	4	prefix	বারটা	b a r T o n	1	0
+মাসসহ	1	0.80	4	suffix	বিশ্বাসসহ	m a sh sh o h O	1	1
+কাস্টমার	1	1.00	8	prefix	কাস্টমারের	k a sh T O m a r	1	1
+লেবাননে	1	1.00	7	prefix	লেবাননের	l e b a n o n e	1	1
+ক্যাম্পাসগুলো	1	0.69	9	prefix	ক্যাম্পাসকে	k A mp a s g u l O	1	1
+মানেকা	1	0.83	5	prefix	মানেকশর	m a n e k a	1	1
+রাধাকান্ত	1	0.67	6	suffix	রমাকান্ত	r a dh a k a nt O	1	1
+বিধির	1	1.00	5	suffix	সংবিধির	b i dh i r	1	1
+ইংল্যান্ডকেই	1	0.92	11	prefix	ইংল্যান্ডকে	i ng l A n D k e i	1	1
+হৃদজন্ত্রের	1	0.82	9	prefix	হৃদজন্ত্র	r i d j o nt r e r	0	1
+ফেডারেশনে	1	0.89	8	prefix	ফেডারেশনসহ	ph e D a r e sh o n e	1	1
+বক্তব্যে	1	1.00	8	prefix	বক্তব্যেই	b o kt O b b e	1	1
+সুখানুভুতি	1	1.00	10	prefix	সুখানুভুতি	sh u kh a n u bh u t i	1	1
+ঘুর্নি	1	1.00	6	prefix	ঘুর্নিঝড়	gh u r n i	1	1
+টেম্পারিং	1	1.00	9	prefix	টেম্পারিংকে	T e mp a r i ng	1	1
+রোউরব	1	1.00	5	suffix	মহারোউরব	r O u r o b	1	1
+কমিউনিজমের	1	0.80	8	prefix	কমিউনিজম	k o m i u n i j o m e r	1	1
+নির্মানশিল্পে	1	1.00	13	prefix	নির্মানশিল্পের	n i r m a n sh i l p e	1	1
+চলচিত্র	1	0.86	6	suffix	তোইলচিত্র	ch o l O ch i tr O	0	0
+কন্ডোলিৎসা	1	0.60	6	prefix	কন্ডোল	k o n D O l i t s a	1	0
+অপঘাতে	1	1.00	6	prefix	অপঘাতের	o p O gh a t e	1	1
+ফুলকোর্টের	1	0.90	9	prefix	ফুলকোর্টে	ph u l k O r T e r	1	1
+বোইপ্লবিক	0	0.44	4	prefix	বোইপরিত্যের	b O i p l o b i k	1	0
+সুনাগরিকের	1	0.80	8	prefix	সুনাগরিক	sh u n a g o r i k e r	0	1
+মাস্টারপ্ল্যান	1	1.00	14	prefix	মাস্টারপ্ল্যানে	m a sh T a r p l A n	1	1
+পিজিএস	1	0.83	5	prefix	পিজিএ	p i j i e s	1	1
+চিলড্রেনের	1	0.80	8	prefix	চিলড্রেনস	ch i l D r e n e r	1	1
+ভিডিওচিত্রের	1	0.92	11	prefix	ভিডিওচিত্রেও	bh i D i O ch i tr e r	1	1
+বেপজা	1	1.00	5	prefix	বেপজার	b e p j a	1	1
+বারবেলা	1	0.71	5	prefix	বারবেতভ	b a r b A l a	0	0
+নিয়মানুগভাবে	0	0.58	7	prefix	নিয়মানুজায়ি	n i y o m a n u g bh a b e	1	1
+বাঘে	1	1.00	4	prefix	বাঘের	b a gh e	1	1
+জম্মু	1	0.80	4	suffix	আম্মু	j O mm u	1	0
+চাকসু	1	1.00	5	prefix	চাকসুর	ch a k sh u	1	1
+তাহমিদা	1	0.86	6	prefix	তাহমিদ	t a h m i d a	1	1
+কোশাধ্যক্ষের	1	0.83	10	prefix	কোশাধ্যক্শশহ	k O sh a dh dh o kkh e r	0	1
+মিঠাই	1	1.00	5	prefix	মিঠাইয়ের	m i Th a i	1	1
+বাসটি	1	1.00	5	prefix	বাসটিও	b a s T i	1	1
+কর্মসংস্থানে	1	1.00	12	prefix	কর্মসংস্থানের	k o r m O sh o ng sth a n e	1	1
+দিতির	1	1.00	5	suffix	অদিতির	d i t i r	1	1
+স্টেটঅয়েল	0	0.56	5	prefix	স্টেট	s T e T o y e l	1	0
+সাফল্যই	1	0.86	6	prefix	সাফল্য	sh a ph O l l O i	1	1
+উন্মোচিত	1	0.75	6	prefix	উন্মোচন	u n m O ch i t O	1	1
+কলম্বিয়ান	1	0.89	8	prefix	কলম্বিয়াকে	k o l o mb i y a n	1	1
+খোলাসা	1	0.67	4	prefix	খোলাশহ	kh O l a sh a	1	1
+শইল	1	1.00	3	prefix	শইলকুপার	sh O i l O	1	0
+পত্রে	1	1.00	5	prefix	পত্রের	p o tr e	1	1
+ভুমিকারও	1	0.88	7	prefix	ভুমিকার	bh u m i k a r O	1	1
+ওইভাবে	1	1.00	6	prefix	ওইভাবেই	O i bh a b e	1	1
+বিহংগ	1	1.00	5	prefix	বিহংগের	b i h o ng g o	0	0
+জন্মই	1	1.00	5	suffix	প্রজন্মই	j o n m O i	1	1
+স্মৃতিস্তম্ভের	1	0.93	13	prefix	স্মৃতিস্তম্ভে	s ri t i st o m bh e r	1	1
+ওবুইয়া	1	0.83	5	suffix	শিবুইয়া	O b u i y a	1	1
+গংগারামমুখের	1	0.92	11	prefix	গংগারামমুখে	g o ng g a r a m m u kh e r	1	1
+শোকপ্রস্তাবটি	1	0.85	11	prefix	শোকপ্রস্তাব	sh O k o pr O st a b T i	0	0
+ড্রইংরুমে	1	1.00	9	prefix	ড্রইংরুমের	D r O i ng r u m e	1	1
+উপকুলরক্ষি	0	0.50	5	prefix	উপকুলবাসির	u p O k u l r O kkh i	1	1
+অতুলের	1	0.83	5	suffix	প্রতুলের	O t u l e r	1	1
+এনিমেটেড	1	0.62	5	prefix	এনিমে	e n i m e T e D	1	1
+চোরানো	1	0.83	5	suffix	ঘোরানো	ch O r a n O	1	1
+ডবলা	1	0.75	3	prefix	ডবলমুরিং	D o b o l a	0	0
+পুর্বপাশে	1	1.00	9	prefix	পুর্বপাশে	p u r b O p a sh e	1	1
+ওরোপ	1	0.75	3	prefix	ওরোকজাইয়ে	O r O p	1	1
+কাড়ানো	1	0.83	5	suffix	ছাড়ানো	k a r a n O	1	1
+দক্ষিণপূর্ব	1	1.00	11	prefix	দক্শিনপুর্ব	d O kkh i n p u r b O	1	0
+দ্রুতগতি	1	1.00	8	prefix	দ্রুতগতিতে	d r u t O g O t i	1	1
+সাইকেলজোগে	1	1.00	10	suffix	মোটরসাইকেলজোগে	s a i k e l j O g e	1	1
+শেয়ারেরই	1	0.88	7	prefix	শেয়ারের	sh e y a r e r i	1	1
+ফরম্যাটই	1	0.88	7	prefix	ফরম্যাট	ph o r m A T i	1	1
+রমণীদের	1	1.00	7	prefix	রমনিদের	r o m O n i d e r	1	1
+লেকে	1	1.00	4	prefix	লেকের	l e k e	1	1
+কথাটায়	1	0.83	5	prefix	কথাটার	k o th a T a y	1	1
+পুরশ্কৃত	1	1.00	8	prefix	পুরশ্কৃত	p u r O sh k ri t O	1	0
+লেজসহ	1	1.00	5	suffix	কলেজসহ	l e j sh o h O	1	1
+পরাশর	1	0.80	4	prefix	পরাশক্তিরা	p o r a sh o r	1	1
+লঘিমা	1	0.80	4	suffix	দ্রাঘিমা	l O gh i m a	1	1
+চাহ	1	1.00	3	prefix	চাহন	ch a h	1	1
+বলটাই	1	0.80	4	prefix	বলটা	b o l T a i	1	1
+কুরুনি	1	0.67	4	prefix	কুরুচিপুর্ন	k u r u n i	1	1
+ফালকোর	1	0.67	4	prefix	ফালকে	ph a l k O r o	0	0
+জুদ্ধাপরাধবিশয়ক	1	0.80	12	prefix	জুদ্ধাপরাধবিরোধি	j u d dh O p o r a dh b i sh o y O k	1	0
+উড্ডয়নক্ষম	1	0.70	7	prefix	উড্ডয়নকালে	u D D o y o n kh o m O	0	0
+তালিকাটিও	1	0.89	8	prefix	তালিকাটি	t a l i k a T i O	1	1
+গ্রেফতারকৃতদের	1	0.79	11	prefix	গ্রেফতারকৃত	gr e ph t a r k ri t O d e r	1	1
+সমুৎসুক	1	0.71	5	suffix	অনুৎসুক	sh O m u t sh u k	1	0
+প্রানশক্তি	1	1.00	10	prefix	প্রানশক্তিকে	pr a n sh O kt i	1	1
+অম্বিকেশ	1	0.75	6	prefix	অম্বিকাপুর	O mb i k e sh	1	1
+দিদিকে	1	0.83	5	suffix	ফরিদিকে	d i d i k e	1	1
+ইংগিতবহ	1	0.86	6	prefix	ইংগিতবাহি	i ng g i t b o h	0	0
+খরচসাপেক্ষ	1	0.70	7	suffix	সাপেক্শ	kh o r O ch sh a p e kkh O	1	1
+প্রতিশোধের	1	0.90	9	prefix	প্রতিশোধে	pr O t i sh O dh e r	1	1
+শেবাগিয়	1	0.71	5	prefix	শেবাগকে	sh e b a g i y O	1	1
+সিইউএস	1	1.00	6	prefix	সিইউএসের	s i i u e s	1	0
+জর্জিয়া	1	1.00	7	prefix	জর্জিয়ার	j o r j i y a	1	1
+জন্ত্রই	1	1.00	7	suffix	শড়জন্ত্রই	j o n t r O i	1	1
+ভেংগসরকার	0	0.56	5	suffix	সরকার	bh e ng g o s o r k a r	0	0
+রাঁচি	1	0.80	4	suffix	পাঁচি	r a~ ch i	1	1
+শাংন	1	0.75	3	prefix	শাংকর	sh a ng O n	0	0
+এইজন্যে	1	0.86	6	prefix	এইজন্য	e i j O n n O e	0	0
+দপদপিয়া	0	0.57	4	prefix	দপদপ	d o p d o p i y a	1	0
+ফটোশপের	1	0.86	6	prefix	ফটোশপে	ph o T O sh o p e r	1	1
+ভিডিপি	1	1.00	6	prefix	ভিডিপির	bh i D i p i	1	1
+সেনাকর্তাদের	1	0.75	9	prefix	সেনাকর্তারা	sh e n a k r t a d e r	0	0
+হেক্টরে	1	0.86	6	prefix	হেক্টরপ্রতি	h e k T o r e	0	0
+তারবার্তাটির	1	0.92	11	prefix	তারবার্তাটিতে	t a r b a r t a T i r	1	1
+ডগায়	1	0.75	3	prefix	ডগার	D o g a y	1	1
+বিরতির	1	1.00	6	suffix	জুদ্ধবিরতির	b i r O t i r	1	0
+মন্ত্রীসভা	1	1.00	10	prefix	মন্ত্রিসভা	m O n t r i sh o bh a	1	1
+পন্ডস	1	0.80	4	prefix	পন্ডশ্রম	p o n D s	1	1
+পুনর্বিবেচনায়	1	0.92	12	prefix	পুনর্বিবেচনারও	p u n o r b i b e ch o n a y	1	1
+জনস্বাস্থ্যের	1	0.92	12	prefix	জনস্বাস্থ্যে	j o n O sh a s th e r	1	0
+মাইক্রোর	1	0.88	7	prefix	মাইক্রোম্যাক্সের	m a i kr O r	1	1
+ঠিকমতোই	1	0.86	6	prefix	ঠিকমতো	Th i k m o t O i	1	1
+থানে	1	1.00	4	suffix	গোয়ালবাথানে	th a n e	1	1
+প্যারাবনে	1	1.00	9	prefix	প্যারাবনের	p A r a b o n	0	0
+ধইঞ্চা	1	0.67	4	suffix	বঞ্চা	dh o i nch a	0	0
+ইউএনওসহ	1	0.71	5	prefix	ইউএনওরা	i u e n O sh o h O	1	1
+রাসায়নিক	1	1.00	8	prefix	রাসায়নিক পদার্থ সাবধানে ব্যবহার করতে হয়।	r a sh a y O n i k	0	0
+রংগমাতন	0	0.57	4	prefix	রংগমঞ্চে	r o ng g o m a t o n	0	0
+সমাসবদ্ধ	0	0.50	4	prefix	সমাসন্ন	sh o m a sh b o d dh O	1	1
+মশারিতে	1	0.71	5	prefix	মশারি	m o sh a r i t e	1	1
+জেতান	1	0.80	4	prefix	জেতাম	j e t a n	1	1
+পকেটমারকে	1	0.78	7	prefix	পকেটমার	p o k e T m a r k e	1	1
+ইমামুর	1	0.83	5	prefix	ইমামুজ্জামানের	i m a m u r	1	1
+রক্তচাপ	1	1.00	7	prefix	রক্তচাপও	r o kt O ch a p	1	1
+এলানো	1	1.00	5	prefix	এলানোর	e l a n O	1	1
+প্রক্রিয়াটা	1	1.00	11	prefix	প্রক্রিয়াটাই	pr O kr i y a T a	1	1
+লিখছিলেন	1	0.75	6	prefix	লিখছিল	l i kh chh i l e n	1	1
+ছয়বারের	1	0.86	6	suffix	নয়বারের	chh o y b a r e r	1	1
+পাপুল	1	0.80	4	prefix	পাপুয়া	p a p u l	1	1
+ট্যাক্সে	1	1.00	8	prefix	ট্যাক্সের	T A k s e	1	1
+সম্মিলনে	1	1.00	8	prefix	সম্মিলনের	sh o mm i l o n e	1	1
+ভেদ	1	1.00	3	prefix	ভেদবমি	bh e d	1	1
+ভেসেছেন	1	0.86	6	prefix	ভেসেছে	bh e sh e chh e n	1	1
+ফাহিমার	1	0.86	6	prefix	ফাহিমা	ph a h i m a r	1	1
+বিএনপিরই	1	0.88	7	prefix	বিএনপির	b i e n p i p i r i	0	0
+ভিত্তিপ্রস্তর	1	1.00	13	prefix	ভিত্তিপ্রস্তরের	bh i tt i pr O st o r	1	1
+ব্যক্তিকে	1	1.00	9	prefix	ব্যক্তিকেই	b e kt i k e	1	1
+সাড়	1	1.00	3	prefix	সাড়ম্বরেই	sh a r	1	1
+নামছি	1	1.00	5	prefix	নামছিল	n a m chh i	1	1
+উপরের	1	0.80	4	prefix	উপরেজিস্ট্রার	u p O r e r	1	1
+মমর	0	0.67	2	prefix	মমত্ববোধের	m o m O r	1	1
+মারমাদের	1	0.62	5	prefix	মারমাকে	m a r m a d e r	1	1
+মননশিল	1	1.00	6	prefix	মননশিলতা	m o n O n sh i l	1	1
+প্রানিই	1	0.86	6	prefix	প্রানি	pr a n i i	1	1
+ভুলি	1	1.00	4	prefix	ভুলিতে	bh u l i	1	1
+দুশ্কৃতকারিদের	1	1.00	14	prefix	দুশ্কৃতকারিদের	d u sh k ri t O k a r i d e r	1	1
+পোশাককর্মিদের	1	0.77	10	prefix	পোশাককর্মি	p O sh a k k O r m i d e r	1	1
+মিললো	1	0.80	4	prefix	মিললেও	m i l l O	1	1
+অন্তহীন	1	1.00	7	prefix	অন্তহিন	o nt O h i n	1	1
+অবিকলভাবে	0	0.56	5	prefix	অবিকল	O b i k o l bh a b e	1	1
+সরপুরিয়া	1	0.75	6	suffix	পুরিয়া	sh o r p u r i y a	1	1
+স্পিকারকে	1	0.78	7	prefix	স্পিকারই	s p i k a r k e	1	0
+উসুখুসু	0	0.43	3	prefix	উসুল	u sh u kh u sh u	1	1
+আপীলের	1	0.83	5	suffix	পিলের	a p i l e r	1	1
+বাক্সগুলো	1	0.67	6	suffix	লাইসেন্সগুলো	b a k s o g u l O	0	1
+বিকো	1	1.00	4	prefix	বিকোচ্ছে	b i k O	1	1
+দোস	1	1.00	3	prefix	দোসর	d O sh	1	1
+উঠেছিল	1	1.00	6	prefix	উঠেছিলেন	u Th e chh i l O	1	1
+সাইদুলকে	1	0.75	6	prefix	সাইদুল	sh a i d u l k e	1	1
+কমা	1	1.00	3	prefix	কমাই	k o m a	1	0
+প্রভোস্টরা	1	0.80	8	prefix	প্রভোস্টদের	pr O bh O sh T r a	1	1
+লিকামভা	0	0.57	4	prefix	লিকার	l i k a m o bh a	0	0
+কেটারিংয়ের	1	0.80	8	suffix	সাটারিংয়ের	k e T a r i ng y e r	1	1
+নওপোউড়	0	0.50	3	prefix	নওপাড়া	n o O p O u r o	0	0
+নির্মাতাপ্রতিশ্ঠানের	1	0.90	18	prefix	নির্মাতাপ্রতিশ্ঠানকে	n i r m a t a pr O t i sh Th a n e r	1	1
+ভোটারসংখ্যা	1	1.00	11	prefix	ভোটারসংখ্যার	bh O T a r sh o ng kh a	1	1
+লক্ষ্যস্থলে	1	1.00	11	prefix	লক্শ্যস্থলের	l o kkh o sth o l e	1	1
+মাটো	1	0.75	3	prefix	মাটিয়ান	m a T O	1	1
+চেস্টারটন	1	0.78	7	prefix	চেস্টার	ch e sh T a r T O n	0	0
+গালিব	1	1.00	5	prefix	গালিবকে	g a l i b	1	0
+পরিচ্ছেদে	1	1.00	9	prefix	পরিচ্ছেদের	p O r i ch chh e d e	1	1
+কনভারসন	1	0.71	5	prefix	কনভারশন	k o n bh a r s o n	1	0
+জথশ্টে	1	0.67	4	suffix	অতিকশ্টে	j o th o sh T e	0	0
+প্রোটোকল	1	1.00	8	prefix	প্রোটোকলের	pr O T O k o l	1	1
+মনসুন	1	0.80	4	prefix	মনসুখ	m o n s u n	0	0
+ধারনাগুলো	1	0.78	7	suffix	জন্ত্রনাগুলো	dh a r O n a g u l O	0	1
+ওটেলিনি	1	0.71	5	suffix	খেলিনি	O T e l i n i	1	1
+চিনিকলে	1	1.00	7	prefix	চিনিকলের	ch i n i k o l e	1	1
+উপকরনে	1	1.00	6	prefix	উপকরনের	u p O k o r O n e	1	1
+অধিনায়ককে	1	1.00	9	prefix	অধিনায়ককেই	O dh i n a y O k k e	1	1
+পুরোবর্তি	0	0.56	5	suffix	কালানুবর্তি	p u r O b O r t i	1	1
+দেবিগঞ্জ	1	1.00	8	prefix	দেবিগঞ্জের	d e b i g o nj	1	0
+ঘাম	1	1.00	3	prefix	ঘামছেন	gh a m	1	1
+বাসগুলো	1	1.00	7	prefix	বাসগুলোও	b a s g u l O	1	1
+কর্মকর্তারই	1	0.91	10	prefix	কর্মকর্তার	k o r m O k o r t a r i	1	1
+ওউপমিক	1	0.67	4	prefix	ওউপম্য	O u p o m i k	0	0
+বরুড়া	1	1.00	5	prefix	বরুড়ায়	b o r u r a	0	1
+পদুয়ার	1	0.83	5	prefix	পদুয়া	p o d u y a r	1	1
+কারিদের	1	1.00	7	suffix	ছিনতাইকারিদের	k a r i d e r	1	1
+বিরুদ্ধতা	1	1.00	9	prefix	বিরুদ্ধতার	b i r u d dh o t a	1	1
+পুশ্পিকা	1	0.75	6	prefix	পুশ্পিত	p u sh p i k a	1	1
+ক্রিয়াপদের	1	0.80	8	prefix	ক্রিয়াপদ	k ri y a p o d e r	1	0
+বন্ধ্যাকরন	1	0.70	7	prefix	বন্ধ্যা	b o n dh a k o r O n	1	1
+রুমা	1	1.00	4	prefix	রুমাকে	r u m a	1	1
+ফলোদয়	1	0.60	3	prefix	ফলোআপের	ph o l O d o y	1	1
+তোরন	1	1.00	4	prefix	তোরনটি	t O r o n	0	0
+লেভেলে	1	1.00	6	prefix	লেভেলের	l e bh e l e	1	1
+বেড়ার	1	0.80	4	prefix	বেড়াব	b e r a r	1	1
+পথনাট্যোৎসব	1	0.82	9	suffix	নাট্যোৎসব	p o th o n a T T O t sh o b	1	1
+অর্থিত	1	0.83	5	prefix	অর্থিক	O r th i t O	1	1
+নিদারুন	1	1.00	7	prefix	নিদারুন	n i d a r u n	1	1
+সর্বসাকল্যে	1	0.64	7	prefix	সর্বসাকুল্যে	sh o r b O sh a k O l l e	1	1
+উত্	1	1.00	3	prefix	উত্কট	u t	1	1
+ভ্যালু	1	1.00	6	prefix	ভ্যালুজ	bh A l u	1	1
+ভাশাশিক্ষা	1	0.70	7	suffix	বিদ্যাশিক্শা	bh a sh a sh i kkh a	1	1
+শিশুপ্রহর	0	0.56	5	prefix	শিশুপুত্রের	sh i sh u pr O h O r	0	0
+প্যারালাইসিসে	1	0.92	12	prefix	প্যারালাইসিস	p A r a l a i s i s e	1	1
+মাদ্রাসাশিক্ষা	1	1.00	14	prefix	মাদ্রাসাশিক্শাকে	m a d r a sh a sh i kkh a	1	1
+এনক্রিপটেড	1	0.70	7	prefix	এনক্রিপশন	e n kr i p T e D	1	0
+তরক	1	1.00	3	prefix	তরকারি	t o r k	0	0
+বেলারুশের	1	0.78	7	prefix	বেলারুশ	b e l a r u sh e r	1	1
+বিমাসহ	1	0.83	5	prefix	বিমাসংক্রান্ত	b i m a sh o h O	1	1
+নাউ	1	1.00	3	prefix	নাউমি	n a u	1	1
+নাইটে	1	1.00	5	prefix	নাইটের	n a i T e	1	1
+ওলামার	1	1.00	6	prefix	ওলামারা	O l a m a r	1	1
+গুম্ফা	1	0.83	5	prefix	গুম্ফন	g u m ph a	1	1
+বর্নবোইশম্যের	1	0.85	11	prefix	বর্নবোইশম্য	b o r n O b O i sh o m m e r	1	1
+অভিশেকই	1	0.86	6	prefix	অভিশেক	O bh i sh e k i	1	1
+ব্লোয়ার	1	0.71	5	prefix	ব্লোয়িং	bl O y a r	1	1
+চিরাগ	1	1.00	5	prefix	চিরাগত	ch i r a g	1	1
+গৃহ্য	1	0.60	3	prefix	গৃহের	g r i j jh O	0	1
+মাংসের	1	1.00	6	suffix	রক্তমাংসের	m a ng sh e r	1	1
+হেডলাইন	1	0.86	6	prefix	হেডলাইট	h e D l a i n	1	1
+প্রার্থিরই	1	0.90	9	prefix	প্রার্থির	pr a r th i r i	1	1
+সিলিমপুর	1	0.75	6	suffix	তালিমপুর	sh i l i m p u r	1	0
+ধ্যানমগ্ন	0	0.56	5	prefix	ধ্যানধারনার	dh A n m o g n O	1	1
+চড়লেন	1	0.80	4	prefix	চড়লে	ch o r l e n	1	1
+করিয়াছিল	1	1.00	8	prefix	করিয়াছিলাম	k O r i y a chh i l o	1	0
+একাত্তরকে	1	0.78	7	prefix	একাত্তর	E k a tt O r k e	1	1
+জুক্তিগুলো	1	1.00	10	prefix	জুক্তিগুলোর	j u kt i g u l O	1	1
+বাইসনের	0	0.57	4	prefix	বাইস	b a i s o n e r	1	1
+লিওনার্দোর	1	0.90	9	prefix	লিওনার্দো	l i O n a r d O r	1	1
+গিনেথ	1	0.80	4	prefix	গিনেস	g i n e th	1	1
+আহাম্মকি	1	1.00	8	prefix	আহাম্মকির	a h a mm o k i	1	1
+বিশয়গুলো	1	1.00	8	prefix	বিশয়গুলোই	b i sh o y g u l O	1	1
+শরণার্থী	1	1.00	8	prefix	শরনার্থি	sh o r O n a r th i	1	1
+কুদ্দুসশহ	1	0.78	7	prefix	কুদ্দুসকে	k u d d u s sh o h o	0	0
+মৃতদেহটি	1	0.88	7	prefix	মৃতদেহটা	m ri t O d e h O T i	1	1
+কালোবাজারি	1	1.00	10	prefix	কালোবাজারি	k a l O b a j a r i	1	1
+মকরাকর	0	0.50	3	prefix	মকরররি	m o k r a k o r	1	1
+রেকর্ডের	1	1.00	8	suffix	বিশ্বরেকর্ডের	r e k o r D e r	1	1
+ধর্মঘটে	1	1.00	7	prefix	ধর্মঘটের	dh o r m O gh o T e	1	1
+সুবিন্যাস	1	0.78	7	prefix	সুবিন্যস্ত	sh u b i n A sh	0	0
+বিজ্ঞানিও	1	0.89	8	prefix	বিজ্ঞানি	b i g g a n i O	1	1
+একাউন্টিং	1	0.78	7	prefix	একাউন্ট	e k a u n T i ng	1	1
+গোধূলির	1	1.00	7	prefix	গোধুলির	g O dh u l i r	1	1
+বইয়ের	1	1.00	5	prefix	বইয়েরই	b O i e r	0	0
+নভেম্বরেই	1	0.89	8	prefix	নভেম্বরের	n o bh e mb o r e i	1	1
+রোবেন	1	1.00	5	prefix	রোবেনকে	r O b e n	1	1
+সনদকে	1	0.60	3	prefix	সনদও	sh o n o d k e	0	0
+শিশুদেরই	1	0.88	7	prefix	শিশুদের	sh i sh u d e r i	1	1
+গির্ধড়	1	0.67	4	prefix	গির্দেবি	g i r dh o r	1	1
+সাদাসিধা	1	0.88	7	prefix	সাদাসিধে	sh a d a sh i dh a	1	1
+অবগতির	1	0.83	5	prefix	অবগতি	o b O g o t i r	1	0
+কিন্না	1	0.83	5	prefix	কিন্নর	k i nn a	1	1
+মিয়ানমারেও	1	0.90	9	prefix	মিয়ানমারে	m i y a n m a r e O	1	1
+স্বচ্ছলতার	1	0.90	9	prefix	স্বচ্ছলতা	sh o ch chh O l o t a r	0	0
+বাটদান	1	0.67	4	prefix	বাটদের	b a T d a n	1	1
+উপজেলাসহ	1	0.75	6	prefix	উপজেলার	u p O j e l a sh o h O	1	1
+মাইক্রোস্কোপ	1	1.00	12	prefix	মাইক্রোস্কোপের	m a i kr O sh k O p	1	1
+উপেন্দ্রকিশোর	1	0.62	8	prefix	উপেন্দ্র	u p e ndr O k i sh O r	1	1
+জো–হুমুমের	0	0.40	4	suffix	বিরভুমের	j O h u k u m e r d o l	0	0
+প্রশাসককে	1	0.78	7	prefix	প্রশাসকও	pr O sh a sh o k k e	1	1
+দুখ	1	1.00	3	prefix	দুখানা	d u kh	1	1
+রাশ্ট্রনিতির	1	1.00	12	suffix	পররাশ্ট্রনিতির	r a sh T r O n i t i r	1	1
+বক্তব্যগুলো	1	0.82	9	suffix	মন্তব্যগুলো	b o kt O b b O g u l O	1	1
+এগোলে	1	1.00	5	prefix	এগোলেই	e g O l e	1	1
+রাজসিংহাসনের	1	0.83	10	prefix	রাজসিংহাসন	r a j sh i ng h a sh o n e r	1	1
+মধ্য	1	1.00	4	prefix	মধ্যকর্নে	m O d dh O	1	0
+বায়আত	1	0.60	3	prefix	বায়	b a y a t	1	1
+খামে	1	1.00	4	prefix	খামেনি	kh a m e	1	1
+প্রাইমার	1	1.00	8	prefix	প্রাইমারি	pr a i m a r	1	1
+উপকমিটিতে	1	0.78	7	prefix	উপকমিটিগুলোকে	u p O k o m i T i t e	1	1
+লাংগলবন্দে	1	1.00	10	prefix	লাংগলবন্দের	l a ng g o l b o nd e	1	1
+অংশীদারত্ব	1	1.00	10	prefix	অংশিদারত্ব	O ng sh i d a r O tt O	1	1
+কাজেকর্মে	0	0.56	5	suffix	ক্রিয়াকর্মে	k a j e k o r m e	1	1
+ম্যাচটিকে	1	1.00	9	prefix	ম্যাচটিকেই	m A ch T i k e	1	1
+উন্মুক্তকরন	1	0.73	8	prefix	উন্মুক্ত	u n m u kt o k o r O n	1	0
+দ্বিতিয়ার্ধেই	1	0.92	12	prefix	দ্বিতিয়ার্ধে	d i t i y a r dh e i	1	1
+বিতরনব্যবস্থা	1	1.00	13	prefix	বিতরনব্যবস্থার	b i t o r o n b A b O sth a	1	1
+প্রচার	1	1.00	6	prefix	প্রচারই	pr O ch a r	1	1
+তইরিতে	1	1.00	6	prefix	তইরিতেই	t O i r i t e	1	1
+ইংলাক	1	1.00	5	prefix	ইংলাককে	i ng l a k	1	1
+লুসিওর	1	0.67	4	prefix	লুসিই	l u sh i O r	1	1
+খেয়া	1	1.00	4	prefix	খেয়াঘাট	kh e y a	1	0
+অনুমানিক	1	0.75	6	prefix	অনুমানভিত্তিক	O n u m a n i k	1	1
+ইয়াউন্ডি	0	0.50	4	suffix	উইন্ডি	i a u n D i	0	0
+বিবাদিদের	1	0.89	8	suffix	জংগিবাদিদের	b i b a d i d e r	1	1
+তিনের	1	1.00	5	suffix	জতিনের	t i n e r	1	1
+অপমানে	1	1.00	6	prefix	অপমানের	o p O m a n e	1	1
+প্যাশন	1	0.83	5	suffix	ন্যাশন	p A sh o n	1	1
+মনোরমা	1	0.83	5	prefix	মনোরম	m O n O r o m a	1	0
+ইওয়ামি	1	0.83	5	suffix	অওয়ামি	i O y a m i	1	1
+ভাসিয়েছেন	1	0.89	8	prefix	ভাসিয়েছে	bh a sh i y e chh e n	1	1
+ছিটকেই	1	0.83	5	prefix	ছিটকে	chh i T k e i	1	1
+সাইট্রেট	1	0.88	7	suffix	নাইট্রেট	s a i T r e T	1	1
+অমৃতা	1	1.00	5	prefix	অমৃতার	o m r i t a	0	0
+রেজিস্টারি	1	1.00	10	prefix	রেজিস্টারিং	r e j i sh T a r i	1	1
+মর্তুজার	1	0.88	7	prefix	মর্তুজাকে	m O r t u j a r	1	1
+পাতানো	1	1.00	6	prefix	পাতানোর	p a t a n O	1	1
+ইকোনোমিস্ট	1	0.70	7	prefix	ইকোনোমিক	i k O n O m i s T	1	1
+গোলোক	1	0.80	4	suffix	অধোলোক	g O l o k	0	0
+কেবট	1	0.75	3	prefix	কেবল	k e b o T	1	1
+বুশেহর	1	0.67	4	prefix	বুশের	b u sh e h o r	1	1
+কবিতাতেই	1	0.88	7	prefix	কবিতাতে	k O b i t a t e i	1	1
+মনোরাজ্য	1	0.62	5	suffix	রামরাজ্য	m O n O r a j j O	1	0
+ফ্লাইটে	1	1.00	7	prefix	ফ্লাইটেই	ph l a i T e	1	1
+ক্রিড়াজজ্ঞের	0	0.58	7	prefix	ক্রিড়াজগতের	k ri r a j o g g e r	1	1
+উপাচার্যপন্থি	1	0.62	8	prefix	উপাচার্যদের	u p a ch a r j o p O n th i	0	0
+রিন	1	1.00	3	prefix	রিনই	r i n	1	1
+ছোটপর্দা	1	0.62	5	suffix	জানালার পর্দা	chh O T O p o r d a	1	0
+বিমানবাহিনিও	1	0.92	11	prefix	বিমানবাহিনি	b i m a n b a h i n i O	1	1
+পন্থী	1	1.00	5	prefix	পন্থি	p O n th i	1	1
+মানববিহীন	1	1.00	9	prefix	মানববিহিন	m a n O b b i h i n	1	1
+বিশ্বযুদ্ধের	0	0.58	7	suffix	যুদ্ধের	b i sh sh O j u d dh e r	1	0
+এভিএন	1	0.80	4	suffix	এনভিভিএন	e bh i e n	1	1
+অভিজ্ঞতাসম্পন্ন	1	0.67	10	prefix	অভিজ্ঞতাসমৃদ্ধ	O bh i g g O t a sh o mp O nn O	0	0
+নিখাত	1	0.80	4	prefix	নিখাদ	n i kh a t	1	1
+তার দৃষ্টি অনেক তীক্ষ্ণ।	0	0.17	4	prefix	তার চাকরি হারানোর ভয় আছে।	t a r | d ri shT i | o n e k | t i k h n O	0	0
+ডিভাইডারের	1	0.80	8	prefix	ডিভাইডার	D i bh a i D a r e r	1	1
+উদ্দেশ্যেও	1	0.90	9	prefix	উদ্দেশ্যেই	u d d e sh sh e O	1	1
+গালফ	1	0.75	3	prefix	গালন	g a l ph	1	0
+ইতিহাসসমৃদ্ধ	1	0.67	8	suffix	গ্যাসসমৃদ্ধ	i t i h a sh sh o m r i d dh O	1	1
+মকরের	1	0.80	4	suffix	আবুবকরের	m o k O r e r	1	1
+প্রচারনাবিশয়ক	1	0.62	8	prefix	প্রচারনাকে	pr O ch a r o n a b i sh o y O k	1	0
+শজিনার	1	0.83	5	prefix	শজিনাগুলো	sh o j i n a r	1	1
+গহন	1	1.00	3	prefix	গহনা	g o h O n	1	1
+জাচ্ঞা	1	0.67	4	prefix	জাচ্ছো	j a ch n a	0	0
+এমআরএর	1	0.83	5	prefix	এমআরএ	e m a r e r	1	1
+তাহেরসহ	1	0.71	5	prefix	তাহেরপুর	t a h e r sh o h O	1	1
+ইফতি	1	1.00	4	prefix	ইফতিখার	i ph t i	1	1
+ভোইরবে	1	1.00	6	prefix	ভোইরবের	bh O i r o b e	1	1
+ব্রাজিলিয়ান	1	1.00	11	prefix	ব্রাজিলিয়ানরা	br a j i l i a n	0	0
+জানবাহনসহ	1	0.78	7	prefix	জানবাহনশুন্য	j a n b a h o n sh o h O	1	1
+এসপ্রেসো	1	0.62	5	suffix	চক্রেসো	e s pr e s O	1	1
+জন্মাধিকার	1	0.80	8	suffix	ধর্মাধিকার	j o n m a dh i k a r o	0	0
+উমারু	1	0.80	4	prefix	উমার	u m a r u	1	1
+কোর্সের	1	1.00	7	suffix	ডিসকোর্সের	k O r s e r	1	1
+চলটা	1	0.75	3	suffix	নকলটা	ch o l T a	1	1
+টুই	1	1.00	3	prefix	টুইংকল	T u i	1	1
+প্রত্যহ	1	0.86	6	prefix	প্রত্যর্পনের	pr O t t O h O	1	1
+দলিলপত্রের	1	0.90	9	prefix	দলিলপত্রে	d o l i l p o tr e r	1	1
+পক্স	1	0.75	3	prefix	পক্শ্ম	p o k s	1	1
+একফালি	1	0.67	4	prefix	একফাকে	E k ph a l i	1	1
+বেরিয়েছিলেন	1	0.82	9	prefix	বেরিয়েছিলাম	b e r i y e chh i l e n	1	1
+বদন	1	1.00	3	prefix	বদনা	b o d O n	1	1
+পার্বতি	1	1.00	7	prefix	পার্বতিপুর	p a r b O t i	1	1
+উর্দুকে	1	0.71	5	prefix	উর্দুই	u r d u k e	1	1
+উত্পিড়নের	1	0.67	6	suffix	নিপিড়নের	u t p i r o n e r	1	1
+আবৃত	1	1.00	4	prefix	আবৃতা	a b r i t O	1	0
+জামাই	1	1.00	5	suffix	বোনজামাই	j a m a i	1	1
+বেয়াই	1	0.80	4	prefix	বেয়াকুল	b e y a i	1	1
+বোইঠার	1	0.83	5	prefix	বোইঠা	b O i Th a r	1	1
+প্রতিপক্ষদের	1	0.75	9	prefix	প্রতিপক্শগন	pr O t i p o kkh O d e r	1	1
+চারটিরই	1	0.86	6	prefix	চারটির	ch a r T i r i	1	1
+ব্রতচারি	1	0.62	5	suffix	নিভৃতচারি	br O t ch a r i	0	0
+পয়োনিশ্কাশনসেবা	1	0.73	11	prefix	পয়োনিশ্কাশনব্যবস্থার	p o y O n i sh k a sh o n sh e b a	1	1
+মেহন	1	1.00	4	prefix	মেহনত	m e h O n	1	1
+ফারুকের	1	0.71	5	prefix	ফারুকুল	ph a r u k e r	1	1
+দুপর	1	1.00	4	prefix	দুপরে	d u p o r	1	1
+নিয়োগে	1	1.00	6	prefix	নিয়োগেই	n i y O g e	1	1
+চাতলাপুর	1	0.62	5	suffix	বদলাপুর	ch a t l a p u r	1	1
+সদালাপ	1	1.00	6	prefix	সদালাপি	sh o d a l a p	1	1
+আয়নাগুলো	1	0.88	7	suffix	গয়নাগুলো	a y n a g u l O	1	1
+মালের	1	1.00	5	suffix	আমালের	m a l e r	1	1
+প্রসাদ	1	1.00	6	prefix	প্রসাদকে	pr O sh a d	1	1
+দেহত্যাগ	1	0.75	6	suffix	গৃহত্যাগ	d e h O t A g	1	0
+নাইক্ষ্যংছড়ির	1	0.92	12	prefix	নাইক্শ্যংছড়ি	n a i kkh o ng chh o r i r	1	1
+কমিশনগুলোতে	1	0.82	9	prefix	কমিশনগুলোর	k o m i sh o n g u l O t e	1	1
+বারেন্দ্র	1	0.78	7	suffix	সমরেন্দ্র	b a r e ndr O	1	1
+খাদ্যমন্ত্রির	1	1.00	13	prefix	খাদ্যমন্ত্রির	kh a d d O m O n t r i r	1	0
+চড়াও	1	1.00	4	suffix	নড়াচড়াও	ch o r a O	1	1
+ধীরগতির	1	1.00	7	prefix	ধিরগতির	dh i r O g O t i r	0	0
+রইছে	1	0.75	3	prefix	রইছি	r O i sh e	0	0
+কোনাপাড়ার	1	0.89	8	prefix	কোনাপাড়া	k O n a p a r a r	1	1
+নয়নে	1	1.00	4	prefix	নয়নের	n o y o n e	0	0
+অফুরন্ত	1	0.71	5	suffix	পুরন্ত	O ph u r o nt O	1	0
+উত্তরাধিকারসুত্রে	1	0.65	11	prefix	উত্তরাধিকারকে	u tt O r a dh i k a r sh u tr e	1	1
+বিড়া	1	1.00	4	prefix	বিড়াল	b i r a	1	1
+মতামতসহ	1	0.71	5	prefix	মতামতকেই	m o t a m o t sh o h O	1	1
+জটিলতাও	1	0.86	6	prefix	জটিলতাই	j O T i l o t a O	0	0
+সেক্যুলারিজমের	1	0.86	12	prefix	সেক্যুলারিজম	s e k u l a r i j o m e r	1	1
+নিভা	1	0.75	3	prefix	নিভতে	n i bh a	1	1
+লজ্জাটা	1	0.71	5	prefix	লজ্জাজনকভাবে	l o j j a T a	1	1
+একমতও	1	0.80	4	prefix	একমত	E k m o t O	1	1
+জননন্দিত	1	0.75	6	suffix	দর্শকনন্দিত	j o n o n o nd i t O	1	0
+পরামর্শদাতা	1	1.00	11	prefix	পরামর্শদাতাদের	p o r a m o r sh O d a t a	0	1
+কির্ত্তিপাশা	0	0.58	7	suffix	কির্তিপাশা	k i r t i p a sh a	1	0
+কুঞ্চিত	1	0.86	6	prefix	কুঞ্চিকা	k u nch i t O	1	1
+মন্ত্রিমহোদয়কে	1	0.86	12	prefix	মন্ত্রিমহোদয়	m O nt ri m o h O d o y k e	1	0
+আবেদনপত্রও	1	0.90	9	prefix	আবেদনপত্র	a b e d O n p o tr O O	1	1
+ধর্মসেনা	1	0.62	5	prefix	ধর্মসাধনা	dh o r m O sh e n a	1	1
+শ্রিলংকান	1	1.00	9	prefix	শ্রিলংকান	s r i l o ng k a n	1	1
+স্পিনটা	1	0.71	5	prefix	স্পিনকেই	s p i n T a	1	0
+বানিতে	1	1.00	6	suffix	শোকবানিতে	b a n i t e	1	1
+ট্যাবলেটগুলোর	1	0.92	12	prefix	ট্যাবলেটগুলো	T A b l e T g u l O r	1	1
+পরামর্ষ	1	1.00	7	prefix	পরামর্শ	p o r a m o r sh O	1	1
+পেরুতে	1	1.00	6	prefix	পেরুতেই	p e r u t e	1	1
+বিশ্লেষকেরা	1	1.00	11	prefix	বিশ্লেশকেরা	b i s l e sh o k e r a	1	0
+খাদ্যনিরাপত্তার	1	0.93	14	prefix	খাদ্যনিরাপত্তা	kh a d d O n i r a p o tt a r	1	1
+মাত্রাবৃত্ত	1	0.64	7	suffix	পরাবৃত্ত	m a tr a b ri tt O	1	1
+হত্যাজজ্ঞের	1	0.91	10	prefix	হত্যাজজ্ঞে	h o t t a j o g g e r	0	0
+ভাশায়ই	1	0.83	5	prefix	ভাশায়	bh a sh a y i	1	1
+ফাউন্টেনও	1	0.89	8	prefix	ফাউন্টেন	ph a u n T e n o O	0	0
+বিশ্ববিখ্যাত	0	0.58	7	prefix	বিশ্ববিদ্যা	b i sh sh O b i k kh A t O	1	0
+কুদরত	1	1.00	5	prefix	কুদরতি	k u d r o t	1	1
+লাইটপোস্ট	1	1.00	9	prefix	লাইটপোস্টের	l a i T p O sh T	1	1
+সরাল	1	1.00	4	prefix	সরালি	sh o r a l	1	1
+সগুন	1	1.00	4	prefix	সগুনা	sh o g u n o	0	0
+খদ্দেররা	1	0.75	6	prefix	খদ্দেরদের	kh o d d e r r a	1	1
+ডেফিনেশন	1	0.62	5	prefix	ডেফিনিশন	D e ph i n e sh o n	1	1
+তামজিদ	1	0.67	4	suffix	মজিদ	t a m j i d	1	1
+বিভিন্নভাবে	1	0.82	9	suffix	ভিন্নভাবে	b i bh i nn O bh a b e	1	1
+নাহারের	1	1.00	7	suffix	অনাহারের	n a h a r e r	1	1
+হজমে	1	1.00	4	prefix	হজমের	h o j O m e	1	1
+শয়তানে	1	1.00	6	prefix	শয়তানের	sh o y o t a n e	1	1
+অধ্যায়	1	1.00	6	prefix	অধ্যায়ই	o d d a y	0	0
+রোদজ্বলা	0	0.38	3	prefix	রোদচশমার	r O d j b o l a	0	0
+নওয়াব	1	1.00	5	prefix	নওয়াবশ	n o O y a b	1	1
+উঠায়	1	1.00	4	prefix	উঠায়ে	u Th a y	1	1
+ডাকাডাকির	1	0.89	8	prefix	ডাকাডাকি	D a k a D a k i r	1	1
+নাভিলা	1	0.67	4	prefix	নাভির	n a bh i l a	1	1
+ফ্রাংক	1	1.00	6	prefix	ফ্রাংককে	ph r a ng k	1	1
+ফোর্সেস	1	0.86	6	prefix	ফোর্সের	ph O r s e s	1	1
+আহমদুল্লাহ	1	0.70	7	suffix	অবদুল্লাহ	a h m o d u l l a h o	0	0
+বাজারনির্ভর	1	0.73	8	suffix	কম্পিউটারনির্ভর	b a j a r n i r bh o r	1	1
+চুপি	1	1.00	4	prefix	চুপিচুপি	ch u p i	1	1
+কমিটিকেও	1	0.88	7	prefix	কমিটিকেই	k o m i T i k e O	1	1
+ভবাদৃশ	1	0.67	4	suffix	তাদৃশ	bh o b a d d ri sh O	0	0
+ঘৃতান্ন	1	0.71	5	suffix	সাতান্ন	gh ri t a nn O	1	1
+সেন্সর	1	1.00	6	prefix	সেন্সরটি	s e n s O r	1	0
+ফাইন্ড	1	1.00	6	prefix	ফাইন্ডার	ph a i n D	1	1
+হাবল	1	1.00	4	prefix	হাবলা	h a b O l	1	1
+সুরভিত	1	0.83	5	prefix	সুরভি	sh u r O bh i t O	1	1
+প্রচারপত্রসহ	1	0.83	10	prefix	প্রচারপত্রও	pr O ch a r p o tr O sh o h O	1	1
+নাট্যজন	1	1.00	7	prefix	নাট্যজনদের	n a T T O j o n	1	1
+মহাখালির	1	0.88	7	prefix	মহাখালিতে	m o h a kh a l i r	1	1
+রাকিবও	1	0.83	5	prefix	রাকিব	r a k i b O	1	1
+নাইমাকে	1	0.71	5	prefix	নাইমা	n a i m a k e	1	1
+দির্ঘদেহি	1	0.67	6	prefix	দির্ঘদিনের	d i r gh O d e h i	1	1
+মাঠপাড়া	0	0.57	4	prefix	মাঠপর্যায়ের	m a Th p a r a	1	1
+কোরআনখানি	0	0.56	5	prefix	কোরআনকে	k O r a n kh a n i	1	1
+বিবর্তনবাদের	1	0.83	10	prefix	বিবর্তনবাদ	b i b o r t O n b a d e r	1	1
+প্রস্তুতিপর্ব	1	1.00	13	prefix	প্রস্তুতিপর্বে	pr O st u t i p o r b O	1	1
+কানকুনে	1	1.00	7	prefix	কানকুনের	k a n k u n e	1	1
+ইউএফডিএডি	0	0.56	5	suffix	ডিএডি	i u e ph D i e D i	1	1
+তাপুকে	1	0.67	4	prefix	তাপু	t a p u k e	1	1
+সঞ্চয়পত্রে	1	1.00	10	prefix	সঞ্চয়পত্রের	sh o nch o y o p o tr e	1	1
+মেশিনকে	1	0.71	5	prefix	মেশিনও	m e sh i n k e	1	1
+সায়মনকেও	1	0.88	7	prefix	সায়মনকে	sh a y o m o n k e O	0	0
+জে	0	1.00	2	prefix	জেং	j e	1	1
+ফেতনা	1	0.80	4	suffix	চিন্তাচেতনা	ph e t n a	1	1
+সিকিউরিটিস	1	0.90	9	prefix	সিকিউরিটির	s i k i u r i T i s	1	1
+ফুটবলেই	1	0.86	6	prefix	ফুটবলে	ph u T b o l e i	1	1
+পরিচ্ছদে	1	1.00	8	prefix	পরিচ্ছদের	p O r i ch chh o d e	1	1
+বিশি	1	1.00	4	prefix	বিশিখ	b i sh i	1	1
+ভিডিওগুলোকে	1	0.82	9	prefix	ভিডিওগুলো	bh i D i O g u l O k e	1	1
+এএমসি	1	1.00	5	prefix	এএমসিএল	e e m s i	1	1
+পদ্মিনি	1	0.71	5	suffix	রুক্মিনি	p o d d i n i	1	1
+পলিইউরেথেন	0	0.30	3	prefix	পলি	p o l i i u r e th e n	1	1
+স্থাপত্য	1	1.00	8	prefix	স্থাপত্যকলা	sth a p O t t O	1	1
+নিঃস্বার্থভাবে	1	0.71	10	prefix	নিঃস্বার্থ	n i sh sh a r th O bh a b e	0	1
+ফিৎজ	1	0.75	3	prefix	ফিৎরা	ph i t j	1	1
+গুরুরাম	1	0.86	6	prefix	গুরুরা	g u r u r a m	1	1
+ইয়ারেন	1	0.83	5	prefix	ইয়ারে	i y a r e n	1	1
+ফিকা	1	1.00	4	prefix	ফিকার	ph i k a	1	1
+অনশনসহ	1	0.83	5	prefix	অনশনস্থল	o n O sh o n sh o h O	1	1
+মনশ্চাঞ্চল্য	1	0.67	8	suffix	কর্মচাঞ্চল্য	m o n O sh ch a nch O l l O	0	0
+গাছগাছালির	1	0.90	9	prefix	গাছগাছালিতে	g a chh g a chh a l i r	1	1
+রাগা	1	1.00	4	prefix	রাগাতে	r a g a	1	1
+দানা	1	1.00	4	prefix	দানাগুলো	d a n a	1	1
+নিরোধক	1	1.00	6	prefix	নিরোধকল্পে	n i r O dh O k	0	1
+গোলন্দাজ	1	1.00	8	prefix	গোলন্দাজের	g O l O nd a j	0	0
+রিডের	1	1.00	5	suffix	গ্রিডের	r i D e r	1	1
+রেডি	1	1.00	4	prefix	রেডিও	r e D i	1	1
+সলিডারিটি	1	1.00	9	prefix	সলিডারিটির	s o l i D a r i T i	1	1
+মূর্খতা	1	1.00	7	prefix	মুর্খতা	m u r kh O t a	1	1
+ভ্যালাদোলিদ	1	1.00	11	prefix	ভ্যালাদোলিদকে	bh A l a d O l i d	1	1
+নিরদ	1	0.75	3	prefix	নিরত্যয়	n i r O d	0	0
+মামাত	1	0.80	4	prefix	মামাকেও	m a m a t O	0	0
+শোভনা	1	0.80	4	prefix	শোভনদেব	sh O bh o n a	1	0
+দেবিদ্বারে	1	0.90	9	prefix	দেবিদ্বার	d e b i d a r e	0	0
+বিভুতিরঞ্জন	1	1.00	11	prefix	বিভুতিরঞ্জনের	b i bh u t i r o nj o n	1	1
+বাহামা	1	1.00	6	prefix	বাহামার	b a h a m a	1	1
+চেয়	1	1.00	3	prefix	চেয়াপারসনের	ch e y O	1	1
+ক্রান্তদর্শি(–শিন্)	0	0.47	9	suffix	কেশি(–শিন্)	kr a nt O d O r sh i	1	1
+শুভকর	1	0.80	4	prefix	শুভকামনা	sh u bh o k o r	0	1
+খদিরিকা	1	0.71	5	suffix	গিরিকা	kh O d i r i k a	1	0
+গনইতে	1	0.60	3	suffix	অছইতে	g o n O i t e	1	1
+অমাংসল	1	0.83	5	suffix	মাংসল	o m a ng sh O l	0	0
+আলমিরায়	1	0.86	6	prefix	আলমিরার	a l m i r a y	1	1
+কার্ব	1	1.00	5	prefix	কার্বন	k a r b	1	0
+বাংগালি	1	1.00	7	prefix	বাংগালিও	b a ng g a l i	1	1
+লিপ্পি	1	1.00	6	prefix	লিপ্পিকে	l i p p i	1	1
+শিল্পীদের	1	1.00	9	prefix	শিল্পিদের	sh i l p i d e r	1	1
+দান্ডিক	1	0.86	6	prefix	দান্ডি	d a n D i k	1	1
+সেতুও	1	0.80	4	prefix	সেতুই	sh e t u O	1	1
+সংগঠনই	1	1.00	6	suffix	ছাত্রসংগঠনই	sh o ng g o Th O n i	1	0
+নাতক	1	1.00	4	suffix	স্নাতক	n a t O k	1	1
+প্রানহানি	1	1.00	9	prefix	প্রানহানিও	pr a n h a n i	1	1
+বন্দুকধারিদের	1	1.00	13	prefix	বন্দুকধারিদের	b O nd u k dh a r i d e r	1	1
+মাখেন	1	1.00	5	prefix	মাখেননি	m a kh e n	1	1
+তায়ি	1	1.00	4	prefix	তায়িপ	t a y i	1	1
+দুরত্যয়	1	0.71	5	prefix	দুরত্বের	d u r o t t o y	0	0
+পুনর্মুদ্রনের	1	0.92	12	prefix	পুনর্মুদ্রনে	p u n o r m u d r O n e r	1	1
+তমিস্র	1	0.83	5	suffix	তামিস্র	t O m i s r O	1	0
+এরোপ্লেন	1	0.62	5	suffix	জেটপ্লেন	e r O p l e n	1	1
+বাদ্যজন্ত্রটির	1	0.79	11	prefix	বাদ্যজন্ত্র	b a d d o j o n t r O T i r	0	0
+মহল্লার	1	0.86	6	prefix	মহল্লাবাসিকে	m o h O l l a r	1	1
+সরলতা	1	1.00	5	prefix	সরলতার	sh o r O l o t a	0	1
+ওঠাচ্ছে	1	0.86	6	suffix	পাঠাচ্ছে	O Th a ch chh e	1	1
+হস্তে	1	1.00	5	suffix	মুক্তহস্তে	h o st e	1	1
+ট্রান্সক্রিপ্ট	1	0.86	12	prefix	ট্রান্সক্রিপশন	T r a n s k ri p T	0	0
+সাংঘর্ষিক	1	1.00	9	prefix	সাংঘর্শিকতা	sh a ng gh o r sh i k	1	0
+দাবদাহে	1	1.00	7	prefix	দাবদাহের	d a b O d a h e	0	0
+মাদাম	1	1.00	5	prefix	মাদামবিবির	m a d a m	1	1
+নিঃশ্বাসে	1	1.00	9	prefix	নিঃশ্বাসেই	n i sh sh a sh e	1	1
+ইদবাজারে	1	0.88	7	prefix	ইদবাজার	i d b a j a r e	1	1
+ফিরতেন	1	0.83	5	prefix	ফিরতেও	ph i r t e n	1	1
+গদ্যের	1	0.83	5	prefix	গদ্যে	g O d d e r	1	0
+এফ	0	1.00	2	prefix	এফআইআর	e ph	1	1
+তুলুন	1	0.80	4	prefix	তুলুক	t u l u n	1	1
+কেয়া	1	1.00	4	prefix	কেয়াইন	k e y a	1	1
+ব্যবহারকারিরা	1	1.00	13	prefix	ব্যবহারকারিরা	b A b o h a r k a r i r a	0	0
+বয়ঃসন্ধিতে	1	0.80	8	prefix	বয়ঃসন্ধিকালে	b o y o sh o ndh i t e	1	1
+সমুদ্রসোইকতসংলগ্ন	1	0.71	12	prefix	সমুদ্রসোইকতসহ	sh O m u d r O sh O i k o t sh o ng l o g n O	1	0
+ট্রান্সফরমেশনের	1	0.87	13	prefix	ট্রান্সফরমেশন	T r a n s ph o r o m e sh o n e r	0	1
+তরিকার	1	0.83	5	prefix	তরিকা	t o r i k a r	0	0
+লাইসেন্স	1	1.00	8	prefix	লাইসেন্সই	l a i s e n s	1	1
+রানার্সআপের	1	0.82	9	prefix	রানার্সআপরা	r a n a r s a p e r	1	0
+মরিচকুচি	1	0.62	5	suffix	কুচকুচি	m O r i ch k u ch i	1	0
+বিরানভুমি	0	0.56	5	prefix	বিরানব্বই	b i r a n bh u m i	1	1
+কর্নিকা	1	1.00	7	prefix	কর্নিকার	k o r n i k a	0	0
+প্রলুব্ধতা	1	0.80	8	prefix	প্রলুব্ধ	pr O l u b dh o t a	0	1
+ত্রাস	1	1.00	5	prefix	ত্রাসন	tr a sh	1	1
+নার্ভের	1	0.86	6	suffix	রিজার্ভের	n a r bh e r	1	1
+গুদামঘর	1	1.00	7	prefix	গুদামঘরে	g u d a m gh o r	1	1
+সাতটা	1	1.00	5	prefix	সাতটার	sh a t T a	1	1
+বায়োমেডিকেল	1	0.64	7	suffix	প্যারামেডিকেল	b a y O m e D i k e l	1	1
+বারকাত	1	1.00	6	prefix	বারকাতের	b a r k a t	1	1
+কোকিলা	1	1.00	6	prefix	কোকিলার	k O k i l a	1	1
+দুরপনেয়	0	0.57	4	prefix	দুরপাল্লা	d u r o p o n e y O	0	0
+সুরধুনি	0	0.57	4	suffix	রাঁধুনি	sh u r o dh o n i	0	0
+অর্ধশতাধিক	1	0.70	7	prefix	অর্ধশতাব্দি	o r dh O sh o t a dh i k	1	1
+চক্ষে	1	1.00	5	suffix	চর্মচক্শে	ch O kkh e	0	0
+কমোডোর	1	0.67	4	prefix	কমোডের	k o m O D O r	1	1
+দূরীভূত	1	1.00	7	prefix	দুরিভুত	d u r i bh u t O	1	1
+খুটিয়ে	1	0.83	5	suffix	গুটিয়ে	kh u T i y e	1	1
+মেয়ারের	1	0.86	6	suffix	বেয়ারের	m e y a r e r	1	1
+বিশ্বশান্তি	1	1.00	11	prefix	বিশ্বশান্তির	b i sh sh O sh a nt i	1	1
+ইন্টারনেটে	1	1.00	10	prefix	ইন্টারনেটেই	i n T a r n e T e	1	1
+বাছার	1	0.80	4	prefix	বাছাইয়ের	b a chh a r	1	1
+বায়াসের	1	0.71	5	prefix	বায়াস	b a y a s e r	0	0
+হাইকমিশন	1	1.00	8	prefix	হাইকমিশনার	h a i k o m i sh o n	1	1
+অর্না	1	0.80	4	prefix	অর্নবের	o r n a	1	1
+ফিলিপাইনসহ	1	0.80	8	prefix	ফিলিপাইনভিত্তিক	ph i l i p a i n sh o h O	1	1
+ভেনেজুয়েলায়	1	0.91	10	prefix	ভেনেজুয়েলার	bh e n e j u y e l a y	1	1
+পিতিঠা	0	0.50	3	prefix	পিতার	p i t i Th a	1	1
+লাস্কির	1	0.86	6	prefix	লাস্কি	l a sh k i r	1	1
+আনুশকা	0	0.50	3	prefix	আনুপাতিক	a n u sh k a	1	1
+পোড়ানোর	1	0.86	6	prefix	পোড়ানোকে	p O r a n O r	1	1
+নিখোঁজদের	0	0.44	4	prefix	নিখোজ	n i kh O~ j d e r	1	0
+তুলাতলা	1	0.86	6	prefix	তুলাতলি	t u l a t o l a	1	1
+কৃশকেরাও	1	0.88	7	prefix	কৃশকেরাই	k ri sh o k e r a O	1	1
+দেড়টার	1	0.83	5	prefix	দেড়টা	d e r T a r	1	1
+গাল	1	1.00	3	prefix	গালকাটা	g a l	1	1
+তইরিও	1	0.80	4	prefix	তইরিই	t O i r i O	1	1
+উসকানো	1	0.83	5	prefix	উসকানির	u sh k a n O	1	1
+ইর্ষাপরায়নতা	0	0.58	7	suffix	কর্তব্যপরায়নতা	i r sh a p o r a y o n o t a	1	0
+দুদুস	1	1.00	5	prefix	দুদুসকে	d u d u sh	1	1
+লেগেছেন	1	0.86	6	prefix	লেগেছে	l e g e chh e n	1	1
+সত্ভাবে	1	0.86	6	suffix	জুগপত্ভাবে	sh o t bh a b e	1	1
+অদৃশ্যমান	1	0.89	8	suffix	দৃশ্যমান	o d r i sh sh O m a n	0	1
+তলপেটের	1	0.86	6	prefix	তলপেটে	t o l p e T e r	1	1
+নিখুত	1	0.80	4	prefix	নিখুঁতভাবে	n i kh u t	1	1
+উল্টাইয়া	1	0.62	5	prefix	উল্টা	u l T a i y a	1	1
+তথ্যব্যবস্থার	1	0.92	12	prefix	তথ্যব্যবস্থা	t o t th O b A b O sth a r	1	1
+স্কুলগুলোকে	1	0.82	9	prefix	স্কুলগুলোও	s k u l g u l O k e	1	0
+পরেননি	1	0.83	5	suffix	ধরেননি	p o r e n n i	1	1
+বতান	1	0.75	3	prefix	বতারিখ	b o t a n	1	1
+ডেমিচেলিসকে	1	0.82	9	prefix	ডেমিচেলিস	D e m i k e l i s k e	0	0
+তোয়	1	1.00	3	prefix	তোয়াক্কা	t O y o	0	0
+বেয়ারাম	1	0.86	6	prefix	বেয়ারা	b e y a r a m	1	1
+স্প্লিন্টার	1	1.00	11	prefix	স্প্লিন্টারগুলো	s p o l i n T a r	1	0
+বিপননকেন্দ্র	1	1.00	12	prefix	বিপননকেন্দ্রগুলো	b i p o n o n k e ndr O	1	1
+অনুজিববিজ্ঞান	1	1.00	13	prefix	অনুজিববিজ্ঞানি	O n u j i b b i g g a n	1	1
+খাতুনগঞ্জের	1	0.91	10	prefix	খাতুনগঞ্জে	kh a t u n g o nj e r	1	1
+নিঃশর্তভাবে	1	0.64	7	prefix	নিঃশর্ত	n i sh sh o r t O bh a b e	1	1
+স্টোরকে	1	0.86	6	prefix	স্টোরকিপার	s T O r k e	1	0
+অখাত	1	0.75	3	prefix	অখাদ্য	o kh a t	1	1
+বাফি	1	1.00	4	suffix	ক্বাফি	b a ph i	1	1
+পাটশিল্পে	1	1.00	9	prefix	পাটশিল্পের	p a T sh i l p e	1	1
+বড়রাও	1	0.80	4	prefix	বড়রাই	b o r o r a O	1	1
+এলিয়ে	1	1.00	5	prefix	এলিয়েন	e l i y e	1	1
+গোটানো	1	1.00	6	prefix	গোটানোর	g O T a n O	1	1
+কামের	1	1.00	5	prefix	কামেরা	k a m e r	1	1
+কোথা	1	1.00	4	prefix	কোথাও	k O th a	1	1
+শেশকৃত্যানুশ্ঠান	1	1.00	16	prefix	শেশকৃত্যানুশ্ঠানে	sh e sh k ri t a n u sh Th a n	0	1
+লাঞ্চিত	1	0.86	6	suffix	রোমাঞ্চিত	l a nch i t O	1	1
+গন্য	1	1.00	4	prefix	গন্য	g o n n O	0	0
+উপমাতা	1	0.67	4	prefix	উপমাটা	u p O m a t a	1	1
+ঘূর্ণিঝড়	1	1.00	8	prefix	ঘুর্নিঝড়	gh u r n i jh o r	1	1
+গুঞ্জরিত	1	0.75	6	prefix	গুঞ্জরা	g u nj O r i t O	1	1
+ম্যানহোলে	1	1.00	9	prefix	ম্যানহোলের	m A n h O l e	1	1
+নবজাতকটি	1	0.75	6	prefix	নবজাতককে	n o b O j a t O k T i	1	1
+মহিউদ্দিনই	1	0.90	9	prefix	মহিউদ্দিন	m o h i u d d i n i	1	1
+চিকিৎসকেরও	1	0.90	9	prefix	চিকিৎসকের	ch i k i t sh o k e r O	1	1
+বাতেনের	1	0.71	5	prefix	বাতেনসহ	b a t e n e r	1	1
+বিলিয়নিয়র	1	0.89	8	prefix	বিলিয়নিয়ার	b i l i y o n i y o r	1	1
+কমাতেই	1	0.83	5	prefix	কমাতে	k o m a t e i	1	1
+গাধ	1	1.00	3	prefix	গাধা	g a dh	1	1
+কাঠামোতে	1	1.00	8	prefix	কাঠামোতেই	k a Th a m O t e	1	1
+দুর্বৃত্তায়নের	1	0.93	13	prefix	দুর্বৃত্তায়নে	d u r b ri tt a y o n e r	1	1
+লোকাল	1	1.00	5	prefix	লোকালবোর্ড	l O k a l	1	1
+পিচুটি	1	0.67	4	prefix	পিচু	p i ch u T i	1	1
+হাসানই	1	0.83	5	prefix	হাসান	h a s a n i	1	1
+মেশিনটি	1	0.71	5	prefix	মেশিনগুলো	m e sh i n T i	1	1
+বর্ষাকাল	1	1.00	8	prefix	বর্শাকালটা	b o r sh a k a l	1	1
+সেলামি	1	1.00	6	prefix	সেলামির	sh e l a m i	0	1
+লোভী	1	1.00	4	prefix	লোভি	l O bh i	1	1
+স্নেহপ্রবন	1	0.70	7	suffix	সন্দেহপ্রবন	sn e h O pr O b O n	1	1
+শিক্ষার্থীসহ	1	1.00	12	prefix	শিক্শার্থিসহ	sh i kkh a r th i sh o h O	1	1
+পোউরসভাকে	1	0.78	7	prefix	পোউরসভা	p O u r O sh o bh a k e	0	0
+কলাভবন	1	1.00	6	prefix	কলাভবনে	k o l a bh o b O n	1	1
+ন্যায়পালের	1	0.80	8	prefix	ন্যায়পাল	n A y p a l e r	1	1
+পোউরাংগনা	1	0.67	6	suffix	বরাংগনা	p O u r a ng g o n a	1	1
+উঠছেন	1	0.80	4	prefix	উঠছেই	u Th chh e n	1	1
+গুরুমুখী	1	1.00	8	prefix	গুরুমুখি	g u r u m u kh i	1	1
+খাদ্যাভ্যাসে	1	0.92	11	prefix	খাদ্যাভ্যাস	kh a d d a b bh a sh e	1	1
+কটাক্ষপাত	1	0.78	7	prefix	কটাক্শপুর্ন	k o T a kkh O p a t	0	1
+পেটোয়া	1	0.67	4	prefix	পেটো	p e T O y a	1	1
+রেবেকার	1	0.86	6	prefix	রেবেকা	r e b e k a r	1	1
+ঠাকুরদা	1	1.00	7	prefix	ঠাকুরদার	Th a k u r d a	1	1
+পলিটব্যুরোর	1	0.91	10	prefix	পলিটব্যুরো	p o l i T b u r O r	1	1
+ওড়না	1	1.00	4	prefix	ওড়নাটি	O r n a	1	1
+বিপন	1	1.00	4	prefix	বিপনন	b i p o n	1	1
+সোইন্যরা	1	0.75	6	prefix	সোইন্যদের	sh O i n n o r a	1	0
+ফেনসিডিলের	1	0.90	9	prefix	ফেনসিডিলে	ph e n sh i D i l e r	0	0
+নারিনেত্রিরা	1	0.92	11	prefix	নারিনেত্রির	n a r i n e tr i r a	1	1
+চিনের	1	1.00	5	prefix	চিনেরই	ch i n e r	1	1
+মামুরা	1	1.00	6	prefix	মামুরায়	m a m u r a	1	1
+গোতামারী	1	1.00	8	prefix	গোতামারি	g O t a m a r i	1	1
+শহিদবাগ	1	1.00	7	prefix	শহিদবাগের	sh o h i d b a g	0	1
+মূলনীতি	1	1.00	7	prefix	মুলনিতিকে	m u l n i t i	1	1
+জাত্রার	1	1.00	7	suffix	শোকজাত্রার	j a tr a r	1	1
+ফারহাতের	1	0.75	6	prefix	ফারহাতকে	ph a r h a t e r	1	1
+ছকও	0	0.67	2	prefix	ছক	chh o k O	1	1
+পোশাকশ্রমিকের	1	1.00	13	prefix	পোশাকশ্রমিকেরা	p O sh a k s r O m i k e r	1	1
+আমেথি	1	1.00	5	prefix	আমেথিতে	a m e th i	1	1
+অপ্রতিগ্রহ	1	0.90	9	suffix	প্রতিগ্রহ	o pr O t i g gr O h O	0	0
+লাখাই	1	0.80	4	suffix	রাখাই	l a kh a i	1	1
+নেতৃবৃন্দও	1	0.90	9	prefix	নেতৃবৃন্দ	n e t ri b ri nd O O	1	1
+অগ্রাধিকারভিত্তিক	1	0.94	16	prefix	অগ্রাধিকারভিত্তিতে	o gr a dh i k a r bh i tt i k	1	1
+খাদ্যতালিকায়	1	0.92	11	prefix	খাদ্যতালিকা	kh a d d O t a l i k a y	1	1
+স্পশ্টতা	1	1.00	8	suffix	সুস্পশ্টতা	s p o sh T o t a	0	0
+গুপিজন্ত্র	1	0.60	6	suffix	শ্বাসজন্ত্র	g u p i j o n t r O	1	1
+বিদ্যানিকেতনের	1	0.93	13	prefix	বিদ্যানিকেতনে	b i d d a n i k e t o n e r	0	1
+রাখিনি	1	0.67	4	prefix	রাখিতে	r a kh i n i	1	1
+ত্রিনিদাদ	1	1.00	9	prefix	ত্রিনিদাদের	t ri n i d a d	0	0
+একপশলা	1	0.67	4	suffix	পশলা	E k p o sh l a	1	0
+জাতীয় সংগীত	0	0.55	6	prefix	জাতিয় ফুল	j a t i y O | sh O ng g i t	1	1
+স্মার্টবুক	1	0.70	7	prefix	স্মার্টফোনের	s m a r T b u k	1	1
+কেম্পেস	1	1.00	7	prefix	কেম্পেসের	k e mp e s	1	1
+মৃত্যুফাদ	1	1.00	9	prefix	মৃত্যুফাদে	m ri t t u ph a d	1	1
+লোকসংগিতে	1	1.00	9	prefix	লোকসংগিতের	l O k sh o ng g i t e	1	1
+একাত্তরে	1	1.00	8	prefix	একাত্তরেই	e k a tt O r e	0	1
+মোজিলার	1	0.86	6	prefix	মোজিলা	m O j i l a r	1	1
+বধূর	1	1.00	4	prefix	বধুর	b O dh u r	1	1
+স্বাস্থ্যবিধান	1	0.86	12	prefix	স্বাস্থ্যবিধি	sh a s th O b i dh a n	1	1
+লাউঞ্জ	1	1.00	6	prefix	লাউঞ্জে	l a u nj	1	1
+মৃতপ্রায়	1	0.75	6	suffix	লুপ্তপ্রায়	m ri t o pr a y	0	0
+আর্জেন্তিনার	1	0.67	8	suffix	আর্হেন্তিনার	a r j e nt i n a r	1	1
+দায়বদ্ধতাও	1	0.90	9	prefix	দায়বদ্ধতা	d a y b o d dh o t a O	1	1
+আলংকারিক	0	0.50	4	suffix	গ্রন্থাগারিক	a l O ng k a r i k	0	0

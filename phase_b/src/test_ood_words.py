@@ -89,17 +89,17 @@ def main():
     print(f"Loaded model from {args.checkpoint}\n")
 
     with open(args.output, "w", encoding="utf-8") as f:
-        f.write("# domain\tword\tfrequency_in_text\tregister\tmodel_prediction\tYOUR_VERIFICATION(correct/wrong)\n")
+        f.write("# domain\tword\tfrequency_in_text\tregister\tmodel_prediction\tconfidence\tYOUR_VERIFICATION(correct/wrong)\n")
         for word in ood_words:
             if args.register_mode == "classifier":
                 rule_tokens = text_to_phonemes(normalize(word))
                 register = classify_register(word, " ".join(rule_tokens))
             else:
                 register = "unknown"
-            tokens_pred = predict_word(model, vocabs, word, register=register, device=device)
+            tokens_pred, confidence = predict_word(model, vocabs, word, register=register, device=device)
             pred_str = " ".join(tokens_pred)
             freq = ood_counter[word]
-            f.write(f"{args.domain}\t{word}\t{freq}\t{register}\t{pred_str}\t\n")
+            f.write(f"{args.domain}\t{word}\t{freq}\t{register}\t{pred_str}\t{confidence:.4f}\t\n")
 
     print(f"Results written to {args.output}")
     print("\nNow: open that file, say each word aloud, and mark whether the")

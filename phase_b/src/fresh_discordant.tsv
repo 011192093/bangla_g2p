@@ -1,0 +1,48 @@
+word	gold	transformer_pred	gru_pred	who_right
+অলকানন্দা	o l O k a n o nd a	o l O k a n o nd a	o l O k a n O nd a	transformer
+অলক্ষ্য	o l O kkh O	o l O kkh O	o l o kkh O	transformer
+অল্পক্ষন	o l p o kkh o n	o l p o kkh o n	o l p O kkh O n	transformer
+অশোধন	o sh O dh O n	o sh O dh O n	o sh O dh o n	transformer
+অসংজমি	o sh o ng j O m i	o sh o ng j O m i	o sh o ng j o m i	transformer
+অসংলগ্নতার	o sh o ng l o g n O t a r	o sh o ng l o g n O t a r	o sh o ng l o g n o t a r	transformer
+অসংসক্ত	o sh o ng sh o kt O	o sh o ng sh o kt O	o sh o ng sh O kt O	transformer
+অসভ্য	o sh O b bh O	o sh O b bh O	o sh O bh bh O	transformer
+অসম্পর্ক	o sh o mp o r k O	o sh o mp o r k O	o sh o mp O r k O	transformer
+অসম্পুর্নই	o sh o mp u r n o i	o sh o mp u r n o i	o sh o mp u r n O i	transformer
+আংগ	a ng g O	a ng g O	a ng g	transformer
+আইনসিদ্ধ	a i n sh i d dh O	a i n sh i d dh O	a i n O i d dh O	transformer
+আদদ	a d O d	a d O d	a d d O	transformer
+আদাবর	a d a b o r	a d a b o r	a d a b O r	transformer
+জিম্মিদশা	j i mm i d o sh a	j i mm i d o sh a	j i mm i d sh a	transformer
+জ্ঞানকোশ	g A n k O sh	g A n k O sh	g E n k O sh	transformer
+ঝাউচরে	jh a u ch o r e	jh a u ch o r e	jh a u ch r e	transformer
+টক্সিক	T o k s i k	T o k s i k	T O k s i k	transformer
+টিইইউএস	T i i i u e s	T i i i u e s	T i i i i e e s	transformer
+আদালতেই	a d a l o t e i	a d a l o t e i	a d a l t e i	transformer
+জিতলে	j i t l e	j i t l e	j i t o l e	transformer
+টপসে	T o p s e	T o p s e	T o p sh e	transformer
+অসচ্ছলতার	o sh o ch chh o l O t a r	o sh o ch chh o l o t a r	o sh o ch chh o l O t a r	gru
+অসমসাহসি	o sh o m sh a h o sh i	o sh o m o sh a h o sh i	o sh o m sh a h o sh i	gru
+অসহজোগ	o sh o h O j O g	o sh o h o j O g	o sh o h O j O g	gru
+অসুবিধা	o sh u b i dh a	O sh u b i dh a	o sh u b i dh a	gru
+অসুস্থবোধ	o sh u sth O b O dh	o sh u sth o b O dh	o sh u sth O b O dh	gru
+অস্থিতিশিলতাও	o sth i t i sh i l o t a O	O sth i t i sh i l o t a O	o sth i t i sh i l o t a O	gru
+আংুরের	a ng g u r e r	a ng u r e r	a ng g u r e r	gru
+আংুলটা	a ng g u l T a	a ng u l T a	a ng g u l T a	gru
+আইপ্যাডে	a i p A D e	a i p p a D e	a i p A D e	gru
+আদত্ত	a d O tt O	a d o tt O	a d O tt O	gru
+আদর্শচ্যুত	a d O r sh O ch u t O	a d O r sh O ch ch u t O	a d O r sh O ch u t O	gru
+আদলতে	a d O l t e	a d l o t e	a d O l t e	gru
+আন্দোলনেও	a nd O l O n e O	a nd O l o n e O	a nd O l O n e O	gru
+আপনজনে	a p O n j o n e	a p O n j O n e	a p O n j o n e	gru
+জুনভিত্তিতে	j u n bh i tt i t e	j u n o bh i tt i t e	j u n bh i tt i t e	gru
+ঝম্পন	jh o mp o n	jh o mp O n	jh o mp o n	gru
+ঝলঝল	jh o l jh o l	jh O l jh o l	jh o l jh o l	gru
+টংগস	T o ng g s	T o ng g o s	T o ng g s	gru
+টমিগান	T O m i g a n	T o m i g a n	T O m i g a n	gru
+আইনসম্মত	a i n sh o mm O t O	a i n sh o mm o t O	a i n sh o mm O t O	gru
+আটকরা	a T O k r a	a T k o r a	a T O k r a	gru
+আতংকজনক	a t O ng k O j o n O k	a t o ng k o j o n O k	a t O ng k O j o n O k	gru
+জাবর	j a b o r	j a b O r	j a b o r	gru
+ঝঞ্ঝনা	jh o n jh o n a	jh o n jh O n a	jh o n jh o n a	gru
+টিশার্ট	T i sh a r T	T i sh a r T O	T i sh a r T	gru

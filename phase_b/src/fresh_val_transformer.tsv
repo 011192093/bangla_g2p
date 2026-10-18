@@ -1,0 +1,601 @@
+word	gold	pred	confidence	correct	register
+অর্বাচিন	o r b a ch i n	o r b a ch i n	0.9995	1	native
+অর্বাচিনের	o r b a ch i n e r	o r b a ch i n e r	0.9997	1	native
+অলকানন্দা	o l O k a n o nd a	o l O k a n o nd a	0.9357	1	native
+অলক্ষ্য	o l O kkh O	o l O kkh O	0.9326	1	tatsama
+অলিকে	O l i k e	o l i k e	0.9547	0	native
+অলিগলির	O l i g O l i r	o l i g O l i r	0.9552	0	native
+অলো	o l O	o l O	0.9993	1	native
+অল্টারনেটিভ	o l T a r n e T i bh	o l T a r n e T i bh	0.9982	1	loanword
+অল্পক্ষন	o l p o kkh o n	o l p o kkh o n	0.9174	1	tatsama
+অল্পের	o l p e r	o l p e r	0.9993	1	native
+অশক্য	o sh O k k O	o sh o k k O	0.9118	0	native
+অশালিন	o sh a l i n	o sh a l i n	0.9997	1	native
+অশোধন	o sh O dh O n	o sh O dh O n	0.9176	1	native
+অশ্বঘোশের	o sh sh O gh O sh e r	o sh sh O gh O sh e r	0.9845	1	tatsama
+অশ্রুধারা	O s r u dh a r a	O s r u dh a r a	0.9977	1	native
+অসংকুচিত	o sh o ng k u ch i t O	o sh o ng k u ch i t O	0.9827	1	native
+অসংজমি	o sh o ng j O m i	o sh o ng j O m i	0.9427	1	native
+অসংলগ্নতার	o sh o ng l o g n O t a r	o sh o ng l o g n O t a r	0.9580	1	native
+অসংসক্ত	o sh o ng sh o kt O	o sh o ng sh o kt O	0.9788	1	native
+অসংস্কৃত	o sh o ng s k r i t O	o sh o ng s k ri t O	0.9698	0	tatsama
+অসচ্ছলতার	o sh o ch chh o l O t a r	o sh o ch chh o l o t a r	0.9801	0	native
+অসদাচারন	o sh o d a ch a r O n	o sh o d a ch a r o n	0.9382	0	native
+অসদুদ্দেশ্যে	o sh o d u d d e sh sh e	o sh o d u d d e sh sh e	0.9534	1	native
+অসন্তোশও	o sh o nt O sh O	o sh o nt O sh O	0.9630	1	native
+অসন্দিগ্ধ	o sh o nd i g dh O	o sh O nd i g dh O	0.9672	0	native
+অসভ্য	o sh O b bh O	o sh O b bh O	0.9644	1	native
+অসমসাহসি	o sh o m sh a h o sh i	o sh o m o sh a h o sh i	0.9372	0	native
+অসমাপিকা	o sh o m a p i k a	o sh o m a p i k a	0.9425	1	native
+অসম্পর্ক	o sh o mp o r k O	o sh o mp o r k O	0.9636	1	native
+অসম্পুর্নই	o sh o mp u r n o i	o sh o mp u r n o i	0.9346	1	native
+অসলার	o sh o l a r	o sh o l a r	0.9265	1	native
+অসহজোগ	o sh o h O j O g	o sh o h o j O g	0.9813	0	native
+অসহিশ্নু	o sh O i sh n u	o sh O h i sh n u	0.9795	0	native
+অসাধুতা	o sh a dh u t a	o sh a dh u t a	0.9997	1	native
+অসাধুতার	o sh a dh u t a r	o sh a dh u t a r	0.9995	1	native
+অসামরিক	o sh a m O r i k	o sh a m O r i k	0.9786	1	native
+অসিপ	o sh i p	o sh i p	0.9679	1	native
+অসিমের	o sh i m e r	o sh i m e r	0.9740	1	native
+অসুখটি	o sh u kh T i	o sh u kh T i	0.9651	1	native
+অসুন্দর	o sh u nd O r	o sh u nd o r	0.8913	0	native
+অসুবিধা	o sh u b i dh a	O sh u b i dh a	0.9365	0	native
+অসুর্যম্পশ্যা	o sh u r j O mp o sh sh a	o sh u r j o mp O sh sh a	0.8899	0	native
+অসুস্থতার	o sh u sth O t a r	o sh u sth O t a r	0.8700	1	native
+অসুস্থবোধ	o sh u sth O b O dh	o sh u sth o b O dh	0.8679	0	native
+অস্তোন্মুখ	o st O n m u kh	o st O n m u kh	0.9957	1	native
+অস্ত্যথ	o st O th O	o st o th	0.9177	0	native
+অস্থিতিশিল	o sth i t i sh i l	O sth i t i sh i l	0.9600	0	native
+অস্থিতিশিলতাও	o sth i t i sh i l o t a O	O sth i t i sh i l o t a O	0.9572	0	native
+অস্নাত	o sn a t O	o sn a t O	0.9676	1	native
+অস্পশ্টভাবে	o s p o sh T O bh a b e	o sh p o sh T O bh a b e	0.9569	0	loanword
+অস্বতন্ত্র	o sh sh o t o nt r O	o sh o t o n t r O	0.9459	0	tatsama
+অস্বিকৃত	o sh i k ri t O	O sh sh i k r i t O	0.8751	0	tatsama
+অস্মার	o sh m a r	o sh sh a r	0.9041	0	native
+অহংকারও	o h o ng k a r O	o h O ng k a r O	0.9733	0	native
+অহংবোধ	o h O ng b O dh	o h O ng b O dh	0.9444	1	native
+অহনাকে	o h O n a k e	o h O n a k e	0.9932	1	native
+অহনার	o h O n a r	o h O n a r	0.9945	1	native
+অহমিকা	o h O m i k a	o h O m i k a	0.9877	1	native
+অহিদুল্যাহ	o h i d u l l a h	O h i d u l l a h	0.9366	0	proper_noun
+অ্যাংকেলে	A ng k e l e	A ng k e l e	0.9998	1	loanword
+অ্যাডিডাসের	A D i D a s e r	A D i D a s e r	0.9922	1	loanword
+আংগ	a ng g O	a ng g O	0.9881	1	native
+আংগুরার	a ng g u r a r	a ng g u r a r	0.9998	1	native
+আংটিটি	a ng T i T i	a ng T i T i	1.0000	1	native
+আংশিকভাবে	a ng sh i k bh a b e	a ng sh i k bh a b e	0.9997	1	native
+আংিনার	a ng g i n a r	a ng g i n a r	0.9597	1	native
+আংুরের	a ng g u r e r	a ng u r e r	0.9595	0	native
+আংুলটা	a ng g u l T a	a ng u l T a	0.9614	0	native
+আইইউটি	a i i u T i	a i i u T i	0.9998	1	proper_noun
+আইইএ	a i i e	a i i e	0.9791	1	proper_noun
+আইইএল	a i i e l	a i i e l	0.9993	1	proper_noun
+আইইডিসিআর	a i i D i s i a r	a i i D i s i a r	0.9961	1	proper_noun
+আইএফএসবি	a i e ph e s b i	a i e ph e s b i	0.9949	1	proper_noun
+আইএফসির	a i e ph s i r	a i e ph s i r	0.9950	1	proper_noun
+আইএমডিবি	a i e m D i b i	a i e m D i b i	0.9999	1	proper_noun
+আইএসআই	a i e s a i	a i e s a i	0.9936	1	proper_noun
+আইএসএসবিতে	a i e s e s b i t e	a i e s e s b i t e	0.9953	1	proper_noun
+আইক্লাউড	a i kl a u D	a i kl a u D	0.9994	1	proper_noun
+আইছিল	a i chh i l O	a i chh i l O	0.9614	1	native
+আইজিএসের	a i j i e s e r	a i j i e s e r	0.9975	1	proper_noun
+আইজিদের	a i j i d e r	a i j i d e r	0.9999	1	proper_noun
+আইজে	a i j e	a i j e	0.9999	1	native
+আইটিউনস	a i T i u n s	a i T i u n s	0.9980	1	proper_noun
+আইটিএনের	a i T i e n e r	a i T i e n e r	0.9999	1	proper_noun
+আইডিই	a i D i i	a i D i i	1.0000	1	loanword
+আইডিএফ	a i D i e ph	a i D i e ph	0.9998	1	proper_noun
+আইঢাই	a i Dh a i	a i Dh a i	0.9998	1	native
+আইতে	a i t e	a i t e	1.0000	1	native
+আইনকেও	a i n k e O	a i n k e O	0.9994	1	native
+আইনগুলো	a i n g u l O	a i n g u l O	0.9999	1	native
+আইনজিবির	a i n j i b i r	a i n j i b i r	0.9995	1	native
+আইনজ্ঞকে	a i n o g g O k e	a i n g o k e	0.8019	0	tatsama
+আইনটি	a i n T i	a i n T i	0.9999	1	native
+আইনটিতে	a i n T i t e	a i n T i t e	0.9999	1	native
+আইনপ্রনেতাকে	a i n pr O n e t a k e	a i n pr O n e t a k e	0.9997	1	native
+আইনপ্রনেতার	a i n pr O n e t a r	a i n pr O n e t a r	0.9996	1	native
+আইনবিদদের	a i n b i d e r	a i n b i d d e r	0.9978	0	native
+আইনশৃৃংখলা	a i n s ri ng kh o l a	a i n sh ri ng kh o l a	0.9851	0	tatsama
+আইনসিদ্ধ	a i n sh i d dh O	a i n sh i d dh O	0.9984	1	tatsama
+আইনিব্যবস্থা	a i n i b A b O sth a	a i n i b A b O sth a	0.9988	1	native
+আইনুল	a i n u l	a i n u l	0.9995	1	proper_noun
+আইপিএইচ	a i p i e i ch	a i p i e i ch	0.9999	1	proper_noun
+আইপিএলেই	a i p i e l e i	a i p i e l e i	0.9999	1	proper_noun
+আইপ্যাডে	a i p A D e	a i p p a D e	0.9774	0	proper_noun
+আইবিএমের	a i b i e m e r	a i b i e m e r	0.9999	1	proper_noun
+আইবিপিসি	a i b i p i s i	a i b i p i s i	0.9971	1	proper_noun
+আইলাইনার	a i l a i n a r	a i l a i n a r	0.9999	1	loanword
+আইলেই	a i l e i	a i l e i	1.0000	1	native
+আইলের	a i l e r	a i l e r	0.9999	1	native
+আইল্যান্ডের	a i l A n D e r	a i l A n D e r	0.9943	1	loanword
+আইশা	a i sh a	a i sh a	0.9998	1	proper_noun
+আইসিডিডিআরবির	a i s i D i D i a r b i r	a i s i D i D i a r b i r	0.9991	1	proper_noun
+আইসিসিও	a i sh i sh i O	a i s i s i O	0.9991	0	loanword
+আউটপুট	a u T p u T	a u T p u T	0.9998	1	loanword
+আউটফিল্ডে	a u T ph i l D e	a u T ph i l D e	0.9999	1	loanword
+আউরত	a u r o t	a u r o t	0.9739	1	native
+আওকাত	a O k a t	a O k a t	0.9850	1	native
+আওতাবহির্ভুত	a O t a b o h i r bh u t o	a O t a b o h i r bh u t O	0.9571	0	native
+আওরংগজেবের	a O r o ng g o j e b e r	a O r o ng g j e b e r	0.9800	0	proper_noun
+আওলাকি	a O l a k i	a O l a k i	0.9990	1	native
+আওলাদ	a O l a d	a O l a d	0.9956	1	native
+আকছে	a k chh e	a k chh e	0.9968	1	native
+আকরোট	a k r O T	a k r O T	0.9977	1	native
+আকর্ষনও	a k o r sh o n O	a k O r sh O n O	0.8996	0	native
+আকর্ষনি	a k o r sh o n i	a k O r sh O n i	0.9591	0	native
+আকলু	a k l u	a k l u	0.9967	1	native
+আকাংক্ষাও	a k a ng kh a O	a k a ng kh a O	0.9968	1	tatsama
+আকালের	a k a l e r	a k a l e r	0.9999	1	native
+আকাশবানি	a k a sh b a n i	a k a sh b a n i	0.9998	1	native
+আকির্ন	a k i r n O	a k i r n O	0.9997	1	native
+আকিলা	a k i l a	a k i l a	1.0000	1	proper_noun
+আক্তারসহ	a kt a r sh o h O	a kt a r sh o h O	0.9999	1	proper_noun
+আক্রমনটা	a kr o m o n T a	a kr O m O n T a	0.9365	0	native
+আক্ষেপটা	a kkh e p T a	a kkh e p T a	0.9995	1	tatsama
+আখতারও	a kh o t a r O	a kh t a r O	0.9981	0	proper_noun
+আখতারুজ্জমান	a kh t a r u j j a m a n	a kh t a r u j j O m a n	0.9443	0	proper_noun
+আখনি	a kh n i	a kh O n i	0.8849	0	native
+আখন্দের	a kh o nd e r	a kh O nd e r	0.9656	0	proper_noun
+আখোলা	a kh O l a	a kh O l a	0.9999	1	native
+আখ্যা	a k kh a	a k kh a	0.9769	1	native
+আগস্ট	a g O s T	a g sh T	0.9860	0	loanword
+আগস্টের	a g O s T e r	a g sh T e r	0.9959	0	loanword
+আগাকে	a g a k e	a g a k e	1.0000	1	native
+আগাথা	a g a th a	a g a th a	1.0000	1	native
+আগামসিহ	a g a m o sh i h o	a g a m sh i h O	0.9470	0	native
+আগামিতে	a g a m i t e	a g a m i t e	1.0000	1	native
+আগি	a g i	a g i	1.0000	1	native
+আগুনকে	a g u n k e	a g u n k e	1.0000	1	native
+আগুনমুখা	a g u n m u kh a	a g u n m u kh a	0.9997	1	native
+আগুর	a g u r	a g u r	0.9994	1	native
+আগুরি	a g u r i	a g u r i	1.0000	1	native
+আগেভাগে	a g e bh a g e	a g e bh a g e	0.9999	1	native
+আগের	a g e r	a g e r	0.9995	1	native
+আগেরজন	a g e r j o n	a g e r j o n	0.9677	1	native
+আগোরি	a g O r i	a g O r i	0.9998	1	native
+আগ্রহটা	a gr O h O T a	a gr O h O T a	0.9806	1	native
+আঘন	a gh o n	a gh o n	0.8942	1	native
+আঘাতটা	a gh a t T a	a gh a t T a	0.9992	1	native
+আচরনও	a ch O r o n O	a ch O r O n O	0.8952	0	native
+আছরমুক্ত	a chh o r m u kt O	a chh O r m u kt O	0.9683	0	native
+আছিম	a chh i m	a chh i m	0.9487	1	native
+আছেনই	a chh e n i	a chh e n i	0.9981	1	native
+আছেনও	a chh e n O	a chh e n O	0.9972	1	native
+আজনম	a j o n m O	a j n o m	0.9422	0	native
+আজবক	a j b o k	a j b o k	0.9806	1	native
+আজমপুর	a j O m p u r	a j O m p u r	0.9438	1	proper_noun
+আজল	a j O l o	a j O l	0.9053	0	native
+আজহা	a j h a	a j h a	0.9999	1	proper_noun
+আজাবের	a j a b e r	a j a b e r	0.9999	1	loanword
+আজিকে	a j i k e	a j i k e	1.0000	1	native
+আজিবনের	a j i b O n e r	a j i b o n e r	0.9787	0	native
+আজিমপুরের	a j i m p u r e r	a j i m p u r e r	0.9989	1	proper_noun
+আজিমি	a j i m i	a j i m i	1.0000	1	native
+আজুমার	a j u m a r	a j u m a r	0.9998	1	native
+আজ্ঞপ্ত	a g g o p t O	a g g O p t O	0.9413	0	tatsama
+আজ্ঞাবহ	a g g a b o h O	a g g a b o h O	0.9870	1	tatsama
+আঞ্চলিক	a nch O l i k	a nch O l i k	0.9245	1	native
+আটগ্রাম	a T gr a m	a T gr a m	0.9982	1	native
+আটটিসহ	a T T i sh o h O	a T T i sh o h O	0.9999	1	native
+আটতলার	a T t o l a r	a T t o l a r	0.9990	1	native
+আটলান্টিকে	a T l a n T i k e	a T l a n T i k e	0.9999	1	proper_noun
+আটলান্টিকের	a T l a n T i k e r	a T l a n T i k e r	0.9998	1	proper_noun
+আটশট্টি	a T sh O T T i	a T sh O T T i	0.9828	1	native
+আটসাট	a T sh a T	a T sh a T	0.9966	1	native
+আটিসার	a T i sh a r	a T i sh a r	0.9981	1	native
+আঠুলে	a Th u l e	a Th u l e	1.0000	1	native
+আতাতে	a t a t e	a t a t e	1.0000	1	native
+আতাতের	a t a t e r	a t a t e r	0.9999	1	native
+আতার্তুক	a t a r t u k	a t a r t u k	0.9995	1	proper_noun
+আতিকুর	a t i k u r	a t i k u r	0.9999	1	pr
+আতিকুরের	a t i k u r e r	a t i k u r e r	0.9999	1	proper_noun
+আত্তিকৃত	a tt i k r i t O	a tt i k r i t o	0.9058	0	tatsama
+আত্দপ্রকাশ	a t t O pr O k a sh	a t d O pr O k a sh	0.9719	0	native
+আত্মবিশ্বাসও	a t t O b i sh sh a sh O	a t t O b i sh sh a sh O	0.9860	1	tatsama
+আত্মবিশ্বাসকে	a t t O b i sh sh a sh k e	a t t O b i sh sh a sh k e	0.9917	1	tatsama
+আথাল	a th a l	a th a l	0.8807	1	native
+আদত্ত	a d O tt O	a d o tt O	0.9619	0	native
+আদদ	a d O d	a d O d	0.9407	1	native
+আদনা	a d n a	a d n a	0.9974	1	native
+আদবে	a d O b e	a d b e	0.9955	0	native
+আদমদিঘি	a d O m d i gh i	a d m O d i gh i	0.9071	0	native
+আদর্শচ্যুত	a d O r sh O ch u t O	a d O r sh O ch ch u t O	0.9347	0	native
+আদর্শেই	a d O r sh e i	a d O r sh e i	0.9688	1	native
+আদলটি	a d O l T i	a d O l T i	0.9394	1	native
+আদলতে	a d O l t e	a d l o t e	0.9025	0	native
+আদলেই	a d O l e i	a d O l e i	0.8936	1	native
+আদাবর	a d a b o r	a d a b o r	0.9275	1	proper_noun
+আদালতগুলোতে	a d a l o t g u l O t e	a d a l o t g u l O t e	0.9984	1	native
+আদিতমারি	a d i t O m a r i	a d i t m a r i	0.9551	0	native
+আদিতে	a d i t e	a d i t e	1.0000	1	native
+আদিবা	a d i b a	a d i b a	1.0000	1	proper_noun
+আদেখা	a d e kh a	a d e kh a	0.9923	1	native
+আদেশসমুহ	a d e sh sh O m u h o	a d e sh sh o m u h o	0.9570	0	native
+আদেশের	a d e sh e r	a d e sh e r	0.9999	1	native
+আদ্রে	a d r e	a d r e	0.9998	1	native
+আধপাকা	a dh p a k a	a dh p a k a	0.9994	1	native
+আধাঘন্টার	a dh a gh o n T a r	a dh a gh o n T a r	0.9997	1	native
+আধার	a dh a r	a dh a r	0.9996	1	native
+আধিক্যে	a dh i k k e	a dh i k k e	0.9999	1	native
+আধিজোইবিক	a dh i j O i b i k	a dh i j O i b i k	0.9995	1	native
+আধুত	a dh u t O	a dh u t	0.9505	0	native
+আধ্যাত্মিক	a d dh a t i k	a d dh a t t i k	0.9977	0	native
+আনএন্ডিং	a n e n D i ng	a n e n D i ng	0.9999	1	loanword
+আনন	a n O n	a n O n	0.9882	1	native
+আনন্দজজ্ঞে	a n O nd O j o gg e	a n O nd O j o g g e	0.9578	0	tatsama
+আনন্দহিন	a n O nd O h i n	a n O nd O h i n	0.9792	1	native
+আনফিট	a n ph i T	a n ph i T	0.9993	1	native
+আনলিমা	a n l i m a	a n l i m a	0.9996	1	proper_noun
+আনসার	a n s a r	a n s a r	0.9969	1	proper_noun
+আনসারি	a n s a r i	a n s a r i	0.9959	1	loanword
+আনাতোলি	a n a t O l i	a n a t O l i	0.9999	1	native
+আনানের	a n a n e r	a n a n e r	0.9999	1	native
+আনামুলের	a n a m u l e r	a n a m u l e r	0.9999	1	native
+আনারও	a n a r O	a n a r O	0.9969	1	native
+আনিনি	a n i n i	a n i n i	1.0000	1	native
+আনির	a n i r	a n i r	0.9996	1	native
+আনিসুর	a n i s u r	a n i s u r	0.9851	1	proper_noun
+আনুরক্তি	a n u r O kt i	a n u r O kt i	0.9861	1	native
+আনুশ্ঠানিকতার	a n u sh Th a n i k o t a r	a n u sh Th a n i k o t a r	0.9992	1	native
+আনেলকাকে	a n e l k a k e	a n e l k a k e	0.9995	1	native
+আন্তজোগাজোগ	a nt O j O g a j O g	a nt O j O g a j O g	0.9976	1	native
+আন্তরিকতাকে	a nt O r i k o t a k e	a nt O r i k o t a k e	0.9966	1	native
+আন্দোলনেও	a nd O l O n e O	a nd O l o n e O	0.9641	0	native
+আন্দ্রেই	a ndr e i	a ndr e i	0.9997	1	proper_noun
+আন্বিক্ষিকি	a n n i kkh i k i	a n n i kkh i k i	0.9988	1	tatsama
+আপটন	a p T o n	a p T o n	0.9825	1	proper_noun
+আপডেটেড	a p D e T e D	a p D e T e D	0.9997	1	loanword
+আপত্কালিন	a p O t k a l i n	a p O t k a l i n	0.9715	1	native
+আপনজনে	a p O n j o n e	a p O n j O n e	0.9133	0	native
+আপাং	a p a ng	a p a ng	0.9999	1	native
+আপাদের	a p a d e r	a p a d e r	0.9999	1	native
+আপিলকারি	a p i l k a r i	a p i l k a r i	0.9994	1	native
+আপিসে	a p i s e	a p i s e	0.9979	1	loanword
+আপেক্ষিকতাবাদ	a p e kkh i k o t a b a d	a p e kkh i k o t a b a d	0.9923	1	tatsama
+আপোশ	a p O sh	a p O sh	0.9992	1	native
+আপোস	a p O sh	a p O sh	0.9863	1	native
+আপ্পু	a p p u	a p p u	1.0000	1	native
+আপ্রান	a pr a n	a pr a n	0.9952	1	native
+আফগানজুদ্ধে	a ph g a n j u d dh e	a ph g a n j u d dh e	0.9996	1	tatsama
+আফজাল	a ph j a l	a ph j a l	0.9971	1	proper_noun
+আফজালকে	a ph j a l k e	a ph j a l k e	0.9998	1	proper_noun
+আফতাবউদ্দিন	a ph t a b u d d i n	a ph t a b u d d i n	0.9998	1	proper_noun
+আফসানার	a ph s a n a r	a ph s a n a r	0.9815	1	proper_noun
+আফার	a ph a r	a ph a r	0.9998	1	native
+আফুসি	a ph u sh i	a ph u sh i	0.9970	1	native
+আফ্রিকাও	a ph r i k a O	a ph r i k a O	0.9996	1	proper_noun
+আফ্রিকাগামি	a ph r i k a g a m i	a ph r i k a g a m i	0.9997	1	loanword
+আবগারি	a b g a r i	a b g a r i	0.9997	1	native
+আবদু	a b d u	a b d u	0.9988	1	native
+আবদুল্লাপুর	a b d u l l a p u r	a b d u l l a p u r	0.9986	1	native
+আবনুস	a b n u s	a b n u sh	0.9782	0	native
+আবর্জনার	a b O r j o n a r	a b O r j O n a r	0.9637	0	native
+জাকিরকে	j a k i r k e	j a k i r k e	0.9998	1	native
+জাগন্ত	j a g O nt O	j a g o nt O	0.9569	0	native
+জাগরন	j a g O r o n	j a g o r o n	0.8446	0	native
+জাগল	j a g l O	j a g O l	0.9447	0	native
+জাগাচ্ছে	j a g a ch chh e	j a g a ch chh e	0.9999	1	native
+জাগেন	j a g e n	j a g e n	0.9988	1	native
+জাজমেন্ট	j a j m e n T	j a j m e n T	0.9643	1	native
+জাজেস	j a j e s	j a j e s	0.9884	1	loanword
+জাতিগতভাবে	j a t i g o t O bh a b e	j a t i g o t O bh a b e	0.9706	1	native
+জাতিগুলোর	j a t i g u l O r	j a t i g u l O r	0.9990	1	native
+জাতের	j a t e r	j a t e r	0.9993	1	native
+জাত্রাকালে	j a tr a k a l e	j a tr a k a l e	0.9999	1	native
+জাত্রাশিল্প	j a tr a sh i l p O	j a tr a sh i l p O	0.9999	1	native
+জাদেজাকে	j a d e j a k e	j a d e j a k e	1.0000	1	proper_noun
+জানটা	j a n T a	j a n T a	0.9999	1	native
+জানতেও	j a n t e O	j a n t e O	0.9963	1	native
+জানলে	j a n l e	j a n l e	0.9978	1	native
+জানানোটা	j a n a n O T a	j a n a n O T a	1.0000	1	loanword
+জানালেও	j a n a l e O	j a n a l e O	0.9998	1	native
+জান্নাতুন	j a nn a t u n	j a nn a t u n	0.9996	1	proper_noun
+জাপানকে	j a p a n k e	j a p a n k e	1.0000	1	proper_noun
+জাপানের	j a p a n e r	j a p a n e r	0.9999	1	proper_noun
+জাফরুল্লাহ	j a ph O r u l l a h	j a ph r u l l a h	0.9853	0	proper_noun
+জাফরুল্লাহর	j a ph O r u l l a r	j a ph r u l l a h r	0.9640	0	proper_noun
+জাবেদ	j a b e d	j a b e d	0.9981	1	native
+জাভেদকে	j a bh e d k e	j a bh e d k e	0.9999	1	native
+জামতলার	j a m t o l a r	j a m t o l a r	0.9990	1	native
+জামদানির	j a m d a n i r	j a m d a n i r	0.9993	1	native
+জামালপুরে	j a m a l p u r e	j a m a l p u r e	0.9989	1	native
+জামিনজোগ্য	j a m i n j O g g O	j a m i n j O g g O	0.9999	1	native
+জামিলা	j a m i l a	j a m i l a	1.0000	1	native
+জামের	j a m e r	j a m e r	0.9995	1	native
+জাম্পিং	j a mp i ng	j a mp i ng	1.0000	1	loanword
+জাম্বুরিতে	j a mb u r i t e	j a mb u r i t e	1.0000	1	proper_noun
+জারদারিই	j a r d a r i i	j a r d a r i i	0.9712	1	native
+জারাকে	j a r a k e	j a r a k e	1.0000	1	proper_noun
+জারিন	j a r i n	j a r i n	0.9997	1	proper_noun
+জার্নালের	j a r n a l e r	j a r n a l e r	0.9998	1	loanword
+জার্বিস	j a r b i s	j a r b i s	0.9929	1	proper_noun
+জালশুকা	j a l sh u k a	j a l sh u k a	0.9997	1	native
+জালালাবাদের	j a l a l a b a d e r	j a l a l a b a d e r	0.9998	1	proper_noun
+জালালের	j a l a l e r	j a l a l e r	0.9999	1	proper_noun
+জাহরা	j a h r a	j a h r a	0.9996	1	proper_noun
+জাহাজের	j a h a j e r	j a h a j e r	0.9997	1	native
+জাহিরুল	j a h i r u l	j a h i r u l	0.9987	1	proper_noun
+জিইডি	j i i D i	j i i D i	1.0000	1	loanword
+জিইডির	j i i D i r	j i i D i r	0.9999	1	loanword
+জিউসের	j i u s e r	j i u s e r	0.9881	1	proper_noun
+জিএইচএসএ	j i e i ch e s e	j i e i ch e s e	0.9967	1	loanword
+জিওনি	j i O n i	j i O n i	0.9990	1	native
+জিঘাংসার	j i gh a ng sh a r	j i gh a ng sh a r	0.9995	1	native
+জিঘৎসা	j i gh O t sh a	j i gh o t sh a	0.9985	0	native
+জিটুজি	j i T u j i	j i T u j i	1.0000	1	native
+জিতি	j i t i	j i t i	1.0000	1	native
+জিতেই	j i t e i	j i t e i	1.0000	1	native
+জিতেও	j i t e O	j i t e O	0.9996	1	native
+জিনতলা	j i n t o l a	j i n t o l a	0.9987	1	native
+জিনম	j i n O m	j i n o m	0.9779	0	loanword
+জিনারদি	j i n a r d i	j i n a r d i	0.9933	1	native
+জিনিসগুলোর	j i n i sh g u l O r	j i n i sh g u l O r	0.9989	1	native
+জিন্দাবাজারের	j i nd a b a j a r e r	j i nd a b a j a r e r	0.9996	1	native
+জিপসাম	j i p s a m	j i p s a m	0.9875	1	proper_noun
+জিপিএ	j i p i e	j i p i e	0.9997	1	loanword
+জিবদের	j i b d e r	j i b d e r	0.9358	1	native
+জিবনজুদ্ধ	j i b O n j u d dh O	j i b o n j u d dh O	0.9920	0	tatsama
+জিবনবাজি	j i b O n b a j i	j i b o n b a j i	0.9815	0	native
+জিববইচিত্র্যে	j i b O b O i ch i t r e	j i b o b i ch i t r e	0.9622	0	native
+জিবানুনাশক	j i b a n u n a sh O k	j i b a n u n a sh o k	0.9564	0	native
+জিবাশ্মটি	j i b a sh sh O T i	j i b a sh m o T i	0.9122	0	native
+জিবি	j i b i	j i b i	0.9999	1	native
+জিবিপিএস	j i b i p i e s	j i b i p i e s	0.9994	1	loanword
+জিবুতি	j i b u t i	j i b u t i	1.0000	1	proper_noun
+জিভ	j i bh	j i bh	0.9685	1	native
+জিমন্যাস্টিকস	j i m n A s T i k s	j i m n A sh T i k s	0.9813	0	loanword
+জিম্মিদশা	j i mm i d o sh a	j i mm i d o sh a	0.9272	1	native
+জিরাব	j i r a b O	j i r a b	0.9733	0	native
+জিরোতে	j i r O t e	j i r O t e	0.9999	1	native
+জিলকদ	j i l k o d	j i l k o d	0.9943	1	proper_noun
+জিলবার্তো	j i l b a r t O	j i l b a r t O	0.9997	1	proper_noun
+জিলানির	j i l a n i r	j i l a n i r	0.9998	1	proper_noun
+জিল্লার	j i l l a r	j i l l a r	0.9998	1	proper_noun
+জিসিই	j i s i i	j i s i i	0.9913	1	loanword
+জিসিএম	j i s i e m	j i s i e m	0.9946	1	loanword
+জিহাদি	j i h a d i	j i h a d i	1.0000	1	native
+জিৎ	j i t	j i t	0.9997	1	native
+জুইকে	j u i k e	j u i k e	1.0000	1	proper_noun
+জুজুর	j u j u r	j u j u r	0.9971	1	native
+জুটিকে	j u T i k e	j u T i k e	1.0000	1	native
+জুদ্ধশিশু	j u d dh O sh i sh u	j u d dh O sh i sh u	0.9983	1	tatsama
+জুনভিত্তিতে	j u n bh i tt i t e	j u n o bh i tt i t e	0.9723	0	native
+জুনাপিউ	j u n a p i u	j u n a p i u	0.9999	1	native
+জুনিপার	j u n i p a r	j u n i p a r	0.9996	1	proper_noun
+জুবকটিকে	j u b O k T i k e	j u b o k T i k e	0.9976	0	native
+জুবাইদার	j u b a i d a r	j u b a i d a r	0.9995	1	native
+জুবার	j u b a r	j u b a r	0.9984	1	native
+জুবিন	j u b i n	j u b i n	0.9976	1	native
+জুভদের	j u bh d e r	j u bh o d e r	0.9517	0	native
+জুভরা	j u bh O r a	j u bh r a	0.9586	0	native
+জুভেন্টাস	j u bh e n T a s	j u bh e n T a s	0.9973	1	loanword
+জুমঘরে	j u m gh o r e	j u m gh o r e	0.9978	1	native
+জুরে	j u r e	j u r e	0.9994	1	native
+জুল	j u l	j u l	0.9931	1	native
+জুলকারনাইনকে	j u l k a r n a i n k e	j u l k a r n a i n k e	0.9983	1	proper_noun
+জুলফি	j u l ph i	j u l ph i	1.0000	1	native
+জুলফিকার	j u l ph i k a r	j u l ph i k a r	0.9997	1	proper_noun
+জুস	j u s	j u s	0.9124	1	loanword
+জুহরি	j u h r i	j u h r i	0.9285	1	native
+জেকস	j e k s	j e k s	0.9965	1	loanword
+জেটিঘাটে	j e T i gh a T e	j e T i gh a T e	0.9999	1	native
+জেডু	j e D u	j e D u	0.9999	1	native
+জেতানোর	j e t a n O r	j e t a n O r	0.9989	1	native
+জেদ্দার	j e d d a r	j e d d a r	0.9998	1	proper_noun
+জেবি	j e b i	j e b i	0.9999	1	native
+জেমসের	j e m s e r	j e m s e r	0.9963	1	proper_noun
+জেরার	j e r a r	j e r a r	0.9981	1	native
+জেরিনা	j e r i n a	j e r i n a	1.0000	1	proper_noun
+জেরোনিমোর	j e r O n i m O r	j e r O n i m O r	0.9992	1	proper_noun
+জেরোম	j e r O m	j e r O m	0.9992	1	proper_noun
+জেলেকে	j e l e k e	j e l e k e	0.9998	1	native
+জেলেরা	j e l e r a	j e l e r a	0.9992	1	native
+জোইনকাঠি	j O i n k a Th i	j O i n k a Th i	0.9637	1	pr
+জোইনা	j O i n a	j O i n a	0.9995	1	native
+জোগানকারি	j O g a n k a r i	j O g a n k a r i	0.9998	1	native
+জোগাল	j O g a l	j O g a l	0.9831	1	native
+জোটবদ্ধভাবে	j O T b o d dh O bh a b e	j O T b o d dh O bh a b e	0.9593	1	tatsama
+জোটেরই	j O T e r i	j O T e r i	0.9937	1	native
+জোতদার	j O t d a r	j O t d a r	0.9957	1	native
+জোনাল	j O n a l	j O n a l	0.9628	1	native
+জোনের	j O n e r	j O n e r	0.9984	1	native
+জোবেদা	j O b e d a	j O b e d a	0.9996	1	native
+জোব্বা	j O b b a	j O b b a	0.9997	1	native
+জোরপুর্বক	j O r p u r b O k	j O r p u r b o k	0.9757	0	native
+জোরাজুরির	j O r a j u r i r	j O r a j u r i r	0.9992	1	native
+জোহা	j O h a	j O h a	0.9998	1	native
+জোহানেস	j O h a n e s	j O h a n e s	0.9978	1	proper_noun
+জ্ঞানকোশ	g A n k O sh	g A n k O sh	0.9747	1	tatsama
+জ্ঞানশুন্য	g A n sh u n n O	g A n sh u n n O	0.9907	1	tatsama
+জ্বলতাছে	j o l t a chh e	j o l O t a chh e	0.9008	0	tatsama
+জ্বলদগ্নি	j o l O d O g n i	j o l d o g n i	0.9163	0	tatsama
+জ্বালানির	j a l a n i r	j a l a n i r	0.9997	1	tatsama
+জ্বালে	j a l e	j a l e	0.9997	1	tatsama
+জ্যাকবকে	j A k O b k e	j A k b k e	0.9882	0	proper_noun
+জ্যাজ	j A j	j A j	0.9982	1	loanword
+জ্যেশ্ঠতম	j e sh Th O t o m O	j e sh Th t o m O	0.8935	0	native
+জ্যেশ্ঠদের	j e sh Th O d e r	j e sh Th d e r	0.9321	0	native
+জ্যোতির্বিদ	j O t i r b i d	j O t i r b i d	0.9988	1	native
+জ্যোতিশি	j O t i sh i	j O t i sh i	0.9999	1	native
+ঝকঝক	jh o k jh o k	jh o k jh o k	0.9958	1	native
+ঝকমারি	jh o k m a r i	jh o k m a r i	0.9990	1	native
+ঝপাঝপ	jh o p a jh o p	jh o p a jh o p	0.9983	1	native
+ঝমাঝম	jh o m a jh o m	jh o m a jh o m	0.9915	1	native
+ঝম্পন	jh o mp o n	jh o mp O n	0.9640	0	native
+ঝরতি	jh O r t i	jh O r t i	0.9915	1	native
+ঝরার	jh o r a r	jh o r a r	0.9991	1	native
+ঝরেছে	jh O r e chh e	jh O r e chh e	0.9968	1	native
+ঝরো	jh o r O	jh o r O	0.9860	1	native
+ঝলঝল	jh o l jh o l	jh O l jh o l	0.9266	0	native
+ঝলমলে	jh o l m o l e	jh o l m o l e	0.9913	1	native
+ঝাউচরে	jh a u ch o r e	jh a u ch o r e	0.9485	1	native
+ঝাউবাগানে	jh a u b a g a n e	jh a u b a g a n e	0.9999	1	native
+ঝাজর	jh a j o r	jh a j O r	0.9799	0	native
+ঝান্ডা	jh a n D a	jh a n D a	1.0000	1	native
+ঝাপতাল	jh a p t a l	jh a p t a l	0.9966	1	native
+ঝামেলামুক্ত	jh a m e l a m u kt O	jh a m e l a m u kt O	0.9998	1	native
+ঝামেলার	jh a m e l a r	jh a m e l a r	0.9989	1	native
+ঝালকাঠিতে	jh a l O k a Th i t e	jh a l k a Th i t e	0.9988	0	native
+ঝিঝিপোকা	jh i jh i p O k a	jh i jh i p O k a	1.0000	1	native
+ঝুকিপুর্নভাবে	jh u k i p u r n O bh a b e	jh u k i p u r n o bh a b e	0.9849	0	native
+ঝুমা	jh u m a	jh u m a	1.0000	1	native
+ঝুর	jh u r	jh u r	0.9995	1	native
+ঝুরা	jh u r a	jh u r a	0.9999	1	native
+ঝেং	jh e ng	jh e ng	0.9923	1	native
+ঝোকের	jh O k e r	jh O k e r	0.9997	1	native
+ঝোর	jh O r	jh O r	0.9994	1	native
+টংগস	T o ng g s	T o ng g o s	0.9242	0	loanword
+টংদোকান	T o ng d O k a n	T o ng d O k a n	0.9988	1	native
+টকশো	T o k sh O	T o k sh O	0.9959	1	native
+টক্সিক	T o k s i k	T o k s i k	0.9874	1	loanword
+টগর	T o g O r	T o g O r	0.9590	1	native
+টপকাতে	T o p k a t e	T o p k a t e	0.9969	1	native
+টপকানো	T o p k a n O	T o p k a n O	0.9983	1	native
+টপকে	T O p k e	T o p k e	0.9940	0	native
+টপকোডার	T o p k O D a r	T o p k O D a r	0.9940	1	native
+টবে	T o b e	T o b e	0.9957	1	loanword
+টমক	T o m O k	T o m O k	0.9708	1	native
+টমকে	T o m k e	T o m k e	0.9927	1	proper_noun
+টমসন	T o m s o n	T o m s o n	0.9928	1	proper_noun
+টমাসের	T o m a sh e r	T o m a s e r	0.9946	0	proper_noun
+টমিগান	T O m i g a n	T o m i g a n	0.9530	0	loanword
+টর্নেডোতে	T o r n e D O t e	T o r n e D O t e	0.9965	1	loanword
+টলিউডে	T o l i u D e	T o l i u D e	0.9842	1	native
+টহলও	T o h O l O	T o h O l O	0.9429	1	native
+টহলের	T o h O l e r	T o h O l e r	0.9897	1	native
+টাংগন	T a ng g o n	T a ng g o n	0.9875	1	loanword
+টাংগা	T a ng g a	T a ng g a	0.9999	1	native
+টাংানো	T a ng a n O	T a ng g a n O	0.9562	0	native
+টাইগারদের	T a i g a r d e r	T a i g a r d e r	0.9996	1	proper_noun
+টাইগারপাস	T a i g a r p a s	T a i g a r p a s	0.9984	1	proper_noun
+টাইজেন	T a i j e n	T a i j e n	0.9999	1	proper_noun
+টাইজেনচালিত	T a i j e n ch a l i t O	T a i j e n ch a l i t O	0.9999	1	native
+টাইটান	T a i T a n	T a i T a n	0.9999	1	proper_noun
+টাইটানের	T a i T a n e r	T a i T a n e r	0.9999	1	proper_noun
+টাইডাই	T a i D a i	T a i D a i	1.0000	1	loanword
+টাইপরাইটার	T a i p r a i T a r	T a i p r a i T a r	0.9978	1	loanword
+টাইপিং	T a i p i ng	T a i p i ng	1.0000	1	loanword
+টাইব্রেকার	T a i br e k a r	T a i br e k a r	0.9996	1	loanword
+টাইব্রেকারে	T a i br e k a r e	T a i br e k a r e	0.9997	1	loanword
+টাইমস্	T a i m s	T a i m sh	0.8684	0	loanword
+টাইমারটি	T a i m a r T i	T a i m a r T i	1.0000	1	loanword
+টাকাগুলো	T a k a g u l O	T a k a g u l O	1.0000	1	native
+টাটা	T a T a	T a T a	1.0000	1	native
+টানতেই	T a n t e i	T a n t e i	0.9998	1	native
+টানাটানির	T a n a T a n i r	T a n a T a n i r	0.9998	1	native
+টাফি	T a ph i	T a ph i	1.0000	1	loanword
+টামা	T a m a	T a m a	1.0000	1	native
+টারবাইনের	T a r b a i n e r	T a r b a i n e r	0.9993	1	loanword
+টারল	T a r o l	T a r l O	0.8920	0	loanword
+টার্মিনালের	T a r m i n a l e r	T a r m i n a l e r	0.9999	1	loanword
+টালমাটাল	T a l m a T a l	T a l m a T a l	0.9980	1	native
+টালিউডের	T a l i u D e r	T a l i u D e r	0.9998	1	native
+টাল্লোর	T a l l O r	T a l l O r	0.9993	1	native
+টাস্কফোর্সে	T a s k ph O r s e	T a sh k ph O r s e	0.9989	0	loanword
+টিইইউএস	T i i i u e s	T i i i u e s	0.9201	1	native
+টিএনসি	T i e n s i	T i e n s i	0.9979	1	loanword
+টিএসসি	T i e s s i	T i e s s i	0.9985	1	loanword
+টিএসসিতে	T i e s s i t e	T i e s s i t e	0.9990	1	loanword
+টিকচিহ্ন	T i k ch i n n O	T i k ch i n n O	0.9983	1	native
+টিকিটগুলো	T i k i T g u l O	T i k i T g u l O	1.0000	1	native
+টিকিটিও	T i k i T i O	T i k i T i O	0.9999	1	native
+টিকেও	T i k e O	T i k e O	0.9998	1	native
+টিচার্স	T i ch a r s	T i ch a r s	0.9984	1	loanword
+টিজার	T i j a r	T i j a r	0.9999	1	loanword
+টিটিপির	T i T i p i r	T i T i p i r	1.0000	1	loanword
+টিতে	T i t e	T i t e	1.0000	1	native
+টিনাশে	T i n a sh e	T i n a sh e	1.0000	1	loanword
+টিন্ডিশ	T i n D i sh	T i n D i sh	0.9994	1	loanword
+টিপতে	T i p t e	T i p t e	0.9994	1	native
+টিবির	T i b i r	T i b i r	0.9999	1	loanword
+টিমটিমে	T i m T i m e	T i m T i m e	0.9999	1	native
+টিলাকে	T i l a k e	T i l a k e	1.0000	1	native
+টিলারের	T i l a r e r	T i l a r e r	0.9999	1	native
+অলজ্জ	o l o j j O	o l o j j O	0.9477	1	native
+অশংক	o sh o ng k O	o sh o ng k O	0.9824	1	native
+অশান্ত	o sh a nt O	o sh a nt O	0.9998	1	native
+অসামঞ্জস্য	o sh a m O n j O sh sh O	o sh a m o nj o sh sh O	0.9573	0	native
+অস্পৃশ্ট	o s p ri sh T O	o s p ri sh T O	0.9629	1	tatsama
+অহমবোধের	o h O m b O dh e r	o h O m b O dh e r	0.9765	1	native
+অহমে	o h O m e	o h O m e	0.9627	1	native
+অহরহই	o h O r o h O i	o h O r o h i	0.8217	0	native
+আইআইসিটি	a i a i s i T i	a i a i s i T i	0.9997	1	loanword
+আইএমএফে	a i e m e ph e	a i e m e ph e	0.9999	1	loanword
+আইকনের	a i k o n e r	a i k o n e r	0.9800	1	loanword
+আইনচ্যুত	a i n ch u t O	a i n ch u t O	0.9693	1	native
+আইনসম্মত	a i n sh o mm O t O	a i n sh o mm o t O	0.9365	0	native
+আইনেরই	a i n e r i	a i n e r i	0.9958	1	native
+আইভরিকোস্টও	a i bh o r i k O s T O	a i bh r i k O sh T O	0.9717	0	loanword
+আইস	a i s	a i s	0.9900	1	loanword
+আইসা	a i sh a	a i sh a	0.9977	1	native
+আকারেই	a k a r e i	a k a r e i	1.0000	1	native
+আকৃতিগত	a k r i t i g o t O	a k ri t i g o t O	0.9681	0	tatsama
+আক্রোশমুলক	a k r O sh m u l O k	a kr O sh m u l o k	0.9401	0	native
+আগ্রহিদের	a g r O h i d e r	a gr O h i d e r	0.9997	0	native
+আচ্ছিন্ন	a ch chh i n n O	a ch chh i nn O	0.9996	0	native
+আজাব	a j a b	a j a b	0.9396	1	native
+আটকরা	a T O k r a	a T k o r a	0.9603	0	native
+আটবার	a T b a r	a T b a r	0.9995	1	native
+আতংকজনক	a t O ng k O j o n O k	a t o ng k o j o n O k	0.8299	0	native
+আতু	a t u	a t u	1.0000	1	native
+আদল	a d O l	a d O l	0.9126	1	native
+আদান	a d a n	a d a n	0.9979	1	native
+আদালতেই	a d a l o t e i	a d a l o t e i	0.9908	1	native
+আধুনিককালে	a dh u n i k k a l e	a dh u n i k k a l e	0.9999	1	native
+আনবেন	a n b e n	a n b e n	0.9901	1	native
+আনমনা	a n m o n a	a n m o n a	0.9850	1	native
+আনাগোনার	a n a g O n a r	a n a g O n a r	0.9999	1	native
+আনাচে	a n a ch e	a n a ch e	1.0000	1	native
+আনারসের	a n a r o sh e r	a n a r s e r	0.9941	0	loanword
+আনুকুল্য	a n u k u l l O	a n u k u l l O	1.0000	1	native
+আনুগত্যই	a n u g o t t O i	a n u g o t t o i	0.9416	0	native
+আপগ্রেডেশন	a p g r e D e sh o n	a p gr e D e sh o n	0.9962	0	loanword
+আপরুচি	a p r u ch i	a p r u ch i	0.9993	1	native
+আপাদমস্তক	a p a d O m o st O k	a p a d m o st O k	0.9365	0	native
+আফগানিস্তানের	a ph g a n i st a n e r	a ph g a n i st a n e r	0.9998	1	compound
+আফিলের	a ph i l e r	a ph i l e r	0.9999	1	native
+আশখ্যাত	a sh kh kh A t O	a sh kh A t O	0.9661	0	native
+জাগবে	j a g b e	j a g b e	0.9982	1	native
+জাগরনের	j a g O r O n e r	j a g o r o n e r	0.9359	0	native
+জাচ্ছিলো	j a ch chh i l O	j a ch chh i l O	0.9999	1	native
+জাজিম	j a j i m	j a j i m	0.9995	1	native
+জাটি	j a T i	j a T i	1.0000	1	native
+জানতামই	j a n t a m i	j a n t a m i	0.9856	1	native
+জাবর	j a b o r	j a b O r	0.9431	0	native
+জারিতে	j a r i t e	j a r i t e	1.0000	1	native
+জিআর	j i a r	j i a r	0.9891	1	loanword
+জিএসএ	j i e s e	j i e s e	0.9972	1	loanword
+জিএসবির	j i e s b i r	j i e s b i r	0.9967	1	loanword
+জিওগ্রাফি	j i O g r a ph i	j i O gr a ph i	0.9998	0	loanword
+জিওফফ্রে	j i O ph o ph r e	j i O ph ph r e	0.9997	0	loanword
+জিওভান্নি	j i O bh a n n i	j i O bh a nn i	0.9998	0	proper_noun
+জিতলে	j i t l e	j i t l e	0.8868	1	native
+জিমেইল	j i m e i l	j i m e i l	0.9988	1	proper_noun
+জির্ন	j i r n O	j i r n O	0.9998	1	native
+জুপ্পি	j u p p i	j u p p i	1.0000	1	native
+জুরালি	j u r a l i	j u r a l i	1.0000	1	native
+জুলেখা	j u l e kh a	j u l e kh a	0.9998	1	proper_noun
+জেকেউ	j e k e u	j e k e u	0.9999	1	proper_noun
+জেরার্ড	j e r a r D	j e r a r D	0.9980	1	proper_noun
+জোউনজিবনের	j O u n O j i b O n e r	j O u n o j i b o n e r	0.9926	0	native
+ঝঞ্ঝনা	jh o n jh o n a	jh o n jh O n a	0.9579	0	native
+ঝরনাকে	jh o r n a k e	jh o r O n a k e	0.9372	0	native
+ঝাজরাচকি	jh a j r a ch O k i	jh a j r a ch k i	0.9796	0	native
+ঝাট্	jh a T	jh a T	0.9979	1	native
+ঝাপ	jh a p	jh a p	0.9978	1	native
+ঝাপান	jh a p a n O	jh a p a n	0.9937	0	native
+টপসে	T o p s e	T o p s e	0.9831	1	loanword
+টলা	T o l a	T o l a	0.9998	1	native
+টাংান	T a ng g a n O	T a ng g a n	0.9637	0	native
+টাইলসের	T a i l s e r	T a i l s e r	0.9990	1	loanword
+টানাও	T a n a O	T a n a O	0.9999	1	native
+টার্গেট	T a r g e T	T a r g e T	0.9997	1	loanword
+টালবাহানা	T a l b a h a n a	T a l b a h a n a	0.9998	1	native
+টালাটালি	T a l a T a l i	T a l a T a l i	1.0000	1	native
+টিঅ্যান্ডটি	T i A n D T i	T i o A n D T i	0.8675	0	loanword
+টিআইবির	T i a i b i r	T i a i b i r	0.9999	1	loanword
+টিউবসের	T i u b s e r	T i u b s e r	0.9870	1	loanword
+টিউবার	T i u b a r	T i u b a r	0.9999	1	loanword
+টিও	T i O	T i O	0.9991	1	native
+টিশার্ট	T i sh a r T	T i sh a r T O	0.9730	0	native
