@@ -1,0 +1,401 @@
+word	verdict	gold	rechecked	transformer	gru_s1	gru_s2	gru_s3
+খন্ডকালিন	ok	kh o n D O k a l i n	kh o n D O k a l i n	kh o n D O k a l i n	kh o n D O k a l i n	kh o n D O k a l i n	kh o n D k a l i n
+বিভৎস	ok	b i bh o t sh O	b i bh o t sh O	b i bh o t sh O	b i bh o t sh o	b i bh o t sh O	b i bh o t s O
+অটো	ok	o T O	o T O	o T O	o T O	o T O	o T O
+বাবুর্চি	ok	b a b u r ch i	b a b u r ch i	b a b u r ch i	b a b u r ch i	b a b u r ch i	b a b u r ch i
+ওয়াসলকে	wrong	O y a sh l k e	O y a s o l k e	O y a s o l k e	O y a s o l k e	O y a sh o l k e	O y a sh l o k e
+মালিকাধিন	ok	m a l i k a dh i n	m a l i k a dh i n	m a l i k a dh i n	m a l i k a dh i n	m a l i k a dh i n	m a l i k a dh i n
+কেএম	ok	k e e m	k e e m	k e e m	k e e m	k e e m	k e e m
+প্রেসিডেন্টস	wrong	p r e s i D e n T o s	p r e s i D e n T s	p r e s i D e n T s	p r e s i D e n T s	p r e s i D e n T s	p r e s i D e n T s
+গরিবেরা	ok	g O r i b e r a	g O r i b e r a	g O r i b e r a	g O r i b e r a	g o r i b e r a	g O r i b e r a
+অপচয়ি	wrong	o p O ch o y i	o p O ch O y i	o p O ch O y i	o p O ch o y i	o p O ch o y i	o p O ch o y i
+বাসি	ok	b a sh i	b a sh i	b a sh i	b a s i	b a sh i	b a sh i
+সিইওকে	ok	s i i O k e	s i i O k e	s i i O k e	s i i O k e	s i i O k e	s i i O k e
+সাময়িকিকে	wrong	sh a m o y i k i k e	sh a m O y i k i k e	sh a m o y i k i k e	sh a m o y i k i k e	sh a m o i k i k e	sh a m o y i k i k e
+এসিসিএর	ok	e s i s i e r	e s i s i e r	e s i s i e r	e s i s i e r	e s i s i e r	e s i s i e r
+পবার	ok	p o b a r	p o b a r	p o b a r	p o b a r	p o b a r	p o b a r
+কন্যাকে	ok	k O n n a k e	k O n n a k e	k O n n a k e	k O n n a k e	k O n n a k e	k O n n a k e
+ফাপকি–নাটকি	wrong	ph a T k i n a T k i	ph a p O k i n a T O k i	ph a p k i n a T k i	ph a p k i n a T o k i	ph a p k i n a T k i	ph a p k i n a T k i
+উইকেটরক্ষকের	ok	u i k e T r o k kh O k e r	u i k e T r o k kh O k e r	u i k e T r o k kh o k e r	u i k e T r o k kh o k e r	u i k e T r o k kh O k e r	u i k e T r o k kh o k e r
+লতাচাপলি	ok	l o t a ch a p l i	l o t a ch a p l i	l o t a ch a p O l i	l o t a ch a p o l i	l o t a ch a p O l i	l o t a ch a p O l i
+ব্যবধানেই	ok	b A b O dh a n e i	b A b O dh a n e i	b A b O dh a n e i	b A b O dh a n e i	b A b o dh a n e i	b A b O dh a n e i
+অরুন্ধতী	wrong	O r u n dh o t i	O r u n dh O t i	O r u n dh O t i	O r u n dh O t i	O r u n dh O t i	O r u n dh O t i
+বেকে	ok	b e k e	b e k e	b e k e	b e k e	b e k e	b e k e
+পোর্টালের	ok	p O r T a l e r	p O r T a l e r	p O r T a l e r	p O r T a l e r	p O r T a l e r	p O r T a l e r
+ন্যাটোভুক্ত	ok	n A T O bh u k t O	n A T O bh u k t O	n A T O bh u k t O	n A T O bh u k t O	n A T O bh u k t O	n A T O bh u k t O
+কলোড়া	ok	k o l O r a	k o l O r a	k o l O r a	k o l O r a	k o l O r a	k o l O r a
+তিবিলিসি	wrong	t i b i l i sh i	t i b i l i s i	t i b i l i sh i	t i b i l i sh i	t i b i l i sh i	t i b i l i sh i
+সারবেধে	ok	sh a r b e dh e	sh a r b e dh e	sh a r b e dh e	sh a r b e dh e	sh a r b e dh e	sh a r b e dh e
+ধুয়া	ok	dh u y a	dh u y a	dh u y a	dh u y a	dh u y a	dh u y a
+রবিঠাকুর	wrong	r o b i Th a k u r	r O b i Th a k u r	r o b i Th a k u r	r O b i Th a k u r	r O b i Th a k u r	r o b i Th a k u r
+ডাইভারসিফিকেশন	ok	D a i bh a r s i ph i k e sh o n	D a i bh a r s i ph i k e sh o n	D a i bh a r s i ph i k e sh o n	D a i bh a r s i ph i k e sh o n	D a i bh a r s i ph i k e sh o n	D a i bh a r s i ph i k e sh o n
+স্কোয়াডের	ok	s k O y a D e r	s k O y a D e r	s k O y a D e r	s k O y a D e r	s k O y a D e r	s k O y a D e r
+চলেছিল	ok	ch O l e chh i l O	ch O l e chh i l O	ch O l e chh i l O	ch O l e chh i l O	ch o l e chh i l O	ch O l e chh i l O
+পরিকল্পিতভাবে	ok	p O r i k O l p i t O bh a b e	p O r i k O l p i t O bh a b e	p O r i k O l p i t O bh a b e	p O r i k O l p i t O bh a b e	p O r i k O l p i t o bh a b e	p O r i k o l p i t O bh a b e
+রেড্ডির	ok	r e D D i r	r e D D i r	r e D D i r	r e D D i r	r e D D i r	r e D D i r
+তীরভূমি	ok	t i r O bh u m i	t i r O bh u m i	t i r bh u m i	t i r O bh u m i	t i r bh u m i	t i r O bh u m i
+গ্রিলের	ok	g r i l e r	g r i l e r	g r i l e r	g r i l e r	g r i l e r	g r i l e r
+কর্মোদ্যোগ	ok	k o r m O d d O g	k o r m O d d O g	k o r m O d d O g	k o r m O d d O g	k o r m O d d O g	k o r m O d d O g
+তেওরা	wrong	t A O r a	t E O r a	t A O r a	t e O r a	t e O r a	t e O r a
+সুইসরা	wrong	sh u i sh r a	s u i s r a	sh u i sh o r a	sh u i sh o r a	sh u i sh o r a	sh u i sh r a
+হেলাল	ok	h e l a l	h e l a l	h e l a l	h e l a l	h e l a l	h e l a l
+পাঠ্যাবস্থা	ok	p a T Th a b O s th a	p a T Th a b O s th a	p a T Th a b O s th a	p a Th Th a b O s th a	p a Th A b O s th a	p a T Th a b O s th a
+উদগ্রিব	ok	u d g r i b	u d g r i b	u d g r i b	u d g r i b	u d g r i b	u d g r i b
+চুকিয়ে	ok	ch u k i y e	ch u k i y e	ch u k i y e	ch u k i y e	ch u k i y e	ch u k i y e
+পরিদর্শি	ok	p O r i d O r sh i	p O r i d O r sh i	p O r i d O r sh i	p O r i d o r sh i	p O r i d O r sh i	p O r i d O r sh i
+একটিবারও	wrong	e k T i b a r o O	e k T i b a r O	E k T i b a r O	e k T i b a r O	e k T i b a r O	e k T i b a r O
+গড়াচ্ছে	ok	g o r a ch chh e	g o r a ch chh e	g o r a ch chh e	g o r a ch chh e	g o r a ch chh e	g o r a ch chh e
+দখলসংক্রান্ত	ok	d o kh o l sh o ng k r a n t O	d o kh o l sh o ng k r a n t O	d o kh o l sh o ng k r a n t O	d o kh o l sh o ng k r a n t O	d o kh o l sh o ng k r a n t O	d o kh O l sh o ng k r a n t O
+আলেম	ok	a l e m	a l e m	a l e m	a l e m	a l e m	a l e m
+চিনি	ok	ch i n i	ch i n i	ch i n i	ch i n i	ch i n i	ch i n i
+সন্নত	ok	sh o n n o t O	sh o n n o t O	sh o n n o t O	sh o n n o t O	sh o n n o t O	sh o n n o t O
+ইরোপার	ok	i r O p a r	i r O p a r	i r O p a r	i r O p a r	i r O p a r	i r O p a r
+পরচার	ok	p o r ch a r	p o r ch a r	p o r O ch a r	p o r ch a r	p o r ch a r	p o r ch a r
+বাকারা	ok	b a k a r a	b a k a r a	b a k a r a	b a k a r a	b a k a r a	b a k a r a
+ভবের	ok	bh o b e r	bh o b e r	bh o b e r	bh o b e r	bh o b e r	bh o b e r
+গ্রাউন্ডের	ok	g r a u n D e r	g r a u n D e r	g r a u n D e r	g r a u n D e r	g r a u n D e r	g r a u n D e r
+অনুমোদনপত্রের	wrong	O n u m O d o n p o t r e r	O n u m O d O n p o t r e r	O n u m O d o n p o t r e r	O n u m O d o n p o t r e r	O n u m O d o n p o t r e r	O n u m O d o n p o t r e r
+ক্ষত্র	ok	kh o t r O	kh o t r O	kh o t r O	kh o t r O	kh o t r O	kh O t r O
+হাইড্রার	ok	h a i D r a r	h a i D r a r	h a i D r a r	h a i D r a r	h a i D r a r	h a i D r a r
+বাস্কেটবলে	wrong	b a sh k e T b o l e	b a s k e T b o l e	b a sh k e T b o l e	b a sh k e T b o l e	b a sh k e T b o l e	b a sh k e T b o l e
+অপারেটর	ok	o p a r e T o r	o p a r e T o r	o p a r e T o r	o p a r e T o r	o p a r e T o r	o p a r e T o r
+সেকি	ok	sh e k i	sh e k i	sh e k i	sh e k i	sh e k i	sh e k i
+গিনেজ	ok	g i n e j	g i n e j	g i n e j	g i n e j	g i n e j	g i n e j
+নৃবিজ্ঞানের	ok	n r i b i g g a n e r	n r i b i g g a n e r	n r i b i g g a n e r	n r i b i g g a n e r	n r i b i g g a n e r	n r i b i g g a n e r
+জহর	ok	j o h O r	j o h O r	j o h O r	j o h o r	j o h O r	j o h O r
+নাজিয়ার	ok	n a j i y a r	n a j i y a r	n a j i y a r	n a j i y a r	n a j i y a r	n a j i y a r
+কুটনিতি	ok	k u T n i t i	k u T n i t i	k u T n i t i	k u T n i t i	k u T n i t i	k u T n i t i
+নিরাপত্তাবাহিনির	ok	n i r a p o t t a b a h i n i r	n i r a p o t t a b a h i n i r	n i r a p o t t a b a h i n i r	n i r a p o t t a b a h i n i r	n i r a p o t t a b a h i n i r	n i r a p o t t a b a h i n i r
+লেখাই	ok	l e kh a i	l e kh a i	l e kh a i	l e kh a i	l e kh a i	l e kh a i
+কোম্পানিগুলোও	ok	k O m p a n i g u l O O	k O m p a n i g u l O O	k O m p a n i g u l O O	k O m p a n i g u l O O	k O m p a n i g u l O O	k O m p a n i g u l O O
+পরিপত্রের	ok	p O r i p o t r e r	p O r i p o t r e r	p O r i p o t r e r	p O r i p o t r e r	p O r i p o t r e r	p O r i p o t r e r
+বঞ্চহ	ok	b o n ch o h	b o n ch o h	b o n ch o h O	b o n ch o h O	b o n ch O h O	b o n ch o h O
+মহড়াই	wrong	m o h o r a i	m o h O r a i	m o h o r a i	m o h o r a i	m o h o r a i	m o h o r a i
+ডনিলন	ok	D o n i l o n	D o n i l o n	D o n i l o n	D o n i l o n	D o n i l o n	D o n i l o n
+বিসাউয়ের	wrong	b i sh a u e r	b i s a u e r	b i sh a u y e r	b i sh a u y e r	b i sh a u y e r	b i sh a u y e r
+ঢালাওভাবে	ok	Dh a l a O bh a b e	Dh a l a O bh a b e	Dh a l a O bh a b e	Dh a l a O bh a b e	Dh a l a O bh a b e	Dh a l a O bh a b e
+চাহিদাকে	ok	ch a h i d a k e	ch a h i d a k e	ch a h i d a k e	ch a h i d a k e	ch a h i d a k e	ch a h i d a k e
+আর্সেনিকমুক্ত	ok	a r s e n i k m u k t O	a r s e n i k m u k t O	a r s e n i k m u k t O	a r s e n i k m u k t O	a r s e n i k m u k t O	a r s e n i k m u k t O
+ছিলোনা	ok	chh i l O n a	chh i l O n a	chh i l O n a	chh i l O n a	chh i l O n a	chh i l O n a
+বইটার	ok	b O i T a r	b O i T a r	b O i T a r	b O i T a r	b O i T a r	b O i T a r
+প্রতাপগড়	ok	p r O t a p g o r	p r O t a p g o r	p r O t a p g o r	p r O t a p g o r	p r O t a p o g o r	p r O t a p g o r
+অপরদিকে	ok	o p O r d i k e	o p O r d i k e	o p O r d i k e	o p O r d i k e	o p O r d i k e	o p O r d i k e
+বোতামের	ok	b O t a m e r	b O t a m e r	b O t a m e r	b O t a m e r	b O t a m e r	b O t a m e r
+রায়েই	ok	r a y e i	r a y e i	r a y e i	r a y e i	r a y e i	r a y e i
+তদন্তভার	ok	t o d O n t O bh a r	t o d O n t O bh a r	t o d O n t O bh a r	t o d O n t O bh a r	t o d O n t o bh a r	t o d O n t O bh a r
+তলওয়ার	ok	t o l O y a r	t o l O y a r	t o l O y a r	t o l O y a r	t o l O y a r	t o l O y a r
+আশ্রয়কেন্দ্রগুলো	ok	a s r o y k e n d r O g u l O	a s r o y k e n d r O g u l O	a s r o y k e n d r O g u l O	a s r o y k e n d r O g u l O	a s r o y k e n d r O g u l O	a s r o y k e n d r O g u l O
+সমুদ্রসিমান্ত	ok	sh O m u d r O sh i m a n t O	sh O m u d r O sh i m a n t O	sh O m u d r O sh i m a n t O	sh O m u d r O sh i m a n t O	sh O m u d r O sh i m a n t O	sh O m u d r O sh i m a n t O
+রতনসহ	wrong	r o t o n sh o h O	r o t O n sh o h O	r o t O n sh o h O	r o t O n sh o h O	r o t o n sh o h O	r o t O n sh o h O
+ফ্লোরে	ok	ph l O r e	ph l O r e	ph l O r e	ph l O r e	ph l O r e	ph l O r e
+উপস্থিতি	ok	u p O s th i t i	u p O s th i t i	u p O s th i t i	u p O s th i t i	u p O s th i t i	u p O s th i t i
+জনোইক	wrong	j o n O i k	j o n O i k O	j o n O i k	j o n O i k	j o n O i k o	j o n O i k
+অজন্ত	ok	o j o n t O	o j o n t O	o j o n t O	o j O n t O	o j O n t O	o j O n t O
+প্যাকেটগুলো	ok	p A k e T g u l O	p A k e T g u l O	p A k e T g u l O	p A k e T g u l O	p A k e T g u l O	p A k e T g u l O
+নাট্যমেলা	ok	n a T T O m E l a	n a T T O m E l a	n a T T O m E l a	n a T T O m E l a	n a T T O m E l a	n a T T O m E l a
+আলুটিলার	ok	a l u T i l a r	a l u T i l a r	a l u T i l a r	a l u T i l a r	a l u T i l a r	a l u T i l a r
+হিস্ট্রি	wrong	h i sh T r i	h i s T r i	h i sh T r i	h i sh T r i	h i sh T r i	h i sh T r i
+বন্দেগির	wrong	b O n d e g i r	b o n d e g i r	b o n d e g i r	b O n d e g i r	b o n d e g i r	b o n d e g i r
+প্রশংসা	ok	p r O sh O ng sh a	p r O sh O ng sh a	p r O sh o ng sh a	p r O sh o ng sh a	p r O sh o ng sh a	p r O sh O ng sh a
+অন্দরসজ্জা	ok	o n d O r sh o j j a	o n d O r sh o j j a	o n d O r sh o j j a	o n d O r sh o j j a	o n d O r sh o j j a	o n d O r sh o j j a
+পাচারসংক্রান্ত	ok	p a ch a r sh o ng k r a n t O	p a ch a r sh o ng k r a n t O	p a ch a r sh o ng k r a n t O	p a ch a r sh o ng k r a n t O	p a ch a r sh o ng k r a n t O	p a ch a r sh o ng k r a n t O
+তাকিয়েছিলেন	ok	t a k i y e chh i l e n	t a k i y e chh i l e n	t a k i y e chh i l e n	t a k i y e chh i l e n	t a k i y e chh i l e n	t a k i y e chh i l e n
+ফ্রাংকা	ok	ph r a ng k a	ph r a ng k a	ph r a ng k a	ph r a ng k a	ph r a ng k a	ph r a ng k a
+এআরএম	ok	e a r e m	e a r e m	e a r e m	e a r e m	e a r e m	e a r e m
+সাবরিনাকে	wrong	sh a b r i n a k e	s a b r i n a k e	sh a b r i n a k e	sh a b r i n a k e	sh a b r i n a k e	sh a b r i n a k e
+প্যারাগুয়ে	ok	p A r a g u y e	p A r a g u y e	p A r a g u y e	p A r a g u y e	p A r a g u y e	p A r a g u y e
+সিএসের	ok	s i e s e r	s i e s e r	s i e s e r	s i e s e r	s i e s e r	s i e s e r
+কুইনাইন	ok	k u i n a i n	k u i n a i n	k u i n a i n	k u i n a i n	k u i n a i n	k u i n a i n
+প্রতিশোধও	ok	p r O t i sh O dh O	p r O t i sh O dh O	p r O t i sh O dh O	p r O t i sh O dh O	p r O t i sh O dh O	p r O t i sh O dh O
+জোতা	ok	j O t a	j O t a	j O t a	j O t a	j O t a	j O t a
+বলিউডি	ok	b o l i u D i	b o l i u D i	b o l i u D i	b o l i u D i	b o l i u D i	b o l i u D i
+ছাপশহ	wrong	chh a p sh o h o	chh a p sh o h O	chh a p sh o h o	chh a p sh o h o	chh a p sh o h o	chh a p sh o h O
+বেধা	ok	b e dh a	b e dh a	b e dh a	b e dh a	b e dh a	b e dh a
+কানাডাপ্রবাসি	ok	k a n a D a p r O b a sh i	k a n a D a p r O b a sh i	k a n a D a p r O b a sh i	k a n a D a p r O b a sh i	k a n a D a p r O b a sh i	k a n a D a p r O b a sh i
+রাত্রিকালীন	ok	r a t r i k a l i n	r a t r i k a l i n	r a t r i k a l i n	r a t r i k a l i n	r a t r i k a l i n	r a t r i k a l i n
+উদিচি	ok	u d i ch i	u d i ch i	u d i ch i	u d i ch i	u d i ch i	u d i ch i
+ব্যাটসম্যানই	ok	b A T s m A n i	b A T s m A n i	b A T s m A n i	b A T s m A n i	b A T s m A n i	b A T s m A n i
+সুমতি	ok	sh u m O t i	sh u m O t i	sh u m O t i	sh u m O t i	sh u m O t i	sh u m O t i
+শাকিরার	ok	sh a k i r a r	sh a k i r a r	sh a k i r a r	sh a k i r a r	sh a k i r a r	sh a k i r a r
+এমবি	ok	e m b i	e m b i	e m b i	e m b i	e m b i	e m b i
+ইচ্ছানুসারে	ok	i ch chh a n u sh a r e	i ch chh a n u sh a r e	i ch chh a n u sh a r e	i ch chh a n u sh a r e	i ch chh a n u sh a r e	i ch chh a n u sh a r e
+পুস্ত	ok	p u s t O	p u s t O	p u s t O	p u s t O	p u s t O	p u s t O
+নিবাসিদের	ok	n i b a sh i d e r	n i b a sh i d e r	n i b a sh i d e r	n i b a sh i d e r	n i b a sh i d e r	n i b a sh i d e r
+রোজারিওতে	ok	r O j a r i O t e	r O j a r i O t e	r O j a r i O t e	r O j a r i O t e	r O j a r i O t e	r O j a r i O t e
+ওয়েতাহার	ok	O y e t a h a r	O y e t a h a r	O y e t a h a r	O y e t a h a r	O y e t a h a r	O y e t a h a r
+পুনর্নিমানের	wrong	p u n o r n i r m a n e r	p u n O r n i r m a n e r	p u n o r n i m a n e r	p u n O r n i m a n e r	p u n o r n i m a n e r	p u n O r n i m a n e r
+উইভার্স	ok	u i bh a r s	u i bh a r s	u i bh a r s	u i bh a r s	u i bh a r s	u i bh a r s
+সুলতানের	ok	s u l t a n e r	s u l t a n e r	s u l t a n e r	s u l t a n e r	s u l t a n e r	s u l t a n e r
+মোনাসিব	wrong	m O n a sh i b	m O n a s i b	m O n a sh i b	m O n a sh i b	m O n a sh i b	m O n a sh i b O
+রক্তের	ok	r o k t e r	r o k t e r	r o k t e r	r o k t e r	r o k t e r	r o k t e r
+গনতন্ত্রচর্চার	ok	g o n O t o n t r O ch o r ch a r	g o n O t o n t r O ch o r ch a r	g o n O t o n t r O ch o r ch a r	g o n O t o n t r O ch o r ch a r	g o n O t o n t r O ch o r ch a r	g o n O t o n t r O ch o r ch a r
+করাতেও	ok	k o r a t e O	k o r a t e O	k o r a t e O	k o r a t e O	k o r a t e O	k o r a t e O
+সোহান	ok	s O h a n	s O h a n	s O h a n	s O h a n	s O h a n	s O h a n
+ছাত্রিরা	ok	chh a t r i r a	chh a t r i r a	chh a t r i r a	chh a t r i r a	chh a t r i r a	chh a t r i r a
+কালিগংগার	ok	k a l i g o ng g a r	k a l i g o ng g a r	k a l i g o ng g a r	k a l i g o ng g a r	k a l i g o ng g a r	k a l i g o ng g a r
+বাক্যটির	ok	b a k k O T i r	b a k k O T i r	b a k k O T i r	b a k k O T i r	b a k k O T i r	b a k k O T i r
+গ্যাসচালিত	ok	g A s ch a l i t O	g A s ch a l i t O	g A s ch a l i t O	g A s o ch a l i t O	g A s ch a l i t O	g A s ch a l i t O
+বাস্তবতাটি	wrong	b a s t o b o t a T i	b a s t O b o t a T i	b a s t O b o t a T i	b a s t o b o t a T i	b a s t O b o t a T i	b a s t O b o t a T i
+কুকরিমুকরি	ok	k u k r i m u k r i	k u k r i m u k r i	k u k r i m u k r i	k u k r i m u k r i	k u k r i m u k r i	k u k r i m u k r i
+ছেড়াকে	ok	chh e r a k e	chh e r a k e	chh e r a k e	chh e r a k e	chh e r a k e	chh e r a k e
+ভিরু	ok	bh i r u	bh i r u	bh i r u	bh i r u	bh i r u	bh i r u
+গেরস্থালির	ok	g e r o s th a l i r	g e r o s th a l i r	g e r o s th a l i r	g e r o s th a l i r	g e r O s th a l i r	g e r o s th a l i r
+পেশেন্ট	ok	p e sh e n T	p e sh e n T	p e sh e n T	p e sh e n T	p e sh e n T	p e sh e n T
+রয়াল	ok	r o y a l	r o y a l	r o y a l	r o y a l	r o y a l	r o y a l
+ক্যামডেন	ok	k A m D e n	k A m D e n	k A m D e n	k A m D e n	k A m D e n	k A m D e n
+প্রতিকারের	ok	p r O t i k a r e r	p r O t i k a r e r	p r O t i k a r e r	p r O t i k a r e r	p r O t i k a r e r	p r O t i k a r e r
+কাটআউট	ok	k a T a u T	k a T a u T	k a T a u T	k a T a u T	k a T a u T	k a T a u T
+কোশে	ok	k O sh e	k O sh e	k O sh e	k O sh e	k O sh e	k O sh e
+মহাসমাবেশটি	ok	m o h a sh o m a b e sh T i	m o h a sh o m a b e sh T i	m o h a sh o m a b e sh T i	m o h a sh o m a b e sh T i	m o h a sh o m a b e sh T i	m o h a sh o m a b e sh T i
+অর্থব্যবস্থার	ok	o r th O b A b O s th a r	o r th O b A b O s th a r	o r th O b A b O s th a r	o r th O b A b O s th a r	o r th O b A b O s th a r	o r th O b A b O s th a r
+স্বার্থসম্পর্কিত	wrong	sh a r th o sh o m p o r k i t O	sh a r th O sh o m p O r k i t O	sh a r th o sh o m p o r k i t O	sh a r th o sh o m p o r k i t O	sh a r th O sh o m p O r i t O	sh a r th o sh o m o m p o r k o r k i t O
+ফুকরি	ok	ph u k r i	ph u k r i	ph u k r i	ph u k r i	ph u k r i	ph u k r i
+গায়েবানা	ok	g a y e b a n a	g a y e b a n a	g a y e b a n a	g a y e b a n a	g a y e b a n a	g a y e b a n a
+সাক্ষরতা	ok	sh a k kh O r o t a	sh a k kh O r o t a	sh a k kh O r o t a	sh a k kh O r o t a	sh a k kh O r o t a	sh a k kh O r t a
+মধুবাগের	wrong	m o dh u b a g e r	m O dh u b a g e r	m O dh u b a g e r	m O dh u b a g e r	m O dh u b a g e r	m O dh u b a g e r
+স্বেচ্ছাসেবককে	ok	sh e ch chh a sh e b O k k e	sh e ch chh a sh e b O k k e	sh e ch chh a sh e b O k k e	sh e ch chh a sh e b O k k e	sh e ch chh a sh e b O k k e	sh e ch chh a sh e b O k k e
+প্রান্তিকের	ok	p r a n t i k e r	p r a n t i k e r	p r a n t i k e r	p r a n t i k e r	p r a n t i k e r	p r a n t i k e r
+অদ্রি	ok	O d r i	O d r i	O d r i	O d r i	O d r i	O d r i
+সিদ্দিকুর	wrong	sh i d d i k u r	s i d d i k u r	sh i d d i k u r	sh i d d i k u r	sh i d d i k u r	sh i d d i k u r
+কেদেছেন	ok	k e d e chh e n	k e d e chh e n	k e d e chh e n	k e d e chh e n	k e d e chh e n	k e d e chh e n
+রাস্তাটুকুর	ok	r a s t a T u k u r	r a s t a T u k u r	r a s t a T u k u r	r a s t a T u k u r	r a s t a T u k u r	r a s t a T u k u r
+ঘরবাড়িতে	ok	gh o r b a r i t e	gh o r b a r i t e	gh o r b a r i t e	gh o r b a r i t e	gh o r b a r i t e	gh o r b a r i t e
+চান্দগাও	ok	ch a n d O g a O	ch a n d O g a O	ch a n d O g a O	ch a n d O g a O	ch a n d o g a O	ch a n d O g a O
+এনএসসিএন	ok	e n e s s i e n	e n e s s i e n	e n e s s i e n	e n e s s i e n	e n e s s i e n	e n e s s i e n
+উদয়	ok	u d o y	u d o y	u d o y	u d o y	u d o y	u d o y
+শেয়ার	ok	sh e y a r	sh e y a r	sh e y a r	sh e y a r	sh e y a r	sh e y a r
+গারো	ok	g a r O	g a r O	g a r O	g a r O	g a r O	g a r O
+কেন্দ্রবিন্দু	ok	k e n d r O b i n d u	k e n d r O b i n d u	k e n d r O b i n d u	k e n d r O b i n d u	k e n d r O b i n d u	k e n d r O b i n d u
+পাউডার	ok	p a u D a r	p a u D a r	p a u D a r	p a u D a r	p a u D a r	p a u D a r
+সিংক	wrong	sh i n k o	s i n k	sh i ng k	sh i ng k	sh i ng k	sh i ng k
+কামালউদ্দিনের	ok	k a m a l u d d i n e r	k a m a l u d d i n e r	k a m a l u d d i n e r	k a m a l u d d i n e r	k a m a l u d d i n e r	k a m a l u d d i n e r
+জাহাই	ok	j a h a i	j a h a i	j a h a i	j a h a i	j a h a i	j a h a i
+পাদ্রিরা	ok	p a d r i r a	p a d r i r a	p a d r i r a	p a d r i r a	p a d r i r a	p a d r i r a
+আলাদিনের	ok	a l a d i n e r	a l a d i n e r	a l a d i n e r	a l a d i n e r	a l a d i n e r	a l a d i n e r
+কাগজপত্রের	ok	k a g O j p o t r e r	k a g O j p o t r e r	k a g O j p o t r e r	k a g O j p o t r e r	k a g O j p o t r e r	k a g O j p o t r e r
+চেখে	ok	ch e kh e	ch e kh e	ch e kh e	ch e kh e	ch e kh e	ch e kh e
+রুমানা	ok	r u m a n a	r u m a n a	r u m a n a	r u m a n a	r u m a n a	r u m a n a
+ঈর্ষান্বিত	ok	i r sh a n n i t O	i r sh a n n i t O	i r sh a n n i t O	i r sh a n n i t O	i r sh a n n i t O	i r sh a n n i t O
+ছানতা	ok	chh a n t a	chh a n t a	chh a n t a	chh a n t a	chh a n t a	chh a n t a
+নাংলি	ok	n a ng l i	n a ng l i	n a ng l i	n a ng l i	n a ng l i	n a ng l i
+তেওড়	wrong	t A y O r	t E y O r	t A y O r	t e O r	t e O r	t A O r
+বাগ্ধারা	ok	b a g dh a r a	b a g dh a r a	b a g dh a r a	b a g dh a r a	b a g dh a r a	b a g dh a r a
+বেলডেনের	ok	b e l D e n e r	b e l D e n e r	b e l D e n e r	b e l D e n e r	b e l D e n e r	b e l D e n e r
+ধারনাসুচক	wrong	dh a r o n a sh u ch o k	dh a r O n a sh u ch O k	dh a r o n a sh u ch o k	dh a r o n a sh u ch o k	dh a r O n a sh u ch o k	dh a r O n a sh u ch o k
+মোশাররফও	ok	m O sh a r r o ph O	m O sh a r r o ph O	m O sh a r r o ph O	m O sh a r r o ph O	m O sh a r r o ph O	m O sh a r r o ph O
+শ্রদ্ধাবোধের	ok	s r O d dh a b O dh e r	s r O d dh a b O dh e r	s r O d dh a b O dh e r	s r O d dh a b O dh e r	s r O d dh a b O dh e r	s r O d dh a b O dh e r
+ভুমিকম্পই	ok	bh u m i k o m p O i	bh u m i k o m p O i	bh u m i k o m p o i	bh u m i k o m p O i	bh u m i k o m p O i	bh u m i k o m p O i
+সিনেমাহল	wrong	sh i n e m a h o l	s i n e m a h o l	sh i n e m a h o l	sh i n e m a h o l	sh i n e m a h o l	sh i n e m a h O l
+ইংল্যান্ডও	ok	i ng l A n D O	i ng l A n D O	i ng l A n D O	i ng l A n D O	i ng l A n D O	i ng l A n D
+ডাইবার	ok	D a i b a r	D a i b a r	D a i b a r	D a i b a r	D a i b a r	D a i b a r
+নাইরোবি	ok	n a i r O b i	n a i r O b i	n a i r O b i	n a i r O b i	n a i r O b i	n a i r O b i
+কর্মিদের	ok	k O r m i d e r	k O r m i d e r	k O r m i d e r	k O r m i d e r	k O r m i d e r	k O r m i d e r
+মাদোয়ান	ok	m a d O y a n	m a d O y a n	m a d O y a n	m a d O y a n	m a d O y a n	m a d O y a n
+পাঠশালার	ok	p a Th sh a l a r	p a Th sh a l a r	p a Th sh a l a r	p a Th sh a l a r	p a Th sh a l a r	p a Th sh a l a r
+টেন্ডারের	ok	T e n D a r e r	T e n D a r e r	T e n D a r e r	T e n D a r e r	T e n D a r e r	T e n D a r e r
+বেগম	wrong	b e g o m	b e g O m	b e g O m	b e g o m	b e g o m	b e g o m
+বাতিস্তাকে	ok	b a t i s t a k e	b a t i s t a k e	b a t i s t a k e	b a t i s t a k e	b a t i s t a k e	b a t i s t a k e
+মেঘকে	ok	m e gh k e	m e gh k e	m e gh k e	m e gh k e	m e gh k e	m e gh k e
+স্কাউটিং	ok	s k a u T i ng	s k a u T i ng	s k a u T i ng	s k a u T i ng	s k a u T i ng	s k a u T i ng
+সেমিফাইনালই	ok	s e m i ph a i n a l i	s e m i ph a i n a l i	s e m i ph a i n a l i	s e m i ph a i n a l i	s e m i ph a i n a l i	s e m i ph a i n a l i
+দোশত্রুটির	ok	d O sh t r u T i r	d O sh t r u T i r	d O sh t r u T i r	d O sh t r u T i r	d O sh t r u T i r	d O sh t r u T i r
+বর্ননাও	ok	b o r n O n a O	b o r n O n a O	b o r n O n a O	b o r n O n a O	b o r n O n a O	b o r n O n a O
+রুশদের	ok	r u sh d e r	r u sh d e r	r u sh d e r	r u sh d e r	r u sh d e r	r u sh d e r
+তামাং	ok	t a m a ng	t a m a ng	t a m a ng	t a m a ng	t a m a ng	t a m a ng
+দ্রাবিড়ের	ok	d r a b i r e r	d r a b i r e r	d r a b i r e r	d r a b i r e r	d r a b i r e r	d r a b i r e r
+উৎসর্গ	ok	u t sh o r g O	u t sh o r g O	u t sh o r g O	u t sh o r g O	u t sh o r g O	u t sh o r g O
+রামোসকে	wrong	r a m O sh k e	r a m O s k e	r a m O sh k e	r a m O sh k e	r a m O sh k e	r a m O sh k e
+চড়চড়ি	wrong	ch o r ch o r i	ch o r ch O r i	ch o r ch o r i	ch o r ch o r i	ch o r ch o r i	ch o r ch o r i
+বিত্তশালি	wrong	b i t t o sh a l i	b i t t O sh a l i	b i t t O sh a l i	b i t t O sh a l i	b i t t O sh a l i	b i t t o sh a l i
+ছাড়লেন	ok	chh a r l e n	chh a r l e n	chh a r l e n	chh a r l e n	chh a r l e n	chh a r l e n
+নারায়নন	ok	n a r a y o n o n	n a r a y o n o n	n a r a y o n o n	n a r a y n o n	n a r a y o n o n	n a r a y n o n
+ভেহিক্যাল	ok	bh e h i k A l	bh e h i k A l	bh e h i k A l	bh e h i k A l	bh e h i k A l	bh e h i k A l
+গোউরবদিপ্ত	ok	g O u r o b d i p t O	g O u r o b d i p t O	g O u r o b d i p t O	g O u r o b d i p t O	g O u r o b d i p t O	g O u r o b d i p t O
+মুল্লুকে	ok	m u l l u k e	m u l l u k e	m u l l u k e	m u l l u k e	m u l l u k e	m u l l u k e
+পুজিতান্ত্রিক	ok	p u j i t a n t r i k	p u j i t a n t r i k	p u j i t a n t r i k	p u j i t a n t r i k	p u j i t a n t r i k	p u j i t a n t r i k
+বিশয়বস্তু	ok	b i sh o y b O s t u	b i sh o y b O s t u	b i sh o y b O s t u	b i sh o y b o s t u	b i sh o y b O s t u	b i sh o y b o s t u
+নোটিশই	ok	n O T i sh i	n O T i sh i	n O T i sh i	n O T i sh i	n O T i sh i	n O T i sh i
+ছাত্রবেতন	wrong	chh a t r O b e t o n	chh a t r O b e t O n	chh a t r O b e t O n	chh a t r O b e t o n	chh a t r O b e t O n	chh a t r O b e t o n
+মালভূমি	ok	m a l bh u m i	m a l bh u m i	m a l bh u m i	m a l bh u m i	m a l bh u m i	m a l bh u m i
+মাংশ	ok	m a ng sh O	m a ng sh O	m a ng sh O	m a ng sh O	m a ng sh O	m a ng sh O
+পাঠকই	ok	p a Th O k i	p a Th O k i	p a Th o k i	p a Th o k i	p a Th o k i	p a Th o k i
+কালাইগর	ok	k a l a i g o r	k a l a i g o r	k a l a i g o r	k a l a i g o r	k a l a i g o r	k a l a i g o r
+ইসলামবিরোধি	ok	i s l a m b i r O dh i	i s l a m b i r O dh i	i s l a m b i r O dh i	i s l a m b i r O dh i	i s l a m b i r O dh i	i s l a m b i r O dh i
+করদাতাকে	ok	k o r d a t a k e	k o r d a t a k e	k o r d a t a k e	k o r d a t a k e	k o r d a t a k e	k o r d a t a k e
+গবেশনাসহ	ok	g o b e sh O n a sh o h O	g o b e sh O n a sh o h O	g o b e sh o n a sh o h O	g o b e sh o n a sh o h O	g o b e sh o n a sh o h O	g o b e sh o n a sh o h O
+প্রিভালের	ok	p r i bh a l e r	p r i bh a l e r	p r i bh a l e r	p r i bh a l e r	p r i bh a l e r	p r i bh a l e r
+ওইচ্ছিক	ok	O i ch chh i k	O i ch chh i k	O i ch chh i k	O i ch chh i k	O i ch chh i k	O i ch chh i k
+পাছ	ok	p a chh	p a chh	p a chh	p a chh	p a chh	p a chh O
+সামলায়	ok	sh a m l a y	sh a m l a y	sh a m l a y	sh a m l a y	sh a m l a y	sh a m l a y
+প্যাকেট	ok	p A k e T	p A k e T	p A k e T	p A k e T	p A k e T	p A k e T
+জোগের	ok	j O g e r	j O g e r	j O g e r	j O g e r	j O g e r	j O g e r
+সাক্ষ্যে	ok	sh a k kh e	sh a k kh e	sh a k kh e	sh a k kh e	sh a k kh e	sh a k kh e
+উমরের	ok	u m o r e r	u m o r e r	u m o r e r	u m o r e r	u m o r e r	u m o r e r
+রাড়ি	ok	r a r i	r a r i	r a r i	r a r i	r a r i	r a r i
+বার্তাসংস্থা	ok	b a r t a sh o ng s th a	b a r t a sh o ng s th a	b a r t a sh o ng s th a	b a r t a sh o ng s th a	b a r t a sh o ng s th a	b a r t a sh o ng s th a
+হররোজ	ok	h o r r O j	h o r r O j	h o r r O j	h o r r O j	h o r r O j	h o r r O j
+ছাত্রসংখ্যা	ok	chh a t r O sh o ng kh a	chh a t r O sh o ng kh a	chh a t r O sh o ng kh a	chh a t r O sh o ng kh a	chh a t r O sh o ng kh a	chh a t r O sh o ng kh a
+তইরিরও	ok	t O i r i r O	t O i r i r O	t O i r i r O	t O i r i r O	t O i r i r O	t O i r i r O
+ইঞ্জেকশন	ok	i n j e k sh o n	i n j e k sh o n	i n j e k sh o n	i n j e k sh o n	i n j e k sh o n	i n j e k sh o n
+রকম	ok	r o k O m	r o k O m	r o k O m	r o k O m	r o k O m	r o k O m
+লোকজনকেই	wrong	l O k j o n k e i	l O k j O n k e i	l O k j o n k e i	l O k O j O n k e i	l O k j o n k e i	l O k j o n k e i
+সুজন	ok	sh u j o n	sh u j o n	sh u j o n	sh u j o n	sh u j o n	sh u j o n
+প্রস্তাবকেও	ok	p r O s t a b k e O	p r O s t a b k e O	p r O s t a b k e O	p r O s t a b k e O	p r O s t a b k e O	p r O s t a b k e O
+টেটাবিদ্ধ	ok	T e T a b i d dh O	T e T a b i d dh O	T e T a b i d dh O	T e T a b i d dh O	T e T a b i d dh O	T e T a b i d dh O
+সন্দেহাতীতভাবে	ok	sh o n d e h a t i t bh a b e	sh o n d e h a t i t bh a b e	sh o n d e h a t i t bh a b e	sh o n d e h a t i t bh a b e	sh o n d e h a t i t bh a b e	sh o n d e h a t i t bh a b e
+রসুলপুরের	wrong	r o sh u l p u r e r	r O s u l p u r e r	r O sh u l p u r e r	r O sh u l p u r e r	r o sh u l p u r e r	r O sh u l p u r e r
+সারলে	ok	sh a r l e	sh a r l e	sh a r l e	sh a r l e	sh a r l e	sh a r l e
+ম্যাগাজিনকে	ok	m A g a j i n k e	m A g a j i n k e	m A g a j i n k e	m A g a j i n k e	m A g a j i n k e	m A g a j i n k e
+পাবন	ok	p a b O n	p a b O n	p a b O n	p a b O n	p a b O n	p a b O n
+অসতর্কতার	ok	o sh o t O r k o t a r	o sh o t O r k o t a r	o sh O t o r k O t a r	o sh O t o r k O t a r	o sh o t o r k o t a r	o sh O t o r k o t a r
+ত্রানসহায়তা	wrong	t r a n sh o h a y o t a	t r a n sh o h a y O t a	t r a n sh o h a y o t a	t r a n sh o h a y o t a	t r a n sh o h a y o t a	t r a n sh o h a y o t a
+রামপল	ok	r a m p o l	r a m p o l	r a m p o l	r a m p o l	r a m p o l	r a m p o l
+জাপানিজ	ok	j a p a n i j	j a p a n i j	j a p a n i j	j a p a n i j	j a p a n i j	j a p a n i j
+বিশ্ববিদ্যালয়গুলোকে	ok	b i sh sh O b i d d a l o y g u l O k e	b i sh sh O b i d d a l o y g u l O k e	b i sh sh O b i d d a l o y g u l O k e	b i sh sh O b i d d a l o y g u l O k e	b i sh sh O b i d d a l o y g u l O k e	b i sh sh O b i d d a l o y g u l O k e
+কিউএনএক্স	ok	k i u e n e k s	k i u e n e k s	k i u e n e k s	k i u e n e k s	k i u e n e k s	k i u e n e k s
+বন্ধ্যাকরনের	ok	b o n dh a k o r O n e r	b o n dh a k o r O n e r	b o n dh a k o r O n e r	b o n dh a k o r O n e r	b O n dh a k o r O n e r	b o n dh a k o r O n e r
+মহাযুদ্ধের	ok	m o h a j u d dh e r	m o h a j u d dh e r	m o h a j u d dh e r	m o h a j u d dh e r	m o h a j u d dh e r	m o h a j u d dh e r
+সিবান্দা	wrong	sh i b a n d a	s i b a n d a	sh i b a n d a	sh i b a n d a	sh i b a n d a	sh i b a n d a
+লকারে	ok	l o k a r e	l o k a r e	l o k a r e	l o k a r e	l o k a r e	l o k a r e
+দাবানলে	ok	d a b a n o l e	d a b a n o l e	d a b a n o l e	d a b a n o l e	d a b a n o l e	d a b a n o l e
+অনাহিত	ok	o n a h i t O	o n a h i t O	o n a h i t O	o n a h i t O	o n a h i t O	o n a h i t O
+প্রস্তাবেও	ok	p r O s t a b e O	p r O s t a b e O	p r O s t a b e O	p r O s t a b e O	p r O s t a b e O	p r O s t a b e O
+টেস্টকে	wrong	T e sh T k e	T e s T k e	T e sh T k e	T e sh T k e	T e sh T k e	T e sh T k e
+ডিজুস	ok	D i j u s	D i j u s	D i j u s	D i j u s	D i j u s	D i j u s
+গোয়ালে	ok	g O y a l e	g O y a l e	g O y a l e	g O y a l e	g O y a l e	g O y a l e
+দাপ	ok	d a p	d a p	d a p	d a p	d a p	d a p
+ধর্মদর্শনে	wrong	dh o r m O d o r sh o n e	dh o r m O d o r sh O n e	dh o r m O d o r sh o n e	dh o r m O d o r sh o n e	dh o r m O d o r sh o n e	dh o r m O d o r sh o n e
+প্রস্তুতির	ok	p r O s t u t i r	p r O s t u t i r	p r O s t u t i r	p r O s t u t i r	p r O s t u t i r	p r O s t u t i r
+শুনানিও	ok	sh u n a n i O	sh u n a n i O	sh u n a n i O	sh u n a n i O	sh u n a n i O	sh u n a n i O
+অবসকিউর	ok	o b s k i u r	o b s k i u r	o b s k i u r	o b s sh k i u r	o b s O k i u r	o b s k i u r
+ইমারজেন্সি	ok	i m a r j e n s i	i m a r j e n s i	i m a r j e n s i	i m a r j e n s i	i m a r j e n s i	i m a r j e n s i
+কর্মকর্তাদেরকে	ok	k o r m O k o r t a d e r k e	k o r m O k o r t a d e r k e	k o r m O k o r t a d e r k e	k o r m O k o r t a d e r k e	k o r m O k o r t a d e r k e	k o r m O k o r t a d e r k e
+প্রদিপ্ত	ok	p r O d i p t O	p r O d i p t O	p r O d i p t O	p r O d i p t O	p r O d i p t O	p r O d i p t O
+মালদহ	ok	m a l d o h O	m a l d o h O	m a l d o h O	m a l d o h o	m a l d o h O	m a l d o h
+গোমেদ	ok	g O m e d	g O m e d	g O m e d	g O m e d	g O m e d	g O m e d
+কাদামাটিতে	ok	k a d a m a T i t e	k a d a m a T i t e	k a d a m a T i t e	k a d a m a T i t e	k a d a m a T i t e	k a d a m a T i t e
+সত্যানুসন্ধানি	wrong	sh o t t a n u sh o n dh a n i	sh O t t a n u sh o n dh a n i	sh o t t a n u sh o n dh a n i	sh o t t a n u sh o n dh a n i	sh O t t a n u sh o n dh a n i	sh o t t a n u sh o n dh a n i
+ভিক্ষুদের	ok	bh i k kh u d e r	bh i k kh u d e r	bh i k kh u d e r	bh i k kh u d e r	bh i k kh u d e r	bh i k kh u d e r
+পৃথ্বিরাজ	ok	p r i t th i r a j	p r i t th i r a j	p r i th i r a j	p r i th i i r a j	p r i t th i r a j	p r i t th i r a j
+উশার	ok	u sh a r	u sh a r	u sh a r	u sh a r	u sh a r	u sh a r
+রুপজান	ok	r u p j a n	r u p j a n	r u p j a n	r u p j a n	r u p j a n	r u p j a n
+ছেদা	wrong	chh A d a	chh E d a	chh e d a	chh e d a	chh e d a	chh e d a
+গ্রন্থিকগন	ok	g r O n th i k g o n	g r O n th i k g o n	g r O n th i k g o n	g r O n th i k g o n	g r O n th i k g o n	g r O n th i k g o n
+ক্যালটেক	ok	k A l T e k	k A l T e k	k A l T e k	k A l T e k	k A l T e k	k A l T e k
+উত্সবমুখর	wrong	u t sh o b m u kh u r	u t sh o b m u kh o r	u t sh o b m u kh o r	u t sh o b m u kh o r	u t sh O b m u kh o r	u t sh O b m u kh o r
+মোউজাভুমি	ok	m O u j a bh u m i	m O u j a bh u m i	m O u j a bh u m i	m O u j a bh u m i	m O u j a bh u m i	m O u j a bh u m i
+বলেছিলাম	ok	b O l e chh i l a m	b O l e chh i l a m	b O l e chh i l a m	b O l e chh i l a m	b O l e chh i l a m	b O l e chh i l a m
+রাজভক্তি	ok	r a j bh O k t i	r a j bh O k t i	r a j bh O k t i	r a j bh O k t i	r a j bh O k t i	r a j bh O k t i
+বালুচদের	ok	b a l u ch d e r	b a l u ch d e r	b a l u ch d e r	b a l u ch d e r	b a l u ch d e r	b a l u ch o d e r
+রাশ্ট্রায়ত্তকরন	wrong	r a sh T r a y t t o k o r n o	r a sh T r a y O t t O k o r O n	r a sh T r a y o t t o k o r O n	r a sh T r a y o t t o k o r O n	r a sh T r a y o t t o k o r O n	r a sh T r a y o t t o k o r O n
+মরল	ok	m O r l O	m O r l O	m O r l O	m o r O l	m o r O l	m O r l O
+ব্যারাকে	ok	b A r a k e	b A r a k e	b A r a k e	b A r a k e	b A r a k e	b A r a k e
+তেজকুনিপাড়ার	ok	t e j k u n i p a r a r	t e j k u n i p a r a r	t e j k u n i p a r a r	t e j k u n i p a r a r	t e j k u n i p a r a r	t e j k u n i p a r a r
+খুশিমনেই	wrong	kh u sh i m o n e i	kh u sh i m O n e i	kh u sh i m o n e i	kh u sh i m o n e i	kh u sh i m o n e i	kh u sh i m o n e i
+সমিকরনকে	wrong	sh o m i k o r O n k e	sh O m i k o r O n k e	sh o m i k o r O n k e	sh o m i k o r O n k e	sh o m i k o r O n k e	sh o m i k o r O n k e
+হেডস্কার্ফ	wrong	h e D sh k a r ph	h e D s k a r ph	h e D sh k a r ph	h e D sh k a r ph	h e D s k a r ph	h e D sh k a r ph
+বর্বরতাকেও	ok	b o r b o r O t a k e O	b o r b o r O t a k e O	b o r b o r o t a k e O	b o r b o r o t a k e O	b o r b o r O t a k e O	b o r b o r o t a k e O
+লিগানিন	ok	l i g a n i n	l i g a n i n	l i g a n i n	l i g a n i n	l i g a n i n	l i g a n i n
+কোনরকম	ok	k O n O r o k O m	k O n O r o k O m	k O n o r k o m	k O n O r o k O m	k O n r o k o m	k O n O r o k O m
+সারোয়ারকে	wrong	sh a r u y a r k e	s a r O y a r k e	sh a r O y a r k e	sh a r O y a r k e	sh a r O y a r k e	sh a r O y a r k e
+মোনতাজ	ok	m O n t a j	m O n t a j	m O n t a j	m O n t a j	m O n t a j	m O n t a j
+ফাইবার	ok	ph a i b a r	ph a i b a r	ph a i b a r	ph a i b a r	ph a i b a r	ph a i b a r
+একদলকে	ok	E k d o l k e	E k d o l k e	E k d o l k e	E k d o l k e	E k d o l k e	E k d o l k e
+বয়াবাতি	ok	b o y a b a t i	b o y a b a t i	b o y a b a t i	b o y a b a t i	b o y a b a t i	b o y a b a t i
+রাজকুল	ok	r a j k u l	r a j k u l	r a j k u l	r a j k u l	r a j k u l	r a j k u l
+প্রপিতামহ	ok	p r O p i t a m o h O	p r O p i t a m o h O	p r O p i t a m o h O	p r O p i t a m o h O	p r O p i t a m o h O	p r O p i t a m o h O
+কুনিপাড়ায়	ok	k u n i p a r a y	k u n i p a r a y	k u n i p a r a y	k u n i p a r a y	k u n i p a r a y	k u n i p a r a y
+পয়জন	ok	p o y j o n	p o y j o n	p o y j o n	p o y j o n	p o y j o n	p o y j o n
+হুমকিকে	ok	h u m k i k e	h u m k i k e	h u m k i k e	h u m k i k e	h u m k i k e	h u m k i k e
+মির্জা	ok	m i r j a	m i r j a	m i r j a	m i r j a	m i r j a	m i r j a
+কুটতর্কে	wrong	k u T o t o r k e	k u T t o r k e	k u T t o r k e	k u T t o r k e	k u T t o r k e	k u T o t o r k e
+পিঠাপুলি	ok	p i Th a p u l i	p i Th a p u l i	p i Th a p u l i	p i Th a p u l i	p i Th a p u l i	p i Th a p u l i
+ডিজঅ্যাবিলিটি	wrong	D i j o j a b i l i T i	D i j A b i l i T i	D i j o j a b i l i T i	D i j o j a b i l i T i	D i j o j a b i l i T i	D i j o j a b i l i T i
+স্টেফানি	ok	s T e ph a n i	s T e ph a n i	s T e ph a n i	s T e ph a n i	s T e ph a n i	s T e ph a n i
+শিল্পপার্ক	ok	sh i l p O p a r k	sh i l p O p a r k	sh i l p p a r k	sh i l p o p a r k	sh i l p p p a r k	sh i l p o p a r k
+মুদ্রাসহ	ok	m u d r a sh o h O	m u d r a sh o h O	m u d r a sh o h O	m u d r a sh o h O	m u d r a sh o h O	m u d r a sh o h O
+শোউর্য	ok	sh O u r j O	sh O u r j O	sh O u r j O	sh O u r j O	sh O u r j O	sh O u r j O
+জলসিমানায়	ok	j o l sh i m a n a y	j o l sh i m a n a y	j o l sh i m a n a y	j o l sh i m a n a y	j o l sh i m a n a y	j o l sh i m a n a y
+কনসালট্যান্টের	wrong	k o n s a l T e n T e r	k o n s a l T A n T e r	k o n s a l T A n T e r	k o n s a l T e n T e r	k o n s a l T e n T e r	k o n s a l T A n T e r
+বিদ্রুপের	ok	b i d r u p e r	b i d r u p e r	b i d r u p e r	b i d r u p e r	b i d r u p e r	b i d r u p e r
+পদপ্রার্থিরা	ok	p o d O p r a r th i r a	p o d O p r a r th i r a	p o d O p r a r th i r a	p o d O p r a r th i r a	p o d O p r a r th i r a	p o d O p r a r th i r a
+কন্ডিশনিং	wrong	k o n D i sh O n i ng	k o n D i sh o n i ng	k o n D i sh o n i ng	k o n D i sh o n i ng	k o n D i sh o n i ng	k o n D i sh o n i ng
+ব্যাটালিয়নে	ok	b A T a l i y o n e	b A T a l i y o n e	b A T a l i y o n e	b A T a l i y o n e	b A T a l i y o n e	b A T a l i y o n e
+চমকটা	ok	ch o m O k T a	ch o m O k T a	ch o m O k T a	ch o m O k T a	ch o m O k T a	ch o m O k T a
+বলাই	ok	b o l a i	b o l a i	b o l a i	b o l a i	b o l a i	b o l a i
+বাড়ছে	ok	b a r chh e	b a r chh e	b a r chh e	b a r chh e	b a r chh e	b a r chh e
+জমতে	ok	j O m t e	j O m t e	j O m t e	j O m t e	j O m t e	j O m t e
+বদনখানি	ok	b o d O n kh a n i	b o d O n kh a n i	b o d o n kh a n i	b o d O n kh a n i	b o d O n kh a n i	b o d O n kh a n i
+অনুসরণ	ok	O n u sh o r O n	O n u sh o r O n	O n u sh o r O n	O n u sh o r O n	O n u sh o r O n	O n u sh o r O n
+প্রোগ্রামে	ok	p r O g r a m e	p r O g r a m e	p r O g r a m e	p r O g r a m e	p r O g r a m e	p r O g r a m e
+বোঝাতেন	ok	b O jh a t e n	b O jh a t e n	b O jh a t e n	b O jh a t e n	b O jh a t e n	b O jh a t e n
+টুকাই	ok	T u k a i	T u k a i	T u k a i	T u k a i	T u k a i	T u k a i
+প্রথমভাগে	ok	p r O th O m bh a g e	p r O th O m bh a g e	p r O th O m bh a g e	p r O th O m bh a g e	p r O th O m bh a g e	p r O th O m bh a g e
+পরিহসনিয়	ok	p O r i h o sh O n i y O	p O r i h o sh O n i y O	p O r i h o sh O n i y O	p O r i h o sh O n i y O	p O r i h o sh o n i y O	p O r i h o sh o n i y O
+নগরায়ন	wrong	n o g O r a y o n	n o g O r a y O n	n o g O r a y O n	n o g O r a y O n	n o g O r a y o n	n o g O r a y o n
+সেরাম	ok	s e r a m	s e r a m	s e r a m	sh e r a m	s e r a m	s e r a m
+চোরের	ok	ch O r e r	ch O r e r	ch O r e r	ch O r e r	ch O r e r	ch O r e r
+আরজিও	ok	a r j i O	a r j i O	a r j i O	a r j i O	a r j i O	a r j i O
+প্রাচুর্য	ok	p r a ch u r j O	p r a ch u r j O	p r a ch u r j O	p r a ch u r j O	p r a ch u r j O	p r a ch u r j O
+অধর্মের	wrong	o dh O r m e r	o dh o r m e r	o dh O r m e r	o dh o r m e r	o dh O r m e r	o dh o r m e r
+এনজিওদের	ok	e n j i O d e r	e n j i O d e r	e n j i O d e r	e n j i O d e r	e n j i O d e r	e n j i O d e r
+তাপনিয়	ok	t a p O n i y O	t a p O n i y O	t a p o n i y O	t a p o n i y O	t a p O n i y O	t a p n i y O
+তারকাখ্যাতির	ok	t a r o k a kh A t i r	t a r o k a kh A t i r	t a r O k a k kh a t i r	t a r o k a kh A t i r	t a r o k a kh A t i r	t a r O k a kh A t i r
+টোটক	wrong	T O T o k	T O T O k	T O T O k	T O T O k	T O T o k	T O T o k
+এডিপি	ok	e D i p i	e D i p i	e D i p i	e D i p i	e D i p i	e D i p i
+মাথার	ok	m a th a r	m a th a r	m a th a r	m a th a r	m a th a r	m a th a r
+বিগুন	ok	b i g u n	b i g u n	b i g u n	b i g u n	b i g u n	b i g u n
+ব্যালান্সশিট	ok	b A l a n s sh i T	b A l a n s sh i T	b A l a n s sh i T	b A l a n s sh i T	b A l a n s sh i T	b A l a n s sh i T
+মুগদাপাড়া	ok	m u g d a p a r a	m u g d a p a r a	m u g d a p a r a	m u g d a p a r a	m u g d a p a r a	m u g d a p a r a
+দাউদের	ok	d a u d e r	d a u d e r	d a u d e r	d a u d e r	d a u d e r	d a u d e r
+উরুগুয়ে	ok	u r u g u y e	u r u g u y e	u r u g u y e	u r u g u y e	u r u g u y e	u r u g u y e
+অচেতন	ok	o ch e t O n	o ch e t O n	o ch e t O n	o ch e t o n	o ch e t o n	o ch e t o n
+অল্পকিছু	ok	o l p O k i chh u	o l p O k i chh u	o l p O k i chh u	o l p O k i chh u	o l p O k i chh u	o l p O k i chh u
+বিধায়কদের	wrong	b i dh a y o k d e r	b i dh a y O k d e r	b i dh a y O k d e r	b i dh a y o k d e r	b i dh a y o k d e r	b i dh a y o k d e r
+স্পার্টান	ok	s p a r T a n	s p a r T a n	s p a r T a n	s p a r T a n	s p a r T a n	s p a r T a n
+চুড়ান্তও	wrong	ch u r a n t o O	ch u r a n t O O	ch u r a n t o O	ch u r a n t o O	ch u r a n t o O	ch u r a n t o O
+করবান্ধব	ok	k o r b a n dh o b	k o r b a n dh o b	k o r b a n dh o b	k o r b a n dh o b	k o r b a n dh o b	k o r b a n dh o b o
+ভাঙানোর	ok	bh a ng a n O r	bh a ng a n O r	bh a ng a n O r	bh a ng a n O r	bh a ng a n O r	bh a ng a n O r
+অরচার্ড	ok	o r ch a r D	o r ch a r D	o r ch a r D	o r ch a r D	o r ch a r D	o r ch a r D
+কতিপয়ের	ok	k O t i p o y e r	k O t i p o y e r	k o t i p o y e r	k o t i p o y e r	k o t i p o y e r	k o t i p o y e r
+চাপিল	ok	ch a p i l	ch a p i l	ch a p i l	ch a p i l	ch a p i l	ch a p i l
+জেমিমা	ok	j e m i m a	j e m i m a	j e m i m a	j e m i m a	j e m i m a	j e m i m a
+লাগাইনি	ok	l a g a i n i	l a g a i n i	l a g a i n i	l a g a i n i	l a g a i n i	l a g a i n i
+জনু	ok	j O n u	j O n u	j O n u	j O n u	j O n u	j O n u
+মিডলটনকে	ok	m i D o l T o n k e	m i D o l T o n k e	m i D o l T o n k e	m i D o l T o n k e	m i D o l T o n k e	m i D o l T o n k e
+ছাতিম	ok	chh a t i m	chh a t i m	chh a t i m	chh a t i m	chh a t i m	chh a t i m
+মানবজমিনের	wrong	m a n O b j o m i n e r	m a n O b j O m i n e r	m a n O b j O m i n e r	m a n O b j O m i n e r	m a n O b j o m i n e r	m a n O b j o m i n e r
+স্নাতকে	ok	s n a t O k e	s n a t O k e	s n a t k e	s n a t k e	s n a t k e	s n a t O k e
+নেভাডা	ok	n e bh a D a	n e bh a D a	n e bh a D a	n e bh a D a	n e bh a D a	n e bh a D a
+অন্যান্যভাবে	wrong	o n n a n n O bh a b e	O n n a n n O bh a b e	o n n a n n O bh a b e	o n n a n n O bh a b e	o n n a n n o bh a b e	o n n a n n O bh a b e
+কুক্ষি	ok	k u k kh i	k u k kh i	k u k kh i	k u k kh i	k u k kh i	k u k kh i
+মাইনুদ্দিনের	ok	m a i n u d d i n e r	m a i n u d d i n e r	m a i n u d d i n e r	m a i n u d d i n e r	m a i n u d d i n e r	m a i n u d d i n e r
+সংবাদমাধ্যমেও	ok	sh o ng b a d m a d dh O m e O	sh o ng b a d m a d dh O m e O	sh o ng b a d m a d dh o m e O	sh o ng b a d m a d dh O m e O	sh o ng b a d m a d dh o m e O	sh o ng b a d m a d dh O m e O
+ভাসসি	ok	bh a sh sh i	bh a sh sh i	bh a sh sh i	bh a sh sh i	bh a sh sh i	bh a sh sh i
+লেশমাত্র	ok	l e sh m a t r O	l e sh m a t r O	l e sh m a t r O	l e sh m m t a r	l e sh m a t r O	l e sh m a t r O
+বিএপিএলসির	ok	b i e p i e l s i r	b i e p i e l s i r	b i e p i e l s i r	b i e p i e l s i r	b i e p i e l s i r	b i e p i e l s i r
+সংগ্রাহক	ok	sh o ng g r a h O k	sh o ng g r a h O k	sh o ng g r a h O k	sh o ng g r a h O k	sh o ng g r a h O k	sh o ng g r a h O k
+তালিবান	ok	t a l i b a n	t a l i b a n	t a l i b a n	t a l i b a n	t a l i b a n	t a l i b a n
+সিমাবদ্ধতা	ok	sh i m a b o d dh O t a	sh i m a b o d dh O t a	sh i m a b o d dh O t a	sh i m a b o d dh O t a	sh i m a b o d dh O t a	sh i m a b o d dh O t a
+সমশ্টির	ok	sh o m O sh T i r	sh o m O sh T i r	sh o m O sh T i r	sh o m O sh T i r	sh o m O sh T i r	sh o m O sh T i r
+হুমড়ি	ok	h u m r i	h u m r i	h u m r i	h u m r i	h u m r i	h u m r i
+স্ক্র্যাব	ok	s k r A b	s k r A b	s k r A b	s r A b	s k r A b	s k r A b
+শর্টসার্কিটের	wrong	sh o r o T sh a r o k i T e r	sh o r T s a r k i T e r	sh o r T sh a r k i T e r	sh o r T sh a r k i T e r	sh o r T sh a r k i T e r	sh o r T sh a r k i T e r
+প্রভৃতিও	ok	p r O bh r i t i O	p r O bh r i t i O	p r O bh r i t i O	p r O bh r i t i O	p r O bh r i t i O	p r O bh r i t i O
+বাজারেও	ok	b a j a r e O	b a j a r e O	b a j a r e O	b a j a r e O	b a j a r e O	b a j a r e O
+সুপারভিশনের	wrong	sh u p a r bh i sh n e r	s u p a r bh i sh o n e r	sh u p a r bh i sh o n e r	sh u p a r bh i sh o n e r	sh u p a r bh i sh o n e r	sh u p a r bh i sh o n e r
+রাজস্বসংক্রান্ত	wrong	r a j o sh sh o ng k r a n t O	r a j O sh sh O ng k r a n t O	r a j o sh sh o ng k r a n t O	r a j sh sh o sh o ng k r a n t O	r a j sh sh o ng k r a n t O	r a j sh sh o sh o ng k r a n t O
+বাবর্চি	wrong	b a b o r ch i	b a b O r ch i	b a b O r ch i	b a b O r ch i	b a b o r ch i	b a b O r ch i
+সরজমিন	wrong	sh o r j o m i n	sh o r O j O m i n	sh o r o j O m i n	sh o r o j o m i n	sh o r O j O m i n	sh o r o j O m i n
+সংঘর্ষপ্রবন	wrong	sh o ng gh O r sh o p r O b O n	sh o ng gh O r sh O p r O b O n	sh o ng gh O r sh O p r O b O n	sh o ng gh O r sh o p r O b O n	sh o ng gh O r sh O p r O b O n	sh o ng gh O r sh o p r O b O n
+ফেডারেশনের	ok	ph e D a r e sh o n e r	ph e D a r e sh o n e r	ph e D a r e sh o n e r	ph e D a r e sh o n e r	ph e D a r e sh o n e r	ph e D a r e sh o n e r
+প্রস্তুত	ok	p r O s t u t	p r O s t u t	p r O s t u t O	p r O s t u t	p r O s t u t O	p r O s t u t
+আমানতদার	ok	a m a n o t d a r	a m a n o t d a r	a m a n o t d a r	a m a n o t d a r	a m a n o t d a r	a m a n t o d a r
+নোইশভোজে	wrong	n O i sh o bh O j e	n O i sh O bh O j e	n O i sh o bh O j e	n O i sh o bh O j e	n O i sh o bh O j e	n O i sh o bh O j e
+নটবর	wrong	n o T o b o r	n o T O b o r	n o T b o r	n o T o b o r	n o T b o r	n o T O b o r
+স্বাধিনতাবিরোধির	ok	sh a dh i n o t a b i r O dh i r	sh a dh i n o t a b i r O dh i r	sh a dh i n o t a b i r O dh i r	sh a dh i n o t a b i r O dh i r	sh a dh i n o t a b i r O dh i r	sh a dh i n o t a b i r O dh i r
+ধর্মচর্চা	ok	dh o r m O ch o r ch a	dh o r m O ch o r ch a	dh o r m O ch o r ch a	dh o r m O ch o r ch a	dh o r m O ch o r ch a	dh o r m O ch o r ch a
+প্রম্পট	ok	p r O m p T	p r O m p T	p r O m p o T	p r O m p O T	p r O m p o T	p r O m p o T
+নেকা	wrong	n e k a	n E k a	n e k a	n e k a	n e k a	n e k a
+লোকটা	ok	l O k T a	l O k T a	l O k T a	l O k T a	l O k T a	l O k T a
+টেলিগ্রামটি	ok	T e l i g r a m T i	T e l i g r a m T i	T e l i g r a m T i	T e l i g r a m T i	T e l i g r a m T i	T e l i g r a m T i

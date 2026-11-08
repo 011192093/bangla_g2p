@@ -56,6 +56,11 @@ def canon(p):
     return " ".join(t for tok in p.split() for t in split_token(tok))
 
 
+def canon_ae(p):
+    """Canonical tokens with A and E treated as the same sound (/ae/)."""
+    return " ".join("E" if t == "A" else t for t in canon(p).split())
+
+
 def cmd_rescore(a):
     A, B = load(a.a), load(a.b)
     gold = {norm_w(r["word"]): r["gold"] for r in A}
@@ -64,7 +69,10 @@ def cmd_rescore(a):
     words = [w for w in gold if w in pb]
     n = len(words)
     sq = lambda s: " ".join(s.split())
-    for label, f in (("RAW", sq), ("CANONICAL", canon)):
+    modes = [("RAW", sq), ("CANONICAL", canon)]
+    if a.merge_ae:
+        modes.append(("CANONICAL + A/E MERGED", canon_ae))
+    for label, f in modes:
         ka = sum(f(pa[w]) == f(gold[w]) for w in words)
         kb = sum(f(pb[w]) == f(gold[w]) for w in words)
         oa = sum(f(pa[w]) == f(gold[w]) != f(pb[w]) for w in words)
@@ -124,6 +132,8 @@ def main():
     r.add_argument("--b", required=True)
     r.add_argument("--b_pred", default="neural_pred")
     r.add_argument("--b_name", default="B")
+    r.add_argument("--merge_ae", action="store_true",
+                   help="also report scores with A and E treated as one sound")
     r.set_defaults(func=cmd_rescore)
     u = sub.add_parser("audit")
     u.add_argument("--file", required=True)

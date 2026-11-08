@@ -247,6 +247,67 @@ class TransformerG2P(nn.Module):
         conf = torch.exp(logp_sum / n.clamp(min=1)).tolist()
         return out, conf
 
+    @torch.no_grad()
+    def beam(self, src, reg, k=5, alpha=1.0, max_len=64, nbest=1):
+        """Batched beam search. Hypotheses are ranked by sum(logp) / length**alpha
+        (alpha=1: mean log-prob per token, alpha=0: raw sum). Returns, per word, a list of
+        up to `nbest` (tokens, confidence) pairs, best first. Confidence uses the same
+        definition as greedy (geometric mean of token probs incl. EOS)."""
+        if k <= 1:
+            seqs, cf = self.greedy(src, reg, max_len)
+            return [[(s, c)] for s, c in zip(seqs, cf)]
+        dev = src.device
+        mem, m = self.encode(src, reg)
+        B = src.size(0)
+        mem = mem.repeat_interleave(k, 0)
+        m = m.repeat_interleave(k, 0)
+        ys = torch.full((B * k, 1), 1, dtype=torch.long, device=dev)
+        score = torch.full((B, k), float("-inf"), device=dev)
+        score[:, 0] = 0.0                      # only one live beam at the start
+        score = score.view(-1)
+        length = torch.zeros(B * k, device=dev)
+        done = torch.zeros(B * k, dtype=torch.bool, device=dev)
+        for _ in range(max_len):
+            logits = self.decode(ys, mem, m)[:, -1]
+            logits[:, [0, 1, 3]] = float("-inf")
+            lp = F.log_softmax(logits, -1)
+            V = lp.size(-1)
+            # a finished beam may only extend with <pad> at zero cost
+            lp[done] = float("-inf")
+            lp[done, 0] = 0.0
+            cand = (score.unsqueeze(1) + lp).view(B, k * V)
+            top, idx = cand.topk(k, dim=1)
+            beam_idx = idx // V
+            tok = (idx % V).view(-1)
+            base = (torch.arange(B, device=dev) * k).unsqueeze(1)
+            src_rows = (base + beam_idx).view(-1)
+            prev_done = done[src_rows]
+            ys = torch.cat([ys[src_rows], tok.unsqueeze(1)], 1)
+            length = length[src_rows] + (~prev_done).float()
+            done = prev_done | tok.eq(2)
+            score = top.view(-1)
+            if done.all():
+                break
+        norm = score / length.clamp(min=1) ** alpha
+        norm = norm.view(B, k)
+        order = norm.argsort(dim=1, descending=True)
+        out = []
+        for b in range(B):
+            hyps = []
+            for j in order[b, :nbest].tolist():
+                r = b * k + j
+                if not torch.isfinite(score[r]):
+                    continue
+                seq = []
+                for t in ys[r, 1:].tolist():
+                    if t in (0, 2):
+                        break
+                    seq.append(t)
+                conf = math.exp(score[r].item() / max(1.0, length[r].item()))
+                hyps.append((seq, conf))
+            out.append(hyps)
+        return out
+
 
 # ---------------------------------------------------------------- eval helpers
 def wilson(k, n, z=1.96):
@@ -259,15 +320,20 @@ def wilson(k, n, z=1.96):
     return c - h, c + h
 
 
-def run_eval(model, rows, examples, tgt_v, cfg, device, bs=512):
+def run_eval(model, rows, examples, tgt_v, cfg, device, bs=512, beam=1, alpha=1.0):
     model.eval()
-    preds, confs = [], []
     order = sorted(range(len(examples)), key=lambda i: len(examples[i][0]))
     res = {}
+    if beam > 1:
+        bs = max(16, bs // beam)
     for i in range(0, len(order), bs):
         ids = order[i:i + bs]
         src, _, _, reg = collate(examples, ids, device)
-        seqs, cf = model.greedy(src, reg)
+        if beam > 1:
+            hyps = model.beam(src, reg, k=beam, alpha=alpha)
+            seqs, cf = [h[0][0] for h in hyps], [h[0][1] for h in hyps]
+        else:
+            seqs, cf = model.greedy(src, reg)
         for j, s, c in zip(ids, seqs, cf):
             res[j] = (s, c)
     joiner = " " if cfg["phon_sep"] == "space" else ""
@@ -403,11 +469,35 @@ def cmd_eval(a):
                  "Re-run with --eval_test if this is that run.")
     model, cfg, src_v, tgt_v, reg_v, ck = load_ckpt(a.checkpoint, device)
     rows = read_tsv(a.eval_file)
-    ex = make_examples(rows, cfg, src_v, tgt_v, reg_v)
-    k, out = run_eval(model, rows, ex, tgt_v, cfg, device)
+    t0 = time.time()
+    if a.force_register == "best":
+        # no register given: try every register, keep the most confident output per word
+        regs = [r for r in reg_v if r != "<unk>"]
+        best = None
+        for r in regs:
+            rr = [(w, p, r) for w, p, _ in rows]
+            ex = make_examples(rr, cfg, src_v, tgt_v, reg_v)
+            _, o = run_eval(model, rr, ex, tgt_v, cfg, device, beam=a.beam, alpha=a.alpha)
+            best = o if best is None else [x if x[3] >= y[3] else y for x, y in zip(o, best)]
+        out = [(w, g, p, c, ok, f"{r}(chosen)") for (w, g, p, c, ok, r), (_, _, rg)
+               in zip(best, rows)]
+        k = sum(x[4] for x in out)
+        ex = make_examples(rows, cfg, src_v, tgt_v, reg_v)
+        print(f"register mode: best of {len(regs)} registers by confidence")
+    else:
+        if a.force_register:
+            if a.force_register not in reg_v:
+                sys.exit(f"unknown register {a.force_register}; choose from "
+                         f"{[r for r in reg_v if r != '<unk>']} or 'best'")
+            rows = [(w, p, a.force_register) for w, p, _ in rows]
+            print(f"register mode: every word given register '{a.force_register}'")
+        ex = make_examples(rows, cfg, src_v, tgt_v, reg_v)
+        k, out = run_eval(model, rows, ex, tgt_v, cfg, device, beam=a.beam, alpha=a.alpha)
     n = len(rows)
     lo, hi = wilson(k, n)
-    print(f"{a.eval_file}: {k}/{n} = {k / n:.4f}  (95% Wilson CI {lo:.4f}-{hi:.4f})")
+    dec = "greedy" if a.beam <= 1 else f"beam={a.beam} alpha={a.alpha}"
+    print(f"{a.eval_file}: {k}/{n} = {k / n:.4f}  (95% Wilson CI {lo:.4f}-{hi:.4f})  "
+          f"[{dec}, {time.time() - t0:.0f}s]")
     print(f"file sha256={sha256(a.eval_file)}  checkpoint epoch={ck.get('epoch')}")
     unk = sum(1 for s, _, _ in ex if src_v.stoi[UNK] in s)
     if unk:
@@ -427,10 +517,12 @@ def cmd_predict(a):
     rows = [(w, "", a.register) for w in a.words]
     ex = make_examples(rows, cfg, src_v, tgt_v, reg_v)
     src, _, _, reg = collate(ex, list(range(len(ex))), device)
-    seqs, cf = model.greedy(src, reg)
+    hyps = model.beam(src, reg, k=max(a.beam, a.nbest), alpha=a.alpha, nbest=a.nbest)
     joiner = " " if cfg["phon_sep"] == "space" else ""
-    for w, s, c in zip(a.words, seqs, cf):
-        print(f"{w}\t{joiner.join(tgt_v.itos[t] for t in s)}\tconf={c:.3f}")
+    for w, hs in zip(a.words, hyps):
+        for rank, (s, c) in enumerate(hs, 1):
+            tag = w if rank == 1 else " " * len(w)
+            print(f"{tag}\t{rank}. {joiner.join(tgt_v.itos[t] for t in s)}\tconf={c:.3f}")
 
 
 def main():
@@ -470,6 +562,12 @@ def main():
     e.add_argument("--dump")
     e.add_argument("--eval_test", action="store_true",
                    help="required to evaluate the test split (final run only)")
+    e.add_argument("--force_register",
+                   help="ignore the file's register: a register name for every word, "
+                        "or 'best' = try all registers and keep the most confident output")
+    e.add_argument("--beam", type=int, default=1, help="beam size; 1 = greedy")
+    e.add_argument("--alpha", type=float, default=1.0,
+                   help="length normalisation for beam ranking (0 = none, 1 = per token)")
     e.add_argument("--cpu", action="store_true")
     e.set_defaults(func=cmd_eval)
 
@@ -477,6 +575,9 @@ def main():
     q.add_argument("--checkpoint", required=True)
     q.add_argument("--words", nargs="+", required=True)
     q.add_argument("--register", default="none")
+    q.add_argument("--beam", type=int, default=5)
+    q.add_argument("--alpha", type=float, default=1.0)
+    q.add_argument("--nbest", type=int, default=1, help="print this many alternatives per word")
     q.add_argument("--cpu", action="store_true")
     q.set_defaults(func=cmd_predict)
 

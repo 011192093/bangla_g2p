@@ -46,13 +46,16 @@ DECOMPOSED_MAP = {
 }
 
 def preprocess(text):
+    # ZWJ/ZWNJ only change glyph shape (র‍্যা, র‌্), not the sound; left in they split the
+    # cluster and leave a spurious trailing o
+    text = text.replace("‍", "").replace("‌", "")
     for decomposed, composed in DECOMPOSED_MAP.items():
         text = text.replace(decomposed, composed)
     return text
 
 
 def convert_respelling(text):
-    text = preprocess(text)
+    text = preprocess(text.split("/")[0])  # "a/b" lists variants; only the first is the word's own
     phonemes = []
     had_unknown = False
     unknown_chars_found = []
@@ -111,7 +114,10 @@ def convert_respelling(text):
         elif ch in VOWELS:
             phonemes.append(VOWELS[ch])
             i += 1
-            if i < n and text[i] == HASANTA:
+            if ch == "অ" and text[i:i + 3] == HASANTA + YA_PHOLA + "া":
+                phonemes[-1] = "A"  # অ্যা is the single sound A, as in the consonant+্যা case
+                i += 3
+            elif i < n and text[i] == HASANTA:
                 i += 1  # skip stray hasanta after a standalone vowel (glide marker, no phoneme needed)
             if i < n and text[i] == CHANDRABINDU:
                 phonemes[-1] = phonemes[-1] + "~"
@@ -138,6 +144,7 @@ if __name__ == "__main__":
         ("অকুতোভয়্", ["o", "k", "u", "t", "O", "bh", "o", "y"]),
         ("ওই্সে", ["O", "i", "sh", "e"]),
         ("অক্", None),
+        ("ডিজ্অ্যাবিলিটি", ["D", "i", "j", "A", "b", "i", "l", "i", "T", "i"]),
     ]
     for respelling, expected in tests:
         result, unknown, chars = convert_respelling(respelling)
